@@ -1,0 +1,18 @@
+{
+  "id": "rec9G8e7trKJtRjM0",
+  "fields": {
+    "osisRef": "1Sam.1",
+    "book": ["rec4GS8yWh2R4mpdB"],
+    "book_ar": ["rec4GS8yWh2R4mpdB"],
+    "chapterNum": 1,
+    "writer": ["recZsS2Zu0zIDwqdv"],
+    "verses": [],
+    "slug": "1sam_1",
+    "peopleCount": 26,
+    "people":[],
+    "placesCount": 5,
+    "places": [],
+    "modified": "2020-08-07T13:12:06.000Z",
+    "writer count": 1
+  }
+}
