@@ -2,22 +2,32 @@ import json
 import time
 # from googletrans import Translator
 # translator = Translator()
-filename = './chapters/chapters.json'
-results = './chapters/chapters_united_schema_mongo_id.json'
+filename = './events/events_updated.json'
+results = './events/events_united_schema_mongo_id.json'
 books_model = {
     "id": "",
     "fields":
     {
-        "osisRef": "",
-        "book": [],
-        "chapterNum": "",
-        "writer": [],
+        "title": "",
+        "ar_title": "",
+        "startDate": "",
+        "duration": "",
+        "participants": "",
         "verses": "",
         "verses_os": "",
-        "slug": "",
-        "peopleCount": "",
-        "placesCount": "",
-        "writer count": ""
+        "ID": "",
+        "verseSort": "",
+        "Sort Key": "",
+        "people (from verses)": "",
+        "locations": "",
+        "partOf": "",
+        "places (from verses)": "",
+        "predecessor": "",
+        "rangeFlag": "",
+        "lag": "",
+        "Lag Type": "",
+        "notes": "",
+        "groups": ""
     }
 }
 books_model_list = list(books_model['fields'].keys())
@@ -38,7 +48,10 @@ with open(filename) as json_file:
         new_item['fields'] = {}
         for key in books_model_list:
             if key in fields_list:
-                new_item['fields'][key] = item['fields'][key]
+                if key == "people (from verses)" or key == "places (from verses)":
+                    new_item['fields'][key] = list(set(item['fields'][key]))
+                else:
+                    new_item['fields'][key] = item['fields'][key]
             elif key == "verses_os":
                 # osis_verses
                 verses = item["fields"]['verses']
