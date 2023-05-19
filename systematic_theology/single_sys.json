@@ -1,0 +1,17 @@
+{
+    "_id": "this will be the id you generated befor, ie in the JSON objects, find the id based on the title. ",
+    "fields": {
+        "title":"the provided title",
+        "title_ar":"translation of the provided title into Arabic.",
+        "alternative_title":"rephrase the title if possible.",
+        "alternative_title_ar":"translate the alternative title if you provided one",
+        "description":"a summory of the description.",
+        "description_ar":"an Arabic translation of the description.",
+        "main_category":"is the parent category, the hirarchy start from the name of the object then going down to the categories and sub_categories. if it does not aply, then leave it empty. do not use the name, rather use the _id which you created.",
+        "other_categories":["a list of the _IDs that you created, coresponding to the level of the title in the previously mentioned hirarchy."],
+        "sub_categories":["a list of the IDs that are created, and they are under the title in the hirarchy. if not apply, leave it empty"],
+        "key_verses":["The verses which are mentioned in the key verses, use osisName, if you do not know it ask."],
+        "additional_verses":["The verses which are mentioned in the additional  verses, use osisName, if you do not know it ask."],
+        "other_subjects":["list the other subject"]
+    }
+}

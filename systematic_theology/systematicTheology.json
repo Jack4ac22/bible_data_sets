@@ -1,0 +1,577 @@
+[
+  {
+    "main": {
+      "title": "The Doctrine of the Triune God",
+      "sub_cat": [
+        {
+          "title": "God’s Existence",
+          "sub_sub_cat": [
+            { "title": "Proofs of God’s Existence" },
+            { "title": "God’s Incomprehensibility" },
+            { "title": "God’s Knowability" }
+          ]
+        },
+        {
+          "title": "The Divine Names",
+          "sub_sub_cat": [
+            { "title": "God’s Personal Name" },
+            { "title": "God’s Titles" },
+            { "title": "God’s Metaphorical Names" }
+          ]
+        },
+        {
+          "title": "God’s Attributes",
+          "sub_sub_cat": [
+            {
+              "title": "Attributes Describing God in Himself",
+              "sub_sub_sub_cat": [
+                { "title": "God’s Self-Existence" },
+                { "title": "God’s Unity" },
+                { "title": "God’s Spirituality" },
+                { "title": "God’s Simplicity" },
+                { "title": "God’s Immutability" },
+                { "title": "God’s Infinity" },
+                { "title": "God’s Eternity" },
+                { "title": "God’s Omnipresence" },
+                { "title": "God’s Omniscience" },
+                { "title": "God’s Omnipotence" },
+                { "title": "God’s Glory" }
+              ]
+            },
+            {
+              "title": "Attributes Describing God in His Activity toward Creatures",
+              "sub_sub_sub_cat": [
+                { "title": "God’s Goodness" },
+                { "title": "God’s Love" },
+                { "title": "God’s Mercy" },
+                { "title": "God’s Grace" },
+                { "title": "God’s Holiness" },
+                { "title": "God’s Righteousness" },
+                { "title": "God’s Veracity" },
+                { "title": "God’s Wisdom" },
+                { "title": "God’s Wrath" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Trinity",
+          "sub_sub_cat": [
+            { "title": "The Unity of the Trinity" },
+            {
+              "title": "Plurality",
+              "sub_sub_sub_cat": [
+                { "title": "God the Father" },
+                { "title": "God the Son" },
+                { "title": "God the Holy Spirit" }
+              ]
+            },
+            {
+              "title": "The Trinity and Scripture",
+              "sub_sub_sub_cat": [
+                { "title": "The Trinity in the Old Testament" },
+                { "title": "The Trinity in the New Testament" }
+              ]
+            },
+            { "title": "Historical Development of the Doctrine of the Trinity" }
+          ]
+        },
+        {
+          "title": "The Divine Decrees",
+          "sub_sub_cat": [
+            { "title": "God’s Foreknowledge" },
+            {
+              "title": "Predestination",
+              "sub_sub_sub_cat": [
+                { "title": "Election" },
+                { "title": "Reprobation" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main": {
+      "title": "The Doctrine of Scripture and Revelation",
+      "sub_cat": [
+        {
+          "title": "General Revelation",
+          "sub_sub_cat": [
+            { "title": "General Revelation in Creation" },
+            { "title": "General Revelation in Conscience" }
+          ]
+        },
+        {
+          "title": "Special Revelation",
+          "sub_sub_cat": [
+            {
+              "title": "Non-Written Special Revelation",
+              "sub_sub_sub_cat": [
+                { "title": "Special Revelation and Tradition" },
+                { "title": "Special Revelation through Dreams" },
+                { "title": "Special Revelation through Prophecy" },
+                { "title": "Special Revelation through Theophanies" },
+                { "title": "Special Revelation through Visions" }
+              ]
+            },
+            {
+              "title": "The Bible",
+              "sub_sub_sub_cat": [
+                { "title": "The Canon" },
+                { "title": "The Bible’s Inspiration" },
+                { "title": "The Bible’s Authority" },
+                { "title": "The Bible’s Truthfulness" },
+                { "title": "The Bible’s Clarity" },
+                { "title": "The Bible’s Sufficiency" },
+                { "title": "The Bible’s Necessity" },
+                { "title": "Bible Translation" },
+                { "title": "Biblical Interpretation" },
+                { "title": "Rule of Faith" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main": {
+      "title": "The Doctrine of the Works of God",
+      "sub_cat": [
+        {
+          "title": "Creation",
+          "sub_sub_cat": [
+            { "title": "Creation ex nihilo" },
+            {
+              "title": "The Spiritual World",
+              "sub_sub_sub_cat": [
+                { "title": "Angels" },
+                { "title": "Satan" },
+                { "title": "Demons" }
+              ]
+            },
+            { "title": "The Material World" }
+          ]
+        },
+        {
+          "title": "Providence",
+          "sub_sub_cat": [
+            { "title": "Providence and Miracles" },
+            { "title": "Providence and Concursus" },
+            { "title": "God’s Preservation of Creation" },
+            { "title": "God’s Sovereignty over Creation" }
+          ]
+        },
+        {
+          "title": "Covenants",
+          "sub_sub_cat": [
+            {
+              "title": "The Covenant of Creation",
+              "sub_sub_sub_cat": [
+                {
+                  "title": "God’s Law",
+                  "sub_sub_sub_sub_cat": [
+                    { "title": "Natural Law" },
+                    { "title": "The Moral Law" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "The Covenants of Grace",
+              "sub_sub_sub_cat": [
+                { "title": "The Covenants of Grace" },
+                { "title": "The Noahic Covenant" },
+                { "title": "The Abrahamic Covenant" },
+                { "title": "The Mosaic Covenant" },
+                { "title": "The Davidic Covenant" },
+                {
+                  "title": "The New Covenant",
+                  "sub_sub_sub_sub_cat": [
+                    { "title": "The Three Uses of the Law" },
+                    { "title": "The Civil Use of the Law" },
+                    { "title": "Theological Law" },
+                    { "title": "The Christian Use of the Law" }
+                  ]
+                },
+                { "title": "The Church and Israel" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main": {
+      "title": "The Doctrine of Humanity",
+      "sub_cat": [
+        {
+          "title": "The Image of God",
+          "sub_sub_cat": [
+            { "title": "Humanity’s Dominion over the Earth" },
+            { "title": "Humanity’s Original Integrity" },
+            { "title": "Human Personality" },
+            {
+              "title": "Human Relationality",
+              "sub_sub_sub_cat": [
+                { "title": "Race" },
+                { "title": "Human Sexuality" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Human Nature",
+          "sub_sub_cat": [
+            {
+              "title": "The Human Constitution",
+              "sub_sub_sub_sub_cat": [
+                { "title": "The Origin of the Soul" },
+                { "title": "Immortality of the Soul" }
+              ]
+            },
+            {
+              "title": "Human Capacities",
+              "sub_sub_sub_sub_cat": [
+                { "title": "Human Reason" },
+                { "title": "Human Emotions" },
+                { "title": "Human Will" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Humanity’s Fall into Sin",
+          "sub_sub_cat": [
+            { "title": "The Historical Adam" },
+            { "title": "The Problem of Evil" },
+            {
+              "title": "Original Sin",
+              "sub_sub_sub_cat": [
+                { "title": "The Character of the Fall of Adam" },
+                { "title": "The Effects of the Fall on Humanity" },
+                { "title": "The Effects of the Fall on Creation" }
+              ]
+            },
+            {
+              "title": "Actual Sin",
+              "sub_sub_sub_cat": [
+                { "title": "Personal Sin" },
+                { "title": "Structural Human Sin" }
+              ]
+            },
+            { "title": "Condemnation for Sin" },
+            {
+              "title": "Punishment for Sin",
+              "sub_sub_sub_cat": [{ "title": "Sin and Death" }]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main": {
+      "title": "The Person and Work of Christ",
+      "sub_cat": [
+        {
+          "title": "The Person of Jesus",
+          "sub_sub_cat": [
+            {
+              "title": "Jesus’ Names",
+              "sub_sub_sub_cat": [
+                { "title": "Jesus’ Personal Names" },
+                { "title": "Jesus’ Titles" },
+                { "title": "Jesus’ Metaphorical Names" }
+              ]
+            },
+            {
+              "title": "The Unity of Jesus’ Person",
+              "sub_sub_sub_cat": [
+                { "title": "Jesus’ Divinity" },
+                { "title": "Jesus’ Humanity" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jesus As Mediator",
+          "sub_sub_cat": [
+            { "title": "Jesus As Second Adam" },
+            { "title": "Jesus’ Prophetic Office" },
+            { "title": "Jesus’ Priestly Office" },
+            { "title": "Jesus’ Kingly Office" },
+            { "title": "Jesus As Judge" }
+          ]
+        },
+        {
+          "title": "Jesus’ Accomplishment of Salvation",
+          "sub_sub_cat": [
+            {
+              "title": "Jesus’ Humiliation",
+              "sub_sub_sub_cat": [
+                {
+                  "title": "Jesus’ Incarnation",
+                  "sub_sub_sub_sub_cat": [
+                    { "title": "Jesus’ Impeccability" },
+                    { "title": "Jesus’ Kenosis" },
+                    { "title": "Jesus’ Virgin Birth" },
+                    { "title": "Mariology" }
+                  ]
+                },
+                { "title": "Jesus’ Obedience" },
+                {
+                  "title": "Jesus’ Death",
+                  "sub_sub_sub_sub_cat": [
+                    {
+                      "title": "Jesus’ Suffering",
+                      "sub__5_cat": [
+                        { "title": "Theories of Atonement" },
+                        { "title": "The Extent of the Atonement" }
+                      ]
+                    }
+                  ]
+                },
+                { "title": "Jesus’ Descent into Hell" }
+              ]
+            },
+            {
+              "title": "Jesus’ Exaltation",
+              "sub_sub_sub_cat": [
+                { "title": "Jesus’ Resurrection" },
+                { "title": "Jesus’ Ascension" },
+                { "title": "Jesus’ Session at God’s Right Hand" },
+                { "title": "Jesus’ Intercession" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main": {
+      "title": "The Holy Spirit and Salvation",
+      "sub_cat": [
+        {
+          "title": "The Mission of the Spirit",
+          "sub_sub_cat": [
+            { "title": "The Spirit and Common Grace" },
+            { "title": "The Spirit and Special Grace" }
+          ]
+        },
+        {
+          "title": "The Spirit’s Application of Salvation",
+          "sub_sub_cat": [
+            {
+              "title": "Calling",
+              "sub_sub_sub_cat": [
+                { "title": "General Calling" },
+                { "title": "Effectual Calling" }
+              ]
+            },
+            { "title": "Regeneration" },
+            {
+              "title": "Conversion",
+              "sub_sub_sub_cat": [
+                { "title": "Saving Faith" },
+                { "title": "Repentance" }
+              ]
+            },
+            { "title": "Union with Christ" },
+            {
+              "title": "Justification",
+              "sub_sub_sub_cat": [
+                { "title": "The Nature of Justification" },
+                { "title": "The Timing of Justification" }
+              ]
+            },
+            { "title": "Adoption" },
+            {
+              "title": "Sanctification",
+              "sub_sub_sub_cat": [
+                { "title": "The Means of Sanctification" },
+                { "title": "Sanctification and Good Works" }
+              ]
+            },
+            { "title": "The Permanence of Salvation" },
+            {
+              "title": "The Baptism of the Holy Spirit",
+              "sub_sub_sub_cat": [{ "title": "The Spirit’s Indwelling" }]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main": {
+      "title": "The Doctrine of the Church",
+      "sub_cat": [
+        {
+          "title": "The Attributes of the Church",
+          "sub_sub_cat": [
+            { "title": "The Church’s Unity" },
+            { "title": "The Church’s Holiness" },
+            { "title": "The Church As Universal" },
+            { "title": "The Church As Apostolic" },
+            { "title": "Biblical Metaphors for the Church" }
+          ]
+        },
+        {
+          "title": "The Church’s Institutional Life",
+          "sub_sub_cat": [
+            { "title": "Church Polity" },
+            { "title": "Spiritual Gifts in the Church" },
+            { "title": "Church Discipline" },
+            {
+              "title": "The Church’s Sacraments",
+              "sub_sub_sub_cat": [
+                { "title": "The Lord’s Supper" },
+                { "title": "Baptism" },
+                { "title": "The Number of Sacraments" },
+                {
+                  "title": "The Question of Additional Sacraments",
+                  "sub_sub_sub_sub_cat": [
+                    { "title": "Marriage" },
+                    { "title": "Confirmation" },
+                    { "title": "Ordination" },
+                    { "title": "Penance" },
+                    { "title": "Extreme Unction" }
+                  ]
+                },
+                { "title": "The Nature of Sacraments" }
+              ]
+            },
+            { "title": "Preaching in the Life of the Church" },
+            { "title": "Prayer in the Life of the Church" },
+            { "title": "Fellowship in the Life of the Church" },
+            { "title": "Worship in the Life of the Church" },
+            { "title": "Giving in the Life of the Church" }
+          ]
+        },
+        {
+          "title": "The Church’s Mission",
+          "sub_sub_cat": [
+            { "title": "The Church and Society" },
+            { "title": "The Church’s Work of Evangelism and Discipleship" },
+            { "title": "The Church’s Work of Mercy and Justice" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main": {
+      "title": "The Doctrine of the Last Things",
+      "sub_cat": [
+        {
+          "title": "The Kingdom of God",
+          "sub_sub_cat": [
+            { "title": "The Already and the Not Yet" },
+            { "title": "The Millennium" },
+            { "title": "The New Heavens and Earth" }
+          ]
+        },
+        {
+          "title": "Life after Death",
+          "sub_sub_cat": [
+            { "title": "Heaven" },
+            { "title": "Hell" },
+            { "title": "The Fate of the Unevangelized" },
+            { "title": "Purgatory" }
+          ]
+        },
+        {
+          "title": "Jesus’ Second Coming",
+          "sub_sub_cat": [
+            {
+              "title": "The Rapture"
+            },
+            {
+              "title": "The Tribulation"
+            }
+          ]
+        },
+        {
+          "title": "The Final Judgment",
+          "sub_sub_cat": [
+            {
+              "title": "The Final State of the Righteous",
+              "sub_sub_sub_cat": [
+                { "title": "The Beatific Vision" },
+                { "title": "The Glorified Body" }
+              ]
+            },
+            {
+              "title": "The Judgment of the Wicked",
+              "sub_sub_sub_cat": [
+                { "title": "The Nature of the Punishment of the Wicked" },
+                { "title": "The Duration of the Punishment of the Wicked" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main": {
+      "title": "",
+      "sub_cat": [
+        {
+          "title": "",
+          "sub_sub_cat": [
+            { "title": "" },
+            {
+              "title": "",
+              "sub_sub_sub_cat": [
+                { "title": "" },
+                { "title": "" },
+                { "title": "" }
+              ]
+            },
+            { "title": "" }
+          ]
+        },
+        {
+          "title": "",
+          "sub_sub_cat": [
+            { "title": "" },
+            { "title": "" },
+            { "title": "" },
+            { "title": "" }
+          ]
+        },
+        {
+          "title": "",
+          "sub_sub_cat": [
+            {
+              "title": "",
+              "sub_sub_sub_cat": [
+                {
+                  "title": "",
+                  "sub_sub_sub_sub_cat": [{ "title": "" }, { "title": "" }]
+                }
+              ]
+            },
+            {
+              "title": "",
+              "sub_sub_sub_cat": [
+                { "title": "" },
+                { "title": "" },
+                {
+                  "title": "",
+                  "sub_sub_sub_sub_cat": [{ "title": "" }, { "title": "" }]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
