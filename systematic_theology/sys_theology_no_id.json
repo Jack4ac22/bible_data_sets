@@ -1,0 +1,2107 @@
+[
+  {
+    "_id": null,
+    "fields": {
+      "title": "The Doctrine of the Triune God",
+      "title_ar": "عقيدة الله الثالوث",
+      "alternative_title": "Theology Proper: The Triune Nature of God",
+      "alternative_title_ar": "اللاهوت الصحيح: الطبيعة الثالوثية لله",
+      "description": "The doctrine of God encompasses the Christian description of the Triune God’s being or essence as well as God’s names, attributes, and works according to Scripture. It explores who God is in his essence, existence, attributes, and eternal being as Father, Son, and Holy Spirit. The doctrine of God is the foundation of Christian theology, as it delves into the very nature and character of God. This includes the discussion of God's existence, his self-naming, and the divine attributes that make him God. However, the heart of the doctrine of God lies in the revelation of God as the Father, Son, and Holy Spirit, who is both one in essence and three in persons.",
+      "description_ar": "تشمل عقيدة الله وصف المسيحي لكيان الله الثالوث بالإضافة إلى أسماء الله وصفاته وأعماله وفقًا للكتاب المقدس. تستكشف من هو الله في جوهره ووجوده وصفاته وكيانه الأب والابن والروح القدس. عقيدة الله هي أساس اللاهوت المسيحي، حيث يغوص في طبيعة الله وشخصيته. يشمل ذلك مناقشة وجود الله، وأسمائه الذاتية، والصفات الإلهية التي تجعله إلهًا. ومع ذلك، يكمن جوهر عقيدة الله في الوحي بأن الله هو الآب والابن والروح القدس، الذي هو واحد في الجوهر وثلاثة في الأشخاص.",
+      "short_description": "The doctrine of the Triune God explores the Christian understanding of God's essence, names, attributes, and works. It is the foundation of Christian theology and delves into the revelation of God as the Father, Son, and Holy Spirit.",
+      "short_description_ar": "تستكشف عقيدة الله الثالوث الفهم المسيحي لجوهر الله وأسمائه وصفاته وأعماله. إنها أساس اللاهوت المسيحي وتعمق في الوحي بأن الله هو الآب والابن والروح القدس.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": ["Ps.103", "Dt.6.5", "1Jn.1.5"],
+      "additional_verses": [],
+      "other_subjects": [
+        "God's Existence",
+        "The Divine Names",
+        "God's Attributes",
+        "The Trinity",
+        "The Divine Decrees"
+      ],
+      "recommended_resources": [
+        "On God and Christ (Gregory of Nazianzus)",
+        "The Knowledge of the Holy (Tozer)",
+        "God Is (Jones)",
+        "The Holy Trinity in Scripture, History, Theology, and Worship (Letham), 2nd edition",
+        "Remythologizing Theology (Vanhoozer)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Existence",
+      "title_ar": "وجود الله",
+      "alternative_title": "The Existence of God",
+      "alternative_title_ar": "وجود الله",
+      "description": "The doctrine of God's existence describes who and what he is in himself, and how his being can be known by us. While the Bible doesn't attempt to prove God's existence, it assumes it as a given. God is revealed as a transcendent being, distinct from the created universe. He exists beyond the constraints of time and space. For God, 'being' and 'existence' are synonymous. While arguments and proofs for God's existence may rely on logical and experiential reasoning, they ultimately point to God as the greatest being, the arbiter of justice and beauty, and the source of meaning and purpose in creation. However, human minds cannot fully comprehend or prove God's existence, as he surpasses our imagination. Nowadays, the traditional proofs are seen as providing a degree of probability that makes belief in God's existence more plausible and rational.",
+      "description_ar": "عقيدة وجود الله تصف من هو وما هو في نفسه، وكيف يمكننا معرفة كيانه. في حين لا يحاول الكتاب المقدس إثبات وجود الله، إلا أنه يفترض ذلك كمسلم به. يُظهر الله نفسه ككيان متعالٍ، متميز عن الكون الذي خلقه. إنه موجود خارج قيود الزمان والمكان. بالنسبة لله، 'الكينونة' و'الوجود' مترادفان. على الرغم من أن الحجج والبراهين عن وجود الله قد يعتمدان على المنطق والتجربة، إلا أنها في النهاية تشير إلى أن الله هو أعظم الكائنات، وحكم العدل والجمال، ومصدر المعنى والغرض في الخلق. ومع ذلك، فإن العقول البشرية لا يمكنها فهم وجود الله بشكل كامل أو إثباته، حيث يتجاوز الله تصوراتنا. في الوقت الحاضر، يعتبر البراهين التقليدية بمثابة إشارة إلى درجة الاحتمال التي تجعل الاعتقاد بوجود الله أكثر مقبولية واتساقًا.",
+      "short_description": "The doctrine of God's existence explores who and what God is in himself and how we can know him. While it cannot be fully proven, evidence and reasoning point to the plausibility and rationality of God's existence.",
+      "short_description_ar": "عقيدة وجود الله تستكشف من هو وما هو الله في ذاته وكيف يمكننا معرفته. على الرغم من عدم إمكانية إثباته بشكل كامل، فإن الأدلة والاستدلال يشيران إلى قابلية وعقلانية وجود الله.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Gen.1.1",
+        "Ps.19.1",
+        "Rom.1.18-Rom.1.20",
+        "Rom.2.14-Rom.2.16",
+        "Heb.11.6",
+        "1Kgs.18.25-1Kgs.18.29"
+      ],
+      "additional_verses": ["Isa.43.10"],
+      "other_subjects": [
+        "The Trinity",
+        "General Revelation",
+        "Special Revelation"
+      ],
+      "recommended_resources": [
+        "Our Knowledge of God (Baillie)",
+        "There Is a God: How the World’s Most Notorious Atheist Changed His Mind (Flew)",
+        "The Rationality of Belief in God (Mavrodes)",
+        "The Coherence of Theism (Swinburne)",
+        "The Existence of God (Swinburne)",
+        "Is There a God? (Swinburne)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "Proofs of God's Existence",
+      "title_ar": "براهين وجود الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Proofs of God's Existence refer to the inferences used by Christian thinkers to either demonstrate the existence of God or provide sufficient reasons to believe in God's existence. There are four primary approaches to proving God's existence: a posteriori demonstration, a priori demonstration, reductio ad absurdum arguments, and argument to the best explanation. The majority of these arguments are a posteriori, drawing on observations of the natural world to infer the existence of a creator. Key biblical passages that support the idea of God's existence include Romans 1:19–20, Psalm 19:1–5, Acts 14:16–17, and Acts 17:26–27. Various arguments are presented within these approaches, including Thomas Aquinas' 'five ways,' the cosmological argument, the argument from design, and the ontological argument. Each argument offers a different perspective on God's existence, combining logical reasoning and observations of the world.",
+      "description_ar": "براهين وجود الله تشير إلى الاستدلالات التي يستخدمها المفكرون المسيحيون لإثبات وجود الله أو توفير أسباب كافية للإيمان بوجود الله. هناك أربعة نهج رئيسية لإثبات وجود الله: البرهان اللاحق، البرهان السابق، حجج القذف اللامعقول، وحجة التفسير الأفضل. يعتمد غالبية هذه الحجج على البراهين اللاحقة، من خلال الاستدلال بالملاحظات عن العالم الطبيعي لاستنتاج وجود الخالق. تتضمن المقاطع الكتابية الرئيسية التي تدعم فكرة وجود الله رومية 1: 19-20، مزامير 19: 1-5، أعمال الرسل 14: 16-17، وأعمال الرسل 17: 26-27. يتم تقديم حجج مختلفة ضمن هذه النهج، بما في ذلك 'خمس طرق' توما الأكويني، حجة الكون، حجة التصميم، وحجة الكينونة. تقدم كل حجة وجهة نظر مختلفة حول وجود الله، مجمعة بين الاستدلال المنطقي والملاحظات عن العالم.",
+      "short_description": "Proofs of God's Existence refer to the inferences used by Christian thinkers to either demonstrate the existence of God or provide sufficient reasons to believe in God's existence.",
+      "short_description_ar": "براهين وجود الله تشير إلى الاستدلالات التي يستخدمها المفكرون المسيحيون لإثبات وجود الله أو توفير أسباب كافية للإيمان بوجود الله.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Ps.19.1",
+        "Acts.14.15-Acts.14.17",
+        "Acts.17.23-Acts.17.27",
+        "Rom.1.19-Rom.1.28"
+      ],
+      "additional_verses": ["Heb.11.6"],
+      "other_subjects": [
+        "The Doctrine of the Triune God",
+        "General Revelation",
+        "God's Knowability",
+        "God's Incomprehensibility",
+        "Natural Law"
+      ],
+      "recommended_resources": [
+        "Oration on Theology (Gregory Nazianzus)",
+        "The Great Catechism (Gregory of Nyssa), prologue",
+        "The Consolation of Philosophy (Boethius)",
+        "Prosologion and Monologion (Anselm)",
+        "Summa Theologiae (Aquinas), I, q. 2, a. 1–3",
+        "Summa Contra Gentiles (Aquinas), Bk. 1",
+        "Institutes of Elenctic Theology (Turretin), Vol. I, topic 3, q. 1",
+        "Systematic Theology (Hodge), Vol I, part 1, ch.1–2",
+        "Mere Christianity (Lewis)",
+        "Systematic Theology (Oden), Vol I, pt. 2, ch. 4",
+        "God: His Existence and Nature (Garrigou-Lagrange), 2 Vols",
+        "Approaches to God (Jacques Maritain)",
+        "How to Think about God: A Guide for the 20th Century Pagan (Adler)",
+        "Five Proofs of the Existence of God (Feser)",
+        "The Existence of God (Swinburne)",
+        "Is There a God? (Swinburne)",
+        "Evidence for God: 50 Arguments for Faith from the Bible, History, Philosophy, and Science (Dembski & Licona, eds.)",
+        "Debating Christian Theism (Moreland, Mesiter, & Sweis, eds.), Part 1"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Incomprehensibility",
+      "title_ar": "عدم قدرة الإدراك على الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The doctrine of the incomprehensibility of God states that the divine nature is such that God cannot be fully known or described, as he is in himself, by any created being. This is not due to any lack of being or perfection in the divine nature, but rather because God dwells in an unapproachable light that no creature can gaze upon without divine aid. Human understanding is limited and imperfect, incapable of grasping the magnificence of the divine nature. However, God has revealed himself through creation, his Son, and his word, allowing believers to have knowledge of him and how to be united with him. Christian thinkers engage in negative or apophatic theology to describe the divine nature, using approaches like the Triplex Via: the way of causality, the way of eminence, and the way of negation.",
+      "description_ar": "يقول مبدأ عدم قدرة الإدراك على الله إن الطبيعة الإلهية هي طبيعة لا يمكن لأي كائن مخلوق معرفة الله تمامًا أو وصفه بالشكل الذي هو عليه بذاته. ليس هذا بسبب نقص في الوجود أو الكمال في الطبيعة الإلهية، بل بسبب أن الله يسكن في نور لا يمكن لأي مخلوق أن ينظر إليه بدون معونة إلهية. فهم الإنسان محدود وناقص، غير قادر على فهم روعة طبيعة الله. ومع ذلك، كشف الله عن ذاته من خلال الخلق وابنه وكلمته، مما يسمح للمؤمنين بمعرفته وكيفية الاتحاد به. يلجأ المفكرون المسيحيون إلى اللاهوت السالب أو اللاهوت الأفضل لوصف الطبيعة الإلهية، ويستخدمون نهجًا مثل الطريقة المزدوجة: طريقة السببية، طريقة السمو، وطريقة النفي.",
+      "short_description": "The doctrine of the incomprehensibility of God states that the divine nature is such that God cannot be fully known or described, as he is in himself, by any created being.",
+      "short_description_ar": "يقول مبدأ عدم قدرة الإدراك على الله إن الطبيعة الإلهية هي طبيعة لا يمكن لأي كائن مخلوق معرفة الله تمامًا أو وصفه بالشكل الذي هو عليه بذاته.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Job.11.7-Job.11.9",
+        "Job.26.14",
+        "Ps.145.3",
+        "Is.55.8-Is.55.9",
+        "Mt.11.27",
+        "Jn.1.18",
+        "Ro.11.33-Ro.11.34",
+        "1Co.2.11",
+        "1Ti.6.13-1Ti.6.16"
+      ],
+      "additional_verses": [
+        "Job.9.10-Job.9.11",
+        "Job.33.13-Job.33.14",
+        "Job.37.23",
+        "Ec.3.11",
+        "Ec.11.5",
+        "Is.40.13",
+        "Is.40.28"
+      ],
+      "other_subjects": [
+        "The Doctrine of the Triune God",
+        "Proofs of God's Existence",
+        "God's Knowability",
+        "God's Infinity",
+        "General Revelation",
+        "Special Revelation"
+      ],
+      "recommended_resources": [
+        "An Exact Exposition of the Orthodox Faith (John of Damascus), 1.4",
+        "Summa Theologica (Aquinas), I, q. 7",
+        "Summa Theologica (Aquinas), I, q. 12",
+        "Institutes of Elenctic Theology (Turretin), Vol. I, topic 3, qq. 2.7, 8",
+        "Systematic Theology (Hodge), Vol. I, pt. 1, ch. 4",
+        "Systematic Theology (Oden), Vol. I, ch. 1. The infinity of God",
+        "Systematic Theology (Oden), Vol. I, ch. 2. The infinity of God",
+        "Systematic Theology (Geisler), Vol. II, ch. 10. God's ineffability"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Knowability",
+      "title_ar": "معرفة الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's knowability refers to the extent and means by which mankind can know God. While humans were created with a capacity to know God through perceiving His creation, this knowledge is limited and incomplete. It is through special revelation, particularly through Jesus Christ and the Holy Scriptures, that the true and personal knowledge of God is attained. In eternal life, the Christian's knowledge of God will be qualitatively different, but even then, God's essence remains incomprehensible. Analogies can be drawn between human knowledge of God and God as He is in Himself, but there is always a disjuncture between the two. God's knowability arouses worship and reverence in creatures.",
+      "description_ar": "معرفة الله تشير إلى مدى وسبل تعرف البشرية على الله. بينما خُلِقَ البشر بقدرة على معرفة الله من خلال إدراك خلقه، إلا أن هذه المعرفة محدودة وغير كاملة. إنه من خلال الوحي الخاص، ولا سيما من خلال يسوع المسيح والكتب المقدسة، يتم تحقيق المعرفة الحقيقية والشخصية لله. في الحياة الأبدية، ستكون معرفة المسيحي بالله مختلفة جودة، ولكن حتى في ذلك الوقت، يبقى جوهر الله غير قابل للفهم. يمكن استخدام التشابه بين المعرفة البشرية لله والله كما هو في ذاته، ولكن هناك دائمًا انفصال بين الاثنين. معرفة الله تثير التسبيح والتقديس في المخلوقات.",
+      "short_description": "God's knowability refers to the extent and means by which mankind can know God.",
+      "short_description_ar": "معرفة الله تشير إلى مدى وسبل تعرف البشرية على الله.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": ["2Co.4.6", "Ro.1.18-Ro.1.21", "1Co.13.12", "1Jn.3.2"],
+      "additional_verses": [
+        "Ps.9.16",
+        "Ps.100.3",
+        "Ho.6.3",
+        "Jn.14.7",
+        "Mt.11.27",
+        "Jn.17.3",
+        "Ga.4.8-Ga.4.9",
+        "Eph.1.17",
+        "1Jn.2.3",
+        "1Jn.4.7",
+        "1Jn.5.20"
+      ],
+      "other_subjects": [
+        "General Revelation",
+        "Special Revelation",
+        "God's Incomprehensibility",
+        "Human Reason"
+      ],
+      "recommended_resources": [
+        "Five Theological Orations (Gregory of Nazianzus)",
+        "Summa Theologica (Aquinas), Prima pars, q. 12",
+        "Institutes of the Christian Religion (Calvin), Book I",
+        "Reformed Dogmatics (Bavinck), Vol. II"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "The Divine Names",
+      "title_ar": "أسماء الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The names of God in the Bible are the descriptive appellations, designations, and titles that God assigns to Himself. These names reveal the fitting ways in which we should think of Him and call upon Him. The names include El and YHWH, which is the specific name given by God to the people of Israel. The name YHWH is so sacred that it was not pronounced and later became known as \"Jehovah\" in English translations. In biblical usage, the names of God are associated with His character and power, especially His power exercised on behalf of His people. Calling on the name of God is to invoke His power to act, and it should be done with reverence and sincerity.",
+      "description_ar": "أسماء الله في الكتاب المقدس هي الألقاب الوصفية والتسميات والألقاب التي يُسنِدُها الله لنفسه. تكشف هذه الأسماء الطرق المناسبة التي يجب أن نفكر بها فيه وندعوه. تشمل الأسماء El و YHWH ، وهو الاسم الذي أعطاه الله لشعب إسرائيل. الاسم YHWH مقدس جداً حتى لم يُلفظ ، وأصبح لاحقًا معروفًا باسم \"يهوه\" في الترجمات الإنجليزية. في الاستخدام الكتابي ، ترتبط أسماء الله بطبيعته وقوته ، خاصة قوته الممارسة نيابة عن شعبه. الاستدعاء باسم الله هو استدعاء قوته للعمل ، ويجب أن يتم ذلك بتقديس وإخلاص.",
+      "short_description": "The names of God in the Bible are the descriptive appellations, designations, and titles that God assigns to Himself.",
+      "short_description_ar": "أسماء الله في الكتاب المقدس هي الألقاب الوصفية والتسميات والألقاب التي يُسنِدُها الله لنفسه.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Ge.17.1",
+        "Ex.6.2-Ex.6.3",
+        "Ex.3.14",
+        "Ex.20.7",
+        "Re.1.8"
+      ],
+      "additional_verses": [],
+      "other_subjects": [
+        "God's Existence",
+        "The Trinity",
+        "God the Father",
+        "God the Son",
+        "God the Holy Spirit",
+        "Jesus' Names",
+        "Special Revelation"
+      ],
+      "recommended_resources": null
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God’s Personal Name",
+      "title_ar": "اسم الله الشخصي",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The personal name of God in the Bible, Yahweh, also known as \"the LORD,\" represents the revelation of His character through His activity in history. This name is central to faith and practice within the Judeo-Christian tradition. God discloses His personal name to Moses, emphasizing that He is known by and in His own action. The name YHWH carries specific connotations as God reveals Himself through His power, sovereignty, grace, and compassion. It becomes a symbol of the covenant relationship between God and Israel. In the New Testament, Jesus is presented as the divine agent who comes in the name of the Lord, and God has given His personal name to Jesus. New Testament authors appropriate Old Testament passages referring to YHWH and apply them to Jesus. The self-revelation of God culminates in Jesus, who is strongly associated with the personal name of God.",
+      "description_ar": "اسم الله الشخصي في الكتاب المقدس ، يهوه ، المعروف أيضًا بـ \"الرب\" ، يمثل كشفًا لطبيعته من خلال نشاطه في التاريخ. يحتل هذا الاسم مكانة مركزية في الإيمان والممارسة داخل التقليد اليهودي-المسيحي. يكشف الله عن اسمه الشخصي لموسى ، مشددًا على أنه معروف من خلال أفعاله الخاصة. يحمل اسم يهوه دلالات محددة عندما يكشف الله نفسه من خلال قوته وسيادته ونعمته ورحمته. يصبح رمزًا للعلاقة العهدية بين الله وإسرائيل. في العهد الجديد ، يتم تقديم يسوع كوكيل إلهي يأتي باسم الرب ، وقد أعطى الله اسمه الشخصي ليسوع. يستخدم مؤلفو العهد الجديد مقاطع من العهد القديم المشيرة إلى يهوه ويطبقونها على يسوع. تتوج التجليات الذاتية لله في يسوع ، الذي يرتبط بشكل قوي بالاسم الشخصي لله.",
+      "short_description": "The personal name of God in the Bible, Yahweh, represents the revelation of His character through His activity in history.",
+      "short_description_ar": "اسم الله الشخصي في الكتاب المقدس ، يهوه ، يمثل كشفًا لطبيعته من خلال نشاطه في التاريخ.",
+      "key_verses": [
+        "Ex.3.14-Ex.3.16",
+        "Ex.34.5-Ex.34.7",
+        "Joe.2.32",
+        "Is.52.6",
+        "Php.2.9-Php.2.11",
+        "Jn.17.6"
+      ],
+      "additional_verses": [
+        "Ex.20.7",
+        "Ex.33.19",
+        "Jdg.13.8",
+        "1 Sa.12.22",
+        "2 Ch.6.32",
+        "Ps.8.1",
+        "Ps.52.9",
+        "Ps.99.3",
+        "Ps.106.8",
+        "Ps.135.13",
+        "Ps.148.13",
+        "Eze.36.23"
+      ],
+      "other_subjects": ["Jesus' Personal Names"],
+      "recommended_resources": [
+        "Tetragrammaton: Western Christians and the Hebrew Name of God: From the Beginnings to the Seventeenth Century (Wilkinson)",
+        "“Ὄνομα” (Bietenhard) in Theological Dictionary of the New Testament (Kittel, Bromiley, & Friedrich, eds.), Vol. V, 242–283",
+        "The Unfolding Mystery of the Divine Name: The God of Sinai in Our Midst (Bietenhard)",
+        "The Revelation of the Name YHWH to Moses: Perspectives from Judaism, the Pagan Graeco-Roman World, and Early Christianity (van Kooten)",
+        "Systematic Theology (Jensen), Vol. I, 40–58",
+        "“Handing Over the Name: Christian Reflections on the Divine Name YHWH” (Seitz) in Trinity, Time, and Church: A Response to the Theology of Robert W. Jensen (Gunton, ed.), 23–41"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God’s Titles",
+      "title_ar": "عناوين الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The titles of God are appellations given to Him in His word that reveal something about His being and ways in the world. Unlike human names, God's names are self-chosen and reveal His essence. Titles such as El, Elohim, Adonai, Father, Almighty, Creator, Holy One of Israel, Lord of Armies, Ancient of Days, King, Judge, Shepherd, Fear of Isaac, Redeemer, Jealous, Sovereign, and Helper highlight various aspects of God's character and His relationship with His creation.",
+      "description_ar": "ألقاب الله هي الأسماء التي يطلقها على نفسه في كتابه والتي تكشف عن طبيعته وطرقه في العالم. على عكس الأسماء البشرية، أسماء الله هي ذات اختيار ذاتي وتكشف عن جوهره. تشمل الألقاب مثل إل، إلوهيم، أدوناي، الآب، القادر على كل شيء، الخالق، المقدس الإسرائيلي، رب الجنود، القديم الأيام، الملك، القاضي، الراعي، رعب إسحاق، المخلص، الغيور، السيد، المساعد، وتسلط الضوء على جوانب مختلفة من شخصية الله وعلاقته بخلقه.",
+      "short_description": "The titles of God reveal different aspects of His character and relationship with His creation, including El, Elohim, Adonai, Father, Almighty, Creator, Holy One of Israel, and more.",
+      "short_description_ar": "ألقاب الله تكشف عن جوانب مختلفة من شخصيته وعلاقته بخلقه، بما في ذلك إل، إلوهيم، أدوناي، الآب، القادر على كل شيء، الخالق، المقدس الإسرائيلي، وغيرها.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": ["Is.42.8"],
+      "additional_verses": [
+        "Ge.49.25",
+        "Ge.16.13",
+        "Ge.17.1",
+        "Ezr.5.1",
+        "Ps.9.2",
+        "Ps.35.23",
+        "Ps.136.3",
+        "Da.7.9",
+        "Ro.10.9"
+      ],
+      "other_subjects": [
+        "God's Attributes",
+        "Attributes Describing God in Himself",
+        "God's Eternity",
+        "God's Glory",
+        "God's Omnipotence",
+        "God's Omnipresence",
+        "God's Infinity",
+        "Attributes Describing God in His Activity toward Creatures",
+        "God's Holiness",
+        "God's Righteousness",
+        "The Doctrine of the Works of God",
+        "Jesus' Titles"
+      ],
+      "related_articles": ["Names of God"],
+      "related_subjects": null,
+      "related_topics": null,
+      "recommended_resources": [
+        "“The Names of God,” in Reformed Dogmatics (Bavinck), Vol. II, 93–147.",
+        "Names of God Interactive in Logos Bible Software.",
+        "God, Revelation, and Authority (Henry), Vol. II, 167–225."
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God’s Metaphorical Names",
+      "title_ar": "أسماء الله المجازية",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Scripture uses metaphorical names for God to highlight specific aspects of His character and relationship with humanity. These names employ poetic imagery, relating God to elements in the created world. Metaphorical names differ from literal titles for God and are not symbolic. Examples of metaphorical names include \"Warrior,\" \"Judge,\" \"King,\" \"Potter,\" \"Vine,\" \"Fountain,\" \"Cup,\" \"Shepherd,\" \"Rock,\" \"Light,\" and \"Shadow.\" These names convey God's provision, strength, fidelity, nurturing, and comfort, drawing attention to different facets of His nature.",
+      "description_ar": "يستخدم الكتاب المقدس أسماء مجازية لله لتسليط الضوء على جوانب محددة من طبيعته وعلاقته بالبشرية. تستخدم هذه الأسماء الصور الشعرية لربط الله بعناصر في العالم المخلوق. تختلف الأسماء المجازية عن العناوين الحرفية لله وليست رمزية. أمثلة على الأسماء المجازية تشمل \"المحارب\" و \"القاضي\" و \"الملك\" و \"الفخار\" و \"الكرمة\" و \"الينبوع\" و \"الكأس\" و \"الراعي\" و \"الصخرة\" و \"النور\" و \"الظل\". تنقل هذه الأسماء رعاية الله وقوته وإخلاصه وتربيته وراحته ، مما يلفت الانتباه إلى جوانب مختلفة من طبيعته.",
+      "short_description": "Metaphorical names for God in Scripture highlight specific aspects of His character and relationship with humanity, conveying provision, strength, fidelity, nurturing, and comfort.",
+      "short_description_ar": "الأسماء المجازية لله في الكتاب المقدس تسلط الضوء على جوانب محددة من طبيعته وعلاقته بالبشرية ، مع الإشارة إلى الرعاية والقوة والإخلاص والتربية والراحة.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Ge.1.2",
+        "Ge.48.15",
+        "Dt.32.10-18",
+        "Ps.3.3",
+        "Ps.16.5",
+        "Ps.17.8",
+        "Ps.18.2",
+        "Ps.23.1",
+        "Ps.27.1",
+        "Ps.28.7-9",
+        "Ps.31.2-3",
+        "Ps.36.9",
+        "Ps.57.1",
+        "Ps.61.2-3",
+        "Ps.62.2",
+        "Ps.68.26",
+        "Ps.71.3",
+        "Ps.78.35",
+        "Ps.80.1",
+        "Ps.84.11",
+        "Ps.89.26",
+        "Ps.91.1-10",
+        "Ps.92.15",
+        "Ps.115.9-11",
+        "Ps.121.5",
+        "Ps.144.1-2",
+        "Is.29.16",
+        "Is.40.11",
+        "Is.49.15",
+        "Is.64.8",
+        "Is.66.13",
+        "Je.2.13",
+        "Je.17.13",
+        "Je.18.6",
+        "Ho.11.1-4",
+        "Zec.13.1",
+        "Mt.23.37",
+        "Ro.9.21",
+        "Jn.8.12",
+        "Jn.9.5",
+        "Jn.10.11-14",
+        "Jn.15.1-5",
+        "1Pe.2.25",
+        "Re.21.23"
+      ],
+      "additional_verses": ["Ge.49.24", "Dt.32.4", "2Sa.22.3", "Re.1.8"],
+      "recommended_resources": [
+        "“From Ruler to Teacher: Extending of the Shepherd Metaphor in Early Jewish and Christian Writings” (Baxter) in Early Christian Literature and Intertextuality: Volume 1: Thematic Studies (Evans and Zacharias, eds.), 208–224.",
+        "“Narrative Criticism” (Satterthwaite) in A Guide to Old Testament Theology and Exegesis (VanGemeren, ed.), 122–130.",
+        "Systematic Theology (Berkhof)"
+      ],
+      "related_topics": [
+        "Jesus’ Metaphorical Names",
+        "God’s Personal Name",
+        "God’s Titles"
+      ],
+      "related_articles": ["Metaphor For God"]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God’s Attributes",
+      "title_ar": "صفات الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's attributes are unique descriptions of His nature and character. They distinguish Him from His creatures and are often expressed as negatives, indicating what He is not. However, positive terms are also used to describe God, such as eternal, holy, omniscient, omnipotent, and omnipresent. These attributes mutually qualify one another and are never considered in isolation. The attributes are classified into incommunicable or absolute attributes (like infinity or omnipresence) and communicable or relative attributes (like holiness or faithfulness). While all attributes are proper to God's unique nature, some also relate to His interaction with creatures. Although God's absolute attributes can be challenging to comprehend, they find coherence in God Himself.",
+      "description_ar": "صفات الله هي وصفات فريدة لطبيعته وشخصيته. إنها تميزه عن مخلوقاته وغالبًا ما تعبر عن السلبيات، مشيرة إلى ما ليس هو. ومع ذلك، يُستخدم أيضًا التعبير بالصيغ الإيجابية لوصف الله، مثل الأبدي، القدوس، العليم، القادر، والحاضر في كل مكان. تؤهل هذه الصفات بعضها بعضًا متبادلة ولا يتم اعتبارها على حدة. يتم تصنيف الصفات إلى صفات غير قابلة للمشاركة أو مطلقة (مثل اللانتهاء أو الكيان في كل مكان) وصفات قابلة للمشاركة أو نسبية (مثل القداسة أو الأمانة). بينما تنطبق جميع صفات الله على طبيعته الفريدة، فإن بعضها يتصل أيضًا بتفاعله مع المخلوقات. على الرغم من أن الصفات المطلقة لله يمكن أن تكون صعبة في فهمها، إلا أنها تجد ترابطًا في الله نفسه.",
+      "short_description": "God's attributes are unique descriptions of His nature and character, distinguishing Him from His creatures. They are classified into incommunicable and communicable attributes. While challenging to comprehend, these attributes find coherence in God Himself.",
+      "short_description_ar": "صفات الله هي وصفات فريدة لطبيعته وشخصيته، تميزه عن مخلوقاته. يتم تصنيفها إلى صفات غير قابلة للمشاركة وصفات قابلة للمشاركة. على الرغم من صعوبة فهمها، تجد هذه الصفات ترابطًا في الله نفسه.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Jn.1.18",
+        "1Ti.1.17",
+        "Ro.1.20",
+        "Col.1.15-16",
+        "Heb.11.27",
+        "Heb.6.17-18",
+        "1Co.15.50",
+        "Jas.1.17",
+        "Heb.13.8",
+        "Heb.4.15-16",
+        "Ps.145.7",
+        "Ps.139.7-10",
+        "Is.66.1"
+      ],
+      "recommended_resources": [
+        "No One Like Him: The Doctrine of God (Feinberg)",
+        "The Doctrine of God: A Global Introduction (Kärkkäinen)",
+        "Perspectives on the Doctrine of God: Four Views (Ware, ed.)"
+      ],
+      "related_topics": [
+        "God’s Existence",
+        "The Trinity",
+        "The Attributes of the Church",
+        "The Image of God"
+      ],
+      "related_articles": ["God’s Attributes"]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Self-Existence",
+      "title_ar": "ذاتية الله الذاتية",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's self-existence means that he has no cause or source and is uncreated. He is not dependent on anything else for his existence. God exists of himself and does not require any external explanation. He is self-existent in his nature and does not conform to external standards or influences. God exists ultimately for himself and his own glory. While created beings depend on God, he does not depend on anything. The doctrine of divine self-existence emphasizes that everything created has its existence and attributes by the power and will of God. However, God does not receive anything from us and does not need anything. Creatures depend on God for everything they have and can become.",
+      "description_ar": "ذاتية الله الذاتية تعني أنه ليس لديه سبب أو مصدر ولم يُخلق. لا يعتمد على أي شيء آخر لوجوده. الله موجودٌ في ذاته ولا يحتاج إلى أي تفسير خارجي. إنه ذاتي الوجود في طبيعته ولا يتوافق مع المعايير الخارجية أو التأثيرات. الله موجودٌ في النهاية من أجل نفسه ومجده الخاص. بينما تعتمد الكائنات المخلوقة على الله، فإنه لا يعتمد على أي شيء. تؤكد عقيدة ذاتية الله الذاتية أن كل شيء مخلوق له وجوده وصفاته بقوة وإرادة الله. ومع ذلك، لا يتلقى الله أي شيء منا ولا يحتاج إلى أي شيء. الكائنات تعتمد على الله لكل ما لديها وكل ما يمكن أن تصبح عليه.",
+      "short_description": "God's self-existence means that he has no cause or source and is uncreated. He is not dependent on anything else for his existence.",
+      "short_description_ar": "ذاتية الله الذاتية تعني أنه ليس لديه سبب أو مصدر ولم يُخلق. لا يعتمد على أي شيء آخر لوجوده.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Exod.3.14-Exod.3.15",
+        "Job.22.2-Job.22.3",
+        "1Cor.8.6",
+        "Rev.4.11",
+        "Rom.11.36",
+        "Acts.17.25",
+        "John.5.26",
+        "Job.35.7"
+      ],
+      "additional_verses": [],
+      "other_subjects": [
+        "God’s Simplicity",
+        "God’s Glory",
+        "God’s Holiness",
+        "God’s Existence",
+        "God’s Personal Name",
+        "God’s Eternity"
+      ],
+      "recommended_resources": [
+        "Monologion (Anselm)",
+        "All That Is in God (Dolezal), 11–17",
+        "Reformed Dogmatics (Bavinck), Vol. II, 150–153"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Unity",
+      "title_ar": "وحدة الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's unity refers to the absolute oneness and uniqueness of God (unity of singularity) and the utter simplicity of his essence (unity of simplicity). It affirms that there is only one divine being and that God's essence is free from division and parts. Scripture attests to God's uniqueness and numerical oneness throughout, emphasizing monotheism. The doctrine of divine unity, including singularity and simplicity, is foundational for the Trinity, where God is one, triune being. Practically, God's unity of singularity orients Christian worship, while the unity of simplicity testifies to a fully alive and complete God.",
+      "description_ar": "وحدة الله تشير إلى أن الله واحدٌ تمام الاستثناء وفريدٌ (وحدة الفردية)، وأن جوهره بسيطٌ تمام البساطة (وحدة البساطة). إنها تؤكد أنه لا يوجد سوى إله واحد، وأن جوهر الله خالٍ من التقسيم والأجزاء. تشهد الكتاب المقدس بتفرد الله ووحدانيته العددية في جميع أنحاءه، مؤكدة الأحادية الراسخة. عقيدة وحدة الله، بما في ذلك الفردية والبساطة، هي أساس الثالوث، حيث يكون الله واحدًا وثالوثًا. عمليًا، فإن وحدة الله الفردية توجه عبادة المسيحيين، بينما تشهد وحدة البساطة على الله الحي بالكامل والنشط والكامل.",
+      "short_description": "God's unity refers to the absolute oneness and uniqueness of God and the utter simplicity of his essence. It affirms that there is only one divine being and that God's essence is free from division and parts.",
+      "short_description_ar": "وحدة الله تشير إلى الوحدة التامة والاستثناءية لله وبساطة جوهره. إنها تؤكد أنه لا يوجد سوى إله واحد، وأن جوهر الله خالٍ من التقسيم والأجزاء.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Deut.6.4",
+        "Job.22.2-Job.22.3",
+        "1Kgs.8.60",
+        "1Cor.8.6",
+        "Gal.3.20",
+        "1Tim.2.5",
+        "1Tim.6.16"
+      ],
+      "additional_verses": ["Mark.12.29", "Eph.4.6"],
+      "other_subjects": [
+        "God's Simplicity",
+        "God's Infinity",
+        "God's Immutability",
+        "God's Self-Existence",
+        "The Trinity",
+        "The Unity of the Trinity"
+      ],
+      "recommended_resources": [
+        "On the Trinity (Augustine), Book 1",
+        "On the Trinity (Augustine), Book 6",
+        "Summa Theologica (Aquinas), Prima pars, q. 3",
+        "Reformed Dogmatics (Bavinck), Vol. II, 170–177",
+        "Systematic Theology (Berkhof), 61–63",
+        "God Is (Jones), Ch. 2",
+        "Institutes of Elenctic Theology (Turretin), Vol. I, topic 3. qq. 3",
+        "Institutes of Elenctic Theology (Turretin), Vol. I, topic 3. qq. 7"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Spirituality",
+      "title_ar": "روحانية الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's spirituality is an attribute that asserts God's being as immaterial, invisible, and simple. God is described as a Spirit, neither material nor composite in nature. As a spiritual being, God has no body, composite parts, or physical dimensions. God's spirituality allows Him to be present everywhere and worshiped anywhere. It also means that God cannot be destroyed, contained, or controlled by any creature. God's spirituality is distinct from the Holy Spirit, who is the Third Person of the Trinity. While angels and humans are physical-spiritual beings, God's spirituality is infinite and uncreated, setting Him apart from all other spirits. The Bible emphasizes God's spirituality and rejects idolatry, as God does not require a physical form to communicate with His people or receive their worship.",
+      "description_ar": "روحانية الله هي سمة تؤكد أن كيان الله ليس ماديًا أو مرئيًا أو مركبًا. يُصف الله بأنه روح، ليس له جسد ولا أجزاء مركبة ولا أبعاد مادية. تسمح روحانية الله له بأن يكون حاضرًا في كل مكان وأن يُعبد في أي مكان. وتعني أيضًا أن الله لا يمكن أن يُدمر أو يحتوى أو يسيطر عليه أي مخلوق. روحانية الله متميزة عن الروح القدس، الذي هو الشخص الثالث في الثالوث. بينما الملائكة والبشر هما كائنات مادية وروحية، فإن روحانية الله لا تنتهي وغير مخلوقة، مما يجعله مميزًا عن جميع الأرواح الأخرى. تسلط الكتاب المقدس الضوء على روحانية الله ويرفض وثنية، حيث لا يحتاج الله إلى شكل مادي للتواصل مع شعبه أو استقبال عبادته.",
+      "short_description": "God's spirituality is an attribute that describes Him as an immaterial and simple being, neither material nor composite. It means that God has no physical form, is present everywhere, and cannot be controlled or contained by any creature.",
+      "short_description_ar": "روحانية الله هي سمة تصفه بأنه كائن غير مادي وبسيط، ليس ماديًا ولا مركبًا. وهذا يعني أن الله ليس لديه شكل مادي وأنه حاضر في كل مكان ولا يمكن السيطرة عليه أو حجزه من أي مخلوق.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "John 4:24",
+        "1 Timothy 1:17",
+        "John 1:18",
+        "1 Timothy 6:15-16"
+      ],
+      "additional_verses": [],
+      "other_subjects": [
+        "Attributes Describing God in Himself",
+        "God's Omnipresence",
+        "God's Simplicity",
+        "God the Holy Spirit"
+      ],
+      "recommended_resources": [
+        "Systematic Theology (Frame), 399-402",
+        "Christian Theology (Erickson), 272-290",
+        "Systematic Theology (Grudem, 2000), 185-188",
+        "Systematic Theology (Miley), Vol. I, 161-165",
+        "Theophany: A Biblical Theology of God's Appearing (Poythress)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Simplicity",
+      "title_ar": "بساطة الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's simplicity means that his essence and existence are identical, indicating that there is no composition or division within the divine nature. It affirms that God is not made up of parts or attributes that are separate from his essence. Rather, his attributes describe what he is like without dividing or conflicting with his essence. God's simplicity emphasizes that he is self-existent, self-sufficient, and uncaused. It also has implications for the doctrine of the Trinity, asserting that the Father, Son, and Holy Spirit are distinct personal modes of subsisting within the divine essence. The concept of God's simplicity is rooted in the Christian tradition and has been developed and discussed by theologians throughout history.",
+      "description_ar": "بساطة الله تعني أن جوهره ووجوده متطابقان، مما يشير إلى أنه لا توجد تركيبة أو تقسيم داخل الطبيعة الإلهية. إنها تؤكد أن الله ليس مركبًا من أجزاء أو سمات منفصلة عن جوهره. بدلاً من ذلك، تصف سماته ماهية كيانه دون تقسيم أو تعارض مع جوهره. بساطة الله تؤكد أنه ذاتي الوجود، ويكفي ذاته، وغير مسبب. كما لها تداعيات على عقيدة الثالوث، حيث تؤكد أن الآب والابن والروح القدس هم أنماط شخصية متميزة للوجود داخل جوهر الإلهية. تتجذر فكرة بساطة الله في التقاليد المسيحية وقد تم تطويرها ومناقشتها من قبل اللاهوتيين على مر التاريخ.",
+      "short_description": "God's simplicity affirms that his essence and existence are identical, without composition or division. It emphasizes his self-existence, self-sufficiency, and the unity of his attributes with his essence. This doctrine has implications for the Trinity and has been discussed by theologians throughout history.",
+      "short_description_ar": "بساطة الله تؤكد أن جوهره ووجوده متطابقان، بدون تركيب أو تقسيم. إنها تؤكد ذاتيته وكفايته الذاتية وتوحد سماته مع جوهره. لهذه العقيدة تداعيات على الثالوث وتم مناقشتها من قبل اللاهوتيين على مر التاريخ.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Exod.3.14",
+        "Exod.34.6-Exod.34.7",
+        "John.5.26",
+        "1John.1.5"
+      ],
+      "additional_verses": ["John.4.24"],
+      "other_subjects": [
+        "God's Self-Existence",
+        "God's Unity",
+        "The Unity of the Trinity",
+        "The Trinity",
+        "God's Existence"
+      ],
+      "recommended_resources": [
+        "Summa Theologie (Aquinas), I q.3",
+        "De Trinitate (Hilary of Poitiers), 8.43",
+        "The Christian Faith (Horton), 228-230",
+        "The Oxford Handbook of the Trinity (Emery and Levering), 84-89",
+        "God without Parts (Dolezal)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Immutability",
+      "title_ar": "ثبات الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's immutability refers to his freedom from change and his constant nature throughout all time. Divine immutability affirms that God is unaffected by change and exists outside of time. Although he remains unchanging, his creatures experience him as constant in his relationship with humanity, making him worthy of trust. Immutability sets God apart from mutable creatures and inanimate objects that undergo growth, change, or destruction. God's immutability does not hinder his involvement in history, as seen in biblical revelation, but rather demonstrates his unchanging character in different contexts. He remains faithful to his promises and completes what he begins. God's immutability forms the foundation for trust in him.",
+      "description_ar": "ثبات الله يشير إلى حريته من التغيير وطبيعته الثابتة عبر الزمان. عقيدة ثبات الله تؤكد أن الله لا يتأثر بالتغيير ويوجد خارج الزمان. بينما يبقى ثابتًا، يختبره المخلوقات كمستقر في علاقته بالبشرية، مما يجعله جديرًا بالثقة. يفصل ثبات الله بين المخلوقات المتغيرة والأشياء الغير حية التي تتجاوز نموًا وتغييرًا أو تدميرًا. ثبات الله لا يعوق مشاركته في التاريخ، كما هو واضح في الوحي الكتابي، بل يوضح طابعه غير المتغير في سياقات مختلفة. إنه يبقى وفيًا لوعوده ويكمل ما يبدأ. ثبات الله يشكل أساس الثقة به.",
+      "short_description": "God's immutability refers to his freedom from change and his constant nature throughout all time. It sets him apart from mutable creatures and inanimate objects, and forms the foundation for trust in him.",
+      "short_description_ar": "ثبات الله يشير إلى حريته من التغيير وطبيعته الثابتة عبر الزمان. إنه يفصله عن المخلوقات المتغيرة والأشياء الغير حية، ويشكل أساس الثقة به.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Mal.3.6",
+        "Jas.1.17",
+        "Ps.102.26-Ps.102.28",
+        "Num.23.19",
+        "Rom.1.23",
+        "Php.1.6",
+        "Heb.13.8"
+      ],
+      "additional_verses": [
+        "Exod.3.14",
+        "Num.23.20",
+        "1Sam.15.29",
+        "Heb.1.11-Heb.1.12",
+        "Heb.6.17-Heb.6.18"
+      ],
+      "other_subjects": [
+        "God’s Eternity",
+        "God’s Glory",
+        "God’s Simplicity",
+        "God’s Veracity",
+        "God’s Self-Existence"
+      ],
+      "recommended_resources": [
+        "De Trinitate (Augustine), V, 2",
+        "Summa Theologica (Aquinas), Prima pars, q. 9 (Aquinas)",
+        "Institutes of Elenctic Theology (Turretin), topic 3, q. 11",
+        "Reformed Dogmatics (Bavinck) Vol. II, 153–159",
+        "All That Is in God (Dolezal), Ch. 2, “Unchanging God”"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Infinity",
+      "title_ar": "لانهائية الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's infinity is an incommunicable attribute of God that signifies his boundless perfection and denies any limitation to his being or attributes. It affirms that God transcends the categories of finite creatures and possesses every degree of perfection without any limitation. Divine infinity is described under three aspects: the infinity of God's essence, which affirms the fullness and completeness of his being; the infinity of God in relation to time, known as eternity, where God transcends temporal limitations; and the infinity of God in relation to space, known as immensity and omnipresence, where God transcends spatial limitations while filling every part of created space. Scripture attests to God's infinity by emphasizing his immeasurability, transcendence, and presence in all of creation. Divine infinity also implies the incomprehensibility of God, as humans cannot fully comprehend the infinite nature of God but can have limited and true knowledge of him. Understanding God's infinity leads to awe, amazement, and a sense of creatureliness, reminding humans of the infinite worth of their salvation in Christ.",
+      "description_ar": "لانهائية الله هي صفة لا يمكن نقلها للبشر تدل على كماله الغير محدود وتنفي أي قيد في كيانه أو صفاته. إنها تؤكد أن الله يتجاوز فئات المخلوقات المحدودة ويمتلك كل درجات الكمال بدون أي قيد. توصف لانهائية الله بثلاثة جوانب: لانهائية جوهر الله، التي تؤكد على اكتمال واكتمال كيانه. لانهائية الله فيما يتعلق بالزمن، المعروفة باسم الأبدية، حيث يتجاوز الله القيود الزمنية. ولانهائية الله فيما يتعلق بالمكان، المعروفة باسم واسعية وحضوره الكلي، حيث يتجاوز الله القيود المكانية وفي الوقت نفسه يملأ كل جزء من الفضاء المخلوق. تشهد الكتاب المقدس على لانهائية الله من خلال التأكيد على عدم قدرتنا على قياسه وتجاوزه ووجوده في جميع المخلوقات. كما تعني لانهائية الله عدم قدرة البشر على فهم طبيعة الله اللانهائية بالكامل، ولكنهم يمكنهم الحصول على معرفة محدودة وصحيحة له. فهم لانهائية الله يؤدي إلى الإعجاب والذهول وشعور بالبشرية، مما يذكر البشر بقيمة خلاصهم اللانهائية في المسيح.",
+      "short_description": "God's infinity is an attribute that signifies his boundless perfection, denying any limitation to his being or attributes. It affirms that God transcends finite categories and possesses every degree of perfection without limitation.",
+      "short_description_ar": "لانهائية الله هي صفة تدل على كماله الغير محدود، وتنفي أي قيد في كيانه أو صفاته. إنها تؤكد أن الله يتجاوز الفئات المحدودة ويمتلك كل درجات الكمال بدون قيد.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "2Chr.2.6",
+        "Job.11.7-Job.11.9",
+        "Ps.145.3",
+        "Isa.40.12-Isa.40.17",
+        "Isa.48.12",
+        "Dan.4.34",
+        "Matt.5.48",
+        "Eph.3.20",
+        "Acts.17.27-Acts.17.28",
+        "2Pet.3.8"
+      ],
+      "additional_verses": [
+        "1Kgs.8.27",
+        "Isa.66.1",
+        "Jer.23.24",
+        "John.11.7-John.11.9"
+      ],
+      "other_subjects": [
+        "God's Simplicity",
+        "God's Immutability",
+        "God's Eternity",
+        "God's Incomprehensibility",
+        "God's Omnipresence"
+      ],
+      "recommended_resources": [
+        "Summa Theologica (Aquinas), Prima pars, q.7",
+        "Systematic Theology (Hodge), Vol. I, Ch. 5, §5–6",
+        "Reformed Dogmatics (Bavinck), Vol. II, 159–170",
+        "Institutes of Elenctic Theology (Turretin), Vol. I, topic 3, q. 8",
+        "God Is (Jones), Ch. 4"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Eternity",
+      "title_ar": "أبدية الله",
+      "alternative_title": "The Eternity of God",
+      "alternative_title_ar": "أبدية الله",
+      "description": "God's eternity means that he exists beyond and outside of time. Unlike creatures that are subject to change and time, God is unchanging and exists in a single eternal moment. He has no beginning or end in time. God is perfect and immutable, not requiring growth or decline. He transcends the temporal concepts of 'before' and 'after.' While time-bound creatures perceive God's eternity in relation to time, God exists simultaneously with every moment in time. To God, all times are present, and he comprehends them all. The doctrine of God's eternity has been articulated by theologians such as Augustine, Boethius, Aquinas, and the Reformers.",
+      "description_ar": "أبدية الله تعني أنه يوجد خارجًا عن الزمان وبعيدًا عنه. على عكس المخلوقات التي تخضع للتغير والزمان، الله ثابت وموجود في لحظة أبدية واحدة. ليس لديه بداية أو نهاية في الزمان. الله كامل ولا يتغير، ولا يحتاج إلى النمو أو التراجع. إنه يتجاوز المفاهيم الزمانية 'قبل' و 'بعد'. بينما تشعر المخلوقات المقيدة بالزمان بأبدية الله فيما يتعلق بالزمان، يوجد الله في نفس الوقت مع كل لحظة في الزمان. بالنسبة لله، كل الأوقات موجودة، وهو يدركها جميعًا. قد صاغت عقيدة أبدية الله علماء اللاهوت مثل أوغسطين وبويثيوس وتوما الأكويني والإصلاحيون.",
+      "short_description": "God's eternity means that he exists beyond and outside of time. He is unchanging and transcends temporal concepts. While creatures are bound by time, God is eternal and exists simultaneously with every moment in time.",
+      "short_description_ar": "أبدية الله تعني أنه يوجد خارجًا وبعيدًا عن الزمان. إنه لا يتغير ويتجاوز المفاهيم الزمانية. بينما يرتبط المخلوقات بالزمان، الله أزلي وموجود في الوقت نفسه مع كل لحظة في الزمان.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Rev.1.8",
+        "Isa.40.28",
+        "Ps.90.2-Ps.90.4",
+        "Job.36.26",
+        "John.8.58",
+        "1Tim.6.16",
+        "Isa.57.15"
+      ],
+      "additional_verses": [
+        "Gen.21.33",
+        "Deut.32.40",
+        "Deut.33.27",
+        "Neh.9.5",
+        "Ps.90.1-Ps.90.2",
+        "Ps.102.12",
+        "Isa.43.10",
+        "Hab.1.12",
+        "Rom.16.26",
+        "1Tim.1.17",
+        "2Pet.3.8"
+      ],
+      "other_subjects": [
+        "God's Immutability",
+        "God's Omnipresence",
+        "God's Infinity",
+        "God's Self-Existence"
+      ],
+      "recommended_resources": [
+        "Confessions (Augustine)",
+        "The Consolation of Philosophy (Boethius)",
+        "Summa Theologica (Aquinas), Prima pars q.10",
+        "Institutes of Elenctic Theology (Turretin), Vol. I, topic 3, q.10",
+        "Reformed Dogmatics (Bavinck), Vol. II, 160–164"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Omnipresence",
+      "title_ar": "الحضور العالمي لله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Omnipresence is the Christian belief that God is everywhere present and not limited to any location or physical space. God is present in all spaces and places, but this should not be misunderstood as God taking up physical space everywhere or exceeding the limits of the known universe. Rather, God's omnipresence means that He transcends spatial dimensions and is not localized anywhere. God is the creator and Lord of space, free from spatial limitations. His omnipresence is connected to His attributes of eternality and spirituality. The declaration of God's omnipresence in the Old Testament challenges the belief in territorial gods with clear boundaries, highlighting that Yahweh is the one true God with no limits. While God freely chooses to be uniquely present in certain places, His omnipresence reminds us that all places exist in His presence and are sacred. The incarnation of Christ raises questions about God's omnipresence, but theologians have proposed various theories to reconcile His divine and human natures. Despite different views, God's omnipresence is a biblical and necessary doctrine that asserts His lordship over space and time.",
+      "description_ar": "الحضور العالمي هو الاعتقاد المسيحي بأن الله حاضر في كل مكان وغير مقيد بموقع أو فضاء مادي. الله حاضر في جميع الأماكن والمساحات، ولكن هذا لا يعني أن الله يشغل المساحة المادية في كل مكان أو يتجاوز حدود الكون المعروف. بل يعني حضور الله العالمي أنه يتجاوز الأبعاد المكانية ولا يتم تحديده في أي مكان. الله هو خالق المكان وسيد الفضاء، وحر من القيود المكانية. يفهم الحضور العالمي لله بصلة بسماته الخاصة بالأبدية والروحانية. إعلان حضور الله العالمي في العهد القديم يتحدى الآلهة الإقليمية التي كانت تعتقد أنها تحكم مناطق محددة، ويبرز أن يهوه هو الإله الوحيد بلا حدود. وفي الوقت نفسه، يذكر حضور الله العالمي أن كل الأماكن موجودة في حضرته وهي مقدسة. يثير تجسد المسيح تساؤلات حول الحضور العالمي لله، ولكن علماء اللاهوت قد اقترحوا نظريات مختلفة للتوفيق بين طبيعته الإلهية والإنسانية. على الرغم من وجهات النظر المتباينة، فإن الحضور العالمي لله هو عقيدة وجوبية تأكد من سيادته على الفضاء والزمان.",
+      "short_description": "Omnipresence is the Christian belief that God is everywhere present and not limited to any physical space. His presence transcends spatial dimensions and is not localized anywhere. God's omnipresence is connected to His attributes of eternality and spirituality.",
+      "short_description_ar": "الحضور العالمي هو الاعتقاد المسيحي بأن الله حاضر في كل مكان وغير مقيد بأي فضاء مادي. حضوره يتجاوز الأبعاد المكانية ولا يتم تحديده في أي مكان. حضور الله العالمي مرتبط بسماته الأبدية والروحانية.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Ps.139.7-Ps.139.10",
+        "1Kgs.8.27",
+        "Acts.17.24-Acts.17.25",
+        "Amos.9.2-Amos.9.3",
+        "Heb.4.13",
+        "Deut.10.14",
+        "Deut.4.39"
+      ],
+      "additional_verses": [
+        "Gen.16.13",
+        "Deut.2.7",
+        "Deut.4.7",
+        "Isa.66.1",
+        "Jer.23.24",
+        "Matt.28.20"
+      ],
+      "other_subjects": [
+        "The Doctrine of the Triune God",
+        "Attributes Describing God in Himself",
+        "God’s Spirituality",
+        "God’s Eternity",
+        "God’s Infinity"
+      ],
+      "recommended_resources": [
+        "Systematic Theology (Grudem), 173–177",
+        "Systematic Theology (Miley), Vol. I, 217–220",
+        "Systematic Theology (Berkhof), 60–61",
+        "“Omnipotence, Omniscience, and Omnipresence” (Wainwright) in Cambridge Companion to Christian Philosophy, 46–65"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Omnipotence",
+      "title_ar": "كلية الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The attribute of omnipotence refers to God's unconditioned power to do that which he wills in accordance with his nature. The Bible portrays God as the Lord of both creation and the history of creation. God's power surpasses all created powers and stands over all. The term 'omnipotent' means 'all-powerful.' Philosophical theologians debate whether omnipotence refers to God's ability to do all that is logically possible or his ability to do absolutely anything whatsoever, irrespective of the laws of logic. Systematic theologians emphasize submitting our understanding of God's almighty power to how God has actually revealed himself, particularly in Christ, as the Creator God who graciously enters into covenant with his creation. God's power is unconditioned and exercised in accordance with his divine will and nature. While reflection on what God can do serves to highlight the gratuity of what he has actually done, it's important not to speculate too deeply on the specifics, avoiding defining God's power based on human intuitions and preferences.",
+      "description_ar": "صفة الكلية تشير إلى القوة الغير مشروطة لله لفعل ما يشاء بما يتفق مع طبيعته. يصور الكتاب المقدس الله كرب المخلوقات وتاريخ الخليقة. قوة الله تتجاوز جميع القوى المخلوقة وتقف فوقها جميعًا. مصطلح 'كلية' يعني 'قادر على كل شيء'. يتناقش اللاهوتيون الفلسفيون فيما إذا كانت الكلية تشير إلى قدرة الله على فعل كل ما هو منطقياً ممكناً أم قدرته على فعل أي شيء على الإطلاق بغض النظر عن قوانين المنطق. يؤكد اللاهوتيون المنهجيون على تقديم فهمنا لقوة الله العظيمة إلى كيفية كشف الله نفسه بالفعل، ولا سيما في المسيح كالإله الخالق الذي يدخل بسخاء في العهد مع خليقته. قوة الله غير مشروطة وتمارس وفقًا لإرادته الإلهية وطبيعته. عندما نتأمل في ما يمكن أن يفعله الله، فإنه يسلط الضوء على العطاء الكريم لما فعله في الواقع، ولكن من الأفضل عدم التكهن بشكل عميق في التفاصيل، مع تجنب تعريف قوة الله بناءً على غرائز وتفضيلات بشرية.",
+      "short_description": "The attribute of omnipotence refers to God's unconditioned power to do that which he wills in accordance with his nature. God's power surpasses all created powers and stands over all.",
+      "short_description_ar": "صفة الكلية تشير إلى القوة الغير مشروطة لله لفعل ما يشاء بما يتفق مع طبيعته. قوة الله تتجاوز جميع القوى المخلوقة وتقف فوقها جميعًا.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Ps.33.9",
+        "Ps.135.6",
+        "Job.42.2",
+        "Isa.43.13",
+        "Isa.46.10-Isa.46.11",
+        "Jer.32.17",
+        "Jer.32.27",
+        "Matt.19.26",
+        "Rom.1.16"
+      ],
+      "additional_verses": [
+        "Gen.18.14",
+        "Exod.15.6",
+        "Deut.3.24",
+        "Josh.4.24",
+        "Job.42.4",
+        "Ps.93.4",
+        "Ps.115.3",
+        "Jer.32.17-Jer.32.23",
+        "Mark.10.27",
+        "Luke.1.37",
+        "Rom.4.20-Rom.4.21",
+        "Eph.3.20"
+      ],
+      "other_subjects": [
+        "God's Infinity",
+        "God's Sovereignty over Creation",
+        "The Divine Decrees",
+        "Providence and Concursus",
+        "Creation ex nihilo"
+      ],
+      "recommended_resources": [
+        "Church Dogmatics (Barth), II.1, 490–607",
+        "Systematic Theology (Sonderegger), 151–332",
+        "Reformed Dogmatics (Bavinck), Vol. II, 245–49",
+        "Faith Seeking Understanding (Migliore), 3rd ed., 85–90",
+        "Systematic Theology (Hodge), Vol. I, 406–13",
+        "The Doctrine of God (Bray), 85–89",
+        "Systematic Theology, V (Pannenberg), Vol. I, 410–22"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Glory",
+      "title_ar": "مجد الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The glory of God refers to the splendor and brilliant beauty that shines through all of His divine attributes, with a particular emphasis on the crucified and risen Christ. It is the manifestation of the perfection of all His attributes, emphasizing His greatness, transcendence, splendor, and holiness. God is described in Scripture as clothed with glory and majesty, and creation itself displays the glory of its Creator. However, it is especially in the realm of divine grace that God's glory is seen, as He shows mercy and grace to His people. The life of Jesus Christ and the indwelling of the Holy Spirit in the Church are expressions of God's glory. Idolatry is the failure to give God the rightful glory and ascribing it to creatures. The concept of the beauty of the Lord is also associated with God's glory, expressing the profoundest experience available to human beings through the face-to-face vision of God.",
+      "description_ar": "مجد الله يشير إلى البهاء والجمال الساطع الذي يتجلى في جميع سماته الإلهية، مع التركيز الخاص على المسيح المصلوب والمتجسد. إنه مظهر تمام سماته، مع التأكيد على عظمته وتجاوزه وروعته وقداسته. يُصوَّر الله في الكتاب المقدس كمتلألئ بالمجد والجلال، وتكشف الخليقة ذاتها عن مجد خالقها. ومع ذلك، يُرى مجد الله بشكل خاص في مجال النعمة الإلهية، حيث يظهر لشعبه بالرحمة والنعمة. حياة يسوع المسيح واقتناء الروح القدس في الكنيسة هما تعبيران عن مجد الله. العبادة الوثنية هي الفشل في إعطاء الله مجده الحق وإرجاعه إلى المخلوقات. يُرتبط مفهوم جمال الرب أيضًا بمجد الله، معبرًا عن أعمق تجربة متاحة للبشر من خلال الرؤية وجهًا لوجه لله.",
+      "short_description": "The glory of God is the splendor and brilliant beauty that shines through all of His divine attributes, with a particular emphasis on the crucified and risen Christ. It is the manifestation of the perfection of all His attributes, emphasizing His greatness, transcendence, splendor, and holiness.",
+      "short_description_ar": "مجد الله هو البهاء والجمال الساطع الذي يتجلى في جميع سماته الإلهية، مع التركيز الخاص على المسيح المصلوب والمتجسد. إنه مظهر تمام سماته، مع التأكيد على عظمته وتجاوزه وروعته وقداسته.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Isa.6.3",
+        "Ps.19.1-Ps.19.2",
+        "Exod.33.18-Exod.34.8",
+        "John.1.14",
+        "John.7.39",
+        "2Cor.3.17-2Cor.3.18",
+        "Heb.1.3"
+      ],
+      "additional_verses": ["Ezek.1.28"],
+      "other_subjects": [
+        "God's Attributes",
+        "Attributes Describing God in Himself",
+        "Jesus' Exaltation",
+        "The Glorified Body",
+        "God's Holiness"
+      ],
+      "recommended_resources": [
+        "Reformed Dogmatics (Bavinck), Vol. II, 252–255",
+        "Systematic Theology (Reymond), 165–166",
+        "Systematic Theology (Grudem), 219–221",
+        "“Glory,” (Bray) in New Dictionary of Theology: Historical and Systematic (Davie, Grass, Holmes, McDowell, and Noble, eds.), 365–366"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "Attributes Describing God in His Activity toward Creatures",
+      "title_ar": "سمات وصف الله في نشاطه تجاه المخلوقات",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The communicable attributes of God describe God's intrinsic character, particularly in his activity toward creatures. These attributes are predicated analogically of creatures, especially those created in his image. While the Triune God is considered simple in the classical theological tradition, his attributes are identical to his being. The communicable attributes, essential to God's own life, are demonstrated in relationship to his creation. All of God's acts, including his communicable attributes, flow freely from his nature. While some attributes may seem contingent, such as wrathfulness, they are manifestations of God's holiness in the context of rebellion and sin. The communicable attributes uniquely display God's deeply personal nature, and they are equally applicable to each person of the Trinity. As human beings are created in the image of God, ascribing communicable attributes to God is not a projection of our image onto God, but a reflection of God's image upon us. These attributes are central to understanding the image of God in humanity and the work of redemption.",
+      "description_ar": "سمات الله القابلة للتوصيل تصف الطابع الجوهري لله، وخاصة في نشاطه تجاه المخلوقات. يتم ترتيب هذه السمات بطريقة تشبهية للمخلوقات، وخصوصًا تلك التي خلقت على صورة الله. بينما يُعتبر الله الثالوث مبسطًا في التقليد اللاهوتي الكلاسيكي، فإن سماته متطابقة مع وجوده. تُظهر السمات القابلة للتوصيل، الضرورية لحياة الله الذاتية، في علاقته بالخليقة. جميع أفعال الله، بما في ذلك سماته القابلة للتوصيل، تتدفق بحرية من طبيعته. بينما قد تبدو بعض السمات غير ثابتة، مثل الغضب، فهي مظاهر لقداسة الله في سياق التمرد والخطيئة. السمات القابلة للتوصيل تُظهر بشكل فريد طبيعة الله الشخصية العميقة، وهي قابلة للتطبيق على كل شخص من الثالوث بالتساوي. باعتبارهم خلق الله على صورته، فإن تسمية سمات الله القابلة للتوصيل ليست تصويرًا لصورتنا على الله، بل هي تصوير لصورة الله علينا. هذه السمات مركزية لفهم صورة الله في الإنسان وعمل الفداء.",
+      "short_description": "The communicable attributes of God describe God's intrinsic character, particularly in his activity toward creatures. These attributes are predicated analogically of creatures, especially those created in his image.",
+      "short_description_ar": "سمات الله القابلة للتوصيل تصف الطابع الجوهري لله، وخاصة في نشاطه تجاه المخلوقات. يتم ترتيب هذه السمات بطريقة تشبهية للمخلوقات، وخصوصًا تلك التي خلقت على صورة الله.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Ps.111",
+        "Exod.34.6-Exod.34.7",
+        "Ps.86.15",
+        "Ps.103.8",
+        "Ps.145.8",
+        "Deut.10.17-Deut.10.18",
+        "John.1.14-John.1.17"
+      ],
+      "additional_verses": [],
+      "other_subjects": [
+        "God's Attributes",
+        "Attributes Describing God in Himself",
+        "God's Goodness",
+        "God's Love",
+        "God's Mercy",
+        "God's Grace",
+        "God's Holiness",
+        "God's Righteousness",
+        "God's Veracity",
+        "God's Wisdom",
+        "God's Wrath"
+      ],
+      "recommended_resources": [
+        "A New Systematic Theology of the Christian Faith (Reymond), 2nd ed., Chapter 7: The Names and Nature of God, 153–203",
+        "The Christian Faith: A Systematic Theology for Pilgrims on the Way (Horton), Chapter 7: God: The Communicable Attributes, 259–272",
+        "Reformed Dogmatics (Bavinck), Vol. II, Chapter 5: God's Communicable Attributes, 178–255",
+        "Systematic Theology (Berkhof), Vol. 2, Part 1: The Doctrine of God, Chapter VII: The Communicable Attributes, 64–81",
+        "God without Parts: Divine Simplicity and the Metaphysics of God's Absoluteness (Dolezal)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Goodness",
+      "title_ar": "صلاح الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's goodness refers to the perfection of His nature and moral excellence. It can be understood in terms of God in Himself (ad intra) and God's work in creation (ad extra). God alone is perfect and lacks nothing, making Him the supreme and absolute good. His goodness is an essential and necessary attribute of His divine nature, inseparable from His essence. As an infinite being, His goodness is immeasurable. God's goodness is chiefly contemplated in the perfection of the relations among the persons of the Trinity, where the Father, Son, and Holy Spirit eternally delight, love, and rest in each other's goodness. God's goodness is not static but diffusive and overflowing, demonstrated by His decision to create. His goodness is manifested in creation and providence, with creation being good because God is its source and cause. While creatures cannot exemplify divine attributes fully, they can share in goodness to a lesser degree. The purpose of creation, redemption, and judgment is to manifest the effulgence of God's goodness. God's goodness can be known through general revelation in creation, but it is most evident in the work of redemption revealed through special revelation. It is portrayed in God's love towards His covenant people and His blessings. The ultimate display of God's goodness is seen in Christ, who reveals the true nature of God through His life, death, and work of salvation. Sinners, undeserving of any good gift, receive grace from the supreme good God, who forgives, reconciles, and redeems. The Christian is sanctified by the Holy Spirit and enabled to love, delight, and rest in God's goodness forever.",
+      "description_ar": "صلاح الله يشير إلى كمال طبيعته وتفوقه الأخلاقي. يمكن فهم صلاح الله من حيث الله في نفسه (ad intra) وعمل الله في الخلق (ad extra). الله وحده هو الكمال ولا يعاني من نقص، مما يجعله الخير العليا والمطلقة. صلاحه هو سمة جوهرية وضرورية لطبيعته الإلهية، لا يمكن فصلها عن جوهره. بوصفه كائنًا لانهائيًا، فإن صلاحه لا يمكن قياسه. يتم التفكير في صلاح الله بشكل رئيسي في كمال العلاقات بين أشخاص الثالوث، حيث يتلذذ الآب والابن والروح القدس ويحبون بعضهم البعض ويستريحون في صلاح بعضهم البعض. صلاح الله ليس ثابتًا ومعزولًا في ذاته، بل هو تفجير وفائض، مما يظهر في قراره الحر للخلق. يتجلى صلاحه في الخلق والتوفيق، حيث يكون الخلق جيدًا لأن الله هو مصدره وسببه. بينما لا يمكن للمخلوقات أن تتجلى بالكامل في سمات الله، يمكنها أن تشترك في الخير بدرجة أقل. يكمن الهدف من الخلق والفداء والقضاء في إظهار تألق صلاح الله. يمكن معرفة صلاح الله من خلال الوحي العام في الخلق، ولكنه يظهر بشكل أكبر في عمل الفداء الذي يُظهر من خلال الوحي الخاص. يتجلى في حب الله لشعبه المتعاهد وفي بركاته. يُرى أعظم مظهر لصلاح الله في المسيح، الذي يكشف الطبيعة الحقيقية لله من خلال حياته وموته وعمل الخلاص. يتلقى الخطاة، الذين لا يستحقون أي هدية جيدة، نعمة من الله الخير العليا، الذي يغفر ويصالح ويفدي. يتقدس المسيحي بعمل الروح القدس ويُمكنه أن يحب ويستمتع ويستريح في صلاح الله إلى الأبد.",
+      "short_description": "God's goodness refers to the perfection of His nature and moral excellence. It can be understood in terms of God in Himself and God's work in creation. God alone is perfect and lacks nothing, making Him the supreme and absolute good.",
+      "short_description_ar": "صلاح الله يشير إلى كمال طبيعته وتفوقه الأخلاقي. يمكن فهمه من خلال الله في نفسه وعمل الله في الخلق. الله وحده هو الكمال والخير العليا والمطلقة.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Exod.33.19",
+        "Jer.31.14",
+        "Ps.34.8",
+        "Ps.25.8",
+        "Gen.1.25"
+      ],
+      "additional_verses": [
+        "Gen.1.31",
+        "Ps.25.7",
+        "Ps.71.3",
+        "Ps.84.11",
+        "Ps.145.9",
+        "Nah.1.7",
+        "Matt.7.11",
+        "Matt.19.17",
+        "Mark.10.18",
+        "Jas.1.17"
+      ],
+      "recommended_resources": [
+        "Concerning the Nature of Good, Against the Manichaeans (Augustine)",
+        "Proslogion (Anselm)",
+        "Summa Theologica (Aquinas), Prima pars, qq. 5–6",
+        "A Discourse Upon the Goodness of God (Charnock)",
+        "Reformed Dogmatics (Bavinck), Vol. II"
+      ],
+      "related_topics": [
+        "God's Love",
+        "God's Infinity",
+        "God's Holiness",
+        "The Spirit and Common Grace",
+        "God's Mercy",
+        "God's Grace"
+      ],
+      "see_also": ["Goodness of God"]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Love",
+      "title_ar": "محبة الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's love is a divine attribute that reflects His disposition to be self-giving and to seek the good of others. While some consider God's love as His central attribute, others emphasize His holiness or sovereignty. However, all divine attributes are in harmony with each other and express God's abundant love. His love is demonstrated through goodness, mercy, grace, compassion, faithfulness, as well as holiness, justice, jealousy, and wrath. God's love is not limited to His creation but exists eternally within the Trinity. The Old Testament portrays God's love through the Hebrew word 'chesed,' indicating His covenantal faithfulness. In the New Testament, God's love is revealed through Jesus Christ's incarnation, death, and resurrection. God's love is salvific, seeking reconciliation with all whom He loves, and believers are called to imitate this love in their relationships with God and others. While tensions exist regarding the problem of evil, the relationship between God's love and justice, and the concept of divine impassibility, believers trust in God's revealed character and His self-giving love.",
+      "description_ar": "محبة الله هي صفة إلهية تعكس تصرف الله في أن يكون عطوفًا ويسعى للخير للآخرين. بينما يعتبر البعض محبة الله كصفته الرئيسية، يؤكد آخرون على قداسته أو سيادته. ومع ذلك، فإن جميع صفات الله الإلهية متفقة مع بعضها البعض وتعبّر عن محبة الله الوفيرة. يتجلى محبة الله من خلال الخير والرحمة والنعمة والشفقة والإخلاص، فضلاً عن القداسة والعدل والغيرة والغضب. لا يقتصر حب الله على خلقه بل يوجد بشكل أبدي في الثالوث. تصوّر العهد القديم محبة الله من خلال الكلمة العبرية 'الحَسَد' التي تشير إلى وفاءه العهدي. في العهد الجديد، يتجلّى محبة الله من خلال تجسد يسوع المسيح وموته وقيامته. محبة الله هي خلاصية، حيث يسعى إلى المصالحة مع كل من يحبه، ويُطلب من المؤمنين أن يقتديوا بهذا الحب في علاقتهم مع الله ومع الآخرين. على الرغم من وجود توترات بشأن مشكلة الشر والعلاقة بين محبة الله والعدل ومفهوم العاطفة الإلهية، يثق المؤمنون في شخصية الله المكشوفة ومحبته الذاتية والعطوفة.",
+      "short_description": "God's love is a divine attribute that reflects His disposition to be self-giving and to seek the good of others. It is demonstrated through various qualities and actions and is not limited to His creation. Believers are called to imitate this love and trust in God's revealed character.",
+      "short_description_ar": "محبة الله هي صفة إلهية تعكس تصرف الله في أن يكون عطوفًا ويسعى للخير للآخرين. يتجلى من خلال خصائص وأفعال مختلفة وليست محصورة في خلقه. يدعو المؤمنون لتقليدها والثقة بشخصية الله المكشوفة.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "1John.4.7-1John.4.11",
+        "1John.3.1",
+        "1John.3.16",
+        "Eph.3.17-Eph.3.19",
+        "1Cor.13",
+        "Matt.5.43-Matt.5.48",
+        "John.3.16",
+        "1John.4.14",
+        "Deut.7.7-Deut.7.8",
+        "Deut.12",
+        "John.15.13-John.15.14",
+        "Rom.5.8",
+        "Rev.1.5",
+        "Deut.7.9",
+        "Neh.1.5",
+        "Neh.9.32",
+        "Mic.7.20"
+      ],
+      "additional_verses": [
+        "Exod.34.6-Exod.34.7",
+        "Deut.10.15",
+        "Ps.32.10",
+        "Ps.36.7",
+        "Ps.106.1",
+        "Ps.136.1",
+        "Ps.145.8",
+        "Joel.2.13",
+        "Rom.8.38-Rom.8.39",
+        "2Cor.13.11",
+        "Eph.2.4-Eph.2.5",
+        "Titus.3.4-Titus.3.5"
+      ],
+      "other_subjects": [
+        "Attributes Describing God in His Activity toward Creatures",
+        "God’s Goodness",
+        "God’s Mercy",
+        "God’s Grace"
+      ],
+      "recommended_resources": [
+        "Systematic Theology (Frame), 231–256",
+        "The Difficult Doctrine of the Love of God (Carson)",
+        "The Love of God (Chambers)",
+        "God’s Love (Sproul)",
+        "Treatise on the Love of God (St. Francis de Sales)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Mercy",
+      "title_ar": "رحمة الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The mercy of God describes his disposition of compassionate forgiveness towards his people, especially in times of distress and dire circumstances. It is an attribute that humans can emulate in their relationships with others. God's mercy is not only a disposition but also an action on behalf of undeserving people. It is closely associated with other divine attributes such as compassion, grace, faithfulness, and kindness. God's mercy is a relational expression of his character, flowing from his attributes of goodness and love. It is a vital aspect of his grace-based covenant relationship with his people, evident when he delays punishment and extends forgiveness. In times of dire circumstances, those who fear God appeal to his merciful character, expecting him to act powerfully as he has done in the past. Throughout the Bible, God demonstrates his mercy by saving, redeeming, and restoring his people. The Bible also calls God's people to show mercy to others and to act on their behalf, as Jesus emphasized in his teachings. Jesus himself embodied God's mercy, revealing it through his actions as the Son of David.",
+      "description_ar": "رحمة الله تصف توجهه الرأفة والمغفرة الشفوية نحو شعبه، خاصة في الأوقات العصيبة والظروف الصعبة. إنها سمة يمكن أن يقتدي بها البشر في علاقاتهم مع الآخرين. ليست رحمة الله مجرد توجه وإنما هي أيضًا عمل نيابة عن شعب لا يستحق. إنها مرتبطة ارتباطًا وثيقًا بسمات إلهية أخرى مثل الشفقة والنعمة والأمانة واللطف. رحمة الله هي تعبيرٌ عن شخصيته وتنبع من سماته الصالحة والمحبة. إنها جانب حيوي من العلاقة بين الله وشعبه المبنية على نعمته، ويتجلى ذلك عندما يؤخر العقاب ويمنح الغفران. في الأوقات العصيبة، يلتجئ أولئك الذين يهابون الله إلى طبيعته الرحيمة، متوقعين منه أن يعمل بقوة كما فعل في الماضي. في جميع أنحاء الكتاب المقدس، يظهر الله رحمته من خلال إنقاذه وفدائه واستعادة شعبه. يدعو الكتاب المقدس أيضًا شعب الله لإظهار الرحمة تجاه الآخرين والعمل من أجلهم، كما أكد يسوع في تعاليمه. يجسد يسوع نفسه رحمة الله، مكشوفًا ذلك من خلال أعماله بصفته ابن داود.",
+      "short_description": "The mercy of God describes his compassionate forgiveness and action towards his people in distressful and dire circumstances. It is an attribute that humans can emulate and is closely related to other divine attributes such as compassion, grace, faithfulness, and kindness.",
+      "short_description_ar": "رحمة الله تصف مغفرته وتوجهه الرأفة نحو شعبه في الظروف الصعبة والصعبة. إنها سمة يمكن أن يقتدي بها البشر وترتبط ارتباطًا وثيقًا بسمات إلهية أخرى مثل الشفقة والنعمة والأمانة واللطف.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Exod.34.6-Exod.34.7",
+        "Ezek.33.10-Ezek.33.11",
+        "Dan.9.17-Dan.9.19",
+        "Ps.25.6-Ps.25.7",
+        "Ps.51.1-Ps.51.2",
+        "Matt.9.27-Matt.9.31",
+        "Matt.23.23-Matt.23.24",
+        "Luke.10.36-Luke.10.37",
+        "Eph.2.4-Eph.2.7"
+      ],
+      "additional_verses": [
+        "Exod.33.19",
+        "Deut.4.31",
+        "Neh.9.31",
+        "Dan.9.9",
+        "Mic.7.18",
+        "Luke.6.35-Luke.6.36",
+        "Jas.5.11"
+      ],
+      "other_subjects": [
+        "God’s Attributes",
+        "Attributes Describing God in His Activity toward Creatures",
+        "God’s Goodness",
+        "God’s Love",
+        "God’s Mercy",
+        "God’s Grace",
+        "The Church’s Work of Mercy and Justice"
+      ],
+      "recommended_resources": [
+        "Introductory Volume to Systematic Theology (Berkhof), 445",
+        "Bible Doctrine: Essential Teachings of the Christian Faith (Grudem and Purswell), 278",
+        "Systematic Theology: An Introduction to Biblical Doctrine (Grudem), 200",
+        "Church Dogmatics: The Doctrine of God, Part 2 (Vol 2) (Barth, Bromiley, and Torrance), 207",
+        "Systematic Theology (Berkhof), 72–73",
+        "Christian Theology (Erickson), 322"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Grace",
+      "title_ar": "نعمة الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's grace is unmerited divine favor, a gift from which many blessings flow. It emanates from God's inter-Trinitarian, gift-giving nature. Despite humanity's fallen state, God freely bestows good things upon his creatures, even though they do not deserve them. The greatest of these gifts is Jesus Christ. Grace is a prominent theme in the Bible and sets Christianity apart from other religions. God's grace encompasses his works of creation, covenants, promises, word, and redemptive work. Everything we have is due to grace, as it is God giving nothing less than Himself. God's grace arises from the fullness of his being, characterized by his merciful and gracious nature. It is a demonstration of God's love toward those who deserve the opposite. The grace of Yahweh is not a response to human actions but an eternal extension of God giving himself as Father, Son, and Spirit. In receiving the grace of the Lord Jesus Christ, believers participate in the divine fullness of the love of God and the fellowship of the Holy Spirit. Various kinds of grace are identified, such as common grace, which includes all the favor God shows to mankind that is less than salvation, and special grace, which is the saving grace that applies Christ's atonement to humans. Different theological traditions formulate their views on grace differently, with the central issue often revolving around the relationship between merit and divine favor. Grace is absent or seen as God's enablement in most non-Christian religions. Passages such as Genesis 3:15-4:26, Exodus 33:17-34:9, Psalms 86:15, 103:8, and 145:8, 1 Corinthians 15:10, Ephesians 2:8-9, and Romans 3:20-24 are key verses that speak of God's grace. Various recommended resources are available to delve deeper into the topic.",
+      "description_ar": "نعمة الله هي صالح الله غير المستحق، هبة منها تنبع العديد من النعم. إنها تنبع من حياته الإلهية داخل الثالوث، وطبيعته المتسامية للعطاء. على الرغم من حالة السقوط لدى البشرية، يمنح الله بحرية الأشياء الجيدة لمخلوقاته وهي لا تستحقها. أعظم هذه النعم هو يسوع المسيح. النعمة هي موضوع بارز في الكتاب المقدس وتميز المسيحية عن الأديان الأخرى. تتضمن نعمة الله أعماله في الخلق وكذلك عهوده ووعوده وكلمته وعمله الفدائي. كل ما لدينا هو نتيجة للنعمة، ولكن النعمة نفسها ليست شيئًا ثالثًا أو جوهرًا، بل في النعمة يعطي الله شيئًا لا يقل عن ذاته. تنبع نعمة الله تجاه البشرية من امتلاء كيانه. إنه كريم. عندما ظهر الله لموسى، أعلن اسمه، يهوه، أنا هو، كمحصلة لكيانه الأبدي. تشمل هذه الطبيعة كرمه: \"الرب الرب، إله رؤوف ورحيم، بطيء الغضب وكثير الحنان والصدق\" (خروج 34:6). يشير جي. آي. باكر إلى أن النعمة هي ببساطة محبة الله المظهرة تجاه أولئك الذين يستحقون العكس. نعمة الله هي حياته الإلهية المعطاءة، والهبة هي ذاته.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Gen.3.15-Gen.4.26",
+        "Exod.33.17-Exod.34.9",
+        "Ps.86.15",
+        "Ps.103.8",
+        "Ps.145.8",
+        "1Cor.15.10",
+        "Eph.2.8-Eph.2.9",
+        "Rom.3.20-Rom.3.24"
+      ],
+      "additional_verses": [
+        "2Kgs.13.23",
+        "Neh.9.17",
+        "Neh.9.31",
+        "Ps.111.4",
+        "Ps.116.5",
+        "Isa.30.18",
+        "Joel.2.13",
+        "Eph.1.6-Eph.1.7",
+        "Eph.2.7",
+        "2Thess.2.16-2Thess.2.17",
+        "Heb.4.16",
+        "1Pet.5.10"
+      ],
+      "other_subjects": [
+        "God's Love",
+        "God's Mercy",
+        "God's Goodness",
+        "God's Sovereignty over Creation",
+        "The Mission of the Spirit",
+        "The Spirit and Common Grace",
+        "The Spirit and Special Grace",
+        "The Spirit's Application of Salvation",
+        "Covenants",
+        "The Covenants of Grace",
+        "Theories of Atonement",
+        "The Church's Sacraments",
+        "Sanctification"
+      ],
+      "recommended_resources": [
+        "Paul and the Gift (Barclay)",
+        "All of Grace (Spurgeon)",
+        "Grace Abounding (Bunyan)",
+        "Four Anti-Pelagian Writings (Augustine); see 'On Nature and Grace'",
+        "Confronted by Grace (Webster)",
+        "The Grace of God (Ryrie)",
+        "Person, Grace, and God (Rolnick)",
+        "Grace Alone (Trueman), part of The Five Solas Series, 5 volumes",
+        "The Reign of Grace (Booth), Vol. I in The Works of Abraham Booth",
+        "The Doctrines of Grace: Rediscovering the Evangelical Gospel (Boice and Ryken)",
+        "The Whole Works of Thomas Boston (Boston), Vol. VIII, Human Nature in Its Fourfold State and a View of the Covenant of Grace",
+        "God's Grace: Romans 5:12-21 (Barnhouse)",
+        "Saved by Grace (Hoekema)",
+        "Future Grace (Piper)",
+        "Common Grace and the Gospel (Van Til)",
+        "Knowing God (Packer), 226",
+        "God Is Love (Bray), 608",
+        "Our Reasonable Faith (Bavinck), 143",
+        "Collected Writings of John Murray (Murray), Vol. II, Systematic Theology, 93-122",
+        "Aquinas on Nature and Grace: Selections from the Summa Theologica (Aquinas)",
+        "The Great Means of Salvation and of Perfection (de Liguori)",
+        "Mobile Ed: TH265 Free Grace Theology (Wilkin)",
+        "Systematic Theology (Gulley), Vol. III",
+        "Free Grace Soteriology (Anderson)"
+      ],
+      "see_also": ["God: Grace"],
+      "related_topics": [
+        "God's Love",
+        "God's Mercy",
+        "God's Goodness",
+        "God's Sovereignty over Creation",
+        "The Mission of the Spirit",
+        "The Spirit and Common Grace",
+        "The Spirit and Special Grace",
+        "The Spirit's Application of Salvation",
+        "Covenants",
+        "The Covenants of Grace",
+        "Theories of Atonement",
+        "The Church's Sacraments",
+        "Sanctification"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Holiness",
+      "title_ar": "قدسية الله",
+      "alternative_title": "The Holiness of God",
+      "alternative_title_ar": "قدسية الله",
+      "description": "The holiness of God signifies his complete separation from creation and his pure and incorruptible nature. The Bible reveals God's holiness in two distinct but interconnected ways. Firstly, it emphasizes God's distinction from his creation, highlighting that he is wholly other and deserving of worship. Secondly, it depicts God's holy presence manifesting among his people, demonstrating his pure and incorruptible nature. The Old Testament portrays God's holiness through his presence in sacred spaces like the tabernacle and the Jerusalem temple. The New Testament reveals God's holiness through Jesus Christ's ministry and the work of the Holy Spirit. Jesus, as the Holy One of Israel and the Second Person of the Trinity, exemplifies God's holiness in human form, untouched by sin. The Holy Spirit represents God's holiness on earth by indwelling believers and working powerfully within the Church. Followers of Jesus are called to be holy and offer their lives as sacrifices to God.",
+      "description_ar": "قدسية الله تشير إلى انفصاله الكامل عن الخليقة وطبيعته النقية واللاهتزاز. يكشف الكتاب المقدس قدسية الله بطريقتين متميزتين ومترابطتين. أولاً، يؤكد تميز الله عن خليقته، مشيرًا إلى أنه مختلف تمامًا ويستحق العبادة. ثانيًا، يصور الله القدس تجلياته في وسط شعبه، مما يدل على طبيعته النقية واللاهتزاز. يصور العهد القديم قدسية الله من خلال حضوره في أماكن مقدسة مثل المسكن وهيكل القدس. يكشف العهد الجديد قدسية الله من خلال خدمة يسوع المسيح وعمل الروح القدس. يمثل يسوع، كقدوس إسرائيل والشخص الثاني في الثالوث، قدسية الله في شكل بشري، غير ملوث بالخطيئة. يمثل الروح القدس قدسية الله في الأرض من خلال سكنه في المؤمنين وعمله القوي داخل الكنيسة. يدعو أتباع يسوع أن يكونوا أقداسًا وأن يقدموا حياتهم كذبائح مقدسة لله.",
+      "passages": {
+        "key_verses": [
+          "Isa.6.3",
+          "Ps.99.9",
+          "Lev.10.1-Lev.10.3",
+          "Lev.11.4",
+          "Deut.4.24",
+          "Ps.5.7",
+          "Ps.11.4",
+          "Mark.1.24",
+          "John.16.4-John.16.15",
+          "1Pet.1.15-1Pet.1.16",
+          "Rom.12.1-Rom.12.2"
+        ],
+        "additional_verses": [
+          "Exod.15.11",
+          "Lev.11.44",
+          "Josh.24.19",
+          "1Sam.2.2",
+          "Ps.22.3",
+          "Isa.43.15",
+          "Ezek.39.7",
+          "Heb.12.10",
+          "Rev.15.4"
+        ]
+      },
+      "recommended_resources": [
+        "Bible Doctrine: Essential Teachings of the Christian Faith (Grudem and Purswell)",
+        "Systematic Theology (Thiselton)",
+        "Systematic Theology (Strong)",
+        "A Survey of Bible Doctrine (Ryrie)"
+      ],
+      "related_topics": [
+        "God's Attributes",
+        "Attributes Describing God in Himself",
+        "God's Eternity",
+        "God's Glory",
+        "Attributes Describing God in His Activity toward Creatures",
+        "God's Goodness",
+        "God's Love",
+        "God's Mercy",
+        "God's Grace",
+        "God's Righteousness",
+        "God the Holy Spirit",
+        "God's Omnipresence",
+        "The Christian Use of the Law",
+        "The Church's Holiness",
+        "Condemnation for Sin",
+        "God's Wrath",
+        "Jesus' Impeccability",
+        "Sanctification"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Righteousness",
+      "title_ar": "بر الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The righteousness of God refers to his character and the coherence between his revealed will and his actions on behalf of his people. In the Bible, God's righteousness is tied to his role as king and judge over creation. As judge, God acts in accordance with what is right, and his revealed will serves as the highest standard of righteousness. God's righteousness brings integration and coherence to his other attributes, both incommunicable (eternality, omnipotence, omniscience, etc.) and communicable (goodness, love, mercy, etc.). It showcases God's distinction from creation and his worthiness to reign as king. God's righteous actions also reveal his divine attributes to humanity and provide a standard for how his people should act. The law in the Bible expresses God's righteous standards and serves as a revelation of his character, nature, and will. However, due to the fall and human sinfulness, fulfilling these commands requires the empowerment of God's Holy Spirit. In the New Testament, the righteousness of God is revealed in the person and gospel of Jesus Christ, and believers are clothed in Christ's righteousness through faith.",
+      "description_ar": "بر الله يشير إلى طبيعته والتناغم بين إرادته المكشوفة وأعماله نيابة عن شعبه. في الكتاب المقدس، يرتبط بر الله بدوره كملك وقاضي على الخليقة. بصفته قاضيًا، يتصرف الله وفقًا لما هو صواب، وإرادته المكشوفة تعتبر أعلى معيار للبر. يجلب بر الله التكامل والتناغم لصفاته الأخرى، سواءً كانت غير قابلة للانتقال (الأزلية، القدرة الكلية، المعرفة الكلية، الحضور الكلي، القداسة، الخ) أو قابلة للانتقال (الخير، المحبة، الرحمة، الخ). يعرض بر الله تميز الله عن الخليقة وجديرته بأن يملك كملك. تظهر الأعمال البريّة لله أيضًا صفاته الإلهية للبشرية وتوفر معيارًا لكيفية سلوك شعبه. الشريعة في الكتاب المقدس تعبّر عن معايير الله البرية وتكون إظهارًا لطبيعته وإرادته. ومع ذلك، نظرًا لسقوط الإنسان وخطاياه، يتطلب تحقيق هذه الوصايا قوة الروح القدس من الله. في العهد الجديد، يُكشف بر الله في شخص وإنجيل يسوع المسيح، ويُكسى المؤمنون ببر يسوع من خلال الإيمان.",
+      "short_description": "God's righteousness refers to his character and the coherence between his revealed will and his actions on behalf of his people. It brings integration and coherence to God's other attributes, and his righteous actions serve as a standard for his people. The law in the Bible expresses God's righteous standards and reveals his character and will.",
+      "short_description_ar": "بر الله يشير إلى طبيعته والتناغم بين إرادته المكشوفة وأعماله نيابة عن شعبه. يجلب التكامل والتناغم لصفات الله الأخرى، وتعمل أعماله البريّة كمعيار لشعبه. تعبّر الشريعة في الكتاب المقدس عن معايير الله البرية وتكشف عن طبيعته وإرادته.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Ps.97.2",
+        "Gen.18.25",
+        "Deut.32",
+        "Deut.4.7-Deut.4.8",
+        "Ps.19.7-Ps.19.9",
+        "Isa.45.19",
+        "Acts.17.31",
+        "Rom.1.16-Rom.1.17",
+        "Phil.3.8-Phil.3.11",
+        "2Cor.5.16-2Cor.5.21"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "God's Attributes",
+        "Attributes Describing God in His Activity toward Creatures",
+        "God's Holiness",
+        "God's Wrath",
+        "God's Law",
+        "The Person and Work of Christ",
+        "The Church’s Work of Mercy and Justice",
+        "Justification"
+      ],
+      "recommended_resources": null
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Veracity",
+      "title_ar": "صِدْقُ الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The attribute of veracity refers to God's truthfulness and his identity as the source of all truth. The Bible presents God as not only a trustworthy truth-teller but also the very essence of truth itself. God's Word is true because it expresses the truth of God's own being, rather than conforming to an external concept of truth. God's veracity is an attribute that can be shared with creation as it submits to God's Word. The assurance of believers is grounded in God's faithfulness, which is related to his veracity. Additionally, God's veracity is connected to the inspiration and infallible truthfulness of the Scriptures. Deception and false witness are seen as grave violations before God, given his identity as truth.",
+      "description_ar": "صِدْقُ الله هو سمة تشير إلى صدق الله وهويته كمصدر لجميع الحقيقة. يصور الكتاب المقدس الله ليس فقط كشاهد صادق بل كجوهر الحقيقة ذاتها. كلمة الله صادقة لأنها تعبر عن حقيقة وجود الله نفسه، بدلاً من التكيف مع مفهوم خارجي للحقيقة. صِدْقُ الله هو سمة يمكن مشاركتها مع الخليقة عندما تخضع لكلمة الله. تتجذر ثقة المؤمنين في صِدْقُ الله وارتباطها بوعود الله. بالإضافة إلى ذلك، يرتبط صِدْقُ الله بالإلهام الإلهي للكتاب المقدس وصِدْقه الذي لا يخطئ. يعتبر الكذب وشهادة الزور انتهاكًا خطيرًا أمام الله، نظرًا لهويته كالحقيقة.",
+      "short_description": "God's veracity refers to his truthfulness as the source of all truth. He is not only a reliable truth-teller but the very essence of truth itself. Believers find assurance in God's faithfulness, which is grounded in his veracity. God's veracity is also connected to the inspiration and infallible truthfulness of the Scriptures.",
+      "short_description_ar": "صِدْقُ الله يشير إلى صدقه كمصدر لجميع الحقيقة. إنه ليس فقط شاهدًا موثوقًا ولكنه جوهر الحقيقة نفسها. المؤمنون يجدون الطمأنينة في صدق الله الذي يستند إلى صِدْقُه. يرتبط صِدْقُ الله أيضًا بالإلهام والصدق الذي لا يخطئ للكتاب المقدس.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Num.23.19",
+        "1Sam.15.29",
+        "John.14.6",
+        "John.15.26",
+        "John.17.17",
+        "Titus.1.2"
+      ],
+      "additional_verses": ["Heb.6.18"],
+      "other_subjects": [
+        "The Bible's Truthfulness",
+        "God the Son",
+        "Jesus' Names",
+        "Jesus' Impeccability"
+      ],
+      "recommended_resources": [
+        "Systematic Theology (Hodge), Vol. I, 436–39",
+        "Christian Theology (Erickson), 3rd ed., 261",
+        "Summa Theologiæ (Thomas Aquinas), Ia, q.14",
+        "Institutes of the Christian Religion (Calvin), III.xiii.4"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Wisdom",
+      "title_ar": "حكمة الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's wisdom is the perfect divine judgment and insight that arises from His infinite knowledge. He shares this wisdom with His creatures according to their need and for their good. The wisdom of God is displayed in His works of creation and redemption. It is evident in His purposes, decrees, and perfectly embodied in His Son, the divine Logos. God is omniscient, omnipotent, immutable, and self-sufficient in His being and wisdom. His wisdom is put on display through His providence within history. Humans have the capacity for reason, logic, perception, creativity, and anticipation, which are attributes of wisdom. The fear of the Lord is the beginning of wisdom, and true discernment and godly insight come from a right affection towards God, the ultimate source of wisdom. The wisdom literature in Scripture showcases God's wisdom and provides guidance and insights for His image-bearers. Christ, the eternal wisdom of Yahweh, stands as the embodiment of wisdom.",
+      "description_ar": "حكمة الله هي الحكمة الإلهية الكمالة والبصيرة التي تنبع من معرفته اللانهائية. إنه يشارك هذه الحكمة مع مخلوقاته وفقًا لاحتياجاتهم ولخيرهم. تتجلى حكمة الله في أعماله في الخلق والفداء. إنها واضحة في أغراضه وأوامره، وتتجسد تمامًا في ابنه، كلمة الله الإلهية. الله هو عالم بكل شيء، قادر على كل شيء، لا يتغير، وذاتية الكفاية في وجوده وحكمته. تتجسد حكمته من خلال إدارته في التاريخ. لدى البشر القدرة على العقل، والمنطق، والإدراك، والإبداع، والتوقع، وغيرها، وهي سمات للحكمة. مختلف الكتب الحكمية في الكتاب المقدس تعرض حكمة الله وتوفر الإرشاد والبصيرة لحاملي صورته. يقف المسيح، الحكمة الأبدية للرب، كتجسيد للحكمة.",
+      "short_description": "God's wisdom is the perfect divine judgment and insight arising from His infinite knowledge. It is shared with His creatures and displayed in creation, redemption, and providence. Humans have the capacity for wisdom, which begins with the fear of the Lord. The wisdom literature in Scripture provides guidance and insights, with Christ standing as the embodiment of wisdom.",
+      "short_description_ar": "حكمة الله هي الحكمة الإلهية الكمالة والبصيرة التي تنبع من معرفته اللانهائية. إنها تشارك مع المخلوقات وتتجلى في الخلق والفداء والإدارة. لدى البشر قدرة على الحكمة، وتبدأ هذه الحكمة بخشية الرب. الكتب الحكمية في الكتاب المقدس تقدم الإرشاد والبصيرة، مع المسيح كتجسيد للحكمة.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Rom.11.33-Rom.11.36",
+        "Isa.40.13-Isa.40.14",
+        "Prov.8.22-Prov.8.31",
+        "Col.2.2-Col.2.3",
+        "Eccl.2.26",
+        "Prov.2.6",
+        "Eph.1.17",
+        "Dan.2.23",
+        "Jas.3.17",
+        "Jas.1.5"
+      ],
+      "additional_verses": ["1Cor.2.7", "Eph.3.10"],
+      "other_subjects": [
+        "Attributes Describing God in His Activity toward Creatures",
+        "God's Omniscience",
+        "Jesus' Metaphorical Names",
+        "Sanctification",
+        "The Bible",
+        "God's Foreknowledge",
+        "Providence"
+      ],
+      "recommended_resources": [
+        "Job (Commentaries on the Book of Job)",
+        "Proverbs (Commentaries on the Book of Proverbs)",
+        "Ecclesiastes (Commentaries on the Book of Ecclesiastes)",
+        "James (Commentaries on the Epistle of James)",
+        "The Wisdom of Proverbs, Job & Ecclesiastes: An Introduction to Wisdom Literature (Derek Kidner)",
+        "Dictionary of the Old Testament Wisdom, Poetry & Writings (Tremper Longman III and Peter Enns)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Wrath",
+      "title_ar": "غضب الله",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God's wrath is his revulsion against evil and his settled displeasure with sin and sinners. Although the concept of God's wrath is often ignored or reinterpreted in the liberal West, it is a prominent doctrine in the Bible. The Old Testament contains numerous references to God's wrath, described using various words. In many instances, God's wrath is portrayed in personal terms, while the New Testament also mentions it, albeit in less personal terms. It is important to understand that God's anger is not akin to human anger but represents his indignation at sin and his opposition to evil. Some theologians, like C. H. Dodd, propose an impersonal view of God's wrath, seeing it as an inevitable process in a moral universe. However, this view can diminish God's active rule and his engagement with human life. Wrath is not an eternal attribute of God like love and holiness but a reaction to the phenomenon of sin in time. It is an outworking of God's love and should be understood in relation to it, as a passionate resistance to every will that opposes him.",
+      "description_ar": "غضب الله هو رد فعله الشديد ضد الشر واستياءه الثابت من الخطيئة والخطاة. على الرغم من أن مفهوم غضب الله غالبًا ما يتجاهل أو يعاد تفسيره في الغرب الليبرالي، إلا أنه عقيدة بارزة في الكتاب المقدس. يحتوي العهد القديم على العديد من الإشارات إلى غضب الله، والتي يتم وصفها باستخدام كلمات مختلفة. في كثير من الحالات، يُصوَّر غضب الله بصورة شخصية، في حين يذكره العهد الجديد أيضًا، على الرغم من ذلك بصورة أقل شخصية. من المهم أن نفهم أن غضب الله ليس مماثلاً لغضب الإنسان، بل يمثل انزعاجه من الخطيئة ومعارضته للشر. يقترح بعض اللاهوتيين، مثل سي. إتش. دود، رؤية غضب الله على أنه عملية غير شخصية، كعملية لا مفر منها في كون أخلاقي. ومع ذلك، يمكن أن تقلل هذه الرؤية من حكم الله النشط ومشاركته في الحياة البشرية. الغضب ليس سمة أبدية لله مثل الحب والقداسة، بل هو رد فعل لظاهرة الخطيئة في الزمان. إنه نتاج لحب الله ويجب فهمه فيما يتعلق بهذا الحب، باعتباره مقاومة شغوفة لكل إرادة تعارضه.",
+      "short_description": "God's wrath is his revulsion against evil and his settled displeasure with sin and sinners.",
+      "short_description_ar": "غضب الله هو رد فعله الشديد ضد الشر واستياءه الثابت من الخطيئة والخطاة.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Rom.1.18-Rom.1.32",
+        "Nah.1.2-Nah.1.11",
+        "Heb.3.7-Heb.3.11",
+        "Rom.12.9",
+        "Rom.12.19-Rom.13.5"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "The Final Judgment",
+        "God's Holiness",
+        "God's Righteousness",
+        "Punishment for Sin",
+        "God's Holiness",
+        "God's Righteousness",
+        "Condemnation for Sin",
+        "Punishment for Sin"
+      ],
+      "recommended_resources": null
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "The Trinity",
+      "title_ar": "الثالوث",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The Trinity refers to the three persons in God: Father, Son, and Holy Spirit. It emerged as the best explanation of the biblical witness to the identity of God. The Bible teaches that there is only one God, yet it also teaches that the Father, Son, and Spirit are each fully God and distinct persons. They interact with one another and with humans in unique ways. The Trinity is not a mere analogy or a temporary role, but a fundamental aspect of God's nature. The doctrine of the Trinity is crucial for understanding the Christian faith and distinguishes Christianity from other monotheistic religions. It is often explained using analogies, such as the analogy of love. While the word 'Trinity' does not appear in the New Testament, its message and experience are integral to the gospel.",
+      "description_ar": "الثالوث يشير إلى الأشخاص الثلاثة في الله: الآب والابن والروح القدس. ظهرت هذه العقيدة كأفضل تفسير لشهادة الكتاب المقدس لهوية الله. يعلم الكتاب المقدس أن هناك إلهًا واحدًا فقط، ومع ذلك، فإنه أيضًا يعلم أن الآب والابن والروح القدس هم كل واحد منهم إله كامل وأشخاص متميزون. يتفاعلون مع بعضهم البعض ومع البشر بطرق فريدة. الثالوث ليس مجرد تشبيه أو دور مؤقت، بل هو جزء أساسي من طبيعة الله. عقيدة الثالوث ضرورية لفهم الإيمان المسيحي وتميز المسيحية عن الأديان التوحيدية الأخرى. ويشرح في بعض الأحيان باستخدام تشبيهات، مثل تشبيه الحب. وبالرغم من أن كلمة 'الثالوث' لا تظهر في العهد الجديد، إلا أن رسالته وتجربته ضرورية للإنجيل.",
+      "short_description": "The Trinity is the belief in three persons in God: Father, Son, and Holy Spirit. It is the best explanation of the biblical witness to the identity of God and distinguishes Christianity from other monotheistic faiths. The Father, Son, and Spirit are each fully God and interact with one another and with humans in distinct ways.",
+      "short_description_ar": "الثالوث هو الاعتقاد بثلاثة أشخاص في الله: الآب والابن والروح القدس. إنه أفضل تفسير لشهادة الكتاب المقدس لهوية الله ويميز المسيحية عن الأديان التوحيدية الأخرى. الآب والابن والروح القدس هم كل واحد منهم إله كامل ويتفاعلون مع بعضهم البعض ومع البشر بطرق متميزة.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Matt.28.19",
+        "John.10.22-John.10.30",
+        "John.14.1-John.14.28",
+        "John.16.4-John.16.15",
+        "2Cor.13.14",
+        "Gal.4.6",
+        "Eph.2.18",
+        "John.14.20",
+        "John.17.1-John.17.26",
+        "Col.2.9",
+        "1Pet.1.2",
+        "Matt.11.27",
+        "1Cor.15.27-1Cor.15.28",
+        "Matt.3.16-Matt.3.17"
+      ],
+      "additional_verses": [
+        "Gen.1.26",
+        "Gen.11.7",
+        "Gen.18.1-Gen.18.21",
+        "1John.5.7"
+      ],
+      "other_subjects": [
+        "God’s Existence",
+        "God’s Attributes",
+        "God’s Simplicity"
+      ],
+      "recommended_resources": []
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "The Unity of the Trinity",
+      "title_ar": "وحدة الثالوث",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The Trinity exists eternally as one God in three persons, whose unity is not merely in will or action, but in substance (Greek: ousia). This unity of the Godhead is derived from Scripture and is expressed through the concept of homoousios, as found in the Niceno-Constantinopolitan Creed. The Old Testament emphasizes the monotheistic belief in one God, while the New Testament reveals that this one God subsists in three distinct persons: the Father, the Son, and the Holy Spirit. Scripture speaks of the ontological unity of the Trinity through their interpenetrating relationship and the works they perform, as well as their involvement in creation, incarnation, resurrection, and the sanctification of believers. Trinitarian formulae affirm the plurality and unity of the Father, Son, and Holy Spirit. The unity of the Trinity also serves as a model for the unity among believers. It is important to clarify that the unity of the Trinity does not imply dynamic or modalistic monarchianism, which deviate from orthodox understanding and render salvation impossible.",
+      "description_ar": "الثالوث موجود دائمًا كإله واحد في ثلاثة أشخاص، ووحدتهم ليست فقط في الإرادة أو العمل، بل في الجوهر (اليونانية: ousia). هذه وحدة الثالوث الإلهي مستمدة من الكتاب المقدس وتعبّر عنها مفهوم homoousios كما ورد في العقيدة النيقية القسطنطينية. يؤكد العهد القديم الإيمان التوحيدي بإله واحد، في حين يظهر العهد الجديد أن هذا الإله الواحد موجود في ثلاثة أشخاص متميزين: الآب والابن والروح القدس. يتحدث الكتاب المقدس عن الوحدة الجوهرية للثالوث من خلال علاقتهم المتبادلة والأعمال التي يقومون بها، ومشاركتهم في الخلق والتجسد والقيامة وتقديس المؤمنين. تؤكد الصيغ الثالوثية وجود الآب والابن والروح القدس معًا ووحدتهم. تكون وحدة الثالوث أيضًا نموذجًا للوحدة بين المؤمنين. من المهم توضيح أن وحدة الثالوث لا تعني النظرية الدينامية أو الملوكية الأحادية، التي تنحرف عن الفهم الأرثوذكسي وتجعل الخلاص مستحيلًا.",
+      "short_description": "The Trinity exists eternally as one God in three persons, whose unity is not merely in will or action, but in substance (Greek: ousia). This unity of the Godhead is derived from Scripture and expressed through the concept of homoousios. The Trinity's ontological unity is evident in their interpenetrating relationship and works, as well as their involvement in creation, incarnation, resurrection, and the sanctification of believers. Trinitarian formulae affirm the plurality and unity of the Father, Son, and Holy Spirit. The unity of the Trinity serves as a model for the unity among believers.",
+      "short_description_ar": "الثالوث موجود دائمًا كإله واحد في ثلاثة أشخاص، ووحدتهم ليست فقط في الإرادة أو العمل، بل في الجوهر (اليونانية: ousia). هذه وحدة الثالوث الإلهي مستمدة من الكتاب المقدس وتعبّر عنها مفهوم homoousios. الوحدة الجوهرية للثالوث ظاهرة في علاقتهم المتبادلة وأعمالهم، ومشاركتهم في الخلق والتجسد والقيامة وتقديس المؤمنين. تؤكد الصيغ الثالوثية وجود الآب والابن والروح القدس معًا ووحدتهم. تكون وحدة الثالوث نموذجًا للوحدة بين المؤمنين.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Col.2.9",
+        "John.10.30",
+        "Matt.28.19",
+        "Eph.4.4-Eph.4.6",
+        "John.14.9-John.14.11",
+        "Deut.6.4"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "The Trinity and Scripture",
+        "The Trinity in the New Testament",
+        "The Trinity in the Old Testament",
+        "God’s Unity",
+        "God the Father",
+        "God the Son",
+        "God the Holy Spirit",
+        "God’s Simplicity"
+      ],
+      "recommended_resources": null
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "Plurality",
+      "title_ar": "التعدد",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Scripture affirms both the unity and the plurality of the Triune God, who exists eternally as Father, Son, and Spirit. The unity of the Triune God is expressed through the declaration that each of the three persons—Father, Son, and Holy Spirit—is fully and equally God. The Father is referred to as 'God the Father,' and the divinity of the Son is emphasized in passages like John 1:1 and Romans 9:5. The Holy Spirit is also identified as 'God' in Acts 5:3–4. Scripture is intentional in showing that while the three persons are one God, they are distinct and not to be confused with one another. The simultaneous appearance of all three members, such as at the baptism of Christ, demonstrates this plurality. The Triune God exists eternally as three distinct persons: the Father, Son, and Holy Spirit.",
+      "description_ar": "تؤكد الكتاب المقدس على الوحدة والتعدد في الله الثالوثي، الذي يوجد إلى الأبد كأب وابن وروح. يُعبر عن وحدة الله الثالوثي عن طريق إعلان أن كل من الأشخاص الثلاثة - الآب والابن والروح القدس - هو الله بالكامل وبالمساواة. يشار إلى الآب بأنه 'الله الآب'، وتُؤكد الروح القدس بأنه 'الله' في أعمال الرسل 5:3-4. يُظهر الكتاب المقدس بوضوح أن الأشخاص الثلاثة واحد الله، ولكنهم متميزون ولا ينبغي الخلط بينهم. تُوضح هذه التعددية بوجود الأعضاء الثلاثة معًا في آن واحد، مثلما حدث في معمودية المسيح. الله الثالوثي يوجد إلى الأبد كأب وابن وروح متميزين.",
+      "short_description": "Scripture affirms both the unity and plurality of the Triune God—Father, Son, and Spirit. The three persons are fully and equally God, yet distinct and not to be confused with one another.",
+      "short_description_ar": "يؤكد الكتاب المقدس على الوحدة والتعدد في الله الثالوثي - الآب والابن والروح القدس. الأشخاص الثلاثة هم الله بالكامل ومتماثلون بالمساواة، ولكنهم متميزون ولا ينبغي الخلط بينهم.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "2Cor.13.14",
+        "Matt.3.16-Matt.3.17",
+        "John.14.9-John.14.11",
+        "John.10.30"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "The Unity of the Trinity",
+        "The Trinity and Scripture",
+        "The Trinity in the New Testament",
+        "The Trinity in the Old Testament",
+        "Historical Development of the Doctrine of the Trinity",
+        "God’s Unity",
+        "God the Father",
+        "God the Son",
+        "God the Holy Spirit",
+        "The Person and Work of Christ"
+      ],
+      "recommended_resources": null
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God the Father",
+      "title_ar": "الله الآب",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God the Father is the person of the Trinity who is the principle of the Son and the Holy Spirit, though having no principle himself. The name 'Father' primarily signifies the divine person who generates and is in relation to the Son. It also designates the divine person to whom those adopted in Christ are related as children of God. 'Father' can be predicated personally and essentially of God. The Father's paternity extends to those who are coheirs in Christ. The term 'Father' can also be predicated of God's essence, reflecting the relation the Father has with all human persons and creation itself. The Father is the principle and origin of unity within the Godhead, and the one who generates the Son and breathes out the Holy Spirit. The Father's unbegottenness must be understood within the Trinitarian order of origin and procession. In the divine missions, the Son and Holy Spirit are sent by the Father, who creates and saves through them. God the Father is the first principle, source, and last end of all creation.",
+      "description_ar": "الله الآب هو شخص من الثالوث الذي هو مبدأ الابن والروح القدس، مع عدم وجود مبدأ لذاته. الاسم 'الآب' يدل أساساً على الشخص الإلهي الذي يولد وهو في صلة بالابن. كما يشير أيضًا إلى الشخص الإلهي الذي يرتبط به الذين تم اعتمادهم في المسيح كأبناء الله. يمكن استخدام 'الآب' للتوضيح بشكل شخصي وجوهري لله. إن إبويّة الآب تمتد إلى أولئك الذين هم شركاء في المسيح. يمكن أيضًا توجيه مصطلح 'الآب' لجوهر الله، مما يعكس العلاقة التي يحملها الآب مع جميع البشر والخليقة نفسها. يعد الآب هو المبدأ والأصل والهدف الأخير للوحدة داخل الإلهية، وهو الذي يولد الابن ويزفر الروح القدس. يجب فهم عدم إلد الآب ضمن ترتيب الأصل والمعالجة الثالوثية. في المهام الإلهية، يتم إرسال الابن والروح القدس بواسطة الآب، الذي يخلق ويخلص من خلالهم. إن الله الآب هو المبدأ الأول والمصدر والغاية الأخيرة لكل الخليقة.",
+      "short_description": "God the Father is the person of the Trinity who is the principle of the Son and the Holy Spirit. He is the first principle, source, and last end of all creation.",
+      "short_description_ar": "الله الآب هو شخص من الثالوث الذي هو مبدأ الابن والروح القدس. إنه المبدأ الأول والمصدر والغاية الأخيرة لكل الخليقة.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Matt.28.18-Matt.28.20",
+        "Isa.9.6",
+        "Luke.3.22",
+        "John.17.25-John.17.26",
+        "John.5.19-John.5.23",
+        "Eph.3.14-Eph.3.15",
+        "Mal.2.10"
+      ],
+      "additional_verses": [
+        "1Cor.8.6",
+        "Heb.12.9",
+        "John.1.18",
+        "John.6.27",
+        "1Pet.1.2",
+        "Deut.32.6",
+        "Isa.63.16",
+        "Matt.5.45"
+      ],
+      "other_subjects": [
+        "The Doctrine of the Triune God",
+        "God the Son",
+        "God the Holy Spirit",
+        "The Trinity",
+        "Plurality",
+        "The Unity of the Trinity",
+        "The Divine Names"
+      ],
+      "recommended_resources": [
+        "Summa Theologiae (Aquinas), Prima pars, q. 34",
+        "The Trinitarian Theology of St Thomas Aquinas (Emery), Ch. 8",
+        "The Oxford Handbook of The Trinity (Emery and Levering, eds.), Ch. 27",
+        "Post-Reformation Reformed Dogmatics (Muller), Vol. IV, Ch. 5",
+        "On the Trinity (Augustine), Bk. II–III",
+        "Commentary on the Sentences (Bonaventure), I, D. XXVII–XXIX"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God the Son",
+      "title_ar": "الله الابن",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "God the Son is the divine person who is the Word spoken by God the Father. He is the perfect image of the Father and shares one being with the Father. The Son is begotten from eternity by the Father and was sent by the Father to be born in human flesh for the purpose of redemption. The concept of generation describes the Son's relation to the Father, where the Son receives the divine nature through an eternal act of generation. This generation is not material or sexual but spiritual and intellectual. The Son is the Word of God, the Logos, through whom all creatures were made. The Son is the image of the Father and the principle from whom the Holy Spirit proceeds. The fullest revelation of God the Son is in Jesus Christ, who is the Son of God and the mediator of the new covenant. The Son is the way to the Father and gives the gift of the Holy Spirit to the Church.",
+      "description_ar": "الله الابن هو الشخص الإلهي الذي هو كلمة تكلم بها الله الآب. إنه الصورة المثالية للآب ويشترك في الوجود الواحد مع الآب. الابن مولود من الآب منذ الأزل وأرسله الآب ليولد في جسد بشري لغاية الفداء. مفهوم الإنجاب يصف علاقة الابن بالآب، حيث يتلقى الابن الطبيعة الإلهية من خلال فعل إنجاب أزلي. هذا الإنجاب ليس ماديًا أو جنسيًا بل روحيًا وفكريًا. الابن هو كلمة الله، اللوغوس، بواسطة الذي تم صنع كل الكائنات. الابن هو صورة الآب والمبدأ الذي ينبعث منه الروح القدس. أكمل الله الابن يتجلى في يسوع المسيح، الذي هو ابن الله ووسيط العهد الجديد. الابن هو الطريق إلى الآب ويعطي هبة الروح القدس للكنيسة.",
+      "short_description": "God the Son is the divine person who is the Word spoken by God the Father. He shares one being with the Father and was sent to be born in human flesh for redemption. The Son is the image of the Father and the principle from whom the Holy Spirit proceeds.",
+      "short_description_ar": "الله الابن هو الشخص الإلهي الذي هو كلمة تكلم بها الله الآب. إنه يشترك في الوجود الواحد مع الآب وأرسل ليولد في جسد بشري للفداء. الابن هو صورة الآب والمبدأ الذي ينبعث منه الروح القدس.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "John 1:1-18",
+        "Colossians 1:15-20",
+        "Hebrews 1:1-4",
+        "Matthew 11:27",
+        "Proverbs 8:22-31",
+        "1 John 1:1-3"
+      ],
+      "additional_verses": [
+        "Galatians 4:4",
+        "1 John 4:9",
+        "John 5:18-25",
+        "Hebrews 1:5-14",
+        "John 1:49",
+        "John 11:27"
+      ],
+      "other_subjects": [
+        "The Doctrine of the Triune God",
+        "God the Father",
+        "God the Holy Spirit",
+        "The Trinity",
+        "Plurality",
+        "The Unity of the Trinity",
+        "The Person and Work of Christ",
+        "Jesus’ Divinity",
+        "Jesus’ Names"
+      ],
+      "recommended_resources": [
+        "Summa Theologiae (Aquinas), Prima pars, q. 35–36",
+        "The Trinitarian Theology of St Thomas Aquinas (Emery), Ch. 9",
+        "The Oxford Handbook of The Trinity (Emery & Levering, eds.), Ch. 28",
+        "Post-Reformation Reformed Dogmatics (Muller), Vol. IV, Ch. 6",
+        "On the Trinity (Augustine), Bk. IV–V"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God the Holy Spirit",
+      "title_ar": "الله الروح القدس",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The Holy Spirit is the third member of the Triune God, fully God and fully personal. Discussions about the Holy Spirit often focus on his ontological status and his relationship within the Trinity. The baptismal formula in Matthew 28:19 describes God as 'Father, Son, and Holy Spirit,' affirming the inclusion of the Holy Spirit within the Godhead. The New Testament and Old Testament passages implicitly speak of the Holy Spirit's deity and his actions as unique to God. The Spirit enables believers to confess Christ, grants spiritual life, provides insight into divine mysteries, and transforms believers into the image of Christ. The Holy Spirit is also described as eternal, omnipresent, and is associated with divine titles such as 'God' and 'Lord.' As a person, the Holy Spirit can be grieved, leads believers, enables and engages in prayer. The Holy Spirit is often mentioned alongside the Father and the Son as a co-source of divine blessings for believers. Christ's farewell discourse in John 14-16 further reveals the ontological status of the Holy Spirit as being sent by Jesus and representing his presence in the lives of believers.",
+      "description_ar": "الروح القدس هو العضو الثالث في الثالوث الإلهي، مكمل وشخصي بالكامل. تتمحور مناقشات الروح القدس حول وضعه الكينوني وعلاقته داخل الثالوث. يصف صيغة المعمودية في متى 28:19 الله بأنه 'الآب والابن والروح القدس'، مما يؤكد تضمين الروح القدس في الثالوث الإلهي. تشير النصوص في العهد الجديد والعهد القديم ضمنيًا إلى إلهية الروح القدس وأعماله التي لا تشابه سواها. يمكن للروح أن يمكّن المؤمنين من الاعتراف بالمسيح، ويمنحهم الحياة الروحية، ويمنحهم فهمًا لأسرار الله، ويحوّلهم بمجد إلى صورة المسيح، ويصنع منهم مسكن الله. ويوصف أيضًا بأنه أزلي ومتواجد في كل مكان، ويتم تعطيله بلقب 'الله' و 'الرب'. بصفته شخصًا، يمكن أن يتألم الروح القدس ويتم كذبه، يقود المؤمنين ويمكنهم من الصلاة، وحتى يصلي. غالبًا ما يشار إلى الروح القدس جنبًا إلى جنب مع الآب والابن كمصدرين مشتركين للنعم الإلهية التي تخص المؤمنين. تعرّف خطاب الوداع للمسيح في إنجيل يوحنا 14-16 بوضوح الوضع الكينوني للروح القدس بوصفه المرسل من قِبَل يسوع والذي يمثل وجوده في حياة المؤمنين.",
+      "short_description": "The Holy Spirit is the third member of the Triune God, fully God and fully personal. Discussions about the Holy Spirit often focus on his ontological status and his relationship within the Trinity.",
+      "short_description_ar": "الروح القدس هو العضو الثالث في الثالوث الإلهي، مكمل وشخصي بالكامل. تتمحور مناقشات الروح القدس حول وضعه الكينوني وعلاقته داخل الثالوث.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Matt.28.19",
+        "Acts.5.3-Acts.5.4",
+        "2Cor.13.14",
+        "John.14.16",
+        "John.14.23",
+        "1Cor.12.3",
+        "Eph.1.13-Eph.1.14",
+        "Eph.4.30",
+        "2Cor.3.17-2Cor.3.18"
+      ],
+      "additional_verses": [
+        "Ps.51.11",
+        "Isa.63.10",
+        "John.3.8",
+        "John.14.26",
+        "John.15.26",
+        "John.16.13-John.16.15",
+        "1Cor.2.10"
+      ],
+      "other_subjects": [
+        "God the Father",
+        "God the Son",
+        "The Trinity",
+        "The Holy Spirit and Salvation",
+        "The Mission of the Spirit",
+        "The Spirit and Common Grace",
+        "The Spirit and Special Grace",
+        "The Spirit’s Application of Salvation",
+        "Effectual Calling",
+        "Regeneration",
+        "The Baptism of the Holy Spirit",
+        "The Spirit’s Indwelling",
+        "Sanctification",
+        "Spiritual Gifts in the Church"
+      ],
+      "recommended_resources": [
+        "Reformed Dogmatics (Bavinck), Vol. II, 277–779",
+        "Body of Divinity (Gill), Book I, Chapter 31",
+        "Christian Theology (Erickson), Vol. III, 845–863",
+        "Systematic Theology (Strong), 315–317",
+        "Systematic Theology (Strong), 323–326",
+        "Systematic Theology (Grudem), 226–261"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "The Trinity and Scripture",
+      "title_ar": "الثالوث والكتاب المقدس",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Within Scripture, the doctrine of the Trinity reveals that it is the Triune God who accomplishes salvation. The Father calls, the Son incarnates, and the Holy Spirit indwells. Scripture testifies to the Triune God, bearing witness to the Father, Son, and Holy Spirit as they initiate, accomplish, and apply salvation. It comes from God and proclaims God. Passages like 2 Timothy 3:16 highlight the Trinitarian nature of Scripture, with the term 'breathed out by God' having pneumatological (Spirit-related) meaning. Throughout the Bible, the Father, Son, and Holy Spirit are identified in their roles in revealing and authoring Scripture. The gradual disclosure of the Trinity in Scripture emphasizes both the oneness of God and the reality of the Father, Son, and Spirit. The doctrine of the Trinity provides the narrative connecting the Old and New Testaments, demonstrating how God fulfills his promises of salvation through the incarnation. Scripture serves as the narrative that reveals the Triune God's movement through history for the redemption of humanity.",
+      "description_ar": "في الكتاب المقدس، تكشف عقيدة الثالوث أن الله الثالوث هو الذي يحقق الخلاص. يدعو الآب ويتجسد الابن ويسكن الروح القدس. يشهد الكتاب المقدس لله الثالوث، حيث يشهد للآب والابن والروح القدس في بدء وإنجاز وتطبيق الخلاص. إنه يأتي من الله ويعلن عن الله. تسلط المقاطع مثل 2 تيموثاوس 3:16 الضوء على الطابع الثالوثي للكتاب المقدس، حيث يحمل المصطلح 'يستنفذ من قبل الله' معنى روحي (ذو صلة بالروح القدس). في جميع أنحاء الكتاب المقدس، يتم تحديد الآب والابن والروح القدس في أدوارهم في الكشف وتأليف الكتاب المقدس. يؤكد الكشف التدريجي للثالوث في الكتاب المقدس على وحدانية الله وواقع الآب والابن والروح. توفر عقيدة الثالوث السرد الذي يربط العهدين القديم والجديد، ويظهر كيف يفي الله بوعوده بالخلاص من خلال التجسد. يعمل الكتاب المقدس كالسرد الذي يكشف عن حركة الله الثالوث في التاريخ من أجل فداء البشرية.",
+      "short_description": "The Trinity in Scripture reveals that the Triune God accomplishes salvation. Scripture testifies to the Father, Son, and Holy Spirit as they initiate, accomplish, and apply salvation. It comes from God and proclaims God.",
+      "short_description_ar": "يكشف الثالوث في الكتاب المقدس أن الله الثالوث هو الذي يحقق الخلاص. يشهد الكتاب المقدس للآب والابن والروح القدس في بدء وإنجاز وتطبيق الخلاص. إنه يأتي من الله ويعلن عن الله.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "1Pet.1.1-1Pet.1.2",
+        "2Cor.1.21-2Cor.1.22",
+        "1Cor.12.4-1Cor.12.6"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "The Trinity in the New Testament",
+        "The Trinity in the Old Testament",
+        "The Unity of the Trinity",
+        "Plurality",
+        "The Bible’s Sufficiency",
+        "God the Father",
+        "God the Son",
+        "God the Holy Spirit"
+      ],
+      "recommended_resources": [
+        "God of the Living: A Biblical Theology (Feldmeier, Reinhard, and Spieckermann)",
+        "Preaching the Whole Bible as Christian Scripture (Goldsworthy)",
+        "The Essential Trinity: New Testament Foundations and Practical Relevance (Crowe and Trueman, eds.)",
+        "The Unfolding Mystery: Discovering Christ in the Old Testament (Clowney)",
+        "Systematic Theology (Berkhof)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "The Trinity in the Old Testament",
+      "title_ar": "الثالوث في العهد القديم",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "In the Old Testament, the Trinity is a mystery that is foreshadowed and anticipated, but fully revealed in the New Testament. While the Old Testament emphasizes monotheism, it contains indications of the Trinity. The use of plural pronouns by God and addressing multiple persons as God alludes to the Triune nature. Examples include Genesis 1:26, 3:22, 11:7, and Isaiah 6:8. Scripture also identifies multiple persons of the Godhead, such as the three visitors in Genesis 18 and the Father and the Spirit in the creation story of Genesis 1. The New Testament provides the proper means to understand the Trinitarian implications in the Old Testament, interpreting Messianic prophecies and revealing the Triune God present throughout. The Triune God leads His people to salvation through trust in Him.",
+      "description_ar": "في العهد القديم، الثالوث هو سر يتم تلميحه وتوقعه، لكنه يكتمل في العهد الجديد. بينما يؤكد العهد القديم الأحادية، فإنه يحتوي على دلالات للثالوث. استخدام الضمائر الجمعية من قِبَل الله والتحدث إلى أشخاص متعددين كلهم إله يلمح إلى طبيعة الثالوث. تشمل الأمثلة على ذلك سفر التكوين 1:26 و 3:22 و 11:7 وإشعياء 6:8. تُعرّف الكتاب المقدس أيضًا على أشخاص متعددين من الهيبة الإلهية، مثل زيارة ثلاثة من الرب في سفر التكوين 18 والآب والروح في قصة الخلق في سفر التكوين 1. يوفر العهد الجديد الوسيلة المناسبة لفهم الآثار الثالوثية في العهد القديم، ويفسر النبوءات المسيحية ويكشف عن الإله الثالوث الحاضر في جميع أنحاءه. الله الثالوث يقود شعبه إلى الخلاص من خلال الثقة به.",
+      "short_description": "The Trinity in the Old Testament is a mystery foreshadowed and anticipated, with indications of the Triune nature through the use of plural pronouns by God and addressing multiple persons as God. Scripture identifies multiple persons of the Godhead and the New Testament provides the proper means to understand the Trinitarian implications in the Old Testament.",
+      "short_description_ar": "الثالوث في العهد القديم هو سر تم تلميحه وتوقعه، مع وجود دلالات على طبيعة الثالوث من خلال استخدام الضمائر الجمعية من قِبَل الله والتحدث إلى أشخاص متعددين كلهم إله. يُعرف الكتاب المقدس أيضًا على أشخاص متعددين من الهيبة الإلهية ويوفر العهد الجديد الوسيلة المناسبة لفهم الآثار الثالوثية في العهد القديم.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": ["Deut.6.4", "Isa.43.10", "Isa.46.9", "Ps.110.1"],
+      "additional_verses": ["Gen.1.26", "Gen.11.7"],
+      "other_subjects": [
+        "The Trinity and Scripture",
+        "The Trinity in the New Testament",
+        "Plurality",
+        "The Unity of the Trinity",
+        "The Bible’s Sufficiency",
+        "Biblical Interpretation",
+        "God the Father",
+        "God the Son",
+        "God the Holy Spirit"
+      ],
+      "recommended_resources": [
+        "The Essential Trinity: New Testament Foundations and Practical Relevance (Crowe and Trueman, eds.)",
+        "Orations against the Arians (Athanasius)",
+        "The Unfolding Mystery: Discovering Christ in the Old Testament (Clowney)",
+        "Jesus on Every Page: 10 Simple Ways to Seek and Find Christ in the Old Testament (Murray)",
+        "Systematic Theology (Berkhof)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "The Trinity in the New Testament",
+      "title_ar": "الثالوث في العهد الجديد",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The Trinity, which was a mystery hinted at in the Old Testament, is revealed in the New Testament. The human authors of Scripture, inspired by the Holy Spirit, interpret the Old Testament in light of the reality of the incarnation and the indwelling presence of the Spirit. The New Testament provides witness to the Triune God through various passages and themes. The baptism of Jesus, where the three persons of the Godhead are present, demonstrates the Trinity. Triadic formulae, such as the Great Commission, highlight the communal nature of the Father, Son, and Holy Spirit. The New Testament also ascribes divinity and divine attributes to each person of the Trinity, emphasizing their unity and plurality within the Godhead. Through the incarnation and indwelling of the Spirit, the New Testament presents the Triune God as the source of salvation for humanity.",
+      "description_ar": "يكشف العهد الجديد الثالوث الذي كان لغزًا مشيرًا إليه في العهد القديم. يفسر الكتاب المقدس المؤلف من قبل البشر، الملهم بالروح القدس، العهد القديم في ضوء واقع التجسد ووجود الروح القدس الحاضر في الإنسان. يقدم العهد الجديد شهادة عن الله الثالوث من خلال مختلف الآيات والمواضيع. تعمد يسوع، حيث يكون الأشخاص الثلاثة من الثالوث حاضرين، يُظهر الثالوث. تسلسل الصيغ الثلاثية، مثل الوصية العظيمة، تسلط الضوء على الطبيعة الجماعية للآب والابن والروح القدس. يُعطي العهد الجديد أيضًا الألوهية والخصائص الإلهية لكل شخص من الثالوث، مشددًا على وحدتهم وتعددهم في ذات الله. من خلال التجسد والاستقرار الروحي، يقدم العهد الجديد الله الثالوث كمصدر الخلاص للبشرية.",
+      "short_description": "The New Testament reveals the Trinity, which was hinted at in the Old Testament. The authors interpret the Old Testament in light of the incarnation and the presence of the Spirit. The baptism of Jesus, triadic formulae, and attributions of divinity to each person of the Trinity highlight their unity and plurality. The New Testament presents the Triune God as the source of salvation for humanity.",
+      "short_description_ar": "يكشف العهد الجديد الثالوث الذي تم تلميحه في العهد القديم. يفسر الكتاب المقدس العهد القديم في ضوء التجسد ووجود الروح. يُسلط عماد يسوع والصيغ الثلاثية وتنسيب الألوهية لكل شخص من الثالوث الضوء على وحدتهم وتعددهم. يقدم العهد الجديد الله الثالوث كمصدر للخلاص للبشرية.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Matt.3.16-Matt.3.17",
+        "John.6.27",
+        "John.20.17",
+        "Gal.1.1",
+        "Eph.4.6",
+        "1Cor.6.19"
+      ],
+      "additional_verses": ["Matt.28.19", "2Cor.13.14", "1Pet.1.2"],
+      "other_subjects": [
+        "The Trinity and Scripture",
+        "The Trinity in the Old Testament",
+        "Plurality",
+        "The Unity of the Trinity",
+        "God the Father",
+        "God the Son",
+        "God the Holy Spirit",
+        "The Bible’s Sufficiency",
+        "Biblical Interpretation"
+      ],
+      "recommended_resources": [
+        "Jesus as God: The New Testament Use of Theos in Reference to Jesus (Harris)",
+        "The Quest for the Trinity: The Doctrine of God in Scripture, History and Modernity (Holmes)",
+        "The Essential Trinity: New Testament Foundations and Practical Relevance (Crowe and Trueman, eds.)",
+        "Systematic Theology (Berkhof)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "Historical Development of the Doctrine of the Trinity",
+      "title_ar": "التطور التاريخي لمبدأ الثالوث",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The historical development of the doctrine of the Trinity is a process characterized by foreshadowing, revelation, clarification, and expression. It is the story of the church grappling with the confession of monotheism and the reality of the God-man, Jesus Christ, and the Holy Spirit. The doctrine emerges in Scripture as a mystery foreshadowed in the Old Testament and disclosed in the New Testament. The early church expresses belief in the Trinity through narratives, liturgical formulas, and attributions of divinity. By the second century, the doctrine is firmly established in the church's language. In the fourth century, Trinitarian controversies lead to clarifications, such as the use of the term 'homoousios' to affirm the divinity of Jesus. The ecumenical councils further elaborate on christological matters. The Niceno-Constantinopolitan Creed represents essential Christian dogma. Despite challenges, the church remains faithful to the ancient dogma proclaimed in Scripture: one God in three persons: Father, Son, and Holy Spirit.",
+      "description_ar": "التطور التاريخي لمبدأ الثالوث هو عملية مميزة بالتنبؤ والوحي والتوضيح والتعبير. إنها قصة الكنيسة التي تتعامل مع اعتراف التوحيد وحقيقة إله-إنسان، يسوع المسيح، والروح القدس. يظهر المبدأ في الكتاب المقدس كلغز متوقع في العهد القديم ومفصح عنه في العهد الجديد. تعبر الكنيسة الأولى عن الاعتقاد في الثالوث من خلال السرد الخلاصي، والصيغ الثلاثية الطقسية، والتسنيم للهيبة للابن والروح. في القرن الثاني، يتم تأسيس المذهب بشكل قوي في لغة الكنيسة. في القرن الرابع، تؤدي الجدليات الثالوثية إلى التوضيحات، مثل استخدام مصطلح 'homoousios' لتأكيد إلهية يسوع. توضح المجامع المسكونية المسائل المسيحية. العقيدة النيقية-قسطنطينية تمثل العقيدة المسيحية الأساسية. على الرغم من التحديات، تظل الكنيسة وفية للعقيدة القديمة المعلنة في الكتاب المقدس: إله واحد في ثلاثة أشخاص: الآب والابن والروح القدس.",
+      "short_description": "The historical development of the doctrine of the Trinity is a process characterized by foreshadowing, revelation, clarification, and expression. It is the story of the church grappling with the confession of monotheism and the reality of the God-man, Jesus Christ, and the Holy Spirit.",
+      "short_description_ar": "التطور التاريخي لمبدأ الثالوث هو عملية مميزة بالتنبؤ والوحي والتوضيح والتعبير. إنها قصة الكنيسة التي تتعامل مع اعتراف التوحيد وحقيقة إله-إنسان، يسوع المسيح، والروح القدس.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Matt.3.13-Matt.3.17",
+        "Matt.28.16-Matt.28.20",
+        "2Cor.13.14",
+        "Eph.4.4-Eph.4.6",
+        "John.1.1",
+        "John.1.18",
+        "Acts.5.3-Acts.5.4",
+        "1Cor.3.16",
+        "1Cor.6.19"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "The Trinity and Scripture",
+        "The Trinity in the New Testament",
+        "The Trinity in the Old Testament",
+        "Plurality",
+        "The Unity of the Trinity",
+        "God the Father",
+        "God the Son",
+        "God the Holy Spirit",
+        "Special Revelation and Tradition",
+        "Rule of Faith"
+      ],
+      "recommended_resources": [
+        "The Seven Ecumenical Councils (Davis)",
+        "Testimonies of the Ante-Nicene Fathers to the Doctrine of the Trinity and of the Divinity of the Holy Ghost (Burton)",
+        "The Faith of Nicaea (Behr)",
+        "The Way to Nicaea (Behr)",
+        "Evangelical Dictionary of Theology (Treier and Elwell, eds.)",
+        "Systematic Theology (Berkhof)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "The Divine Decrees",
+      "title_ar": "الأوامر الإلهية",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "The divine decrees refer to the eternal plans that God has made for his creation and are being carried out in the lives of his creatures. These decrees encompass God's purpose for the creation of the universe and extend to the decisions made before the foundation of the world regarding the eternal destiny of human beings. The different approaches to the divine decrees arise from the theological controversy between Augustine and Pelagius, particularly concerning the doctrines of grace, free will, and original sin. Classic Augustinianism asserts that all human beings deserve condemnation for their rebellion against God, and God, out of his sovereign mercy, chose some for salvation even before their creation and their fall into sin. Moderate Augustinians believe that God's choice for salvation is made in light of his foreknowledge of whether individuals will respond to his grace in faith. The doctrine of the divine decrees remains complex and controversial, and human understanding is limited in reconciling God's sovereignty with human free will.",
+      "description_ar": "الأوامر الإلهية تشير إلى الخطط الأبدية التي قام الله بها لخلقه والتي تتجسد في حياة مخلوقاته. تتضمن هذه الأوامر قصد الله لخلق الكون وتمتد إلى القرارات التي اتخذها قبل تأسيس العالم بشأن المصير الأبدي للبشر. الطروحات المختلفة حول الأوامر الإلهية تنشأ من الجدل اللاهوتي بين أوغسطين وبيلاغيوس، وتتعلق بشكل خاص بمذاهب النعمة والإرادة الحرة والخطيئة الأصلية. تؤكد الأوغسطينية التقليدية أن جميع البشر يستحقون الإدانة بسبب تمردهم على الله، وأن الله، من رحمته السيادية، اختار بعضهم للخلاص قبل خلقهم وسقوطهم في الخطيئة. يعتقد المتوسطون الأوغسطيون أن اختيار الله للخلاص يتم في ضوء علمه المسبق بما إذا كان الأفراد سيستجيبون لنعمته بالإيمان. يظل عقيدة الأوامر الإلهية معقدة ومثيرة للجدل، وتكون الفهم البشري محدودًا في التوفيق بين سيادة الله وإرادة الإنسان الحرة.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Rev.13.8",
+        "Rev.17.8",
+        "Jer.1.5",
+        "Gal.1.15",
+        "Jude.1.4",
+        "Rom.9.1-Rom.9.29"
+      ],
+      "additional_verses": [
+        "Isa.14.26",
+        "Isa.53.10",
+        "Acts.2.23",
+        "Acts.14.17"
+      ],
+      "other_subjects": [
+        "Election",
+        "Predestination",
+        "Reprobation",
+        "God’s Sovereignty over Creation",
+        "Creation",
+        "Providence"
+      ],
+      "recommended_resources": [
+        "Predestination and Free Will (Basinger and Basinger, eds.)",
+        "Divine Election (Berkouwer)",
+        "The Reformed Doctrine of Predestination (Boettner)",
+        "Christ and the Decree (Muller)"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "God's Foreknowledge",
+      "title_ar": "معرفة الله المسبقة",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Foreknowledge refers to God's eternal loving regard, saving purpose, or passive awareness of the future choices of free individuals. Scripture affirms that God knows all things in advance, but there is division among interpreters regarding the understanding of God's foreknowledge. Reformed interpreters emphasize that God's foreknowledge entails notions of foreordination and is closely related to predestination and election. The term 'foreknowledge' is understood in the sense of a pretemporal relationship of divine favor and intention. Passages such as Romans 11:2 and Romans 8:29 highlight the connotation of divine favor and predestination. Non-Reformed interpreters associate foreknowledge with knowing in advance based on foreseen faith, while Reformed interpreters reject this view and emphasize God's free act of predestination. In the Reformed understanding, God's foreknowledge is causative and serves as a reminder of salvation by grace alone.",
+      "description_ar": "معرفة الله المسبقة تشير إلى اهتمام الله الأبدي المحب والغرض المخلص، أو الوعي السلبي بخيارات المستقبل للأفراد الحرة. يؤكد الكتاب المقدس أن الله يعلم كل شيء مسبقًا، ولكن هناك اختلاف في الفهم بين المفسرين بشأن معرفة الله المسبقة. يشدد المفسرون الإصلاحيون على أن معرفة الله المسبقة تنطوي على مفاهيم التدبير المسبق وترتبط ارتباطًا وثيقًا بالاصطفاء والاختيار الألهي. يُفهم مصطلح 'معرفة مسبقة' بالمعنى المتعلق بالعلاقة الزمنية قبل الزمان من فضل إلهي وقصد مسبق. تسلط الآيات مثل رومية 11:2 ورومية 8:29 الضوء على دلالة الفضل الإلهي والتقدير المسبق. يرتبط المفسرون غير الإصلاحيين معرفة الله المسبقة بالمعرفة المسبقة بناءً على الإيمان المتوقع، بينما يرفض المفسرون الإصلاحيون هذا الرأي ويؤكدون الفعل الحر لله في التقدير المسبق. في الفهم الإصلاحي، تكون معرفة الله المسبقة سببية وتذكيرًا بالخلاص بالنعمة وحدها.",
+      "short_description": "God's Foreknowledge refers to His eternal loving regard, saving purpose, or passive awareness of the future choices of free individuals. Reformed interpreters emphasize foreordination, predestination, and election in understanding God's foreknowledge. Non-Reformed interpreters associate foreknowledge with knowing in advance based on foreseen faith. God's foreknowledge serves as a reminder of salvation by grace alone.",
+      "short_description_ar": "معرفة الله المسبقة تشير إلى اهتمامه الأبدي المحب والغرض المخلص أو الوعي السلبي بخيارات المستقبل للأفراد الحرة. يؤكد المفسرون الإصلاحيون التدبير المسبق والتقدير المسبق والاصطفاء في فهم معرفة الله المسبقة. يربط المفسرون غير الإصلاحيين معرفة الله المسبقة بالمعرفة المسبقة بناءً على الإيمان المتوقع. تعمل معرفة الله المسبقة كتذكير بالخلاص بالنعمة وحدها.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Amos 3:2",
+        "Acts 2:23",
+        "Romans 8:29",
+        "Romans 11:2",
+        "1 Peter 1:2",
+        "1 Peter 1:20"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "The Divine Decrees",
+        "God's Sovereignty over Creation",
+        "Election",
+        "Predestination",
+        "God's Omniscience"
+      ],
+      "recommended_resources": [
+        "Exegetical Dictionary of the New Testament (Balz and Schneider), Vol. III, 153–154",
+        "\"The Meaning of Foreknowledge,\" (Baugh) in Still Sovereign (Schreiner and Ware, eds.)",
+        "Dictionary of Paul and His Letters (Hawthorne, Martin, and Reid, eds.), 310",
+        "The Epistle to the Romans (Moo), 532–534",
+        "The International Standard Bible Encyclopaedia (Orr, Nuelsen, Mullins, and Evans (eds.), Vol. II, 1128–1131",
+        "Romans (Schreiner), 451–453",
+        "New International Dictionary of New Testament Theology and Exegesis (Silva, ed.), Vol. IV, 138–139"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "Predestination",
+      "title_ar": "الاقدار",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Predestination is the doctrine of God's predetermination of all things. It is presented in Scripture in various ways, with biblical writers affirming it and assuming it throughout the narrative. The doctrine asserts that God is in control of all events and directs them according to his intended purposes. Predestination is closely related to divine sovereignty, as God's authority as creator-king gives him ownership and control over everything. It is also connected to the doctrine of election, where God chooses whom he will save. Predestination encompasses both salvation and God's foreordained purposes for all things. The doctrine of reprobation, concerning God's decree to condemn those not chosen for salvation, is also related. Predestination is further connected to the doctrine of divine providence, where God's intention and decree are worked out in the world. The question of whether predestination is grounded solely in God or considers external factors divides interpreters. Reformed interpreters maintain the doctrine of predestination while affirming human responsibility and emphasizing that sinners choose to sin. The doctrine of predestination is presented in Scripture as the foundation of trust in God, as it assures believers that he works all things according to his purpose and nothing can interfere with his plan.",
+      "description_ar": "الاقدار هي عقيدة تقدر الله بها كل الأشياء. تُعرض في الكتاب المقدس بأشكال مختلفة، حيث يؤكدها الكتابة المقدسة ويفترضها على مر السرد الكتابي. تؤكد العقيدة أن الله هو السيد على جميع الأحداث ويوجهها وفقًا لأغراضه المقصودة. الاقدار مرتبطة ارتباطًا وثيقًا بالسيادة الإلهية، حيث إن سلطة الله كخالق وملك تعطيه حقوق الملكية على كل ما هو موجود، وبسبب رباطته الشاملة، لا يمكن أن يحبط إرادته أبدًا. تشمل الاقدار كل من الخلاص ومقاصد الله المعينة لجميع الأشياء. كما يتصل الأمر بعقيدة الاختيار، حيث يختار الله من ينقذهم. الاقدار تضم كل من الخلاص وأغراض الله المعينة مسبقًا لجميع الأشياء. ترتبط العقيدة أيضًا بعقيدة الانتقاد، التي تتعلق بمرسوم الله للإدانة الذين لم يتم اختيارهم للخلاص. الاقدار ترتبط بشكل وثيق أيضًا بعقيدة العناية الإلهية، حيث يتم تنفيذ نية الله ومرسومه في العالم. ينقسم المفسرون بشأن ما إذا كانت الاقدار مرتكزة فقط في الله أم تأخذ في الاعتبار عوامل خارجية. يؤكد المفسرون المصلحون على عقيدة الاقدار مع تأكيد المسؤولية البشرية والتأكيد على أن الخطاة يختارون الخطيئة. تُعرض عقيدة الاقدار في الكتاب المقدس كأساس للثقة في الله، حيث يؤكد للمؤمنين أنه يعمل كل شيء وفقًا لغرضه وأنه لا يمكن لشيء أن يعترض خطته.",
+      "short_description": "Predestination is the doctrine of God's predetermination of all things, affirming that God is in control of events and directs them according to his purposes. It is closely related to divine sovereignty, election, and divine providence. Reformed interpreters emphasize both predestination and human responsibility. The doctrine of predestination assures believers of God's trustworthy control over all things.",
+      "short_description_ar": "الاقدار هي عقيدة تقدر الله بها كل الأشياء، مؤكدة أن الله هو السيد على الأحداث ويوجهها وفقًا لأغراضه. ترتبط الاقدار ارتباطًا وثيقًا بالسيادة الإلهية والاختيار والعناية الإلهية. يؤكد المفسرون المصلحون على الاقدار والمسؤولية البشرية. تؤكد عقيدة الاقدار على المؤمنين سيطرة الله الموثوق بها على جميع الأشياء.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Ps.115.3",
+        "Ps.135.5-Ps.135.7",
+        "Ps.139.16",
+        "Dan.4.35",
+        "Acts.4.28",
+        "Rom.8.28-Rom.9.33",
+        "Rom.11.33-Rom.11.36",
+        "Eph.1.5-Eph.1.11",
+        "Rev.4.11"
+      ],
+      "additional_verses": [
+        "Mal.1.2-Mal.1.3",
+        "John.15.16-John.15.17",
+        "Rom.9.15-Rom.9.16",
+        "1Pet.2.9"
+      ],
+      "recommended_resources": [
+        "Whomever He Wills (Barrett and Nettles, eds.), Chs. 7–8.",
+        "Reformed Dogmatics (Bavinck), Vol. II, 337–405.",
+        "The Sovereignty of God (Pink).",
+        "Still Sovereign (Schreiner and Ware, eds.).",
+        "Reformed Dogmatics (Vos), Vol. I, 77–154.",
+        "The Works of B. B. Warfield (Warfield), Vol. II, 1–67."
+      ],
+      "related_topics": [
+        "Election",
+        "God's Foreknowledge",
+        "Providence",
+        "Reprobation",
+        "God's Sovereignty over Creation",
+        "The Spirit's Application of Salvation",
+        "Providence and Concursus",
+        "The Problem of Evil"
+      ],
+      "see_also": ["Predestination"]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "Election",
+      "title_ar": "الاختيار",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Election is God's choice of those whom he would save. It is a common theme in Scripture, and it is a subset of the doctrine of salvation. God's eternal decree encompasses all things, including salvation, which is according to his own gracious purpose. Those whom God saves are those whom he chose to save. The ground or basis of election is tied to God's good pleasure, and Scripture emphasizes that election is according to God's grace and not based on human considerations. The reasons for election are found in God alone. Election is a source of joy for believers, as it demonstrates God's love and favor towards them.",
+      "description_ar": "الاختيار هو اختيار الله لأولئك الذين يريد أن يخلّصهم. إنه موضوع شائع في الكتاب المقدس، وهو فرع من عقيدة الخلاص. تشمل المرسوم الأزلي لله كل شيء، بما في ذلك الخلاص، الذي يأتي وفقًا لرغبته الكريمة. أولئك الذين يخلّصهم الله هم الذين اختارهم للخلاص. أساس الاختيار مرتبط بسرور الله الصالح، وتشدد الكتاب المقدس على أن الاختيار يتم وفقًا لنعمة الله وليس بناءً على اعتبارات بشرية. توجد أسباب الاختيار في الله وحده. الاختيار مصدر فرح للمؤمنين، حيث يظهر محبة الله ورضاه نحوهم.",
+      "short_description": "Election is God's choice of those whom he would save. It is a subset of the doctrine of salvation and is based on God's gracious purpose. The reasons for election are found in God alone, and it brings joy to believers.",
+      "short_description_ar": "الاختيار هو اختيار الله لأولئك الذين يريد أن يخلّصهم. إنه فرع من عقيدة الخلاص ويستند إلى الرغبة الكريمة لله. توجد أسباب الاختيار في الله وحده، ويجلب الفرح للمؤمنين.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Acts 13:48",
+        "Romans 8:28-Romans 8:30",
+        "Romans 9",
+        "1 Corinthians 1:18-31",
+        "Ephesians 1:4-Ephesians 1:5",
+        "Ephesians 1:11",
+        "2 Thessalonians 2:13-2 Thessalonians 2:14",
+        "2 Timothy 1:9"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "God's Foreknowledge",
+        "Predestination",
+        "Providence",
+        "Reprobation",
+        "God's Sovereignty over Creation",
+        "Covenants",
+        "The Church and Israel",
+        "The Spirit's Application of Salvation"
+      ],
+      "recommended_resources": [
+        "Whomever He Wills (Barrett and Nettles, eds.)",
+        "Dictionary of Paul and His Letters (Hawthorne, Martin, and Reid (eds.), 225–229",
+        "Systematic Theology (Grudem), 669–691",
+        "New International Dictionary of New Testament Theology and Exegesis (Silva, ed.), Vol. II, 145–152",
+        "Chosen for Life (Storms)",
+        "Reformed Dogmatics (Vos), Vol. I, 77–154"
+      ]
+    }
+  },
+  {
+    "_id": null,
+    "fields": {
+      "title": "Reprobation",
+      "title_ar": "الاجتناب",
+      "alternative_title": null,
+      "alternative_title_ar": null,
+      "description": "Reprobation is the aspect of predestination in which God determines to condemn the non-elect. It is closely related to the doctrine of election. Reprobation is God's active determination to condemn certain individuals, while preterition refers to God's choice to pass over or leave certain sinners to their own choices and the consequences thereof. The concept of preterition finds positive statements in Scripture, emphasizing the rejection of some by God's will. Similarly, reprobation is mentioned in relation to the wicked who are destined for condemnation. Reprobation and election both reflect God's sovereign choice, but while election highlights his mercy, reprobation displays his just wrath. The doctrine of reprobation raises questions about human freedom and responsibility, and it is generally regarded as a Reformed doctrine. It underscores the sinfulness and deserving condemnation of humanity, and God's prerogative to save or condemn based on his good pleasure and justice.",
+      "description_ar": "الاجتناب هو جانب الاقدار الذي يقوم بموجبه الله بالحكم على غير المختارين بالاعتذار. إنه مرتبط ارتباطًا وثيقًا بعقيدة الانتخاب. الاجتناب هو تحديد الله النشط للإدانة لبعض الأفراد، بينما يُشير التنصُّل إلى اختيار الله بتجاوزه أو تركه بعض المذنبين يتبعون طريقهم الخاص وعواقب تلك الاختيارات. يتم الإشارة بشكل إيجابي في الكتاب المقدس إلى مفهوم التنصُّل، مع التركيز على رفض بعض الأشخاص بمشيئة الله. بالمثل، يُذكر الاجتناب فيما يتعلق بالأشرار الذين هم مقدّرين للإدانة. الاجتناب والانتخاب يعكسان خيار الله السيادي، لكن بينما يسلط الانتخاب الضوء على رحمته، يعرض الاجتناب غضبه العادل. تثير عقيدة الاجتناب أسئلة حول حرية الإنسان والمسؤولية، وعادةً ما يعتبرها المفسرون الإصلاحيون، وتؤكد على الخطاة والإدانة المستحقة للبشرية، وعلى اختيار الله بإنقاذ أو إدانة بناءً على مسرّته الحسنة وعدالته.",
+      "short_description": "Reprobation is the aspect of predestination in which God determines to condemn the non-elect. It is closely related to the doctrine of election and involves God's active determination to condemn certain individuals. Reprobation and election both reflect God's sovereign choice, but while election highlights his mercy, reprobation displays his just wrath.",
+      "short_description_ar": "الاجتناب هو جانب الاقدار الذي يقوم بموجبه الله بالحكم على غير المختارين بالاعتذار. إنه مرتبط ارتباطًا وثيقًا بعقيدة الانتخاب ويشمل تحديد الله النشط لإدانة بعض الأفراد. الاجتناب والانتخاب يعكسان خيار الله السيادي، لكن بينما يسلط الانتخاب الضوء على رحمته، يعرض الاجتناب غضبه العادل.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Matt.11.25-Matt.11.27",
+        "Rom.9.8",
+        "Rom.9.11",
+        "Rom.9.17-Rom.9.18",
+        "Rom.9.22-Rom.9.23",
+        "Rom.9.27-Rom.9.28",
+        "1Pet.2.8",
+        "2Pet.2.3",
+        "2Pet.2.12",
+        "Jude.1.4",
+        "Rev.17.8"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "The Divine Decrees",
+        "Election",
+        "God’s Foreknowledge",
+        "Predestination",
+        "Providence",
+        "God’s Sovereignty over Creation",
+        "The Judgment of the Wicked"
+      ],
+      "recommended_resources": [
+        "Reformed Dogmatics (Bavinck), Vol. II, 393–398",
+        "The Christian’s Reasonable Service (a’Brakel), Vol. I, 211–250",
+        "Institutes of the Christian Religion (Calvin), III.xxi–xxiv",
+        "Salvation Belongs to the Lord (Frame), 179–181",
+        "Outlines of Theology (Hodge), 183–184",
+        "Dogmatic Theology (Shedd) (one-volume edition), 956–957",
+        "Dogmatic Theology (Shedd) (one-volume edition), 960–961",
+        "Reformed Dogmatics (Vos), Vol. I, 110–111"
+      ]
+    }
+  }
+]
