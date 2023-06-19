@@ -25,4 +25,10 @@ with open(filename) as json_file:
 
     print("systematic: ", len(data))
 
+filename = 'results.json'
+with open(filename) as json_file:
+    data = json.load(json_file)
+
+    print("redo_systematic: ", len(data))
+
     # print(len(data))
