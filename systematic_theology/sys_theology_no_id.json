@@ -471,23 +471,35 @@
     "_id": "T6CVa5ZZYAv",
     "fields": {
       "title": "Attributes Describing God in Himself",
-      "title_ar": "صفات الله في ذاته",
+      "title_ar": "الصفات الخاصّة بالله",
       "alternative_title": "Incommunicable Attributes of God",
-      "alternative_title_ar": "الصفات غير المشتركة لله",
+      "alternative_title_ar": "الصفات الإلهية الخاصّة",
       "description": "The attributes describing God in Himself are divine attributes unique to God’s nature and character, which cannot be communicated or shared by humanity. These attributes reflect God’s perfect nature and are derived from Scripture’s statements and narratives about God’s interactions with creation. The distinction between ’communicable’ and ’incommunicable’ attributes is commonly used in Reformed theologies. Incommunicable attributes highlight God’s absolute being and divine otherness, including attributes such as glory, immutability, omnipotence, omnipresence, eternity, omniscience, self-existence, spirituality, unity, simplicity, and infinity. The debate among theologians about speaking rightly of God’s nature acknowledges the limitations of human language and understanding, yet God’s self-revelation in Scripture allows humanity to partially comprehend and describe His attributes.",
       "description_ar": "صفات الله في ذاته هي صفات إلهية فريدة لطبيعة وشخصية الله، والتي لا يمكن تواصلها أو مشاركتها من قبل البشر. تعكس هذه الصفات طبيعة الله المثالية ومستمدة من البيانات النصية والروايات عن تفاعلات الله مع الخلق. يستخدم تصنيف ’الصفات المشتركة’ و ’الصفات غير المشتركة’ بشكل شائع في اللاهوت الإصلاحي. تسلط الصفات غير المشتركة الضوء على كيان الله المطلق واختلافه الإلهي، بما في ذلك الصفات مثل المجد، وعدم التغير، والقدرة الكلية، والحضور الكلي، والأبدية، والعلم الكلي، والوجود الذاتي، والروحانية، والوحدة، والبساطة، وعدم النهاية. النقاش بين اللاهوتيين حول التكلم بشكل صحيح عن طبيعة الله يعترف بقيود اللغة البشرية والفهم، ومع ذلك فإن إعلان الله عن طبيعته وشخصيته في الكتاب المقدس يتيح للبشرية أن تفهم وتصف صفاته جزئيًا.",
       "short_description": "Attributes describing God in Himself are divine attributes unique to God’s nature and character that cannot be communicated or shared by humanity. These attributes reflect God’s perfect nature and are derived from Scripture’s statements and narratives about God’s interactions with creation.",
       "short_description_ar": "صفات الله في ذاته هي صفات إلهية فريدة لطبيعة وشخصية الله التي لا يمكن تواصلها أو مشاركتها من قبل البشر. تعكس هذه الصفات طبيعة الله المثالية ومستمدة من البيانات النصية والروايات عن تفاعلات الله مع الخلق.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
+      "main_category": "qu7hCQFRRmL",
+      "other_categories": ["NtcDTbO9eKm"],
+      "sub_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
+      ],
       "key_verses": [
         "Isa.55.9",
         "1Chr.17.20",
         "Isa.40.18",
-        "Jer.10.6-Jer.10.7",
-        "Ps.102.25-Ps.102.27",
-        "Ps.145.3-Ps.145.5"
+        "Jer.10.6-7",
+        "Ps.102.25-27",
+        "Ps.145.3-5"
       ],
       "additional_verses": null,
       "other_subjects": ["gkRRpyiuTzP", "NtcDTbO9eKm", "FvOuQv6Yhw2"],
@@ -504,19 +516,30 @@
     "_id": "jeAZwIqjRQF",
     "fields": {
       "title": "God’s Self-Existence",
-      "title_ar": "ذاتية الله الذاتية",
+      "title_ar": "الله ذاتي الوجود",
       "alternative_title": null,
-      "alternative_title_ar": null,
+      "alternative_title_ar": "كينونة الله بذاته",
       "description": "God’s self-existence means that he has no cause or source and is uncreated. He is not dependent on anything else for his existence. God exists of himself and does not require any external explanation. He is self-existent in his nature and does not conform to external standards or influences. God exists ultimately for himself and his own glory. While created beings depend on God, he does not depend on anything. The doctrine of divine self-existence emphasizes that everything created has its existence and attributes by the power and will of God. However, God does not receive anything from us and does not need anything. Creatures depend on God for everything they have and can become.",
-      "description_ar": "ذاتية الله الذاتية تعني أنه ليس لديه سبب أو مصدر ولم يُخلق. لا يعتمد على أي شيء آخر لوجوده. الله موجودٌ في ذاته ولا يحتاج إلى أي تفسير خارجي. إنه ذاتي الوجود في طبيعته ولا يتوافق مع المعايير الخارجية أو التأثيرات. الله موجودٌ في النهاية من أجل نفسه ومجده الخاص. بينما تعتمد الكائنات المخلوقة على الله، فإنه لا يعتمد على أي شيء. تؤكد عقيدة ذاتية الله الذاتية أن كل شيء مخلوق له وجوده وصفاته بقوة وإرادة الله. ومع ذلك، لا يتلقى الله أي شيء منا ولا يحتاج إلى أي شيء. الكائنات تعتمد على الله لكل ما لديها وكل ما يمكن أن تصبح عليه.",
+      "description_ar": "كينونة الله الذاتية تعني أنه ليس لديه سبب أو مصدر ولم يُخلق. لا يعتمد على أي شيء آخر لوجوده. الله موجودٌ في ذاته ولا يحتاج إلى أي مُسَبِّب خارجي. إنه ذاتي الوجود بحسب طبيعته ولا يتوافق مع المعايير الخارجية أو التأثيرات. الله موجودٌ في النهاية من أجل نفسه ومجده الخاص. بينما تعتمد الكائنات المخلوقة على الله، فإنه لا يعتمد على أي شيء. تؤكد عقيدة ذاتية الله الذاتية أن كل شيء مخلوق له وجوده وصفاته بقوة وإرادة الله. ومع ذلك، لا يتلقى الله أي شيء منا ولا يحتاج إلى أي شيء. الكائنات تعتمد على الله لكل ما لديها وكل ما يمكن أن تصبح عليه.",
       "short_description": "God’s self-existence means that he has no cause or source and is uncreated. He is not dependent on anything else for his existence.",
-      "short_description_ar": "ذاتية الله الذاتية تعني أنه ليس لديه سبب أو مصدر ولم يُخلق. لا يعتمد على أي شيء آخر لوجوده.",
-      "main_category": null,
-      "other_categories": null,
+      "short_description_ar": "الوجود الذاتي لله يعني أنه ليس بحاجة إلى مُسَبِّب أو مصدر ولم يُخلق. لا يعتمد على أي شيء آخر لوجوده.",
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Exod.3.14-Exod.3.15",
-        "Job.22.2-Job.22.3",
+        "Exod.3.14-15",
+        "Job.22.2-3",
         "1Cor.8.6",
         "Rev.4.11",
         "Rom.11.36",
@@ -544,19 +567,30 @@
     "_id": "PlZL7WtRLTx",
     "fields": {
       "title": "God’s Unity",
-      "title_ar": "وحدة الله",
+      "title_ar": "وحدانية الله",
       "alternative_title": null,
-      "alternative_title_ar": null,
+      "alternative_title_ar": "الله الواحد",
       "description": "God’s unity refers to the absolute oneness and uniqueness of God (unity of singularity) and the utter simplicity of his essence (unity of simplicity). It affirms that there is only one divine being and that God’s essence is free from division and parts. Scripture attests to God’s uniqueness and numerical oneness throughout, emphasizing monotheism. The doctrine of divine unity, including singularity and simplicity, is foundational for the Trinity, where God is one, triune being. Practically, God’s unity of singularity orients Christian worship, while the unity of simplicity testifies to a fully alive and complete God.",
       "description_ar": "وحدة الله تشير إلى أن الله واحدٌ تمام الاستثناء وفريدٌ (وحدة الفردية)، وأن جوهره بسيطٌ تمام البساطة (وحدة البساطة). إنها تؤكد أنه لا يوجد سوى إله واحد، وأن جوهر الله خالٍ من التقسيم والأجزاء. تشهد الكتاب المقدس بتفرد الله ووحدانيته العددية في جميع أنحاءه، مؤكدة الأحادية الراسخة. عقيدة وحدة الله، بما في ذلك الفردية والبساطة، هي أساس الثالوث، حيث يكون الله واحدًا وثالوثًا. عمليًا، فإن وحدة الله الفردية توجه عبادة المسيحيين، بينما تشهد وحدة البساطة على الله الحي بالكامل والنشط والكامل.",
       "short_description": "God’s unity refers to the absolute oneness and uniqueness of God and the utter simplicity of his essence. It affirms that there is only one divine being and that God’s essence is free from division and parts.",
       "short_description_ar": "وحدة الله تشير إلى الوحدة التامة والاستثناءية لله وبساطة جوهره. إنها تؤكد أنه لا يوجد سوى إله واحد، وأن جوهر الله خالٍ من التقسيم والأجزاء.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Deut.6.4",
-        "Job.22.2-Job.22.3",
+        "Job.22.2-3",
         "1Kgs.8.60",
         "1Cor.8.6",
         "Gal.3.20",
@@ -588,22 +622,28 @@
     "_id": "YBjQ1XxWq8A",
     "fields": {
       "title": "God’s Spirituality",
-      "title_ar": "روحانية الله",
+      "title_ar": "الطبيعة الرّوحية لله",
       "alternative_title": null,
-      "alternative_title_ar": null,
+      "alternative_title_ar": "الله روح",
       "description": "God’s spirituality is an attribute that asserts God’s being as immaterial, invisible, and simple. God is described as a Spirit, neither material nor composite in nature. As a spiritual being, God has no body, composite parts, or physical dimensions. God’s spirituality allows Him to be present everywhere and worshiped anywhere. It also means that God cannot be destroyed, contained, or controlled by any creature. God’s spirituality is distinct from the Holy Spirit, who is the Third Person of the Trinity. While angels and humans are physical-spiritual beings, God’s spirituality is infinite and uncreated, setting Him apart from all other spirits. The Bible emphasizes God’s spirituality and rejects idolatry, as God does not require a physical form to communicate with His people or receive their worship.",
       "description_ar": "روحانية الله هي سمة تؤكد أن كيان الله ليس ماديًا أو مرئيًا أو مركبًا. يُصف الله بأنه روح، ليس له جسد ولا أجزاء مركبة ولا أبعاد مادية. تسمح روحانية الله له بأن يكون حاضرًا في كل مكان وأن يُعبد في أي مكان. وتعني أيضًا أن الله لا يمكن أن يُدمر أو يحتوى أو يسيطر عليه أي مخلوق. روحانية الله متميزة عن الروح القدس، الذي هو الشخص الثالث في الثالوث. بينما الملائكة والبشر هما كائنات مادية وروحية، فإن روحانية الله لا تنتهي وغير مخلوقة، مما يجعله مميزًا عن جميع الأرواح الأخرى. تسلط الكتاب المقدس الضوء على روحانية الله ويرفض وثنية، حيث لا يحتاج الله إلى شكل مادي للتواصل مع شعبه أو استقبال عبادته.",
       "short_description": "God’s spirituality is an attribute that describes Him as an immaterial and simple being, neither material nor composite. It means that God has no physical form, is present everywhere, and cannot be controlled or contained by any creature.",
       "short_description_ar": "روحانية الله هي سمة تصفه بأنه كائن غير مادي وبسيط، ليس ماديًا ولا مركبًا. وهذا يعني أن الله ليس لديه شكل مادي وأنه حاضر في كل مكان ولا يمكن السيطرة عليه أو حجزه من أي مخلوق.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
-      "key_verses": [
-        "John 4:24",
-        "1 Timothy 1:17",
-        "John 1:18",
-        "1 Timothy 6:15-16"
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
       ],
+      "sub_categories": null,
+      "key_verses": ["John.4.24", "1Tim.1.17", "John.1.18", "1Tim.6.15-16"],
       "additional_verses": [],
       "other_subjects": [
         "T6CVa5ZZYAv",
@@ -631,15 +671,21 @@
       "description_ar": "بساطة الله تعني أن جوهره ووجوده متطابقان، مما يشير إلى أنه لا توجد تركيبة أو تقسيم داخل الطبيعة الإلهية. إنها تؤكد أن الله ليس مركبًا من أجزاء أو سمات منفصلة عن جوهره. بدلاً من ذلك، تصف سماته ماهية كيانه دون تقسيم أو تعارض مع جوهره. بساطة الله تؤكد أنه ذاتي الوجود، ويكفي ذاته، وغير مسبب. كما لها تداعيات على عقيدة الثالوث، حيث تؤكد أن الآب والابن والروح القدس هم أنماط شخصية متميزة للوجود داخل جوهر الإلهية. تتجذر فكرة بساطة الله في التقاليد المسيحية وقد تم تطويرها ومناقشتها من قبل اللاهوتيين على مر التاريخ.",
       "short_description": "God’s simplicity affirms that his essence and existence are identical, without composition or division. It emphasizes his self-existence, self-sufficiency, and the unity of his attributes with his essence. This doctrine has implications for the Trinity and has been discussed by theologians throughout history.",
       "short_description_ar": "بساطة الله تؤكد أن جوهره ووجوده متطابقان، بدون تركيب أو تقسيم. إنها تؤكد ذاتيته وكفايته الذاتية وتوحد سماته مع جوهره. لهذه العقيدة تداعيات على الثالوث وتم مناقشتها من قبل اللاهوتيين على مر التاريخ.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
-      "key_verses": [
-        "Exod.3.14",
-        "Exod.34.6-Exod.34.7",
-        "John.5.26",
-        "1John.1.5"
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
       ],
+      "sub_categories": null,
+      "key_verses": ["Exod.3.14", "Exod.34.6-7", "John.5.26", "1John.1.5"],
       "additional_verses": ["John.4.24"],
       "other_subjects": [
         "jeAZwIqjRQF",
@@ -661,20 +707,31 @@
     "_id": "Rw7LDJToqBx",
     "fields": {
       "title": "God’s Immutability",
-      "title_ar": "ثبات الله",
+      "title_ar": "الله غير المُتَغيّر",
       "alternative_title": null,
       "alternative_title_ar": null,
       "description": "God’s immutability refers to his freedom from change and his constant nature throughout all time. Divine immutability affirms that God is unaffected by change and exists outside of time. Although he remains unchanging, his creatures experience him as constant in his relationship with humanity, making him worthy of trust. Immutability sets God apart from mutable creatures and inanimate objects that undergo growth, change, or destruction. God’s immutability does not hinder his involvement in history, as seen in biblical revelation, but rather demonstrates his unchanging character in different contexts. He remains faithful to his promises and completes what he begins. God’s immutability forms the foundation for trust in him.",
       "description_ar": "ثبات الله يشير إلى حريته من التغيير وطبيعته الثابتة عبر الزمان. عقيدة ثبات الله تؤكد أن الله لا يتأثر بالتغيير ويوجد خارج الزمان. بينما يبقى ثابتًا، يختبره المخلوقات كمستقر في علاقته بالبشرية، مما يجعله جديرًا بالثقة. يفصل ثبات الله بين المخلوقات المتغيرة والأشياء الغير حية التي تتجاوز نموًا وتغييرًا أو تدميرًا. ثبات الله لا يعوق مشاركته في التاريخ، كما هو واضح في الوحي الكتابي، بل يوضح طابعه غير المتغير في سياقات مختلفة. إنه يبقى وفيًا لوعوده ويكمل ما يبدأ. ثبات الله يشكل أساس الثقة به.",
       "short_description": "God’s immutability refers to his freedom from change and his constant nature throughout all time. It sets him apart from mutable creatures and inanimate objects, and forms the foundation for trust in him.",
       "short_description_ar": "ثبات الله يشير إلى حريته من التغيير وطبيعته الثابتة عبر الزمان. إنه يفصله عن المخلوقات المتغيرة والأشياء الغير حية، ويشكل أساس الثقة به.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Mal.3.6",
         "Jas.1.17",
-        "Ps.102.26-Ps.102.28",
+        "Ps.102.26-28",
         "Num.23.19",
         "Rom.1.23",
         "Php.1.6",
@@ -684,8 +741,8 @@
         "Exod.3.14",
         "Num.23.20",
         "1Sam.15.29",
-        "Heb.1.11-Heb.1.12",
-        "Heb.6.17-Heb.6.18"
+        "Heb.1.11-12",
+        "Heb.6.17-18"
       ],
       "other_subjects": [
         "EZgVYZJztPZ",
@@ -707,33 +764,44 @@
     "_id": "IRJvHR9ggzJ",
     "fields": {
       "title": "God’s Infinity",
-      "title_ar": "لانهائية الله",
+      "title_ar": "الله غير المحدود",
       "alternative_title": null,
       "alternative_title_ar": null,
       "description": "God’s infinity is an incommunicable attribute of God that signifies his boundless perfection and denies any limitation to his being or attributes. It affirms that God transcends the categories of finite creatures and possesses every degree of perfection without any limitation. Divine infinity is described under three aspects: the infinity of God’s essence, which affirms the fullness and completeness of his being; the infinity of God in relation to time, known as eternity, where God transcends temporal limitations; and the infinity of God in relation to space, known as immensity and omnipresence, where God transcends spatial limitations while filling every part of created space. Scripture attests to God’s infinity by emphasizing his immeasurability, transcendence, and presence in all of creation. Divine infinity also implies the incomprehensibility of God, as humans cannot fully comprehend the infinite nature of God but can have limited and true knowledge of him. Understanding God’s infinity leads to awe, amazement, and a sense of creatureliness, reminding humans of the infinite worth of their salvation in Christ.",
       "description_ar": "لانهائية الله هي صفة لا يمكن نقلها للبشر تدل على كماله الغير محدود وتنفي أي قيد في كيانه أو صفاته. إنها تؤكد أن الله يتجاوز فئات المخلوقات المحدودة ويمتلك كل درجات الكمال بدون أي قيد. توصف لانهائية الله بثلاثة جوانب: لانهائية جوهر الله، التي تؤكد على اكتمال واكتمال كيانه. لانهائية الله فيما يتعلق بالزمن، المعروفة باسم الأبدية، حيث يتجاوز الله القيود الزمنية. ولانهائية الله فيما يتعلق بالمكان، المعروفة باسم واسعية وحضوره الكلي، حيث يتجاوز الله القيود المكانية وفي الوقت نفسه يملأ كل جزء من الفضاء المخلوق. تشهد الكتاب المقدس على لانهائية الله من خلال التأكيد على عدم قدرتنا على قياسه وتجاوزه ووجوده في جميع المخلوقات. كما تعني لانهائية الله عدم قدرة البشر على فهم طبيعة الله اللانهائية بالكامل، ولكنهم يمكنهم الحصول على معرفة محدودة وصحيحة له. فهم لانهائية الله يؤدي إلى الإعجاب والذهول وشعور بالبشرية، مما يذكر البشر بقيمة خلاصهم اللانهائية في المسيح.",
       "short_description": "God’s infinity is an attribute that signifies his boundless perfection, denying any limitation to his being or attributes. It affirms that God transcends finite categories and possesses every degree of perfection without limitation.",
       "short_description_ar": "لانهائية الله هي صفة تدل على كماله الغير محدود، وتنفي أي قيد في كيانه أو صفاته. إنها تؤكد أن الله يتجاوز الفئات المحدودة ويمتلك كل درجات الكمال بدون قيد.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
+      ],
       "sub_categories": null,
       "key_verses": [
         "2Chr.2.6",
-        "Job.11.7-Job.11.9",
+        "Job.11.7-9",
         "Ps.145.3",
-        "Isa.40.12-Isa.40.17",
+        "Isa.40.12-17",
         "Isa.48.12",
         "Dan.4.34",
         "Matt.5.48",
         "Eph.3.20",
-        "Acts.17.27-Acts.17.28",
+        "Acts.17.27-28",
         "2Pet.3.8"
       ],
       "additional_verses": [
         "1Kgs.8.27",
         "Isa.66.1",
         "Jer.23.24",
-        "John.11.7-John.11.9"
+        "John.11.7-9"
       ],
       "other_subjects": [
         "dRhugHNolMP",
@@ -755,20 +823,31 @@
     "_id": "EZgVYZJztPZ",
     "fields": {
       "title": "God’s Eternity",
-      "title_ar": "أبدية الله",
+      "title_ar": "الله السرمديّ",
       "alternative_title": "The Eternity of God",
-      "alternative_title_ar": "أبدية الله",
+      "alternative_title_ar": "الله الأزلي",
       "description": "God’s eternity means that he exists beyond and outside of time. Unlike creatures that are subject to change and time, God is unchanging and exists in a single eternal moment. He has no beginning or end in time. God is perfect and immutable, not requiring growth or decline. He transcends the temporal concepts of ’before’ and ’after.’ While time-bound creatures perceive God’s eternity in relation to time, God exists simultaneously with every moment in time. To God, all times are present, and he comprehends them all. The doctrine of God’s eternity has been articulated by theologians such as Augustine, Boethius, Aquinas, and the Reformers.",
       "description_ar": "أبدية الله تعني أنه يوجد خارجًا عن الزمان وبعيدًا عنه. على عكس المخلوقات التي تخضع للتغير والزمان، الله ثابت وموجود في لحظة أبدية واحدة. ليس لديه بداية أو نهاية في الزمان. الله كامل ولا يتغير، ولا يحتاج إلى النمو أو التراجع. إنه يتجاوز المفاهيم الزمانية ’قبل’ و ’بعد’. بينما تشعر المخلوقات المقيدة بالزمان بأبدية الله فيما يتعلق بالزمان، يوجد الله في نفس الوقت مع كل لحظة في الزمان. بالنسبة لله، كل الأوقات موجودة، وهو يدركها جميعًا. قد صاغت عقيدة أبدية الله علماء اللاهوت مثل أوغسطين وبويثيوس وتوما الأكويني والإصلاحيون.",
       "short_description": "God’s eternity means that he exists beyond and outside of time. He is unchanging and transcends temporal concepts. While creatures are bound by time, God is eternal and exists simultaneously with every moment in time.",
       "short_description_ar": "أبدية الله تعني أنه يوجد خارجًا وبعيدًا عن الزمان. إنه لا يتغير ويتجاوز المفاهيم الزمانية. بينما يرتبط المخلوقات بالزمان، الله أزلي وموجود في الوقت نفسه مع كل لحظة في الزمان.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Rev.1.8",
         "Isa.40.28",
-        "Ps.90.2-Ps.90.4",
+        "Ps.90.2-4",
         "Job.36.26",
         "John.8.58",
         "1Tim.6.16",
@@ -779,7 +858,7 @@
         "Deut.32.40",
         "Deut.33.27",
         "Neh.9.5",
-        "Ps.90.1-Ps.90.2",
+        "Ps.90.1-2",
         "Ps.102.12",
         "Isa.43.10",
         "Hab.1.12",
@@ -806,21 +885,32 @@
     "_id": "hjCfs9MvFaw",
     "fields": {
       "title": "God’s Omnipresence",
-      "title_ar": "الحضور العالمي لله",
+      "title_ar": "الوجود الكُليّ لله",
       "alternative_title": null,
-      "alternative_title_ar": null,
+      "alternative_title_ar": "الله غير المحدود بالمكان",
       "description": "Omnipresence is the Christian belief that God is everywhere present and not limited to any location or physical space. God is present in all spaces and places, but this should not be misunderstood as God taking up physical space everywhere or exceeding the limits of the known universe. Rather, God’s omnipresence means that He transcends spatial dimensions and is not localized anywhere. God is the creator and Lord of space, free from spatial limitations. His omnipresence is connected to His attributes of eternality and spirituality. The declaration of God’s omnipresence in the Old Testament challenges the belief in territorial gods with clear boundaries, highlighting that Yahweh is the one true God with no limits. While God freely chooses to be uniquely present in certain places, His omnipresence reminds us that all places exist in His presence and are sacred. The incarnation of Christ raises questions about God’s omnipresence, but theologians have proposed various theories to reconcile His divine and human natures. Despite different views, God’s omnipresence is a biblical and necessary doctrine that asserts His lordship over space and time.",
       "description_ar": "الحضور العالمي هو الاعتقاد المسيحي بأن الله حاضر في كل مكان وغير مقيد بموقع أو فضاء مادي. الله حاضر في جميع الأماكن والمساحات، ولكن هذا لا يعني أن الله يشغل المساحة المادية في كل مكان أو يتجاوز حدود الكون المعروف. بل يعني حضور الله العالمي أنه يتجاوز الأبعاد المكانية ولا يتم تحديده في أي مكان. الله هو خالق المكان وسيد الفضاء، وحر من القيود المكانية. يفهم الحضور العالمي لله بصلة بسماته الخاصة بالأبدية والروحانية. إعلان حضور الله العالمي في العهد القديم يتحدى الآلهة الإقليمية التي كانت تعتقد أنها تحكم مناطق محددة، ويبرز أن يهوه هو الإله الوحيد بلا حدود. وفي الوقت نفسه، يذكر حضور الله العالمي أن كل الأماكن موجودة في حضرته وهي مقدسة. يثير تجسد المسيح تساؤلات حول الحضور العالمي لله، ولكن علماء اللاهوت قد اقترحوا نظريات مختلفة للتوفيق بين طبيعته الإلهية والإنسانية. على الرغم من وجهات النظر المتباينة، فإن الحضور العالمي لله هو عقيدة وجوبية تأكد من سيادته على الفضاء والزمان.",
       "short_description": "Omnipresence is the Christian belief that God is everywhere present and not limited to any physical space. His presence transcends spatial dimensions and is not localized anywhere. God’s omnipresence is connected to His attributes of eternality and spirituality.",
       "short_description_ar": "الحضور العالمي هو الاعتقاد المسيحي بأن الله حاضر في كل مكان وغير مقيد بأي فضاء مادي. حضوره يتجاوز الأبعاد المكانية ولا يتم تحديده في أي مكان. حضور الله العالمي مرتبط بسماته الأبدية والروحانية.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Ps.139.7-Ps.139.10",
+        "Ps.139.7-10",
         "1Kgs.8.27",
-        "Acts.17.24-Acts.17.25",
-        "Amos.9.2-Amos.9.3",
+        "Acts.17.24-25",
+        "Amos.9.2-3",
         "Heb.4.13",
         "Deut.10.14",
         "Deut.4.39"
@@ -852,22 +942,33 @@
     "_id": "AK3hyP0XehI",
     "fields": {
       "title": "God’s Omniscience",
-      "title_ar": "علم الله الشامل",
+      "title_ar": "الله كُلّي المعرفة",
       "alternative_title": null,
-      "alternative_title_ar": null,
+      "alternative_title_ar": "المعرفة غير المحدودة لله",
       "description": "God’s omniscience refers to His perfect knowledge of Himself and all that He has created. The Bible portrays God’s knowledge as unlimited, comprehensive, and perfect in every way. God knows not only what is present and past but also what is to come. His knowledge extends to every detail of creation and even to the intimate understanding of His creatures. While there have been challenges to the classical consensus on God’s omniscience, most theologians affirm this attribute. Some views emphasize the compatibility of God’s perfect knowledge with the free actions of creatures, while others highlight God’s sovereign knowledge and control over His creation. The manner in which God knows all things, including the future, is a subject of debate among theologians.",
       "description_ar": "يشير علم الله الشامل إلى معرفته الكاملة بنفسه وبكل ما خلقه. يصور الكتاب المقدس علم الله بأنه غير محدود وشامل وكامل في كل شيء. الله يعلم ليس فقط ما هو حاضر وما مضى ولكن أيضًا ما هو آت. يمتد علمه إلى كل تفصيل من تفاصيل الخلق وحتى فهمه الدقيق لمخلوقاته. في حين أن هناك تحديات للتوافق التقليدي بشأن علم الله الشامل، إلا أن معظم علماء اللاهوت يؤكدون هذه الصفة. تؤكد بعض الآراء التوافق بين المعرفة المثالية لله والأفعال الحرة للمخلوقات، بينما تبرز الآراء الأخرى المعرفة والسيطرة السيادية لله على خلقه. يُعَدُّ الأسلوب الذي يعرف به الله كل شيء، بما في ذلك المستقبل، موضوعًا للنقاش بين علماء اللاهوت.",
       "short_description": "God’s omniscience refers to His perfect knowledge of Himself and all that He has created. His knowledge encompasses the past, present, and future, and extends to every detail of creation and the intimate understanding of His creatures. Theological debates arise regarding the compatibility of God’s knowledge with the free actions of creatures and the manner in which He knows the future.",
       "short_description_ar": "يشير علم الله الشامل إلى معرفته الكاملة بنفسه وبكل ما خلقه. يمتد علمه إلى الماضي والحاضر والمستقبل، ويشمل كل تفصيل من تفاصيل الخلق وفهمه الدقيق لمخلوقاته. تطرأ مناقشات لاهوتية حول التوافق بين معرفة الله والأفعال الحرة للمخلوقات والطريقة التي يعرف بها المستقبل.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "TqkP89RvPq1",
+        "soFjB2mgGWl"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Ps.33.13-Ps.33.15",
-        "Ps.139.1-Ps.139.4",
+        "Ps.33.13-15",
+        "Ps.139.1-4",
         "Job.21.22",
         "Job.36.4",
-        "Isa.46.9-Isa.46.10",
+        "Isa.46.9-10",
         "Jer.1.5",
         "Matt.10.30",
         "Heb.4.13"
@@ -879,23 +980,23 @@
         "Job.37.16",
         "Ps.7.9",
         "Ps.94.11",
-        "Ps.139.5-Ps.139.6",
+        "Ps.139.5-6",
         "Prov.5.21",
         "Prov.15.3",
         "Jer.17.10",
-        "Dan.2.20-Dan.2.22",
+        "Dan.2.20-22",
         "Matt.6.8",
-        "Matt.10.29-Matt.10.30",
-        "John.2.24-John.2.25",
+        "Matt.10.29-30",
+        "John.2.24-25",
         "Acts.1.24",
         "Rom.11.33"
       ],
       "other_subjects": [
         "DyHxRYkbPRx",
         "Qd1OztQLKYq",
-        "God’s Sovereignty over Creation",
-        "Creation ex nihilo",
-        "Human Will"
+        "lEfAvDrJYSJ",
+        "vEKYDzj0Jng",
+        "VYr7DrzJYS1"
       ],
       "recommended_resources": [
         "Systematic Theology (Sonderegger)",
@@ -912,22 +1013,33 @@
     "_id": "TqkP89RvPq1",
     "fields": {
       "title": "God’s Omnipotence",
-      "title_ar": "كلية الله",
+      "title_ar": "الله كُلِّي القدرة",
       "alternative_title": null,
-      "alternative_title_ar": null,
+      "alternative_title_ar": "القدرة الكُلِّية لله",
       "description": "The attribute of omnipotence refers to God’s unconditioned power to do that which he wills in accordance with his nature. The Bible portrays God as the Lord of both creation and the history of creation. God’s power surpasses all created powers and stands over all. The term ’omnipotent’ means ’all-powerful.’ Philosophical theologians debate whether omnipotence refers to God’s ability to do all that is logically possible or his ability to do absolutely anything whatsoever, irrespective of the laws of logic. Systematic theologians emphasize submitting our understanding of God’s almighty power to how God has actually revealed himself, particularly in Christ, as the Creator God who graciously enters into covenant with his creation. God’s power is unconditioned and exercised in accordance with his divine will and nature. While reflection on what God can do serves to highlight the gratuity of what he has actually done, it’s important not to speculate too deeply on the specifics, avoiding defining God’s power based on human intuitions and preferences.",
       "description_ar": "صفة الكلية تشير إلى القوة الغير مشروطة لله لفعل ما يشاء بما يتفق مع طبيعته. يصور الكتاب المقدس الله كرب المخلوقات وتاريخ الخليقة. قوة الله تتجاوز جميع القوى المخلوقة وتقف فوقها جميعًا. مصطلح ’كلية’ يعني ’قادر على كل شيء’. يتناقش اللاهوتيون الفلسفيون فيما إذا كانت الكلية تشير إلى قدرة الله على فعل كل ما هو منطقياً ممكناً أم قدرته على فعل أي شيء على الإطلاق بغض النظر عن قوانين المنطق. يؤكد اللاهوتيون المنهجيون على تقديم فهمنا لقوة الله العظيمة إلى كيفية كشف الله نفسه بالفعل، ولا سيما في المسيح كالإله الخالق الذي يدخل بسخاء في العهد مع خليقته. قوة الله غير مشروطة وتمارس وفقًا لإرادته الإلهية وطبيعته. عندما نتأمل في ما يمكن أن يفعله الله، فإنه يسلط الضوء على العطاء الكريم لما فعله في الواقع، ولكن من الأفضل عدم التكهن بشكل عميق في التفاصيل، مع تجنب تعريف قوة الله بناءً على غرائز وتفضيلات بشرية.",
       "short_description": "The attribute of omnipotence refers to God’s unconditioned power to do that which he wills in accordance with his nature. God’s power surpasses all created powers and stands over all.",
       "short_description_ar": "صفة الكلية تشير إلى القوة الغير مشروطة لله لفعل ما يشاء بما يتفق مع طبيعته. قوة الله تتجاوز جميع القوى المخلوقة وتقف فوقها جميعًا.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "soFjB2mgGWl"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Ps.33.9",
         "Ps.135.6",
         "Job.42.2",
         "Isa.43.13",
-        "Isa.46.10-Isa.46.11",
+        "Isa.46.10-11",
         "Jer.32.17",
         "Jer.32.27",
         "Matt.19.26",
@@ -941,18 +1053,18 @@
         "Job.42.4",
         "Ps.93.4",
         "Ps.115.3",
-        "Jer.32.17-Jer.32.23",
+        "Jer.32.17-23",
         "Mark.10.27",
         "Luke.1.37",
-        "Rom.4.20-Rom.4.21",
+        "Rom.4.20-21",
         "Eph.3.20"
       ],
       "other_subjects": [
         "IRJvHR9ggzJ",
-        "God’s Sovereignty over Creation",
+        "lEfAvDrJYSJ",
         "GmC7JjW8uZV",
-        "Providence and Concursus",
-        "Creation ex nihilo"
+        "0lTQvDrJYS1",
+        "vEKYDzj0Jng"
       ],
       "recommended_resources": [
         "Church Dogmatics (Barth), II.1, 490–607",
@@ -976,24 +1088,35 @@
       "description_ar": "مجد الله يشير إلى البهاء والجمال الساطع الذي يتجلى في جميع سماته الإلهية، مع التركيز الخاص على المسيح المصلوب والمتجسد. إنه مظهر تمام سماته، مع التأكيد على عظمته وتجاوزه وروعته وقداسته. يُصوَّر الله في الكتاب المقدس كمتلألئ بالمجد والجلال، وتكشف الخليقة ذاتها عن مجد خالقها. ومع ذلك، يُرى مجد الله بشكل خاص في مجال النعمة الإلهية، حيث يظهر لشعبه بالرحمة والنعمة. حياة يسوع المسيح واقتناء الروح القدس في الكنيسة هما تعبيران عن مجد الله. العبادة الوثنية هي الفشل في إعطاء الله مجده الحق وإرجاعه إلى المخلوقات. يُرتبط مفهوم جمال الرب أيضًا بمجد الله، معبرًا عن أعمق تجربة متاحة للبشر من خلال الرؤية وجهًا لوجه لله.",
       "short_description": "The glory of God is the splendor and brilliant beauty that shines through all of His divine attributes, with a particular emphasis on the crucified and risen Christ. It is the manifestation of the perfection of all His attributes, emphasizing His greatness, transcendence, splendor, and holiness.",
       "short_description_ar": "مجد الله هو البهاء والجمال الساطع الذي يتجلى في جميع سماته الإلهية، مع التركيز الخاص على المسيح المصلوب والمتجسد. إنه مظهر تمام سماته، مع التأكيد على عظمته وتجاوزه وروعته وقداسته.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "T6CVa5ZZYAv",
+      "other_categories": [
+        "jeAZwIqjRQF",
+        "PlZL7WtRLTx",
+        "YBjQ1XxWq8A",
+        "dRhugHNolMP",
+        "Rw7LDJToqBx",
+        "IRJvHR9ggzJ",
+        "EZgVYZJztPZ",
+        "hjCfs9MvFaw",
+        "AK3hyP0XehI",
+        "TqkP89RvPq1"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Isa.6.3",
-        "Ps.19.1-Ps.19.2",
-        "Exod.33.18-Exod.34.8",
+        "Ps.19.1-2",
+        "Exod.33.18-8",
         "John.1.14",
         "John.7.39",
-        "2Cor.3.17-2Cor.3.18",
+        "2Cor.3.17-18",
         "Heb.1.3"
       ],
       "additional_verses": ["Ezek.1.28"],
       "other_subjects": [
         "qu7hCQFRRmL",
         "T6CVa5ZZYAv",
-        "Jesus’ Exaltation",
-        "The Glorified Body",
+        "u2XADzjz6Jr",
+        "MZGjKlNwvxr",
         "xS3bNdC5qLU"
       ],
       "recommended_resources": [
@@ -1015,17 +1138,27 @@
       "description_ar": "سمات الله القابلة للتوصيل تصف الطابع الجوهري لله، وخاصة في نشاطه تجاه المخلوقات. يتم ترتيب هذه السمات بطريقة تشبهية للمخلوقات، وخصوصًا تلك التي خلقت على صورة الله. بينما يُعتبر الله الثالوث مبسطًا في التقليد اللاهوتي الكلاسيكي، فإن سماته متطابقة مع وجوده. تُظهر السمات القابلة للتوصيل، الضرورية لحياة الله الذاتية، في علاقته بالخليقة. جميع أفعال الله، بما في ذلك سماته القابلة للتوصيل، تتدفق بحرية من طبيعته. بينما قد تبدو بعض السمات غير ثابتة، مثل الغضب، فهي مظاهر لقداسة الله في سياق التمرد والخطيئة. السمات القابلة للتوصيل تُظهر بشكل فريد طبيعة الله الشخصية العميقة، وهي قابلة للتطبيق على كل شخص من الثالوث بالتساوي. باعتبارهم خلق الله على صورته، فإن تسمية سمات الله القابلة للتوصيل ليست تصويرًا لصورتنا على الله، بل هي تصوير لصورة الله علينا. هذه السمات مركزية لفهم صورة الله في الإنسان وعمل الفداء.",
       "short_description": "The communicable attributes of God describe God’s intrinsic character, particularly in his activity toward creatures. These attributes are predicated analogically of creatures, especially those created in his image.",
       "short_description_ar": "سمات الله القابلة للتوصيل تصف الطابع الجوهري لله، وخاصة في نشاطه تجاه المخلوقات. يتم ترتيب هذه السمات بطريقة تشبهية للمخلوقات، وخصوصًا تلك التي خلقت على صورة الله.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
+      "main_category": "qu7hCQFRRmL",
+      "other_categories": "T6CVa5ZZYAv",
+      "sub_categories": [
+        "NTu8v1UeVwd",
+        "H2yHdQMRjBQ",
+        "wIRi6v3uv7U",
+        "gcRwI7HGgeH",
+        "xS3bNdC5qLU",
+        "BSg7O5pqblW",
+        "aG5SbJKFGpG",
+        "Qd1OztQLKYq",
+        "vxJOiVSS11b"
+      ],
       "key_verses": [
         "Ps.111",
-        "Exod.34.6-Exod.34.7",
+        "Exod.34.6-7",
         "Ps.86.15",
         "Ps.103.8",
         "Ps.145.8",
-        "Deut.10.17-Deut.10.18",
-        "John.1.14-John.1.17"
+        "Deut.10.17-18",
+        "John.1.14-17"
       ],
       "additional_verses": [],
       "other_subjects": [
@@ -1061,8 +1194,17 @@
       "description_ar": "صلاح الله يشير إلى كمال طبيعته وتفوقه الأخلاقي. يمكن فهم صلاح الله من حيث الله في نفسه (ad intra) وعمل الله في الخلق (ad extra). الله وحده هو الكمال ولا يعاني من نقص، مما يجعله الخير العليا والمطلقة. صلاحه هو سمة جوهرية وضرورية لطبيعته الإلهية، لا يمكن فصلها عن جوهره. بوصفه كائنًا لانهائيًا، فإن صلاحه لا يمكن قياسه. يتم التفكير في صلاح الله بشكل رئيسي في كمال العلاقات بين أشخاص الثالوث، حيث يتلذذ الآب والابن والروح القدس ويحبون بعضهم البعض ويستريحون في صلاح بعضهم البعض. صلاح الله ليس ثابتًا ومعزولًا في ذاته، بل هو تفجير وفائض، مما يظهر في قراره الحر للخلق. يتجلى صلاحه في الخلق والتوفيق، حيث يكون الخلق جيدًا لأن الله هو مصدره وسببه. بينما لا يمكن للمخلوقات أن تتجلى بالكامل في سمات الله، يمكنها أن تشترك في الخير بدرجة أقل. يكمن الهدف من الخلق والفداء والقضاء في إظهار تألق صلاح الله. يمكن معرفة صلاح الله من خلال الوحي العام في الخلق، ولكنه يظهر بشكل أكبر في عمل الفداء الذي يُظهر من خلال الوحي الخاص. يتجلى في حب الله لشعبه المتعاهد وفي بركاته. يُرى أعظم مظهر لصلاح الله في المسيح، الذي يكشف الطبيعة الحقيقية لله من خلال حياته وموته وعمل الخلاص. يتلقى الخطاة، الذين لا يستحقون أي هدية جيدة، نعمة من الله الخير العليا، الذي يغفر ويصالح ويفدي. يتقدس المسيحي بعمل الروح القدس ويُمكنه أن يحب ويستمتع ويستريح في صلاح الله إلى الأبد.",
       "short_description": "God’s goodness refers to the perfection of His nature and moral excellence. It can be understood in terms of God in Himself and God’s work in creation. God alone is perfect and lacks nothing, making Him the supreme and absolute good.",
       "short_description_ar": "صلاح الله يشير إلى كمال طبيعته وتفوقه الأخلاقي. يمكن فهمه من خلال الله في نفسه وعمل الله في الخلق. الله وحده هو الكمال والخير العليا والمطلقة.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "H2yHdQMRjBQ",
+        "wIRi6v3uv7U",
+        "gcRwI7HGgeH",
+        "xS3bNdC5qLU",
+        "BSg7O5pqblW",
+        "aG5SbJKFGpG",
+        "Qd1OztQLKYq",
+        "vxJOiVSS11b"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Exod.33.19",
@@ -1094,11 +1236,10 @@
         "H2yHdQMRjBQ",
         "IRJvHR9ggzJ",
         "xS3bNdC5qLU",
-        "The Spirit and Common Grace",
+        "iM3QDz6JYSr",
         "wIRi6v3uv7U",
         "gcRwI7HGgeH"
-      ],
-      "see_also": ["Goodness of God"]
+      ]
     }
   },
   {
@@ -1112,21 +1253,30 @@
       "description_ar": "محبة الله هي صفة إلهية تعكس تصرف الله في أن يكون عطوفًا ويسعى للخير للآخرين. بينما يعتبر البعض محبة الله كصفته الرئيسية، يؤكد آخرون على قداسته أو سيادته. ومع ذلك، فإن جميع صفات الله الإلهية متفقة مع بعضها البعض وتعبّر عن محبة الله الوفيرة. يتجلى محبة الله من خلال الخير والرحمة والنعمة والشفقة والإخلاص، فضلاً عن القداسة والعدل والغيرة والغضب. لا يقتصر حب الله على خلقه بل يوجد بشكل أبدي في الثالوث. تصوّر العهد القديم محبة الله من خلال الكلمة العبرية ’الحَسَد’ التي تشير إلى وفاءه العهدي. في العهد الجديد، يتجلّى محبة الله من خلال تجسد يسوع المسيح وموته وقيامته. محبة الله هي خلاصية، حيث يسعى إلى المصالحة مع كل من يحبه، ويُطلب من المؤمنين أن يقتديوا بهذا الحب في علاقتهم مع الله ومع الآخرين. على الرغم من وجود توترات بشأن مشكلة الشر والعلاقة بين محبة الله والعدل ومفهوم العاطفة الإلهية، يثق المؤمنون في شخصية الله المكشوفة ومحبته الذاتية والعطوفة.",
       "short_description": "God’s love is a divine attribute that reflects His disposition to be self-giving and to seek the good of others. It is demonstrated through various qualities and actions and is not limited to His creation. Believers are called to imitate this love and trust in God’s revealed character.",
       "short_description_ar": "محبة الله هي صفة إلهية تعكس تصرف الله في أن يكون عطوفًا ويسعى للخير للآخرين. يتجلى من خلال خصائص وأفعال مختلفة وليست محصورة في خلقه. يدعو المؤمنون لتقليدها والثقة بشخصية الله المكشوفة.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "NTu8v1UeVwd",
+        "wIRi6v3uv7U",
+        "gcRwI7HGgeH",
+        "xS3bNdC5qLU",
+        "BSg7O5pqblW",
+        "aG5SbJKFGpG",
+        "Qd1OztQLKYq",
+        "vxJOiVSS11b"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "1John.4.7-1John.4.11",
+        "1John.4.7-11",
         "1John.3.1",
         "1John.3.16",
-        "Eph.3.17-Eph.3.19",
+        "Eph.3.17-19",
         "1Cor.13",
-        "Matt.5.43-Matt.5.48",
+        "Matt.5.43-48",
         "John.3.16",
         "1John.4.14",
-        "Deut.7.7-Deut.7.8",
+        "Deut.7.7-8",
         "Deut.12",
-        "John.15.13-John.15.14",
+        "John.15.13-14",
         "Rom.5.8",
         "Rev.1.5",
         "Deut.7.9",
@@ -1135,7 +1285,7 @@
         "Mic.7.20"
       ],
       "additional_verses": [
-        "Exod.34.6-Exod.34.7",
+        "Exod.34.6-7",
         "Deut.10.15",
         "Ps.32.10",
         "Ps.36.7",
@@ -1143,10 +1293,10 @@
         "Ps.136.1",
         "Ps.145.8",
         "Joel.2.13",
-        "Rom.8.38-Rom.8.39",
+        "Rom.8.38-39",
         "2Cor.13.11",
-        "Eph.2.4-Eph.2.5",
-        "Titus.3.4-Titus.3.5"
+        "Eph.2.4-5",
+        "Titus.3.4-5"
       ],
       "other_subjects": [
         "NtcDTbO9eKm",
@@ -1174,19 +1324,28 @@
       "description_ar": "رحمة الله تصف توجهه الرأفة والمغفرة الشفوية نحو شعبه، خاصة في الأوقات العصيبة والظروف الصعبة. إنها سمة يمكن أن يقتدي بها البشر في علاقاتهم مع الآخرين. ليست رحمة الله مجرد توجه وإنما هي أيضًا عمل نيابة عن شعب لا يستحق. إنها مرتبطة ارتباطًا وثيقًا بسمات إلهية أخرى مثل الشفقة والنعمة والأمانة واللطف. رحمة الله هي تعبيرٌ عن شخصيته وتنبع من سماته الصالحة والمحبة. إنها جانب حيوي من العلاقة بين الله وشعبه المبنية على نعمته، ويتجلى ذلك عندما يؤخر العقاب ويمنح الغفران. في الأوقات العصيبة، يلتجئ أولئك الذين يهابون الله إلى طبيعته الرحيمة، متوقعين منه أن يعمل بقوة كما فعل في الماضي. في جميع أنحاء الكتاب المقدس، يظهر الله رحمته من خلال إنقاذه وفدائه واستعادة شعبه. يدعو الكتاب المقدس أيضًا شعب الله لإظهار الرحمة تجاه الآخرين والعمل من أجلهم، كما أكد يسوع في تعاليمه. يجسد يسوع نفسه رحمة الله، مكشوفًا ذلك من خلال أعماله بصفته ابن داود.",
       "short_description": "The mercy of God describes his compassionate forgiveness and action towards his people in distressful and dire circumstances. It is an attribute that humans can emulate and is closely related to other divine attributes such as compassion, grace, faithfulness, and kindness.",
       "short_description_ar": "رحمة الله تصف مغفرته وتوجهه الرأفة نحو شعبه في الظروف الصعبة والصعبة. إنها سمة يمكن أن يقتدي بها البشر وترتبط ارتباطًا وثيقًا بسمات إلهية أخرى مثل الشفقة والنعمة والأمانة واللطف.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "NTu8v1UeVwd",
+        "H2yHdQMRjBQ",
+        "gcRwI7HGgeH",
+        "xS3bNdC5qLU",
+        "BSg7O5pqblW",
+        "aG5SbJKFGpG",
+        "Qd1OztQLKYq",
+        "vxJOiVSS11b"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Exod.34.6-Exod.34.7",
-        "Ezek.33.10-Ezek.33.11",
-        "Dan.9.17-Dan.9.19",
-        "Ps.25.6-Ps.25.7",
-        "Ps.51.1-Ps.51.2",
-        "Matt.9.27-Matt.9.31",
-        "Matt.23.23-Matt.23.24",
-        "Luke.10.36-Luke.10.37",
-        "Eph.2.4-Eph.2.7"
+        "Exod.34.6-7",
+        "Ezek.33.10-11",
+        "Dan.9.17-19",
+        "Ps.25.6-7",
+        "Ps.51.1-2",
+        "Matt.9.27-31",
+        "Matt.23.23-24",
+        "Luke.10.36-37",
+        "Eph.2.4-7"
       ],
       "additional_verses": [
         "Exod.33.19",
@@ -1194,7 +1353,7 @@
         "Neh.9.31",
         "Dan.9.9",
         "Mic.7.18",
-        "Luke.6.35-Luke.6.36",
+        "Luke.6.35-36",
         "Jas.5.11"
       ],
       "other_subjects": [
@@ -1204,7 +1363,7 @@
         "H2yHdQMRjBQ",
         "wIRi6v3uv7U",
         "gcRwI7HGgeH",
-        "The Church’s Work of Mercy and Justice"
+        "Cy6QDzjJY7S"
       ],
       "recommended_resources": [
         "Introductory Volume to Systematic Theology (Berkhof), 445",
@@ -1225,18 +1384,27 @@
       "alternative_title_ar": null,
       "description": "God’s grace is unmerited divine favor, a gift from which many blessings flow. It emanates from God’s inter-Trinitarian, gift-giving nature. Despite humanity’s fallen state, God freely bestows good things upon his creatures, even though they do not deserve them. The greatest of these gifts is Jesus Christ. Grace is a prominent theme in the Bible and sets Christianity apart from other religions. God’s grace encompasses his works of creation, covenants, promises, word, and redemptive work. Everything we have is due to grace, as it is God giving nothing less than Himself. God’s grace arises from the fullness of his being, characterized by his merciful and gracious nature. It is a demonstration of God’s love toward those who deserve the opposite. The grace of Yahweh is not a response to human actions but an eternal extension of God giving himself as Father, Son, and Spirit. In receiving the grace of the Lord Jesus Christ, believers participate in the divine fullness of the love of God and the fellowship of the Holy Spirit. Various kinds of grace are identified, such as common grace, which includes all the favor God shows to mankind that is less than salvation, and special grace, which is the saving grace that applies Christ’s atonement to humans. Different theological traditions formulate their views on grace differently, with the central issue often revolving around the relationship between merit and divine favor. Grace is absent or seen as God’s enablement in most non-Christian religions. Passages such as Genesis 3:15-4:26, Exodus 33:17-34:9, Psalms 86:15, 103:8, and 145:8, 1 Corinthians 15:10, Ephesians 2:8-9, and Romans 3:20-24 are key verses that speak of God’s grace. Various recommended resources are available to delve deeper into the topic.",
       "description_ar": "نعمة الله هي صالح الله غير المستحق، هبة منها تنبع العديد من النعم. إنها تنبع من حياته الإلهية داخل الثالوث، وطبيعته المتسامية للعطاء. على الرغم من حالة السقوط لدى البشرية، يمنح الله بحرية الأشياء الجيدة لمخلوقاته وهي لا تستحقها. أعظم هذه النعم هو يسوع المسيح. النعمة هي موضوع بارز في الكتاب المقدس وتميز المسيحية عن الأديان الأخرى. تتضمن نعمة الله أعماله في الخلق وكذلك عهوده ووعوده وكلمته وعمله الفدائي. كل ما لدينا هو نتيجة للنعمة، ولكن النعمة نفسها ليست شيئًا ثالثًا أو جوهرًا، بل في النعمة يعطي الله شيئًا لا يقل عن ذاته. تنبع نعمة الله تجاه البشرية من امتلاء كيانه. إنه كريم. عندما ظهر الله لموسى، أعلن اسمه، يهوه، أنا هو، كمحصلة لكيانه الأبدي. تشمل هذه الطبيعة كرمه: \"الرب الرب، إله رؤوف ورحيم، بطيء الغضب وكثير الحنان والصدق\" (خروج 34:6). يشير جي. آي. باكر إلى أن النعمة هي ببساطة محبة الله المظهرة تجاه أولئك الذين يستحقون العكس. نعمة الله هي حياته الإلهية المعطاءة، والهبة هي ذاته.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "NTu8v1UeVwd",
+        "H2yHdQMRjBQ",
+        "wIRi6v3uv7U",
+        "xS3bNdC5qLU",
+        "BSg7O5pqblW",
+        "aG5SbJKFGpG",
+        "Qd1OztQLKYq",
+        "vxJOiVSS11b"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Gen.3.15-Gen.4.26",
-        "Exod.33.17-Exod.34.9",
+        "Gen.3.15-26",
+        "Exod.33.17-9",
         "Ps.86.15",
         "Ps.103.8",
         "Ps.145.8",
         "1Cor.15.10",
-        "Eph.2.8-Eph.2.9",
-        "Rom.3.20-Rom.3.24"
+        "Eph.2.8-9",
+        "Rom.3.20-24"
       ],
       "additional_verses": [
         "2Kgs.13.23",
@@ -1246,9 +1414,9 @@
         "Ps.116.5",
         "Isa.30.18",
         "Joel.2.13",
-        "Eph.1.6-Eph.1.7",
+        "Eph.1.6-7",
         "Eph.2.7",
-        "2Thess.2.16-2Thess.2.17",
+        "2Thess.2.16-17",
         "Heb.4.16",
         "1Pet.5.10"
       ],
@@ -1256,16 +1424,16 @@
         "H2yHdQMRjBQ",
         "wIRi6v3uv7U",
         "NTu8v1UeVwd",
-        "God’s Sovereignty over Creation",
-        "The Mission of the Spirit",
-        "The Spirit and Common Grace",
-        "The Spirit and Special Grace",
-        "The Spirit’s Application of Salvation",
-        "Covenants",
-        "The Covenants of Grace",
-        "Theories of Atonement",
-        "The Church’s Sacraments",
-        "Sanctification"
+        "lEfAvDrJYSJ",
+        "GtXQDrz6z6J",
+        "iM3QDz6JYSr",
+        "kb7QDzjJY7S",
+        "QbMQDz6JYi1",
+        "l0mIDzrJYiJ",
+        "XpYKDrjJYSx",
+        "u7zQDz6z6Jr",
+        "p-6QDz6JY7S",
+        "yPnQDzjz6JY"
       ],
       "recommended_resources": [
         "Paul and the Gift (Barclay)",
@@ -1293,21 +1461,20 @@
         "Systematic Theology (Gulley), Vol. III",
         "Free Grace Soteriology (Anderson)"
       ],
-      "see_also": ["God: Grace"],
       "related_topics": [
         "H2yHdQMRjBQ",
         "wIRi6v3uv7U",
         "NTu8v1UeVwd",
-        "God’s Sovereignty over Creation",
-        "The Mission of the Spirit",
-        "The Spirit and Common Grace",
-        "The Spirit and Special Grace",
-        "The Spirit’s Application of Salvation",
-        "Covenants",
-        "The Covenants of Grace",
-        "Theories of Atonement",
-        "The Church’s Sacraments",
-        "Sanctification"
+        "lEfAvDrJYSJ",
+        "GtXQDrz6z6J",
+        "iM3QDz6JYSr",
+        "kb7QDzjJY7S",
+        "QbMQDz6JYi1",
+        "l0mIDzrJYiJ",
+        "XpYKDrjJYSx",
+        "u7zQDz6z6Jr",
+        "p-6QDz6JY7S",
+        "yPnQDzjz6JY"
       ]
     }
   },
@@ -1315,37 +1482,47 @@
     "_id": "xS3bNdC5qLU",
     "fields": {
       "title": "God’s Holiness",
-      "title_ar": "قدسية الله",
+      "title_ar": "قداسة الله",
       "alternative_title": "The Holiness of God",
-      "alternative_title_ar": "قدسية الله",
+      "alternative_title_ar": "قداسة الله",
       "description": "The holiness of God signifies his complete separation from creation and his pure and incorruptible nature. The Bible reveals God’s holiness in two distinct but interconnected ways. Firstly, it emphasizes God’s distinction from his creation, highlighting that he is wholly other and deserving of worship. Secondly, it depicts God’s holy presence manifesting among his people, demonstrating his pure and incorruptible nature. The Old Testament portrays God’s holiness through his presence in sacred spaces like the tabernacle and the Jerusalem temple. The New Testament reveals God’s holiness through Jesus Christ’s ministry and the work of the Holy Spirit. Jesus, as the Holy One of Israel and the Second Person of the Trinity, exemplifies God’s holiness in human form, untouched by sin. The Holy Spirit represents God’s holiness on earth by indwelling believers and working powerfully within the Church. Followers of Jesus are called to be holy and offer their lives as sacrifices to God.",
-      "description_ar": "قدسية الله تشير إلى انفصاله الكامل عن الخليقة وطبيعته النقية واللاهتزاز. يكشف الكتاب المقدس قدسية الله بطريقتين متميزتين ومترابطتين. أولاً، يؤكد تميز الله عن خليقته، مشيرًا إلى أنه مختلف تمامًا ويستحق العبادة. ثانيًا، يصور الله القدس تجلياته في وسط شعبه، مما يدل على طبيعته النقية واللاهتزاز. يصور العهد القديم قدسية الله من خلال حضوره في أماكن مقدسة مثل المسكن وهيكل القدس. يكشف العهد الجديد قدسية الله من خلال خدمة يسوع المسيح وعمل الروح القدس. يمثل يسوع، كقدوس إسرائيل والشخص الثاني في الثالوث، قدسية الله في شكل بشري، غير ملوث بالخطيئة. يمثل الروح القدس قدسية الله في الأرض من خلال سكنه في المؤمنين وعمله القوي داخل الكنيسة. يدعو أتباع يسوع أن يكونوا أقداسًا وأن يقدموا حياتهم كذبائح مقدسة لله.",
-      "passages": {
-        "key_verses": [
-          "Isa.6.3",
-          "Ps.99.9",
-          "Lev.10.1-Lev.10.3",
-          "Lev.11.4",
-          "Deut.4.24",
-          "Ps.5.7",
-          "Ps.11.4",
-          "Mark.1.24",
-          "John.16.4-John.16.15",
-          "1Pet.1.15-1Pet.1.16",
-          "Rom.12.1-Rom.12.2"
-        ],
-        "additional_verses": [
-          "Exod.15.11",
-          "Lev.11.44",
-          "Josh.24.19",
-          "1Sam.2.2",
-          "Ps.22.3",
-          "Isa.43.15",
-          "Ezek.39.7",
-          "Heb.12.10",
-          "Rev.15.4"
-        ]
-      },
+      "description_ar": "قداسة الله تشير إلى انفصاله الكامل عن الخليقة وطبيعته النقية واللاهتزاز. يكشف الكتاب المقدس قداسة الله بطريقتين متميزتين ومترابطتين. أولاً، يؤكد تميز الله عن خليقته، مشيرًا إلى أنه مختلف تمامًا ويستحق العبادة. ثانيًا، يصور الله القدس تجلياته في وسط شعبه، مما يدل على طبيعته النقية واللاهتزاز. يصور العهد القديم قداسة الله من خلال حضوره في أماكن مقدسة مثل المسكن وهيكل القدس. يكشف العهد الجديد قداسة الله من خلال خدمة يسوع المسيح وعمل الروح القدس. يمثل يسوع، كقدوس إسرائيل والشخص الثاني في الثالوث، قداسة الله في شكل بشري، غير ملوث بالخطيئة. يمثل الروح القدس قداسة الله في الأرض من خلال سكنه في المؤمنين وعمله القوي داخل الكنيسة. يدعو أتباع يسوع أن يكونوا أقداسًا وأن يقدموا حياتهم كذبائح مقدسة لله.",
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "NTu8v1UeVwd",
+        "H2yHdQMRjBQ",
+        "wIRi6v3uv7U",
+        "gcRwI7HGgeH",
+        "BSg7O5pqblW",
+        "aG5SbJKFGpG",
+        "Qd1OztQLKYq",
+        "vxJOiVSS11b"
+      ],
+      "sub_categories": null,
+      "key_verses": [
+        "Isa.6.3",
+        "Ps.99.9",
+        "Lev.10.1-3",
+        "Lev.11.4",
+        "Deut.4.24",
+        "Ps.5.7",
+        "Ps.11.4",
+        "Mark.1.24",
+        "John.16.4-15",
+        "1Pet.1.15-16",
+        "Rom.12.1-2"
+      ],
+      "additional_verses": [
+        "Exod.15.11",
+        "Lev.11.44",
+        "Josh.24.19",
+        "1Sam.2.2",
+        "Ps.22.3",
+        "Isa.43.15",
+        "Ezek.39.7",
+        "Heb.12.10",
+        "Rev.15.4"
+      ],
       "recommended_resources": [
         "Bible Doctrine: Essential Teachings of the Christian Faith (Grudem and Purswell)",
         "Systematic Theology (Thiselton)",
@@ -1365,12 +1542,12 @@
         "BSg7O5pqblW",
         "G2OufWJeVvL",
         "hjCfs9MvFaw",
-        "The Christian Use of the Law",
-        "The Church’s Holiness",
-        "Condemnation for Sin",
+        "tqYADzrJYSJ",
+        "bn6QDr6JYSr",
+        "JYUADzrJYiJ",
         "vxJOiVSS11b",
-        "Jesus’ Impeccability",
-        "Sanctification"
+        "6BzADrjz6YS",
+        "yPnQDzjz6JY"
       ]
     }
   },
@@ -1385,20 +1562,29 @@
       "description_ar": "بر الله يشير إلى طبيعته والتناغم بين إرادته المكشوفة وأعماله نيابة عن شعبه. في الكتاب المقدس، يرتبط بر الله بدوره كملك وقاضي على الخليقة. بصفته قاضيًا، يتصرف الله وفقًا لما هو صواب، وإرادته المكشوفة تعتبر أعلى معيار للبر. يجلب بر الله التكامل والتناغم لصفاته الأخرى، سواءً كانت غير قابلة للانتقال (الأزلية، القدرة الكلية، المعرفة الكلية، الحضور الكلي، القداسة، الخ) أو قابلة للانتقال (الخير، المحبة، الرحمة، الخ). يعرض بر الله تميز الله عن الخليقة وجديرته بأن يملك كملك. تظهر الأعمال البريّة لله أيضًا صفاته الإلهية للبشرية وتوفر معيارًا لكيفية سلوك شعبه. الشريعة في الكتاب المقدس تعبّر عن معايير الله البرية وتكون إظهارًا لطبيعته وإرادته. ومع ذلك، نظرًا لسقوط الإنسان وخطاياه، يتطلب تحقيق هذه الوصايا قوة الروح القدس من الله. في العهد الجديد، يُكشف بر الله في شخص وإنجيل يسوع المسيح، ويُكسى المؤمنون ببر يسوع من خلال الإيمان.",
       "short_description": "God’s righteousness refers to his character and the coherence between his revealed will and his actions on behalf of his people. It brings integration and coherence to God’s other attributes, and his righteous actions serve as a standard for his people. The law in the Bible expresses God’s righteous standards and reveals his character and will.",
       "short_description_ar": "بر الله يشير إلى طبيعته والتناغم بين إرادته المكشوفة وأعماله نيابة عن شعبه. يجلب التكامل والتناغم لصفات الله الأخرى، وتعمل أعماله البريّة كمعيار لشعبه. تعبّر الشريعة في الكتاب المقدس عن معايير الله البرية وتكشف عن طبيعته وإرادته.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "NTu8v1UeVwd",
+        "H2yHdQMRjBQ",
+        "wIRi6v3uv7U",
+        "gcRwI7HGgeH",
+        "xS3bNdC5qLU",
+        "aG5SbJKFGpG",
+        "Qd1OztQLKYq",
+        "vxJOiVSS11b"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Ps.97.2",
         "Gen.18.25",
         "Deut.32",
-        "Deut.4.7-Deut.4.8",
-        "Ps.19.7-Ps.19.9",
+        "Deut.4.7-8",
+        "Ps.19.7-9",
         "Isa.45.19",
         "Acts.17.31",
-        "Rom.1.16-Rom.1.17",
-        "Phil.3.8-Phil.3.11",
-        "2Cor.5.16-2Cor.5.21"
+        "Rom.1.16-17",
+        "Phil.3.8-11",
+        "2Cor.5.16-21"
       ],
       "additional_verses": null,
       "other_subjects": [
@@ -1406,10 +1592,10 @@
         "NtcDTbO9eKm",
         "xS3bNdC5qLU",
         "vxJOiVSS11b",
-        "God’s Law",
-        "The Person and Work of Christ",
-        "The Church’s Work of Mercy and Justice",
-        "Justification"
+        "Xh0AvDrJYS1",
+        "6xDrz6Yr7Di",
+        "Cy6QDzjJY7S",
+        "i1TQDzr6JYS"
       ],
       "recommended_resources": null
     }
@@ -1425,8 +1611,17 @@
       "description_ar": "صِدْقُ الله هو سمة تشير إلى صدق الله وهويته كمصدر لجميع الحقيقة. يصور الكتاب المقدس الله ليس فقط كشاهد صادق بل كجوهر الحقيقة ذاتها. كلمة الله صادقة لأنها تعبر عن حقيقة وجود الله نفسه، بدلاً من التكيف مع مفهوم خارجي للحقيقة. صِدْقُ الله هو سمة يمكن مشاركتها مع الخليقة عندما تخضع لكلمة الله. تتجذر ثقة المؤمنين في صِدْقُ الله وارتباطها بوعود الله. بالإضافة إلى ذلك، يرتبط صِدْقُ الله بالإلهام الإلهي للكتاب المقدس وصِدْقه الذي لا يخطئ. يعتبر الكذب وشهادة الزور انتهاكًا خطيرًا أمام الله، نظرًا لهويته كالحقيقة.",
       "short_description": "God’s veracity refers to his truthfulness as the source of all truth. He is not only a reliable truth-teller but the very essence of truth itself. Believers find assurance in God’s faithfulness, which is grounded in his veracity. God’s veracity is also connected to the inspiration and infallible truthfulness of the Scriptures.",
       "short_description_ar": "صِدْقُ الله يشير إلى صدقه كمصدر لجميع الحقيقة. إنه ليس فقط شاهدًا موثوقًا ولكنه جوهر الحقيقة نفسها. المؤمنون يجدون الطمأنينة في صدق الله الذي يستند إلى صِدْقُه. يرتبط صِدْقُ الله أيضًا بالإلهام والصدق الذي لا يخطئ للكتاب المقدس.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "NTu8v1UeVwd",
+        "H2yHdQMRjBQ",
+        "wIRi6v3uv7U",
+        "gcRwI7HGgeH",
+        "xS3bNdC5qLU",
+        "BSg7O5pqblW",
+        "Qd1OztQLKYq",
+        "vxJOiVSS11b"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Num.23.19",
@@ -1438,10 +1633,10 @@
       ],
       "additional_verses": ["Heb.6.18"],
       "other_subjects": [
-        "The Bible’s Truthfulness",
+        "NpSl2E9kfh1",
         "hDzPeuzgd6Y",
         "zjDrz6JrT7D",
-        "Jesus’ Impeccability"
+        "6BzADrjz6YS"
       ],
       "recommended_resources": [
         "Systematic Theology (Hodge), Vol. I, 436–39",
@@ -1462,14 +1657,23 @@
       "description_ar": "حكمة الله هي الحكمة الإلهية الكمالة والبصيرة التي تنبع من معرفته اللانهائية. إنه يشارك هذه الحكمة مع مخلوقاته وفقًا لاحتياجاتهم ولخيرهم. تتجلى حكمة الله في أعماله في الخلق والفداء. إنها واضحة في أغراضه وأوامره، وتتجسد تمامًا في ابنه، كلمة الله الإلهية. الله هو عالم بكل شيء، قادر على كل شيء، لا يتغير، وذاتية الكفاية في وجوده وحكمته. تتجسد حكمته من خلال إدارته في التاريخ. لدى البشر القدرة على العقل، والمنطق، والإدراك، والإبداع، والتوقع، وغيرها، وهي سمات للحكمة. مختلف الكتب الحكمية في الكتاب المقدس تعرض حكمة الله وتوفر الإرشاد والبصيرة لحاملي صورته. يقف المسيح، الحكمة الأبدية للرب، كتجسيد للحكمة.",
       "short_description": "God’s wisdom is the perfect divine judgment and insight arising from His infinite knowledge. It is shared with His creatures and displayed in creation, redemption, and providence. Humans have the capacity for wisdom, which begins with the fear of the Lord. The wisdom literature in Scripture provides guidance and insights, with Christ standing as the embodiment of wisdom.",
       "short_description_ar": "حكمة الله هي الحكمة الإلهية الكمالة والبصيرة التي تنبع من معرفته اللانهائية. إنها تشارك مع المخلوقات وتتجلى في الخلق والفداء والإدارة. لدى البشر قدرة على الحكمة، وتبدأ هذه الحكمة بخشية الرب. الكتب الحكمية في الكتاب المقدس تقدم الإرشاد والبصيرة، مع المسيح كتجسيد للحكمة.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "NTu8v1UeVwd",
+        "H2yHdQMRjBQ",
+        "wIRi6v3uv7U",
+        "gcRwI7HGgeH",
+        "xS3bNdC5qLU",
+        "BSg7O5pqblW",
+        "aG5SbJKFGpG",
+        "vxJOiVSS11b"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Rom.11.33-Rom.11.36",
-        "Isa.40.13-Isa.40.14",
-        "Prov.8.22-Prov.8.31",
-        "Col.2.2-Col.2.3",
+        "Rom.11.33-36",
+        "Isa.40.13-14",
+        "Prov.8.22-31",
+        "Col.2.2-3",
         "Eccl.2.26",
         "Prov.2.6",
         "Eph.1.17",
@@ -1482,10 +1686,10 @@
         "NtcDTbO9eKm",
         "AK3hyP0XehI",
         "TrTQDzrJYSJ",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "The Bible",
         "DyHxRYkbPRx",
-        "Providence"
+        "kWv4Drjz6it"
       ],
       "recommended_resources": [
         "Job (Commentaries on the Book of Job)",
@@ -1508,8 +1712,17 @@
       "description_ar": "غضب الله هو رد فعله الشديد ضد الشر واستياءه الثابت من الخطيئة والخطاة. على الرغم من أن مفهوم غضب الله غالبًا ما يتجاهل أو يعاد تفسيره في الغرب الليبرالي، إلا أنه عقيدة بارزة في الكتاب المقدس. يحتوي العهد القديم على العديد من الإشارات إلى غضب الله، والتي يتم وصفها باستخدام كلمات مختلفة. في كثير من الحالات، يُصوَّر غضب الله بصورة شخصية، في حين يذكره العهد الجديد أيضًا، على الرغم من ذلك بصورة أقل شخصية. من المهم أن نفهم أن غضب الله ليس مماثلاً لغضب الإنسان، بل يمثل انزعاجه من الخطيئة ومعارضته للشر. يقترح بعض اللاهوتيين، مثل سي. إتش. دود، رؤية غضب الله على أنه عملية غير شخصية، كعملية لا مفر منها في كون أخلاقي. ومع ذلك، يمكن أن تقلل هذه الرؤية من حكم الله النشط ومشاركته في الحياة البشرية. الغضب ليس سمة أبدية لله مثل الحب والقداسة، بل هو رد فعل لظاهرة الخطيئة في الزمان. إنه نتاج لحب الله ويجب فهمه فيما يتعلق بهذا الحب، باعتباره مقاومة شغوفة لكل إرادة تعارضه.",
       "short_description": "God’s wrath is his revulsion against evil and his settled displeasure with sin and sinners.",
       "short_description_ar": "غضب الله هو رد فعله الشديد ضد الشر واستياءه الثابت من الخطيئة والخطاة.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "NtcDTbO9eKm",
+      "other_categories": [
+        "NTu8v1UeVwd",
+        "H2yHdQMRjBQ",
+        "wIRi6v3uv7U",
+        "gcRwI7HGgeH",
+        "xS3bNdC5qLU",
+        "BSg7O5pqblW",
+        "aG5SbJKFGpG",
+        "Qd1OztQLKYq"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Rom.1.18-Rom.1.32",
@@ -1526,7 +1739,7 @@
         "Punishment for Sin",
         "xS3bNdC5qLU",
         "BSg7O5pqblW",
-        "Condemnation for Sin",
+        "JYUADzrJYiJ",
         "Punishment for Sin"
       ],
       "recommended_resources": null
@@ -1644,7 +1857,7 @@
         "sRr56tl2ZJl",
         "hDzPeuzgd6Y",
         "G2OufWJeVvL",
-        "The Person and Work of Christ"
+        "6xDrz6Yr7Di"
       ],
       "recommended_resources": null
     }
@@ -1738,7 +1951,7 @@
         "LMQGcXgg9PB",
         "K1vOKRbDLHH",
         "dbSRMzOlI0g",
-        "The Person and Work of Christ",
+        "6xDrz6Yr7Di",
         "Jesus’ Divinity",
         "zjDrz6JrT7D"
       ],
@@ -1790,15 +2003,15 @@
         "hDzPeuzgd6Y",
         "LMQGcXgg9PB",
         "The Holy Spirit and Salvation",
-        "The Mission of the Spirit",
-        "The Spirit and Common Grace",
-        "The Spirit and Special Grace",
-        "The Spirit’s Application of Salvation",
+        "GtXQDrz6z6J",
+        "iM3QDz6JYSr",
+        "kb7QDzjJY7S",
+        "QbMQDz6JYi1",
         "Effectual Calling",
         "Regeneration",
         "The Baptism of the Holy Spirit",
         "The Spirit’s Indwelling",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "Spiritual Gifts in the Church"
       ],
       "recommended_resources": [
@@ -1981,11 +2194,11 @@
     "_id": "GmC7JjW8uZV",
     "fields": {
       "title": "The Divine Decrees",
-      "title_ar": "الأوامر الإلهية",
+      "title_ar": "القضاء الإلهي",
       "alternative_title": null,
       "alternative_title_ar": null,
       "description": "The divine decrees refer to the eternal plans that God has made for his creation and are being carried out in the lives of his creatures. These decrees encompass God’s purpose for the creation of the universe and extend to the decisions made before the foundation of the world regarding the eternal destiny of human beings. The different approaches to the divine decrees arise from the theological controversy between Augustine and Pelagius, particularly concerning the doctrines of grace, free will, and original sin. Classic Augustinianism asserts that all human beings deserve condemnation for their rebellion against God, and God, out of his sovereign mercy, chose some for salvation even before their creation and their fall into sin. Moderate Augustinians believe that God’s choice for salvation is made in light of his foreknowledge of whether individuals will respond to his grace in faith. The doctrine of the divine decrees remains complex and controversial, and human understanding is limited in reconciling God’s sovereignty with human free will.",
-      "description_ar": "الأوامر الإلهية تشير إلى الخطط الأبدية التي قام الله بها لخلقه والتي تتجسد في حياة مخلوقاته. تتضمن هذه الأوامر قصد الله لخلق الكون وتمتد إلى القرارات التي اتخذها قبل تأسيس العالم بشأن المصير الأبدي للبشر. الطروحات المختلفة حول الأوامر الإلهية تنشأ من الجدل اللاهوتي بين أوغسطين وبيلاغيوس، وتتعلق بشكل خاص بمذاهب النعمة والإرادة الحرة والخطيئة الأصلية. تؤكد الأوغسطينية التقليدية أن جميع البشر يستحقون الإدانة بسبب تمردهم على الله، وأن الله، من رحمته السيادية، اختار بعضهم للخلاص قبل خلقهم وسقوطهم في الخطيئة. يعتقد المتوسطون الأوغسطيون أن اختيار الله للخلاص يتم في ضوء علمه المسبق بما إذا كان الأفراد سيستجيبون لنعمته بالإيمان. يظل عقيدة الأوامر الإلهية معقدة ومثيرة للجدل، وتكون الفهم البشري محدودًا في التوفيق بين سيادة الله وإرادة الإنسان الحرة.",
+      "description_ar": "القضاء الإلهي تشير إلى الخطط الأبدية التي قام الله بها لخلقه والتي تتجسد في حياة مخلوقاته. تتضمن هذه القضاء قصد الله لخلق الكون وتمتد إلى القرارات التي اتخذها قبل تأسيس العالم بشأن المصير الأبدي للبشر. الطروحات المختلفة حول القضاء الإلهي تنشأ من الجدل اللاهوتي بين أوغسطين وبيلاغيوس، وتتعلق بشكل خاص بمذاهب النعمة والإرادة الحرة والخطيئة الأصلية. تؤكد الأوغسطينية التقليدية أن جميع البشر يستحقون الإدانة بسبب تمردهم على الله، وأن الله، من رحمته السيادية، اختار بعضهم للخلاص قبل خلقهم وسقوطهم في الخطيئة. يعتقد المتوسطون الأوغسطيون أن اختيار الله للخلاص يتم في ضوء علمه المسبق بما إذا كان الأفراد سيستجيبون لنعمته بالإيمان. يظل عقيدة القضاء الإلهي معقدة ومثيرة للجدل، وتكون الفهم البشري محدودًا في التوفيق بين سيادة الله وإرادة الإنسان الحرة.",
       "main_category": "gkRRpyiuTzP",
       "other_categories": [
         "KUnIJzadbtA",
@@ -2012,9 +2225,9 @@
         "o0KdKpgImq0",
         "Pls9fJRO33G",
         "vIQ51S07Y4K",
-        "God’s Sovereignty over Creation",
-        "Creation",
-        "Providence"
+        "lEfAvDrJYSJ",
+        "sWiCzvq0zY1",
+        "kWv4Drjz6it"
       ],
       "recommended_resources": [
         "Predestination and Free Will (Basinger and Basinger, eds.)",
@@ -2036,7 +2249,7 @@
       "short_description": "God’s Foreknowledge refers to His eternal loving regard, saving purpose, or passive awareness of the future choices of free individuals. Reformed interpreters emphasize foreordination, predestination, and election in understanding God’s foreknowledge. Non-Reformed interpreters associate foreknowledge with knowing in advance based on foreseen faith. God’s foreknowledge serves as a reminder of salvation by grace alone.",
       "short_description_ar": "معرفة الله المسبقة تشير إلى اهتمامه الأبدي المحب والغرض المخلص أو الوعي السلبي بخيارات المستقبل للأفراد الحرة. يؤكد المفسرون الإصلاحيون التدبير المسبق والتقدير المسبق والاصطفاء في فهم معرفة الله المسبقة. يربط المفسرون غير الإصلاحيين معرفة الله المسبقة بالمعرفة المسبقة بناءً على الإيمان المتوقع. تعمل معرفة الله المسبقة كتذكير بالخلاص بالنعمة وحدها.",
       "main_category": "GmC7JjW8uZV",
-      "other_categories": null,
+      "other_categories": ["Pls9fJRO33G"],
       "sub_categories": null,
       "key_verses": [
         "Amos.3.2",
@@ -2049,7 +2262,7 @@
       "additional_verses": null,
       "other_subjects": [
         "GmC7JjW8uZV",
-        "God’s Sovereignty over Creation",
+        "lEfAvDrJYSJ",
         "o0KdKpgImq0",
         "Pls9fJRO33G",
         "AK3hyP0XehI"
@@ -2107,12 +2320,12 @@
       "related_topics": [
         "o0KdKpgImq0",
         "DyHxRYkbPRx",
-        "Providence",
+        "kWv4Drjz6it",
         "vIQ51S07Y4K",
-        "God’s Sovereignty over Creation",
-        "The Spirit’s Application of Salvation",
-        "Providence and Concursus",
-        "The Problem of Evil"
+        "lEfAvDrJYSJ",
+        "QbMQDz6JYi1",
+        "0lTQvDrJYS1",
+        "EiYADzjJYiJ"
       ],
       "see_also": ["Pls9fJRO33G"]
     }
@@ -2145,12 +2358,12 @@
       "other_subjects": [
         "DyHxRYkbPRx",
         "Pls9fJRO33G",
-        "Providence",
+        "kWv4Drjz6it",
         "vIQ51S07Y4K",
-        "God’s Sovereignty over Creation",
-        "Covenants",
+        "lEfAvDrJYSJ",
+        "l0mIDzrJYiJ",
         "The Church and Israel",
-        "The Spirit’s Application of Salvation"
+        "QbMQDz6JYi1"
       ],
       "recommended_resources": [
         "Whomever He Wills (Barrett and Nettles, eds.)",
@@ -2195,8 +2408,8 @@
         "o0KdKpgImq0",
         "DyHxRYkbPRx",
         "Pls9fJRO33G",
-        "Providence",
-        "God’s Sovereignty over Creation",
+        "kWv4Drjz6it",
+        "lEfAvDrJYSJ",
         "The Judgment of the Wicked"
       ],
       "recommended_resources": [
@@ -2271,7 +2484,7 @@
         "KUnIJzadbtA",
         "The Material World",
         "vIwMzTdPLbk",
-        "Creation"
+        "sWiCzvq0zY1"
       ],
       "recommended_resources": [
         "General Revelation (Berkouwer)",
@@ -2451,7 +2664,7 @@
         "Special Revelation through Prophecy",
         "The Bible’s Inspiration",
         "The Bible’s Authority",
-        "The Bible’s Truthfulness",
+        "NpSl2E9kfh1",
         "The Canon",
         "The Bible’s Sufficiency",
         "The Bible’s Necessity",
@@ -2731,10 +2944,10 @@
       "other_subjects": [
         "vIwMzTdPLbk",
         "Special Revelation through Prophecy",
-        "Covenants",
+        "l0mIDzrJYiJ",
         "The Bible’s Inspiration",
         "The Bible’s Authority",
-        "The Bible’s Truthfulness",
+        "NpSl2E9kfh1",
         "The Canon",
         "The Bible’s Sufficiency",
         "The Church’s Work of Evangelism and Discipleship",
@@ -2793,7 +3006,7 @@
         "The Bible",
         "Special Revelation through Prophecy",
         "The Bible’s Authority",
-        "The Bible’s Truthfulness",
+        "NpSl2E9kfh1",
         "G2OufWJeVvL"
       ],
       "recommended_resources": [
@@ -2842,8 +3055,8 @@
       ],
       "other_subjects": [
         "The Bible’s Inspiration",
-        "The Bible’s Truthfulness",
-        "Creation",
+        "NpSl2E9kfh1",
+        "sWiCzvq0zY1",
         "Humanity’s Fall into Sin",
         "The Canon",
         "The Church’s Institutional Life"
@@ -2857,7 +3070,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "NpSl2E9kfh1",
     "fields": {
       "title": "The Bible’s Truthfulness",
       "title_ar": "صحة الكتاب المقدس",
@@ -2940,7 +3153,7 @@
       "other_subjects": [
         "The Bible’s Inspiration",
         "The Bible’s Authority",
-        "Covenants",
+        "l0mIDzrJYiJ",
         "The Bible’s Necessity",
         "The Bible’s Sufficiency"
       ],
@@ -3068,7 +3281,7 @@
       "additional_verses": ["Matt.4.4", "Rom.10.13-Rom.10.17"],
       "other_subjects": [
         "The Bible",
-        "Covenants",
+        "l0mIDzrJYiJ",
         "The Bible’s Inspiration",
         "The Bible’s Sufficiency",
         "pdwJXdtqVLf",
@@ -3110,7 +3323,7 @@
         "The Bible",
         "The Bible’s Inspiration",
         "The Bible’s Authority",
-        "The Bible’s Truthfulness",
+        "NpSl2E9kfh1",
         "The Bible’s Clarity",
         "Biblical Interpretation"
       ],
@@ -3172,7 +3385,7 @@
         "The Bible’s Inspiration",
         "Preaching in the Life of the Church",
         "The Bible’s Authority",
-        "The Bible’s Truthfulness",
+        "NpSl2E9kfh1",
         "The Church’s Work of Evangelism and Discipleship",
         "The Bible’s Clarity",
         "Bible Translation",
@@ -3205,7 +3418,12 @@
       "sub_categories": null,
       "key_verses": ["Jer.23.23", "Ps.145.9"],
       "additional_verses": [],
-      "other_subjects": ["Creation", "Covenants", "gkRRpyiuTzP", "Providence"],
+      "other_subjects": [
+        "sWiCzvq0zY1",
+        "l0mIDzrJYiJ",
+        "gkRRpyiuTzP",
+        "kWv4Drjz6it"
+      ],
       "recommended_resources": [
         "Confessions (Augustine)",
         "The Providence of God (Helm)",
@@ -3214,7 +3432,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "sWiCzvq0zY1",
     "fields": {
       "title": "Creation",
       "title_ar": "الخلق",
@@ -3257,7 +3475,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "vEKYDzj0Jng",
     "fields": {
       "title": "Creation ex nihilo",
       "title_ar": "خلق من لا شيء",
@@ -3295,7 +3513,7 @@
         "Confessions (Augustine), Bk. XII, 38–40"
       ],
       "other_subjects": [
-        "Creation",
+        "sWiCzvq0zY1",
         "The Person of Jesus",
         "sRr56tl2ZJl",
         "jeAZwIqjRQF",
@@ -3418,7 +3636,7 @@
         "Demons",
         "Providence and Miracles",
         "gkRRpyiuTzP",
-        "Creation",
+        "sWiCzvq0zY1",
         "Satan"
       ],
       "recommended_resources": [
@@ -3463,9 +3681,9 @@
       "additional_verses": ["Rev.12.10", "Gen.3.1", "John.8.44", "1John.3.8"],
       "other_subjects": [
         "Humanity’s Fall into Sin",
-        "The Problem of Evil",
+        "EiYADzjJYiJ",
         "gkRRpyiuTzP",
-        "Creation",
+        "sWiCzvq0zY1",
         "Angels"
       ],
       "recommended_resources": [
@@ -3508,7 +3726,7 @@
         "1Sam.16.14-1Sam.16.16"
       ],
       "additional_verses": null,
-      "other_subjects": ["Angels", "gkRRpyiuTzP", "Creation", "Satan"],
+      "other_subjects": ["Angels", "gkRRpyiuTzP", "sWiCzvq0zY1", "Satan"],
       "recommended_resources": [
         "Systematic Theology (Berkhof), 148–150",
         "Concise Theology (Packer), 67–68",
@@ -3543,8 +3761,8 @@
       ],
       "additional_verses": ["Gen.2.1", "Ps.104.5-Ps.104.6"],
       "other_subjects": [
-        "Creation",
-        "Creation ex nihilo",
+        "sWiCzvq0zY1",
+        "vEKYDzj0Jng",
         "The Spiritual World",
         "brT7DzrJYS1",
         "Human Nature",
@@ -3563,7 +3781,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "kWv4Drjz6it",
     "fields": {
       "title": "Providence",
       "title_ar": "الإلهية",
@@ -3596,10 +3814,10 @@
         "1Tim.6.17"
       ],
       "other_subjects": [
-        "Creation",
+        "sWiCzvq0zY1",
         "KUnIJzadbtA",
         "Pls9fJRO33G",
-        "The Spirit and Common Grace",
+        "iM3QDz6JYSr",
         "NTu8v1UeVwd",
         "H2yHdQMRjBQ"
       ],
@@ -3640,10 +3858,10 @@
         "GmC7JjW8uZV",
         "vIwMzTdPLbk",
         "gyMSz6J98Kb",
-        "Creation",
-        "Providence",
-        "The Spirit’s Application of Salvation",
-        "Sanctification",
+        "sWiCzvq0zY1",
+        "kWv4Drjz6it",
+        "QbMQDz6JYi1",
+        "yPnQDzjz6JY",
         "Spiritual Gifts in the Church",
         "Non-Written Special Revelation"
       ],
@@ -3655,7 +3873,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "0lTQvDrJYS1",
     "fields": {
       "title": "Providence and Concursus",
       "title_ar": "الإحاطة الإلهية والتعاون",
@@ -3679,9 +3897,9 @@
         "GmC7JjW8uZV",
         "vIwMzTdPLbk",
         "gyMSz6J98Kb",
-        "Creation",
-        "Providence",
-        "Human Will",
+        "sWiCzvq0zY1",
+        "kWv4Drjz6it",
+        "VYr7DrzJYS1",
         "6LLQvDrJYSJ"
       ],
       "recommended_resources": [
@@ -3696,7 +3914,7 @@
     "fields": {
       "title": "God’s Preservation of Creation",
       "title_ar": "حفظ الله للخليقة",
-      "alternative_title": "Providence",
+      "alternative_title": "kWv4Drjz6it",
       "alternative_title_ar": "التوفيق",
       "description": "God’s preservation of creation involves his continuous maintenance of every part of his creation, according to his sovereign will. While the term ’providence’ is not frequently used in the Bible, it encompasses the phenomenon found throughout Scripture under various expressions. Providence involves God’s foresight and ability to see and provide for things in advance. The concept of providence is rooted in God’s sovereignty and stands in contrast to luck, fate, or chance. Preservation is one of the overlapping dimensions of providence and includes the preservation of humanity, animal life, and all natural processes and elements of the cosmos. The New Testament highlights that God accomplishes his preserving providence through the eternal Son, Jesus Christ, who upholds the universe by the word of his power. Understanding providence is important as it reveals how God directs and interacts with his creation, often using ordinary means rather than miracles. Knowing about God’s providence leads to patience in adversity and gratitude in prosperity, fostering trust in our Heavenly Father.",
       "description_ar": "حفظ الله للخليقة يتضمن الحفاظ المستمر على كل جزء من خليقته، وفقًا لإرادته السيادية. في حين لا يُستخدم مصطلح ’التوفيق’ كثيرًا في الكتاب المقدس، فإنه يشمل الظاهرة الموجودة في الكتاب تحت تعبيرات مختلفة. يتضمن التوفيق قدرة الله على الرؤية المستقبلية والقدرة على رؤية الأشياء وتوفيرها مسبقًا. يرتكز مفهوم التوفيق على سيادة الله ويقف في تناقض مع الحظ أو القدر أو الصدفة. يعتبر الحفظ أحد أبعاد التوفيق المتداخلة ويشمل الحفاظ على البشرية وحياة الحيوانات وجميع العمليات الطبيعية وعناصر الكون. يؤكد العهد الجديد أن الله يحقق توفيقه الحافظ للخليقة من خلال الابن الأزلي، يسوع المسيح، الذي يحمل الكون بكلمة قوته. يعد فهم التوفيق أمرًا مهمًا حيث يظهر كيف يوجه الله ويتفاعل مع خليقته، وعادةً ما يستخدم وسائل عادية بدلاً من المعجزات. معرفة التوفيق الإلهي تؤدي إلى الصبر في الشدائد والامتنان في الرخاء، وتعزز الثقة بالله الأب السماوي.",
@@ -3714,14 +3932,14 @@
       ],
       "related_topics": [
         "gkRRpyiuTzP",
-        "God’s Sovereignty over Creation",
+        "lEfAvDrJYSJ",
         "TqkP89RvPq1",
         "6LLQvDrJYSJ"
       ]
     }
   },
   {
-    "_id": null,
+    "_id": "lEfAvDrJYSJ",
     "fields": {
       "title": "God’s Sovereignty over Creation",
       "title_ar": "سيادة الله على الخليقة",
@@ -3783,7 +4001,7 @@
       "additional_verses": ["1Kgs.22.19", "Exod.15.18", "Ps.93"],
       "other_subjects": [
         "gkRRpyiuTzP",
-        "Providence",
+        "kWv4Drjz6it",
         "The Kingdom of God",
         "TqkP89RvPq1",
         "Jesus’ Kingly Office"
@@ -3797,7 +4015,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "l0mIDzrJYiJ",
     "fields": {
       "title": "Covenants",
       "title_ar": "العهود",
@@ -3864,8 +4082,8 @@
       "additional_verses": null,
       "other_subjects": [
         "D5w0Dxpl9it",
-        "The Covenants of Grace",
-        "God’s Law",
+        "XpYKDrjJYSx",
+        "Xh0AvDrJYS1",
         "6LLQvDrJYSJ",
         "The Moral Law",
         "Sin and Death",
@@ -3881,7 +4099,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "Xh0AvDrJYS1",
     "fields": {
       "title": "God’s Law",
       "title_ar": "شرع الله",
@@ -3915,10 +4133,10 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Christian Use of the Law",
+        "tqYADzrJYSJ",
         "The Civil Use of the Law",
         "The Covenant of Creation",
-        "God’s Sovereignty over Creation",
+        "lEfAvDrJYSJ",
         "The Moral Law",
         "The Mosaic Covenant",
         "6LLQvDrJYSJ",
@@ -3963,11 +4181,11 @@
       "other_subjects": [
         "The Civil Use of the Law",
         "The Covenant of Creation",
-        "God’s Law",
+        "Xh0AvDrJYS1",
         "The Moral Law",
         "The Mosaic Covenant",
         "Providence and Miracles",
-        "Providence and Concursus",
+        "0lTQvDrJYS1",
         "God’s Preservation of Creation",
         "General Revelation in Creation"
       ],
@@ -3998,10 +4216,10 @@
       "key_verses": ["Exod.20.1-Exod.20.17", "Eph.2.15", "Gal.3.24"],
       "additional_verses": ["Rom.2.14-Rom.2.15"],
       "other_subjects": [
-        "The Christian Use of the Law",
+        "tqYADzrJYSJ",
         "The Civil Use of the Law",
         "The Covenant of Creation",
-        "God’s Sovereignty over Creation",
+        "lEfAvDrJYSJ",
         "The Moral Law",
         "The Mosaic Covenant",
         "6LLQvDrJYSJ",
@@ -4019,7 +4237,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "XpYKDrjJYSx",
     "fields": {
       "title": "The Covenants of Grace",
       "title_ar": "عهود النعمة",
@@ -4082,9 +4300,9 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Spirit and Common Grace",
+        "iM3QDz6JYSr",
         "The Covenant of Creation",
-        "The Covenants of Grace",
+        "XpYKDrjJYSx",
         "brT7DzrJYS1",
         "6LLQvDrJYSJ",
         "The New Heavens and Earth",
@@ -4147,10 +4365,10 @@
         "Gal.3.16"
       ],
       "other_subjects": [
-        "The Covenants of Grace",
+        "XpYKDrjJYSx",
         "The Covenant of Creation",
         "Calling",
-        "Covenants",
+        "l0mIDzrJYiJ",
         "Saving Faith",
         "The Holy Spirit and Salvation"
       ],
@@ -4193,7 +4411,7 @@
       "other_subjects": [
         "The Abrahamic Covenant",
         "The Covenant of Creation",
-        "The Covenants of Grace",
+        "XpYKDrjJYSx",
         "The Moral Law",
         "The Three Uses of the Law"
       ],
@@ -4243,7 +4461,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Covenant of Creation",
-        "The Covenants of Grace",
+        "XpYKDrjJYSx",
         "Jesus As Mediator",
         "Jesus’ Kingly Office"
       ],
@@ -4302,8 +4520,8 @@
         "Sealed with an Oath: Covenant in God’s Unfolding Plan (Williamson)"
       ],
       "related_topics": [
-        "The Christian Use of the Law",
-        "The Covenants of Grace",
+        "tqYADzrJYSJ",
+        "XpYKDrjJYSx",
         "The Church and Israel",
         "Jesus’ Death",
         "The Mosaic Covenant",
@@ -4346,7 +4564,7 @@
       ],
       "additional_verses": ["Rom.3.20", "Rom.5.20", "Rom.7.7"],
       "other_subjects": [
-        "The Christian Use of the Law",
+        "tqYADzrJYSJ",
         "The Civil Use of the Law",
         "The Moral Law",
         "The Mosaic Covenant",
@@ -4379,13 +4597,13 @@
       "key_verses": ["1Tim.1.9-1Tim.1.10"],
       "additional_verses": null,
       "other_subjects": [
-        "The Christian Use of the Law",
+        "tqYADzrJYSJ",
         "The Moral Law",
         "The Mosaic Covenant",
         "Theological Law",
         "The Church and Society",
-        "Sanctification",
-        "The Church’s Work of Mercy and Justice",
+        "yPnQDzjz6JY",
+        "Cy6QDzjJY7S",
         "Actual Sin"
       ],
       "recommended_resources": [
@@ -4423,11 +4641,11 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Christian Use of the Law",
+        "tqYADzrJYSJ",
         "The Civil Use of the Law",
         "The Moral Law",
         "The Mosaic Covenant",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "The Church’s Work of Evangelism and Discipleship",
         "Actual Sin",
         "Preaching in the Life of the Church"
@@ -4442,7 +4660,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "tqYADzrJYSJ",
     "fields": {
       "title": "The Christian Use of the Law",
       "title_ar": "استخدام المسيحي للقانون",
@@ -4471,7 +4689,7 @@
         "The Moral Law",
         "The Mosaic Covenant",
         "Theological Law",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "The Church’s Work of Evangelism and Discipleship",
         "The Bible’s Authority",
         "Biblical Interpretation"
@@ -4528,12 +4746,12 @@
       "other_subjects": [
         "The Abrahamic Covenant",
         "The Doctrine of the Church",
-        "The Covenants of Grace",
+        "XpYKDrjJYSx",
         "Jesus As Mediator",
         "The Kingdom of God",
         "The New Covenant",
         "Special Revelation through Prophecy",
-        "The Bible’s Truthfulness",
+        "NpSl2E9kfh1",
         "The Church and Society",
         "o0KdKpgImq0"
       ],
@@ -4603,7 +4821,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Creation",
+        "sWiCzvq0zY1",
         "Human Nature",
         "Jesus’ Incarnation",
         "The Holy Spirit and Salvation",
@@ -4644,9 +4862,9 @@
       "other_subjects": [
         "The Material World",
         "gkRRpyiuTzP",
-        "Covenants",
-        "Creation",
-        "The Person and Work of Christ",
+        "l0mIDzrJYiJ",
+        "sWiCzvq0zY1",
+        "6xDrz6Yr7Di",
         "Jesus As Second Adam",
         "brT7DzrJYS1",
         "The Historical Adam"
@@ -4685,11 +4903,11 @@
       "other_subjects": [
         "brT7DzrJYS1",
         "The Noahic Covenant",
-        "Creation",
+        "sWiCzvq0zY1",
         "The Effects of the Fall on Humanity",
         "xS3bNdC5qLU",
         "General Revelation in Conscience",
-        "Sanctification"
+        "yPnQDzjz6JY"
       ],
       "recommended_resources": [
         "Systematic Theology (Garrett), Vol. I, 451–69",
@@ -4755,8 +4973,8 @@
       "additional_verses": null,
       "other_subjects": [
         "Fellowship in the Life of the Church",
-        "Creation",
-        "The Person and Work of Christ",
+        "sWiCzvq0zY1",
+        "6xDrz6Yr7Di",
         "Original Sin",
         "LMQGcXgg9PB"
       ],
@@ -4792,8 +5010,8 @@
       "additional_verses": null,
       "other_subjects": [
         "Structural Human Sin",
-        "Creation",
-        "The Person and Work of Christ",
+        "sWiCzvq0zY1",
+        "6xDrz6Yr7Di",
         "The Kingdom of God",
         "LMQGcXgg9PB"
       ],
@@ -4830,8 +5048,8 @@
       "additional_verses": null,
       "other_subjects": [
         "Marriage",
-        "Creation",
-        "The Person and Work of Christ",
+        "sWiCzvq0zY1",
+        "6xDrz6Yr7Di",
         "Original Sin",
         "LMQGcXgg9PB"
       ],
@@ -4869,7 +5087,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Creation",
+        "sWiCzvq0zY1",
         "brT7DzrJYS1",
         "Humanity’s Fall into Sin",
         "Jesus’ Resurrection",
@@ -4921,7 +5139,7 @@
       "other_subjects": [
         "Human Capacities",
         "Heaven",
-        "The Glorified Body",
+        "MZGjKlNwvxr",
         "The Final State of the Righteous",
         "Jesus’ Incarnation",
         "brT7DzrJYS1",
@@ -4960,7 +5178,7 @@
         "The Human Constitution",
         "Immortality of the Soul",
         "Human Capacities",
-        "Creation",
+        "sWiCzvq0zY1",
         "brT7DzrJYS1",
         "Original Sin",
         "The Material World",
@@ -5034,7 +5252,7 @@
       "other_subjects": [
         "D0AQDrjz6YS",
         "Human Emotions",
-        "Human Will",
+        "VYr7DrzJYS1",
         "brT7DzrJYS1",
         "Human Nature",
         "Original Sin",
@@ -5113,7 +5331,7 @@
         "Jas.1.20"
       ],
       "additional_verses": null,
-      "other_subjects": ["D0AQDrjz6YS", "Human Will", "Human Capacities"],
+      "other_subjects": ["D0AQDrjz6YS", "VYr7DrzJYS1", "Human Capacities"],
       "recommended_resources": [
         "Summa Theologiae, I–II, Qq. 22–48 (Aquinas)",
         "“The Emotional Life of Our Lord” (Warfield)",
@@ -5126,7 +5344,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "VYr7DrzJYS1",
     "fields": {
       "title": "Human Will",
       "title_ar": "إرادة الإنسان",
@@ -5157,9 +5375,9 @@
         "Regeneration",
         "Actual Sin",
         "Original Sin",
-        "The Problem of Evil",
+        "EiYADzjJYiJ",
         "The Effects of the Fall on Humanity",
-        "Providence and Concursus"
+        "0lTQvDrJYS1"
       ],
       "recommended_resources": [
         "Summa Theologica, Prima pars, Qq. 82–83 (Aquinas)",
@@ -5196,12 +5414,12 @@
       ],
       "additional_verses": ["Lev.26.40-Lev.26.45"],
       "other_subjects": [
-        "Creation",
-        "The Problem of Evil",
+        "sWiCzvq0zY1",
+        "EiYADzjJYiJ",
         "Human Nature",
         "brT7DzrJYS1",
         "The Final Judgment",
-        "God’s Law",
+        "Xh0AvDrJYS1",
         "Jesus’ Death"
       ],
       "recommended_resources": [
@@ -5240,7 +5458,7 @@
       "other_subjects": [
         "The Effects of the Fall on Humanity",
         "Original Sin",
-        "The Problem of Evil",
+        "EiYADzjJYiJ",
         "Jesus As Second Adam",
         "Human Sexuality"
       ],
@@ -5254,7 +5472,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "EiYADzjJYiJ",
     "fields": {
       "title": "The Problem of Evil",
       "title_ar": "مشكلة الشر",
@@ -5312,7 +5530,7 @@
       "other_subjects": [
         "The Character of the Fall of Adam",
         "The Effects of the Fall on Humanity",
-        "Human Will",
+        "VYr7DrzJYS1",
         "Human Capacities",
         "Actual Sin",
         "Humanity’s Original Integrity"
@@ -5352,7 +5570,7 @@
         "The Historical Adam",
         "Original Sin",
         "Sin and Death",
-        "Justification",
+        "i1TQDzr6JYS",
         "Satan"
       ],
       "recommended_resources": [
@@ -5393,7 +5611,7 @@
         "The Effects of the Fall on Creation",
         "Human Capacities",
         "Regeneration",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "Sin and Death",
         "brT7DzrJYS1"
       ],
@@ -5431,7 +5649,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Effects of the Fall on Humanity",
-        "The Spirit and Common Grace",
+        "iM3QDz6JYSr",
         "Humanity’s Dominion over the Earth",
         "The New Heavens and Earth",
         "The Material World"
@@ -5489,14 +5707,14 @@
       ],
       "other_subjects": [
         "Jesus’ Death",
-        "God’s Law",
+        "Xh0AvDrJYS1",
         "Punishment for Sin",
         "Original Sin",
         "Penance",
         "Repentance",
         "The Judgment of the Wicked",
         "Union with Christ",
-        "Jesus’ Impeccability",
+        "6BzADrjz6YS",
         "Jesus’ Obedience"
       ],
       "recommended_resources": [
@@ -5542,7 +5760,7 @@
       "other_subjects": [
         "The New Heavens and Earth",
         "The Church and Society",
-        "The Church’s Work of Mercy and Justice",
+        "Cy6QDzjJY7S",
         "The Kingdom of God",
         "Satan",
         "Demons",
@@ -5598,7 +5816,7 @@
         "Actual Sin",
         "Punishment for Sin",
         "Structural Human Sin",
-        "God’s Law",
+        "Xh0AvDrJYS1",
         "Repentance"
       ],
       "recommended_resources": [
@@ -5611,7 +5829,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "JYUADzrJYiJ",
     "fields": {
       "title": "Condemnation for Sin",
       "title_ar": "إدانة الخطيئة",
@@ -5640,8 +5858,8 @@
         "Original Sin",
         "Actual Sin",
         "Punishment for Sin",
-        "God’s Law",
-        "Justification"
+        "Xh0AvDrJYS1",
+        "i1TQDzr6JYS"
       ],
       "recommended_resources": [
         "In the Beginning: The Opening Chapters of Genesis (Blocher)",
@@ -5688,8 +5906,8 @@
         "Actual Sin",
         "Sin and Death",
         "The Extent of the Atonement",
-        "Theories of Atonement",
-        "God’s Law",
+        "u7zQDz6z6Jr",
+        "Xh0AvDrJYS1",
         "vxJOiVSS11b"
       ],
       "recommended_resources": [
@@ -5757,7 +5975,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "6xDrz6Yr7Di",
     "fields": {
       "title": "The Person and Work of Christ",
       "title_ar": "شخصية وعمل المسيح",
@@ -6332,7 +6550,7 @@
         "Jesus As Mediator",
         "Jesus’ Prophetic Office",
         "Jesus’ Priestly Office",
-        "God’s Sovereignty over Creation"
+        "lEfAvDrJYSJ"
       ],
       "recommended_resources": [
         "“Christ’s Threefold Office” in Reformed Dogmatics (Bavinck), Vol. III",
@@ -6375,7 +6593,7 @@
       "other_subjects": [
         "BSg7O5pqblW",
         "vxJOiVSS11b",
-        "Justification",
+        "i1TQDzr6JYS",
         "Jesus’ Second Coming",
         "The Final Judgment",
         "The Final State of the Righteous",
@@ -6414,7 +6632,7 @@
         "Humanity’s Fall into Sin",
         "The Final Judgment",
         "Jesus As Mediator",
-        "Theories of Atonement",
+        "u7zQDz6z6Jr",
         "The Extent of the Atonement",
         "Jesus’ Resurrection"
       ],
@@ -6448,7 +6666,7 @@
       ],
       "additional_verses": ["Phil.2.8"],
       "other_subjects": [
-        "Jesus’ Exaltation",
+        "u2XADzjz6Jr",
         "Jesus’ Divinity",
         "Jesus’ Humanity",
         "Jesus’ Incarnation",
@@ -6456,7 +6674,7 @@
         "Jesus’ Suffering",
         "Jesus’ Death",
         "Jesus’ Kenosis",
-        "Theories of Atonement"
+        "u7zQDz6z6Jr"
       ],
       "recommended_resources": [
         "The Person and Work of Christ (Warfield)",
@@ -6508,7 +6726,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "6BzADrjz6YS",
     "fields": {
       "title": "Jesus’ Impeccability",
       "title_ar": "تنزيه يسوع من الخطيئة",
@@ -6613,8 +6831,8 @@
         "Jesus As Mediator",
         "Jesus’ Accomplishment of Salvation",
         "Jesus’ Humiliation",
-        "The Mission of the Spirit",
-        "The Spirit and Special Grace",
+        "GtXQDrz6z6J",
+        "kb7QDzjJY7S",
         "Providence and Miracles"
       ],
       "recommended_resources": [
@@ -6649,7 +6867,7 @@
         "Acts.1.14"
       ],
       "additional_verses": ["Gal.4.4", "John.1.14"],
-      "other_subjects": ["Jesus’ Incarnation", "The Person and Work of Christ"],
+      "other_subjects": ["Jesus’ Incarnation", "6xDrz6Yr7Di"],
       "recommended_resources": [
         "Manual of Catholic Theology (Scheeben), Vol. II, 208–226",
         "Mariology (Scheeben)",
@@ -6688,7 +6906,7 @@
         "Jesus’ Resurrection",
         "Jesus’ Session at God’s Right Hand",
         "The Unity of Jesus’ Person",
-        "God’s Law",
+        "Xh0AvDrJYS1",
         "Jesus’ Prophetic Office"
       ],
       "recommended_resources": [
@@ -6725,7 +6943,7 @@
         "Jesus’ Obedience",
         "Jesus’ Suffering",
         "Jesus’ Descent into Hell",
-        "Theories of Atonement",
+        "u7zQDz6z6Jr",
         "Jesus As Mediator",
         "The Lord’s Supper",
         "Baptism"
@@ -6784,7 +7002,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "u7zQDz6z6Jr",
     "fields": {
       "title": "Theories of Atonement",
       "title_ar": "نظريات التكفير",
@@ -6855,11 +7073,11 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Theories of Atonement",
+        "u7zQDz6z6Jr",
         "Hell",
         "Purgatory",
         "The Final Judgment",
-        "Covenants",
+        "l0mIDzrJYiJ",
         "o0KdKpgImq0",
         "Union with Christ",
         "Original Sin",
@@ -6925,7 +7143,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "u2XADzjz6Jr",
     "fields": {
       "title": "Jesus’ Exaltation",
       "title_ar": "تمجيد يسوع",
@@ -6994,7 +7212,7 @@
         "Sin and Death",
         "Jesus’ Humiliation",
         "Jesus’ Suffering",
-        "The Glorified Body",
+        "MZGjKlNwvxr",
         "Jesus’ Kingly Office",
         "The Final State of the Righteous"
       ],
@@ -7056,9 +7274,9 @@
         "The Person of Jesus",
         "Jesus’ Humanity",
         "Jesus’ Divinity",
-        "God’s Sovereignty over Creation",
+        "lEfAvDrJYSJ",
         "The Kingdom of God",
-        "The Person and Work of Christ",
+        "6xDrz6Yr7Di",
         "Jesus’ Kingly Office",
         "The Spiritual World"
       ],
@@ -7131,8 +7349,8 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Covenants of Grace",
-        "Jesus’ Exaltation",
+        "XpYKDrjJYSx",
+        "u2XADzjz6Jr",
         "The Person of Jesus",
         "Jesus As Mediator",
         "Jesus’ Priestly Office"
@@ -7166,18 +7384,18 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Mission of the Spirit",
+        "GtXQDrz6z6J",
         "Calling",
         "Regeneration",
         "Conversion",
         "The Baptism of the Holy Spirit",
-        "The Glorified Body",
+        "MZGjKlNwvxr",
         "Union with Christ",
-        "Justification",
+        "i1TQDzr6JYS",
         "Adoption",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "The Permanence of Salvation",
-        "The Person and Work of Christ"
+        "6xDrz6Yr7Di"
       ],
       "recommended_resources": [
         "On the Holy Spirit (Basil the Great)",
@@ -7187,7 +7405,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "iM3QDz6JYSr",
     "fields": {
       "title": "The Spirit and Common Grace",
       "title_ar": "الروح والنعمة المشتركة",
@@ -7214,16 +7432,16 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Spirit and Special Grace",
+        "kb7QDzjJY7S",
         "G2OufWJeVvL",
         "The Noahic Covenant",
         "God’s Preservation of Creation",
-        "Creation",
+        "sWiCzvq0zY1",
         "gyMSz6J98Kb",
         "The Effects of the Fall on Humanity",
         "The Effects of the Fall on Creation",
         "NTu8v1UeVwd",
-        "Providence"
+        "kWv4Drjz6it"
       ],
       "recommended_resources": [
         "“Common Grace” (Bavinck)",
@@ -7238,7 +7456,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "GtXQDrz6z6J",
     "fields": {
       "title": "The Mission of the Spirit",
       "title_ar": "مهمة الروح القدس",
@@ -7269,7 +7487,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "kb7QDzjJY7S",
     "fields": {
       "title": "The Spirit and Special Grace",
       "title_ar": "الروح والنعمة الخاصة",
@@ -7297,11 +7515,11 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Spirit and Common Grace",
+        "iM3QDz6JYSr",
         "vIwMzTdPLbk",
-        "The Mission of the Spirit",
+        "GtXQDrz6z6J",
         "The Holy Spirit and Salvation",
-        "The Covenants of Grace",
+        "XpYKDrjJYSx",
         "gcRwI7HGgeH"
       ],
       "recommended_resources": [
@@ -7316,7 +7534,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "QbMQDz6JYi1",
     "fields": {
       "title": "The Spirit’s Application of Salvation",
       "title_ar": "تطبيق الروح للخلاص",
@@ -7386,12 +7604,12 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Spirit and Common Grace",
+        "iM3QDz6JYSr",
         "Effectual Calling",
         "gcRwI7HGgeH",
         "o0KdKpgImq0",
         "The Church’s Work of Evangelism and Discipleship",
-        "The Spirit’s Application of Salvation",
+        "QbMQDz6JYi1",
         "Pls9fJRO33G",
         "Regeneration",
         "The Holy Spirit and Salvation",
@@ -7473,9 +7691,9 @@
       "additional_verses": null,
       "other_subjects": [
         "gcRwI7HGgeH",
-        "The Mission of the Spirit",
-        "The Spirit and Common Grace",
-        "The Spirit and Special Grace",
+        "GtXQDrz6z6J",
+        "iM3QDz6JYSr",
+        "kb7QDzjJY7S",
         "o0KdKpgImq0",
         "The Church’s Work of Evangelism and Discipleship",
         "Pls9fJRO33G",
@@ -7569,7 +7787,7 @@
         "Jesus’ Accomplishment of Salvation",
         "Calling",
         "Saving Faith",
-        "Justification",
+        "i1TQDzr6JYS",
         "Regeneration",
         "Repentance",
         "The Spirit’s Indwelling",
@@ -7621,9 +7839,9 @@
       "other_subjects": [
         "Conversion",
         "Sanctification and Good Works",
-        "Justification",
+        "i1TQDzr6JYS",
         "Repentance",
-        "Sanctification"
+        "yPnQDzjz6JY"
       ],
       "recommended_resources": [
         "The Faith of Jesus Christ: Exegetical, Theological, and Biblical Studies (Bird and Sprinkle, eds.)",
@@ -7670,9 +7888,9 @@
         "Conversion",
         "Humanity’s Fall into Sin",
         "Saving Faith",
-        "Justification",
-        "Sanctification",
-        "The Church’s Holiness",
+        "i1TQDzr6JYS",
+        "yPnQDzjz6JY",
+        "bn6QDr6JYSr",
         "Church Discipline",
         "Penance",
         "Actual Sin",
@@ -7715,11 +7933,7 @@
         "2Cor.5.19"
       ],
       "additional_verses": null,
-      "other_subjects": [
-        "The Spirit’s Indwelling",
-        "Adoption",
-        "The Person and Work of Christ"
-      ],
+      "other_subjects": ["The Spirit’s Indwelling", "Adoption", "6xDrz6Yr7Di"],
       "recommended_resources": [
         "Systematic Theology (Erickson)",
         "Systematic Theology (Frame)",
@@ -7731,7 +7945,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "i1TQDzr6JYS",
     "fields": {
       "title": "Justification",
       "title_ar": "التبرير",
@@ -7756,10 +7970,10 @@
       "other_subjects": [
         "Jesus’ Death",
         "Saving Faith",
-        "God’s Law",
+        "Xh0AvDrJYS1",
         "BSg7O5pqblW",
         "Union with Christ",
-        "Sanctification"
+        "yPnQDzjz6JY"
       ],
       "recommended_resources": [
         "Justification: Five Views (Beilby & Eddy, eds.)",
@@ -7795,7 +8009,7 @@
       "other_subjects": [
         "Saving Faith",
         "Jesus’ Obedience",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "Jesus’ Suffering"
       ],
       "recommended_resources": [
@@ -7832,7 +8046,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Justification",
+        "i1TQDzr6JYS",
         "The Nature of Justification",
         "The Permanence of Salvation"
       ],
@@ -7893,7 +8107,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "yPnQDzjz6JY",
     "fields": {
       "title": "Sanctification",
       "title_ar": "التقديس",
@@ -7923,7 +8137,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Justification",
+        "i1TQDzr6JYS",
         "Spiritual Gifts in the Church",
         "Sanctification and Good Works",
         "xS3bNdC5qLU"
@@ -7967,11 +8181,11 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Sanctification",
+        "yPnQDzjz6JY",
         "The Church’s Institutional Life",
         "Prayer in the Life of the Church",
         "Preaching in the Life of the Church",
-        "The Church’s Sacraments",
+        "p-6QDz6JY7S",
         "Human Nature",
         "The Three Uses of the Law"
       ],
@@ -8016,11 +8230,11 @@
       "additional_verses": null,
       "other_subjects": [
         "Saving Faith",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "Penance",
         "Actual Sin",
-        "Justification",
-        "The Christian Use of the Law"
+        "i1TQDzr6JYS",
+        "tqYADzrJYSJ"
       ],
       "recommended_resources": [
         "The Christian Faith (Horton)",
@@ -8068,7 +8282,7 @@
         "Heb.10.26-Heb.10.31"
       ],
       "additional_verses": null,
-      "other_subjects": ["The Glorified Body", "Sanctification"],
+      "other_subjects": ["MZGjKlNwvxr", "yPnQDzjz6JY"],
       "recommended_resources": [
         "Four Views on Eternal Security (Pinson, ed.)",
         "Kept by the Power of God: A Study of Perseverance and Falling Away (Marshall)",
@@ -8218,7 +8432,7 @@
         "John.21.24"
       ],
       "additional_verses": null,
-      "other_subjects": ["The Church’s Institutional Life", "Covenants"],
+      "other_subjects": ["The Church’s Institutional Life", "l0mIDzrJYiJ"],
       "recommended_resources": [
         "The Church (Berkouwer)",
         "The Church (Bray)",
@@ -8256,7 +8470,7 @@
         "The Doctrine of the Church",
         "The Church’s Institutional Life",
         "Church Discipline",
-        "The Church’s Sacraments"
+        "p-6QDz6JY7S"
       ],
       "recommended_resources": [
         "Systematic Theology (Berkhof)",
@@ -8272,7 +8486,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "bn6QDr6JYSr",
     "fields": {
       "title": "The Church’s Holiness",
       "title_ar": "قداسة الكنيسة",
@@ -8296,10 +8510,10 @@
       "additional_verses": null,
       "other_subjects": [
         "xS3bNdC5qLU",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "Church Discipline",
         "The Church’s Mission",
-        "The Church’s Sacraments"
+        "p-6QDz6JY7S"
       ],
       "recommended_resources": [
         "The Holiness of God (Sproul)",
@@ -8335,7 +8549,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Doctrine of the Church",
-        "The Church’s Holiness",
+        "bn6QDr6JYSr",
         "The Church As Apostolic"
       ],
       "recommended_resources": [
@@ -8423,10 +8637,7 @@
         "Rev.21.9-Rev.21.17"
       ],
       "additional_verses": null,
-      "other_subjects": [
-        "AnuQDz6JYSr",
-        "The Doctrine of the Church"
-      ],
+      "other_subjects": ["AnuQDz6JYSr", "The Doctrine of the Church"],
       "recommended_resources": [
         "Sojourners and Strangers: The Doctrine of the Church (Allison)",
         "The Church (Clowney)",
@@ -8466,7 +8677,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Doctrine of the Church",
-        "Covenants",
+        "l0mIDzrJYiJ",
         "The Church’s Work of Evangelism and Discipleship",
         "The Bible’s Authority",
         "Biblical Interpretation",
@@ -8503,11 +8714,7 @@
         "1Pet.5.1-1Pet.5.5"
       ],
       "additional_verses": null,
-      "other_subjects": [
-        "gkRRpyiuTzP",
-        "The Person and Work of Christ",
-        "The Kingdom of God"
-      ],
+      "other_subjects": ["gkRRpyiuTzP", "6xDrz6Yr7Di", "The Kingdom of God"],
       "recommended_resources": [
         "Sojourners and Strangers (Allison)",
         "Perspectives on Church Government (Brand and Norman)",
@@ -8544,7 +8751,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Spirit’s Indwelling",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "Church Polity",
         "G2OufWJeVvL"
       ],
@@ -8581,7 +8788,7 @@
       "additional_verses": null,
       "other_subjects": [
         "gkRRpyiuTzP",
-        "The Person and Work of Christ",
+        "6xDrz6Yr7Di",
         "The Holy Spirit and Salvation",
         "Structural Human Sin",
         "Personal Sin",
@@ -8597,7 +8804,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "p-6QDz6JY7S",
     "fields": {
       "title": "The Church’s Sacraments",
       "title_ar": "الطقوس الدينية في الكنيسة",
@@ -8660,14 +8867,14 @@
         "Jesus As Mediator",
         "Jesus’ Priestly Office",
         "Jesus’ Kingly Office",
-        "Jesus’ Exaltation",
+        "u2XADzjz6Jr",
         "Jesus’ Ascension",
         "Jesus’ Intercession",
         "AnuQDz6JYSr",
         "The Church As Universal",
         "The Church’s Mission",
         "The Church’s Institutional Life",
-        "The Church’s Sacraments",
+        "p-6QDz6JY7S",
         "Fellowship in the Life of the Church"
       ],
       "recommended_resources": [
@@ -8763,7 +8970,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Doctrine of the Church",
-        "The Church’s Sacraments",
+        "p-6QDz6JY7S",
         "The Nature of Sacraments",
         "The Question of Additional Sacraments"
       ],
@@ -8794,7 +9001,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Doctrine of the Church",
-        "The Church’s Sacraments",
+        "p-6QDz6JY7S",
         "The Number of Sacraments",
         "The Nature of Sacraments"
       ],
@@ -8837,7 +9044,7 @@
         "brT7DzrJYS1",
         "Human Nature",
         "Human Sexuality",
-        "Covenants"
+        "l0mIDzrJYiJ"
       ],
       "recommended_resources": [
         "Divine Sex: A Compelling Vision for Christian Relationships in a Hypersexualized Age (Grant)",
@@ -8866,7 +9073,7 @@
       "key_verses": ["Acts.8.17", "Acts.19.6", "1Tim.4.14", "2Tim.1.6"],
       "additional_verses": null,
       "other_subjects": [
-        "Sanctification",
+        "yPnQDzjz6JY",
         "Spiritual Gifts in the Church",
         "The Question of Additional Sacraments",
         "The Nature of Sacraments"
@@ -8906,7 +9113,7 @@
         "Jesus’ Prophetic Office",
         "Jesus’ Priestly Office",
         "The Three Uses of the Law",
-        "The Christian Use of the Law",
+        "tqYADzrJYSJ",
         "The Lord’s Supper",
         "Baptism",
         "The Number of Sacraments",
@@ -8943,13 +9150,13 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Church’s Sacraments",
+        "p-6QDz6JY7S",
         "Baptism",
         "NtcDTbO9eKm",
         "vxJOiVSS11b",
         "wIRi6v3uv7U",
         "Actual Sin",
-        "The Spirit’s Application of Salvation",
+        "QbMQDz6JYi1",
         "Repentance"
       ],
       "recommended_resources": [
@@ -8979,11 +9186,11 @@
       "other_subjects": [
         "Jesus As Mediator",
         "Jesus’ Priestly Office",
-        "Providence",
+        "kWv4Drjz6it",
         "Providence and Miracles",
         "God’s Preservation of Creation",
-        "The Mission of the Spirit",
-        "The Spirit and Special Grace",
+        "GtXQDrz6z6J",
+        "kb7QDzjJY7S",
         "Conversion",
         "Repentance",
         "Sin and Death"
@@ -9022,7 +9229,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Doctrine of the Church",
-        "The Church’s Sacraments",
+        "p-6QDz6JY7S",
         "The Number of Sacraments",
         "The Question of Additional Sacraments"
       ],
@@ -9059,9 +9266,9 @@
       "other_subjects": [
         "gkRRpyiuTzP",
         "The Bible",
-        "The Person and Work of Christ",
+        "6xDrz6Yr7Di",
         "The Holy Spirit and Salvation",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "Spiritual Gifts in the Church"
       ],
       "recommended_resources": [
@@ -9105,7 +9312,7 @@
         "The Church’s Institutional Life",
         "The Doctrine of the Church",
         "ytHX4MFT0jR",
-        "Sanctification",
+        "yPnQDzjz6JY",
         "The Means of Sanctification"
       ],
       "recommended_resources": [
@@ -9144,9 +9351,9 @@
       "additional_verses": null,
       "other_subjects": [
         "gkRRpyiuTzP",
-        "The Person and Work of Christ",
+        "6xDrz6Yr7Di",
         "The Holy Spirit and Salvation",
-        "Covenants",
+        "l0mIDzrJYiJ",
         "Human Relationality"
       ],
       "recommended_resources": [
@@ -9184,7 +9391,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Church’s Sacraments",
+        "p-6QDz6JY7S",
         "The Lord’s Supper",
         "Baptism",
         "Preaching in the Life of the Church",
@@ -9226,7 +9433,7 @@
       "other_subjects": [
         "gkRRpyiuTzP",
         "Jesus’ Accomplishment of Salvation",
-        "Sanctification"
+        "yPnQDzjz6JY"
       ],
       "recommended_resources": [
         "The Treasure Principle (Alcorn)",
@@ -9261,7 +9468,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Holy Spirit and Salvation",
-        "Covenants",
+        "l0mIDzrJYiJ",
         "The Kingdom of God"
       ]
     }
@@ -9296,10 +9503,10 @@
         "Col.1.18"
       ],
       "other_subjects": [
-        "Creation",
+        "sWiCzvq0zY1",
         "gkRRpyiuTzP",
         "G2OufWJeVvL",
-        "The Person and Work of Christ",
+        "6xDrz6Yr7Di",
         "The Kingdom of God"
       ],
       "recommended_resources": [
@@ -9394,7 +9601,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "Cy6QDzjJY7S",
     "fields": {
       "title": "The Church’s Work of Mercy and Justice",
       "title_ar": "عمل الكنيسة في الرحمة والعدالة",
@@ -9421,9 +9628,9 @@
       "other_subjects": [
         "wIRi6v3uv7U",
         "BSg7O5pqblW",
-        "Creation",
+        "sWiCzvq0zY1",
         "gkRRpyiuTzP",
-        "The Person and Work of Christ",
+        "6xDrz6Yr7Di",
         "The Kingdom of God"
       ],
       "recommended_resources": [
@@ -9513,10 +9720,10 @@
         "Col.1.13"
       ],
       "other_subjects": [
-        "Covenants",
+        "l0mIDzrJYiJ",
         "The Holy Spirit and Salvation",
         "Jesus’ Suffering",
-        "Theories of Atonement",
+        "u7zQDz6z6Jr",
         "The Final Judgment",
         "Jesus’ Kingly Office",
         "The Church’s Mission"
@@ -9743,7 +9950,7 @@
         "The Kingdom of God",
         "Hell",
         "The New Heavens and Earth",
-        "The Glorified Body"
+        "MZGjKlNwvxr"
       ],
       "recommended_resources": [
         "Christian Beliefs about Life After Death (Badham)",
@@ -9884,7 +10091,7 @@
         "The Final Judgment",
         "Sin and Death",
         "Punishment for Sin",
-        "Sanctification"
+        "yPnQDzjz6JY"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. IV, 609–611",
@@ -9938,7 +10145,7 @@
         "The Final Judgment",
         "The Kingdom of God",
         "The Person of Jesus",
-        "Jesus’ Exaltation",
+        "u2XADzjz6Jr",
         "Jesus’ Kingly Office"
       ],
       "recommended_resources": [
@@ -10083,7 +10290,7 @@
       "other_subjects": [
         "The Holy Spirit and Salvation",
         "The Person of Jesus",
-        "Creation",
+        "sWiCzvq0zY1",
         "o0KdKpgImq0",
         "vxJOiVSS11b",
         "Heaven",
@@ -10186,7 +10393,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "MZGjKlNwvxr",
     "fields": {
       "title": "The Glorified Body",
       "title_ar": "الجسد الممجد",
