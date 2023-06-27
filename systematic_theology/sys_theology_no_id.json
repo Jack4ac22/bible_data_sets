@@ -1687,7 +1687,7 @@
         "AK3hyP0XehI",
         "TrTQDzrJYSJ",
         "yPnQDzjz6JY",
-        "The Bible",
+        "GqUTTqbZIAJ",
         "DyHxRYkbPRx",
         "kWv4Drjz6it"
       ],
@@ -2008,7 +2008,7 @@
         "kb7QDzjJY7S",
         "QbMQDz6JYi1",
         "Effectual Calling",
-        "Regeneration",
+        "SMMQDz6JYS1",
         "The Baptism of the Holy Spirit",
         "The Spirit’s Indwelling",
         "yPnQDzjz6JY",
@@ -2177,7 +2177,7 @@
         "sRr56tl2ZJl",
         "hDzPeuzgd6Y",
         "G2OufWJeVvL",
-        "Special Revelation and Tradition",
+        "M2TBMajWxLg",
         "Rule of Faith"
       ],
       "recommended_resources": [
@@ -2362,7 +2362,7 @@
         "vIQ51S07Y4K",
         "lEfAvDrJYSJ",
         "l0mIDzrJYiJ",
-        "The Church and Israel",
+        "fDgIDzrJYSJ",
         "QbMQDz6JYi1"
       ],
       "recommended_resources": [
@@ -2410,7 +2410,7 @@
         "Pls9fJRO33G",
         "kWv4Drjz6it",
         "lEfAvDrJYSJ",
-        "The Judgment of the Wicked"
+        "NZGjKlNwvxr"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. II, 393–398",
@@ -2425,31 +2425,34 @@
     }
   },
   {
-    "_id": null,
+    "_id": "rALwkVxM32p",
     "fields": {
       "title": "The Doctrine of Scripture and Revelation",
       "title_ar": "عقيدة الكتاب المقدس والوحي",
-      "alternative_title": null,
-      "alternative_title_ar": null,
+      "alternative_title": "Scripture and Revelation",
+      "alternative_title_ar": "الكتاب المقدس والوحي",
       "description": "God reveals himself to us in order for us to know him. He has revealed himself as Creator through his works of creation and providence, and specifically as Redeemer through Scripture and its Spirit-inspired testimony of Jesus Christ’s saving work. The doctrine of Scripture and revelation is of utmost importance, as it lays the foundation for theological discussions. God’s self-revelation is necessary for us to have knowledge of him, and we rely on his initiative to make himself known. God has chosen various means to reveal himself, including general revelation through nature, where what can be known about the invisible God is made known to us through the visible. Additionally, special revelation is required to distinguish God from idols and includes theophanies, dreams, visions, prophecies, and the Bible as the primary form of special revelation. A biblical understanding of Scripture itself is essential, as we seek to comprehend its inspiration, factual correspondence, and canonicity. All these aspects fall under the umbrella of the doctrine of Scripture and revelation.",
       "description_ar": "يكشف الله عن نفسه لنا لكي نعرفه. لقد كشف عن نفسه بأنه الخالق من خلال أعماله في الخلق والإرادة الإلهية، وتحديدًا كمخلص من خلال الكتاب المقدس وشهادته المستوحاة بروح الله لعمل يسوع المخلص. عقيدة الكتاب المقدس والوحي هي ذات أهمية قصوى، حيث تُمهد الأساس للمناقشات اللاهوتية. الكشف الذاتي لله ضروري لنا لنكتسب معرفة به، ونعتمد على مبادرته لكي يعرفنا به. لقد اختار الله وسائل متنوعة لكشف نفسه، بما في ذلك الوحي العام من خلال الطبيعة، حيث يتم الإعلان عن ما يمكن معرفته عن الله الخفي لنا من خلال المرئي. بالإضافة إلى ذلك، يتطلب الكشف الخاص التمييز بين الله والأصنام ويشمل الظهور الإلهي، الأحلام، الرؤى، النبوءات، والكتاب المقدس كشكل رئيسي للوحي الخاص. فهم الكتاب المقدس نفسه ضروري، حيث نسعى لفهم إلهامه ومطابقته للحقائق وقابليته للكنونية. تندرج جميع هذه الجوانب تحت مظلة عقيدة الكتاب المقدس والوحي.",
       "short_description": "The doctrine of Scripture and revelation explores how God reveals himself to us and how we can know him. It encompasses God’s self-revelation through general and special revelation, highlighting the importance of Scripture as the primary means of special revelation. Understanding the inspiration, correspondence to reality, and canonicity of Scripture is also crucial within this doctrine.",
       "short_description_ar": "عقيدة الكتاب المقدس والوحي تستكشف كيف يكشف الله عن نفسه لنا وكيف يمكننا معرفته. إنها تشمل الكشف الذاتي لله من خلال الوحي العام والخاص، مع التركيز على أهمية الكتاب المقدس كوسيلة رئيسية للوحي الخاص. فهم إلهام الكتاب المقدس ومطابقته للواقع وكنونيته أمر ضروري أيضًا ضمن هذه العقيدة.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
-      "key_verses": [
-        "Deut.29.29",
-        "2Tim.3.16-2Tim.3.17",
-        "Heb.1.1-Heb.1.2",
-        "Rom.1.19-Rom.1.20"
+      "main_category": ["gyMSz6J98Kb", "vIwMzTdPLbk"],
+      "other_categories": [
+        "gkRRpyiuTzP",
+        "D5w0Dxpl9it",
+        "Z5r7Drz6YS1",
+        "6xDrz6Yr7Di",
+        "6DrQDz6JYSr",
+        "2DuQDz6JY7S",
+        "tYZjKlN5vxs"
       ],
+      "sub_categories": null,
+      "key_verses": ["Deut.29.29", "2Tim.3.16-17", "Heb.1.1-2", "Rom.1.19-20"],
       "additional_verses": null,
       "other_subjects": [
         "gyMSz6J98Kb",
         "vIwMzTdPLbk",
-        "Non-Written Special Revelation",
-        "The Bible",
+        "4IK1uqfrIzd",
+        "GqUTTqbZIAJ",
         "gkRRpyiuTzP",
         "NtcDTbO9eKm",
         "pdwJXdtqVLf",
@@ -2475,14 +2478,14 @@
       "description_ar": "الوحي العام هو شهادة إلهية بطابعها وأعمالها المقدمة لجميع البشر من خلال النظام الخلقي. إنها الاعتقاد الناتج عن الفهم بأن الإنسانية خُلِقَت على صورة الله وقادرة على اكتشاف وجوده ونشاطه في الكون. من خلال الوحي العام، يمكن للناس استنتاج بعض الاستنتاجات حول الله استنادًا إلى ملاحظاتهم. يدعم الكتاب المقدس حقيقة ودقة الوحي العام، مشيرًا إلى أنه من الممكن استنتاج قوانين الكون من خلال التأمل في النجوم واعتراف وجود واقع أخلاقي من خلال دراسة العقول والضمائر البشرية. على الرغم من أن الوحي العام غير قادر على الخلاص بحد ذاته، يعتقد البعض أنه يمكن أن يعدل العقل لقبول المعتقدات الأساسية للمسيحية ويثير الشوق لرسالة الإنجيل.",
       "short_description": "General revelation is God’s testimony to all human beings through the created order. It allows people to draw conclusions about God based on their observations and prepares the mind to accept basic Christian beliefs.",
       "short_description_ar": "الوحي العام هو شهادة إلهية لجميع البشر من خلال النظام الخلقي. يسمح للناس استنتاج بعض الاستنتاجات حول الله استنادًا إلى ملاحظاتهم ويعدل العقل لقبول المعتقدات المسيحية الأساسية.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
-      "key_verses": ["Ps.19.1", "Rom.1.19-Rom.1.20"],
+      "main_category": "rALwkVxM32p",
+      "other_categories": ["vIwMzTdPLbk"],
+      "sub_categories": ["c3HzyGpSDxH", "H18PzbwhYO1"],
+      "key_verses": ["Ps.19.1", "Rom.1.19-20"],
       "additional_verses": [],
       "other_subjects": [
         "KUnIJzadbtA",
-        "The Material World",
+        "kFECzrjJYSx",
         "vIwMzTdPLbk",
         "sWiCzvq0zY1"
       ],
@@ -2494,7 +2497,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "c3HzyGpSDxH",
     "fields": {
       "title": "General Revelation in Creation",
       "title_ar": "الوحي العام في الخلق",
@@ -2504,23 +2507,23 @@
       "description_ar": "الوحي العام في الخلق يعلمنا أن الله يعرف عن نفسه من خلال العالم الذي خلقه. تعمل الطبيعة والتاريخ كوسائط يتواصل من خلالها الله بنفسه مع البشرية. بالرغم من عدم إنقاذ هذا الوحي الخطاة، إلا أنه يلعب دورًا حاسمًا في إعلان الإنجيل من خلال كشف أساس حكم الله لخطايانا والحاجة إلى منقذ. على الرغم من قمع الحقيقة، فإن الناس ملمون جيدًا بالله من خلال هذا الوحي. تؤكد الكتاب المقدس أن معرفة الله متاحة في العالم الطبيعي. النهج الصحيح للوحي الطبيعي يتضمن سولا سكريبتورا، ويسعى للتوجيه من الكتاب المقدس بشأن وحي الله في الخلق وكيفية التعامل معه.",
       "short_description": "General Revelation in Creation teaches that God makes himself known through the world he has created. Nature and history serve as mediums of this revelation. Although it doesn’t save sinners, it plays a crucial role in preaching the gospel by revealing the basis for God’s judgment and the need for a Savior.",
       "short_description_ar": "الوحي العام في الخلق يعلمنا أن الله يعرف عن نفسه من خلال العالم الذي خلقه. الطبيعة والتاريخ تعمل كوسائط لهذا الوحي. على الرغم من عدم إنقاذ الخطاة، إلا أنه يلعب دورًا حاسمًا في إعلان الإنجيل من خلال كشف أساس حكم الله والحاجة إلى منقذ.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "gyMSz6J98Kb",
+      "other_categories": ["H18PzbwhYO1"],
       "sub_categories": null,
       "key_verses": [
-        "Rom.1.18-Rom.1.32",
-        "Acts.17.22-Acts.17.34",
-        "Acts.14.15-Acts.14.17",
+        "Rom.1.18-32",
+        "Acts.17.22-34",
+        "Acts.14.15-17",
         "Ps.19.1",
-        "Ps.104.1-Ps.104.35"
+        "Ps.104.1-35"
       ],
-      "additional_verses": ["Ps.19.1-Ps.19.6"],
+      "additional_verses": ["Ps.19.1-6"],
       "other_subjects": [
         "gyMSz6J98Kb",
-        "General Revelation in Conscience",
-        "The Bible",
+        "H18PzbwhYO1",
+        "GqUTTqbZIAJ",
         "The Bible’s Sufficiency",
-        "The Material World"
+        "kFECzrjJYSx"
       ],
       "recommended_resources": [
         "Salvation Belongs to the Lord (Frame), 50–53",
@@ -2532,7 +2535,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "H18PzbwhYO1",
     "fields": {
       "title": "General Revelation in Conscience",
       "title_ar": "الوحي العام في الضمير",
@@ -2542,16 +2545,16 @@
       "description_ar": "الضمير، الذي يعكس طبيعة الإنسان في صورة الله، هو هدية من الله تعمل كدليل داخلي لتمييز الخير من الشر. إنه يقدم للأفراد الاتهام عندما يفعلون الشر ويعفيهم عندما يشعرون بالذنب ظلمًا. ومع ذلك، فإن الضمير ليس معصومًا ويمكن أن يتأثر بالخطيئة. يصف الكتاب المقدس حالات مختلفة وتأثيرات السقوط على الضمير. حتى أكثر الخطأة تصلبًا قد يكون لديهم ضمير يعمل، على الرغم من أنه قد يكون غير حساس لمعايير الله. يمكن لنعمة الله المنقذة أن تمكن الضمير من العمل على مستوى أعلى، مما يؤدي إلى استيقاظ أو تنقية الضمير. هذا الضمير الناضج روحيًا يعكس الوحي الإلهي بدقة ويوجه السلوك. على مر التاريخ الكنسي، قام اللاهوتيون باستكشاف القضايا الأخلاقية المتعلقة بالضمير، مما أسفر عن جسم من التعاليم الأخلاقية والتقاليد.",
       "short_description": "General Revelation in Conscience explores the gift of conscience, given by God, as an inner guide for distinguishing right from wrong. Conscience accuses individuals when they do wrong and excuses them when they wrongly feel guilty. It can be affected by sin but can also be transformed by God’s saving grace, leading to an awakened or purified conscience that reflects God’s revelation and guides behavior.",
       "short_description_ar": "الوحي العام في الضمير يستكشف هبة الضمير، التي منحها الله، كدليل داخلي لتمييز الخير من الشر. إن الضمير يقدم الاتهام للأفراد عندما يفعلون الشر ويعفيهم عندما يشعرون بالذنب ظلمًا. قد يتأثر الضمير بالخطيئة ولكنه يمكن أن يتحول أيضًا بنعمة الله المنقذة، مما يؤدي إلى استيقاظ أو تنقية الضمير الذي يعكس الوحي الإلهي ويوجه السلوك.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "gyMSz6J98Kb",
+      "other_categories": ["c3HzyGpSDxH"],
       "sub_categories": null,
       "key_verses": [
-        "1Tim.4.1-1Tim.4.2",
+        "1Tim.4.1-2",
         "Titus.1.15",
         "Gen.6.5",
-        "Rom.3.10-Rom.3.12",
-        "Rom.2.14-Rom.2.15",
-        "Rom.2.1-Rom.2.5",
+        "Rom.3.10-12",
+        "Rom.2.14-15",
+        "Rom.2.1-5",
         "2Cor.4.6",
         "Rom.12.2",
         "Heb.5.14",
@@ -2561,14 +2564,14 @@
       ],
       "additional_verses": ["Rom.2.15"],
       "other_subjects": [
-        "The Doctrine of Scripture and Revelation",
+        "rALwkVxM32p",
         "gyMSz6J98Kb",
-        "Special Revelation and Tradition",
+        "M2TBMajWxLg",
         "brT7DzrJYS1",
-        "Regeneration",
-        "The Bible’s Clarity",
-        "Human Capacities",
-        "The Moral Law"
+        "SMMQDz6JYS1",
+        "RQ5Z3qPLmtH",
+        "wfzQDrzJYS1",
+        "VlmIDzrJYiJ"
       ],
       "recommended_resources": [
         "Nature’s Case for God (Frame)",
@@ -2611,8 +2614,8 @@
       "other_subjects": [
         "KUnIJzadbtA",
         "gyMSz6J98Kb",
-        "The Doctrine of Scripture and Revelation",
-        "Special Revelation and Tradition",
+        "rALwkVxM32p",
+        "M2TBMajWxLg",
         "ytHX4MFT0jR",
         "pdwJXdtqVLf"
       ],
@@ -2623,7 +2626,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "4IK1uqfrIzd",
     "fields": {
       "title": "Non-Written Special Revelation",
       "title_ar": "الوحي الخاص غير المكتوب",
@@ -2660,7 +2663,7 @@
         "Theophany: A Biblical Theology of God’s Appearing (Poythress)."
       ],
       "related_topics": [
-        "The Bible",
+        "GqUTTqbZIAJ",
         "Special Revelation through Prophecy",
         "The Bible’s Inspiration",
         "The Bible’s Authority",
@@ -2674,7 +2677,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "M2TBMajWxLg",
     "fields": {
       "title": "Special Revelation and Tradition",
       "title_ar": "الوحي الخاص والتقليد",
@@ -2698,9 +2701,9 @@
       ],
       "additional_verses": ["Matt.15.1-Matt.15.9"],
       "other_subjects": [
-        "The Bible",
+        "GqUTTqbZIAJ",
         "The Canon",
-        "The Bible’s Clarity",
+        "RQ5Z3qPLmtH",
         "The Bible’s Sufficiency",
         "The Doctrine of the Church",
         "The Bible’s Authority",
@@ -2739,11 +2742,7 @@
         "Acts.2.17"
       ],
       "additional_verses": ["Num.12.6", "Matt.2.12-Matt.2.13"],
-      "other_subjects": [
-        "vIwMzTdPLbk",
-        "Non-Written Special Revelation",
-        "Rule of Faith"
-      ],
+      "other_subjects": ["vIwMzTdPLbk", "4IK1uqfrIzd", "Rule of Faith"],
       "recommended_resources": [
         "Dreams and Dream Narratives in the Biblical World (Husser)",
         "The Interpretation of Dreams in the Ancient Near East (Oppenheim)"
@@ -2792,8 +2791,8 @@
       ],
       "see_also": ["Prophecy"],
       "related_topics": [
-        "Non-Written Special Revelation",
-        "The Bible",
+        "4IK1uqfrIzd",
+        "GqUTTqbZIAJ",
         "The Bible’s Inspiration",
         "The Bible’s Authority",
         "The Canon",
@@ -2904,7 +2903,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "GqUTTqbZIAJ",
     "fields": {
       "title": "The Bible",
       "title_ar": "الكتاب المقدس",
@@ -3003,7 +3002,7 @@
       ],
       "other_subjects": [
         "vIwMzTdPLbk",
-        "The Bible",
+        "GqUTTqbZIAJ",
         "Special Revelation through Prophecy",
         "The Bible’s Authority",
         "NpSl2E9kfh1",
@@ -3104,7 +3103,7 @@
         "Heb.6.18"
       ],
       "other_subjects": [
-        "The Bible",
+        "GqUTTqbZIAJ",
         "The Bible’s Inspiration",
         "The Bible’s Authority",
         "aG5SbJKFGpG"
@@ -3167,7 +3166,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "RQ5Z3qPLmtH",
     "fields": {
       "title": "The Bible’s Clarity",
       "title_ar": "وضوح الكتاب المقدس",
@@ -3238,8 +3237,8 @@
       ],
       "additional_verses": ["Jas.1.18", "1Pet.1.23"],
       "other_subjects": [
-        "The Bible",
-        "Special Revelation and Tradition",
+        "GqUTTqbZIAJ",
+        "M2TBMajWxLg",
         "The Bible’s Authority",
         "The Bible’s Inspiration",
         "The Canon",
@@ -3280,7 +3279,7 @@
       ],
       "additional_verses": ["Matt.4.4", "Rom.10.13-Rom.10.17"],
       "other_subjects": [
-        "The Bible",
+        "GqUTTqbZIAJ",
         "l0mIDzrJYiJ",
         "The Bible’s Inspiration",
         "The Bible’s Sufficiency",
@@ -3320,11 +3319,11 @@
       "additional_verses": ["Deut.31.11", "John.5.39", "Acts.17.11"],
       "other_subjects": [
         "Preaching in the Life of the Church",
-        "The Bible",
+        "GqUTTqbZIAJ",
         "The Bible’s Inspiration",
         "The Bible’s Authority",
         "NpSl2E9kfh1",
-        "The Bible’s Clarity",
+        "RQ5Z3qPLmtH",
         "Biblical Interpretation"
       ],
       "recommended_resources": [
@@ -3381,13 +3380,13 @@
         "Ephesians 3:16-Ephesians 3:19"
       ],
       "other_subjects": [
-        "The Bible",
+        "GqUTTqbZIAJ",
         "The Bible’s Inspiration",
         "Preaching in the Life of the Church",
         "The Bible’s Authority",
         "NpSl2E9kfh1",
         "The Church’s Work of Evangelism and Discipleship",
-        "The Bible’s Clarity",
+        "RQ5Z3qPLmtH",
         "Bible Translation",
         "The Doctrine of the Church"
       ],
@@ -3548,7 +3547,7 @@
         "Angels",
         "Satan",
         "Demons",
-        "The Material World",
+        "kFECzrjJYSx",
         "The New Heavens and Earth"
       ],
       "recommended_resources": [
@@ -3739,7 +3738,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "kFECzrjJYSx",
     "fields": {
       "title": "The Material World",
       "title_ar": "العالم المادي",
@@ -3863,7 +3862,7 @@
         "QbMQDz6JYi1",
         "yPnQDzjz6JY",
         "Spiritual Gifts in the Church",
-        "Non-Written Special Revelation"
+        "4IK1uqfrIzd"
       ],
       "recommended_resources": [
         "That You May Believe: Miracles and Faith Then and Now (Brown)",
@@ -4085,7 +4084,7 @@
         "XpYKDrjJYSx",
         "Xh0AvDrJYS1",
         "6LLQvDrJYSJ",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "Sin and Death",
         "Humanity’s Dominion over the Earth",
         "Humanity’s Fall into Sin"
@@ -4137,7 +4136,7 @@
         "The Civil Use of the Law",
         "The Covenant of Creation",
         "lEfAvDrJYSJ",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "6LLQvDrJYSJ",
         "Personal Sin",
@@ -4182,12 +4181,12 @@
         "The Civil Use of the Law",
         "The Covenant of Creation",
         "Xh0AvDrJYS1",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "Providence and Miracles",
         "0lTQvDrJYS1",
         "God’s Preservation of Creation",
-        "General Revelation in Creation"
+        "c3HzyGpSDxH"
       ],
       "recommended_resources": [
         "Summa Theologiae (Aquinas), Ia-IIæ, 90–95",
@@ -4200,7 +4199,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "VlmIDzrJYiJ",
     "fields": {
       "title": "The Moral Law",
       "title_ar": "القانون الأخلاقي",
@@ -4220,12 +4219,12 @@
         "The Civil Use of the Law",
         "The Covenant of Creation",
         "lEfAvDrJYSJ",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "6LLQvDrJYSJ",
         "Theological Law",
         "The Three Uses of the Law",
-        "General Revelation in Conscience"
+        "H18PzbwhYO1"
       ],
       "recommended_resources": [
         "Summa Theologiae (Aquinas), Ia–IIæ, 99–100",
@@ -4306,7 +4305,7 @@
         "brT7DzrJYS1",
         "6LLQvDrJYSJ",
         "The New Heavens and Earth",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "Original Sin"
       ],
       "recommended_resources": [
@@ -4412,7 +4411,7 @@
         "The Abrahamic Covenant",
         "The Covenant of Creation",
         "XpYKDrjJYSx",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "The Three Uses of the Law"
       ],
       "recommended_resources": [
@@ -4522,10 +4521,10 @@
       "related_topics": [
         "tqYADzrJYSJ",
         "XpYKDrjJYSx",
-        "The Church and Israel",
+        "fDgIDzrJYSJ",
         "Jesus’ Death",
         "The Mosaic Covenant",
-        "Regeneration",
+        "SMMQDz6JYS1",
         "The Spirit’s Indwelling",
         "Union with Christ",
         "Jesus As Mediator"
@@ -4566,7 +4565,7 @@
       "other_subjects": [
         "tqYADzrJYSJ",
         "The Civil Use of the Law",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "6LLQvDrJYSJ",
         "Theological Law"
@@ -4598,7 +4597,7 @@
       "additional_verses": null,
       "other_subjects": [
         "tqYADzrJYSJ",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "Theological Law",
         "The Church and Society",
@@ -4643,7 +4642,7 @@
       "other_subjects": [
         "tqYADzrJYSJ",
         "The Civil Use of the Law",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "yPnQDzjz6JY",
         "The Church’s Work of Evangelism and Discipleship",
@@ -4686,7 +4685,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Civil Use of the Law",
-        "The Moral Law",
+        "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "Theological Law",
         "yPnQDzjz6JY",
@@ -4704,7 +4703,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "fDgIDzrJYSJ",
     "fields": {
       "title": "The Church and Israel",
       "title_ar": "الكنيسة وإسرائيل",
@@ -4860,7 +4859,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Material World",
+        "kFECzrjJYSx",
         "gkRRpyiuTzP",
         "l0mIDzrJYiJ",
         "sWiCzvq0zY1",
@@ -4906,7 +4905,7 @@
         "sWiCzvq0zY1",
         "The Effects of the Fall on Humanity",
         "xS3bNdC5qLU",
-        "General Revelation in Conscience",
+        "H18PzbwhYO1",
         "yPnQDzjz6JY"
       ],
       "recommended_resources": [
@@ -4944,7 +4943,7 @@
         "brT7DzrJYS1",
         "K1vOKRbDLHH",
         "God’s Preservation of Creation",
-        "Human Capacities"
+        "wfzQDrzJYS1"
       ],
       "recommended_resources": [
         "Systematic Theology (Garrett), Vol. I, 539–553",
@@ -5137,7 +5136,7 @@
         "James.2.26"
       ],
       "other_subjects": [
-        "Human Capacities",
+        "wfzQDrzJYS1",
         "Heaven",
         "MZGjKlNwvxr",
         "The Final State of the Righteous",
@@ -5177,11 +5176,11 @@
       "other_subjects": [
         "The Human Constitution",
         "Immortality of the Soul",
-        "Human Capacities",
+        "wfzQDrzJYS1",
         "sWiCzvq0zY1",
         "brT7DzrJYS1",
         "Original Sin",
-        "The Material World",
+        "kFECzrjJYSx",
         "The Spiritual World"
       ],
       "recommended_resources": [
@@ -5225,7 +5224,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "wfzQDrzJYS1",
     "fields": {
       "title": "Human Capacities",
       "title_ar": "قدرات الإنسان",
@@ -5257,7 +5256,7 @@
         "Human Nature",
         "Original Sin",
         "The Human Constitution",
-        "General Revelation in Conscience"
+        "H18PzbwhYO1"
       ],
       "recommended_resources": [
         "Summa Theologica (Aquinas), Prima pars, qq. 77–82",
@@ -5293,7 +5292,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Human Capacities",
+        "wfzQDrzJYS1",
         "brT7DzrJYS1",
         "Human Personality",
         "Saving Faith"
@@ -5331,7 +5330,7 @@
         "Jas.1.20"
       ],
       "additional_verses": null,
-      "other_subjects": ["D0AQDrjz6YS", "VYr7DrzJYS1", "Human Capacities"],
+      "other_subjects": ["D0AQDrjz6YS", "VYr7DrzJYS1", "wfzQDrzJYS1"],
       "recommended_resources": [
         "Summa Theologiae, I–II, Qq. 22–48 (Aquinas)",
         "“The Emotional Life of Our Lord” (Warfield)",
@@ -5372,7 +5371,7 @@
         "brT7DzrJYS1",
         "Human Personality",
         "D0AQDrjz6YS",
-        "Regeneration",
+        "SMMQDz6JYS1",
         "Actual Sin",
         "Original Sin",
         "EiYADzjJYiJ",
@@ -5531,7 +5530,7 @@
         "The Character of the Fall of Adam",
         "The Effects of the Fall on Humanity",
         "VYr7DrzJYS1",
-        "Human Capacities",
+        "wfzQDrzJYS1",
         "Actual Sin",
         "Humanity’s Original Integrity"
       ],
@@ -5609,8 +5608,8 @@
       "other_subjects": [
         "Original Sin",
         "The Effects of the Fall on Creation",
-        "Human Capacities",
-        "Regeneration",
+        "wfzQDrzJYS1",
+        "SMMQDz6JYS1",
         "yPnQDzjz6JY",
         "Sin and Death",
         "brT7DzrJYS1"
@@ -5652,7 +5651,7 @@
         "iM3QDz6JYSr",
         "Humanity’s Dominion over the Earth",
         "The New Heavens and Earth",
-        "The Material World"
+        "kFECzrjJYSx"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. III, 176–182",
@@ -5712,7 +5711,7 @@
         "Original Sin",
         "Penance",
         "Repentance",
-        "The Judgment of the Wicked",
+        "NZGjKlNwvxr",
         "Union with Christ",
         "6BzADrjz6YS",
         "Jesus’ Obedience"
@@ -6597,7 +6596,7 @@
         "Jesus’ Second Coming",
         "The Final Judgment",
         "The Final State of the Righteous",
-        "The Judgment of the Wicked"
+        "NZGjKlNwvxr"
       ]
     }
   },
@@ -6715,7 +6714,7 @@
         "Jesus’ Session at God’s Right Hand",
         "The Unity of Jesus’ Person",
         "hDzPeuzgd6Y",
-        "Non-Written Special Revelation"
+        "4IK1uqfrIzd"
       ],
       "recommended_resources": [
         "God Crucified: Monotheism and Christology in the New Testament (Bauckham)",
@@ -7386,7 +7385,7 @@
       "other_subjects": [
         "GtXQDrz6z6J",
         "Calling",
-        "Regeneration",
+        "SMMQDz6JYS1",
         "Conversion",
         "The Baptism of the Holy Spirit",
         "MZGjKlNwvxr",
@@ -7611,9 +7610,9 @@
         "The Church’s Work of Evangelism and Discipleship",
         "QbMQDz6JYi1",
         "Pls9fJRO33G",
-        "Regeneration",
+        "SMMQDz6JYS1",
         "The Holy Spirit and Salvation",
-        "The Doctrine of Scripture and Revelation"
+        "rALwkVxM32p"
       ],
       "recommended_resources": [
         "Theological Dictionary of the New Testament (Kittel, Bromiley, and Friedrich, eds.), Vol. III, 487–501.",
@@ -7697,7 +7696,7 @@
         "o0KdKpgImq0",
         "The Church’s Work of Evangelism and Discipleship",
         "Pls9fJRO33G",
-        "Regeneration",
+        "SMMQDz6JYS1",
         "The Holy Spirit and Salvation",
         "General Calling",
         "GmC7JjW8uZV"
@@ -7712,7 +7711,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "SMMQDz6JYS1",
     "fields": {
       "title": "Regeneration",
       "title_ar": "التجدد",
@@ -7788,7 +7787,7 @@
         "Calling",
         "Saving Faith",
         "i1TQDzr6JYS",
-        "Regeneration",
+        "SMMQDz6JYS1",
         "Repentance",
         "The Spirit’s Indwelling",
         "Union with Christ",
@@ -8322,7 +8321,7 @@
       "other_subjects": [
         "The Spirit’s Indwelling",
         "Spiritual Gifts in the Church",
-        "Regeneration"
+        "SMMQDz6JYS1"
       ],
       "recommended_resources": [
         "Theology for the Community of God (Grenz)",
@@ -8364,7 +8363,7 @@
         "Spiritual Gifts in the Church",
         "The Baptism of the Holy Spirit",
         "Union with Christ",
-        "Regeneration"
+        "SMMQDz6JYS1"
       ],
       "recommended_resources": [
         "Systematic Theology (Frame)",
@@ -8586,11 +8585,7 @@
         "Gal.1.6-Gal.1.9"
       ],
       "additional_verses": null,
-      "other_subjects": [
-        "AnuQDz6JYSr",
-        "The Doctrine of Scripture and Revelation",
-        "The Bible"
-      ],
+      "other_subjects": ["AnuQDz6JYSr", "rALwkVxM32p", "GqUTTqbZIAJ"],
       "recommended_resources": [
         "The Church (Clowney)",
         "Systematic Theology (Garrett), Vol. II",
@@ -8682,7 +8677,7 @@
         "The Bible’s Authority",
         "Biblical Interpretation",
         "Rule of Faith",
-        "Special Revelation and Tradition"
+        "M2TBMajWxLg"
       ],
       "recommended_resources": [
         "Perspectives on Church Government: Five Views of Church Polity (Brand and Norman, eds.)",
@@ -8935,7 +8930,7 @@
         "The Baptism of the Holy Spirit",
         "The Church’s Work of Evangelism and Discipleship",
         "Humanity’s Fall into Sin",
-        "Regeneration"
+        "SMMQDz6JYS1"
       ],
       "recommended_resources": [
         "The Liturgical Homilies of Narsai, with an Appendix by Edmund Bishop (Connolly)",
@@ -9039,7 +9034,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Church and Society",
-        "The Material World",
+        "kFECzrjJYSx",
         "The Covenant of Creation",
         "brT7DzrJYS1",
         "Human Nature",
@@ -9265,7 +9260,7 @@
       "additional_verses": null,
       "other_subjects": [
         "gkRRpyiuTzP",
-        "The Bible",
+        "GqUTTqbZIAJ",
         "6xDrz6Yr7Di",
         "The Holy Spirit and Salvation",
         "yPnQDzjz6JY",
@@ -10429,7 +10424,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "NZGjKlNwvxr",
     "fields": {
       "title": "The Judgment of the Wicked",
       "title_ar": "حكم الأشرار",
