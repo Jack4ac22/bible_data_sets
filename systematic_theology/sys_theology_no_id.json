@@ -2009,10 +2009,10 @@
         "QbMQDz6JYi1",
         "Effectual Calling",
         "SMMQDz6JYS1",
-        "The Baptism of the Holy Spirit",
+        "P2LADzr6z6J",
         "The Spirit’s Indwelling",
         "yPnQDzjz6JY",
-        "Spiritual Gifts in the Church"
+        "lu-QDzr6JYS"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. II, 277–779",
@@ -2045,7 +2045,7 @@
         "MOP9o0wd5QX",
         "dbSRMzOlI0g",
         "K1vOKRbDLHH",
-        "The Bible’s Sufficiency",
+        "Fzs9PEaKItO",
         "sRr56tl2ZJl",
         "hDzPeuzgd6Y",
         "G2OufWJeVvL"
@@ -2080,8 +2080,8 @@
         "c3JffBcHysv",
         "K1vOKRbDLHH",
         "dbSRMzOlI0g",
-        "The Bible’s Sufficiency",
-        "Biblical Interpretation",
+        "Fzs9PEaKItO",
+        "U78BP0XfI1s",
         "sRr56tl2ZJl",
         "hDzPeuzgd6Y",
         "G2OufWJeVvL"
@@ -2126,8 +2126,8 @@
         "sRr56tl2ZJl",
         "hDzPeuzgd6Y",
         "G2OufWJeVvL",
-        "The Bible’s Sufficiency",
-        "Biblical Interpretation"
+        "Fzs9PEaKItO",
+        "U78BP0XfI1s"
       ],
       "recommended_resources": [
         "Jesus as God: The New Testament Use of Theos in Reference to Jesus (Harris)",
@@ -2178,7 +2178,7 @@
         "hDzPeuzgd6Y",
         "G2OufWJeVvL",
         "M2TBMajWxLg",
-        "Rule of Faith"
+        "wP5tNqH4cYO"
       ],
       "recommended_resources": [
         "The Seven Ecumenical Councils (Davis)",
@@ -2522,7 +2522,7 @@
         "gyMSz6J98Kb",
         "H18PzbwhYO1",
         "GqUTTqbZIAJ",
-        "The Bible’s Sufficiency",
+        "Fzs9PEaKItO",
         "kFECzrjJYSx"
       ],
       "recommended_resources": [
@@ -2594,21 +2594,21 @@
       "description_ar": "الوحي الخاص يشير إلى التعليم عن الله وأعماله التي أعطاها لنا من خلال الأنبياء والرسل، والتي توجد في المقام الأول في الكتاب المقدس. إنه يتميز عن الوحي العام ويتميز بالتواصل المباشر بين الله والأفراد المختارين. بعض هؤلاء الأفراد معروفون باسمهم، في حين يظل البعض الآخر مجهولين. بينما تمت كتابة بعض الوحي، فإن الكثير منه تم نقله عن طريق التقليد الشفهي. بدأ الوحي الخاص مع إبراهيم ونسله، ولكن لم يتم كتابته حتى وقت لاحق بكثير. يدخل كتاب التكوين بأكمله في هذه الفئة. في العهد الجديد، لم تسجل كلمات يسوع وأفعاله مباشرة من قبله، ولكن من خلال شهادة الآخرين. يُعتبر الكتاب المقدس مصدر التعليم المسيحي النهائي ويُعتبر وحيًا خاصًا من الله، ملهمًا منه. يتم دعم مصداقية الكتاب المقدس ودقته من خلال تقليد المخطوطات وتاريخ الكنيسة. في النهاية، الكتاب المقدس هو الذي يصدق ذاته، ويحدث تحولًا في الحياة من خلال عمل الروح القدس.",
       "short_description": "Special revelation refers to the teaching about God and His works given to us through the prophets and apostles, primarily found in the Bible. It is distinct from general revelation and is characterized by God’s direct communication with chosen individuals.",
       "short_description_ar": "الوحي الخاص يشير إلى التعليم عن الله وأعماله التي أعطاها لنا من خلال الأنبياء والرسل، والتي توجد في المقام الأول في الكتاب المقدس. إنه يتميز عن الوحي العام ويتميز بالتواصل المباشر بين الله والأفراد المختارين.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
+      "main_category": "rALwkVxM32p",
+      "other_categories": ["gyMSz6J98Kb"],
+      "sub_categories": ["4IK1uqfrIzd", "GqUTTqbZIAJ"],
       "key_verses": [
-        "Gen.12.1-Gen.12.3",
-        "Exod.3.4-Exod.3.22",
-        "Isa.6.1-Isa.6.5",
-        "Jer.1.4-Jer.1.10",
-        "Ezek.2.1-Ezek.2.8",
+        "Gen.12.1-3",
+        "Exod.3.4-22",
+        "Isa.6.1-5",
+        "Jer.1.4-10",
+        "Ezek.2.1-8",
         "Hag.1.1",
         "Matt.16.17",
-        "Luke.1.26-Luke.1.38",
-        "Acts.9.1-Acts.9.7",
-        "Rev.1.1-Rev.1.3",
-        "1Cor.2.12-1Cor.2.13"
+        "Luke.1.26-38",
+        "Acts.9.1-7",
+        "Rev.1.1-3",
+        "1Cor.2.12-13"
       ],
       "additional_verses": null,
       "other_subjects": [
@@ -2636,9 +2636,16 @@
       "description_ar": "في الوحي الخاص، يكشف الله عن خطته لتجديد الكون وحياة البشر بعد السقوط. يمكن أن يأخذ هذا الوحي شكلاً مكتوباً أو غير مكتوب. يحدث الوحي الخاص غير المكتوب، كما وصف في الكتاب المقدس، من خلال التقاليد والأحلام والنبوءات والظهورات الإلهية والرؤى. في حين أن العديد من هذه الخبرات تُسجَل في النهاية بشكل مكتوب، إلا أن شكلها الأصلي هو غير مكتوب. الوحي الخاص غير المكتوب يكون شخصياً (الأحلام، الرؤى)، أحداث تجرى تجربتها (الظهورات الإلهية)، أقوال مباشرة من الله، إعلان شفهي ملهم (النبوة)، وتأمل الكنيسة وتطبيق الوحي السابق (التقاليد). يمكن تلخيص الوحي الخاص في الفئات الأحداث والكلمات والأشخاص. الأحداث تشمل أعمال الله في الخلق والإرادة والفداء. الكلمات تشمل الأشكال المكتوبة والشفهية للتواصل، مثل الوعظ الملهم والتقاليد. الأشخاص يسلطون الضوء على أن الله نفسه شخصي بدلاً من بلا شخصية وأنه في كثير من الأحيان يكشف عن نفسه من خلال وجوده الشخصي، ويكون يسوع هو الوحي الأعلى لوجود الله. بينما تمت إدعاءات الوحي الخاص غير المكتوب طوال التاريخ، يؤكد لاهوت الإصلاح على السلطة العليا للكتاب المقدس (الكتاب وحده، sola Scriptura). يجب اختبار مثل هذه الادعاءات مقابل كلمة الله المكتوبة.",
       "short_description": "In special revelation, God discloses his plan to renew the cosmos and human lives following the fall, in both written and unwritten forms. Unwritten special revelation occurs through tradition, dreams, prophecy, theophanies, and visions, and is later recorded. It can be summarized as events, words, and persons. Claims of unwritten special revelation must be tested against the supreme authority of Scripture.",
       "short_description_ar": "في الوحي الخاص، يكشف الله عن خطته لتجديد الكون وحياة البشر بعد السقوط، سواء بشكل مكتوب أو غير مكتوب. الوحي الخاص غير المكتوب يحدث من خلال التقاليد والأحلام والنبوءات والظهورات الإلهية والرؤى، ويتم تسجيله لاحقًا. يمكن تلخيصه في الأحداث والكلمات والأشخاص. يجب اختبار مثل هذه الادعاءات مقابل السلطة العليا للكتاب المقدس.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
+      "main_category": "vIwMzTdPLbk",
+      "other_categories": ["GqUTTqbZIAJ"],
+      "sub_categories": [
+        "4IK1uqfrIzd",
+        "M2TBMajWxLg",
+        "YItkRLeI5Yi",
+        "qnVLnRPTibN",
+        "FXEmZ6IEFne",
+        "6xWiBfG1XbR"
+      ],
       "key_verses": [
         "Exod.7.5",
         "Exod.14.18",
@@ -2647,33 +2654,31 @@
         "John.2.11",
         "Acts.15.12",
         "Exod.20.19",
-        "Deut.18.18-Deut.18.19",
-        "Jer.1.4-Jer.1.12",
-        "Exod.16.6-Exod.16.10",
+        "Deut.18.18-19",
+        "Jer.1.4-12",
+        "Exod.16.6-10",
         "John.14.9",
-        "1John.1.1-1John.1.3",
+        "1John.1.1-3",
         "Acts.2.17",
         "2Thess.2.15"
       ],
-      "passages": [],
+      "related_topics": [
+        "GqUTTqbZIAJ",
+        "qnVLnRPTibN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "IeDfZ62zHVN",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "wkRvDr4zJxJ"
+      ],
       "recommended_resources": [
         "The Doctrine of the Word of God (Frame), 71–84, 280–288, 304–315.",
         "Reformed Dogmatics (Bavinck), Vol. I, 323–385.",
         "“The Biblical Idea of Revelation” (Warfield) in Revelation and Inspiration, 3–48.",
         "Theophany: A Biblical Theology of God’s Appearing (Poythress)."
-      ],
-      "related_topics": [
-        "GqUTTqbZIAJ",
-        "Special Revelation through Prophecy",
-        "The Bible’s Inspiration",
-        "The Bible’s Authority",
-        "NpSl2E9kfh1",
-        "The Canon",
-        "The Bible’s Sufficiency",
-        "The Bible’s Necessity",
-        "Providence and Miracles"
-      ],
-      "recommended_resources_notes": "Find more resources on Non-Written Special Revelation"
+      ]
     }
   },
   {
@@ -2687,29 +2692,34 @@
       "description_ar": "التقليد يشير إلى جملة الكلمات والممارسات التي يتم استقبال الحقيقة المكشوفة لله وتفسيرها وتطبيقها من قبل الكنيسة. إنه يشمل الكلمات والممارسات التي يتم تمريرها من جيل إلى آخر. في الكتاب المقدس، يُستخدم مصطلح ’التقليد’ سلبًا وإيجابًا. سلبًا، فإنه يشير إلى الممارسات والأفكار التي تتعارض مع الوحي الإلهي، بينما يمكن أن يشير إيجابًا إلى تعاليم الله ذاته المتوارثة من خلال كلمته المكتوبة والأنبياء الحقيقيين ويسوع والرسل. يثير مفهوم التقليد جدلاً داخل الكنيسة المسيحية، حيث يشعر البعض بالشك تجاه الاستناد إلى التقليد ويتمسك البعض الآخر بشكل صارم بالتقاليد المحددة كتعريف للعقيدة الصحيحة. ومع ذلك، فلا يدعم الكتاب المقدس أي من الطرفين المتطرفين. التقليد، بأي شكل من الأشكال، لا يمكن تجنبه حيث يتم تطبيق الكتاب المقدس على الأسئلة الراهنة واحتياجات الكنيسة. يجب على المؤمنين أن يفحصوا بحذر التقاليد الحالية، وينبذون ما يتعارض مع تعاليم الكتاب المقدس. ومن خلال هذه العملية، يمكن للكنيسة أن تمرر تقليدًا مطهرًا إلى الجيل القادم.",
       "short_description": "Tradition is the body of words and practices by which God’s revealed truth is received, interpreted, and applied by the church. It encompasses the words and practices passed down from one generation to the next.",
       "short_description_ar": "التقليد هو جملة الكلمات والممارسات التي يتم استقبال الحقيقة المكشوفة لله وتفسيرها وتطبيقها من قبل الكنيسة. إنه يشمل الكلمات والممارسات التي يتم تمريرها من جيل إلى آخر.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "4IK1uqfrIzd",
+      "other_categories": [
+        "YItkRLeI5Yi",
+        "qnVLnRPTibN",
+        "FXEmZ6IEFne",
+        "6xWiBfG1XbR"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Matt.15.2-Matt.15.6",
-        "Mark.7.3-Mark.7.13",
+        "Matt.15.2-6",
+        "Mark.7.3-13",
         "Gal.1.14",
         "Col.2.8",
         "1Cor.11.2",
         "2Thess.3.6",
         "2Thess.2.15"
       ],
-      "additional_verses": ["Matt.15.1-Matt.15.9"],
+      "additional_verses": ["Matt.15.1-9"],
       "other_subjects": [
         "GqUTTqbZIAJ",
-        "The Canon",
+        "IeDfZ62zHVN",
         "RQ5Z3qPLmtH",
-        "The Bible’s Sufficiency",
-        "The Doctrine of the Church",
-        "The Bible’s Authority",
-        "The Church’s Institutional Life",
-        "Biblical Interpretation",
-        "Rule of Faith"
+        "Fzs9PEaKItO",
+        "2DuQDz6JY7S",
+        "BuoO1kLPNoy",
+        "kCuQDz6JY7S",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
       ],
       "recommended_resources": [
         "The Doctrine of the Word of God (Frame), 236–238, 601–614",
@@ -2719,7 +2729,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "YItkRLeI5Yi",
     "fields": {
       "title": "Special Revelation through Dreams",
       "title_ar": "الوحي الخاص من خلال الأحلام",
@@ -2729,20 +2739,25 @@
       "description_ar": "تُعَدّ الأحلام واحدة من وسائل الوحي الخاصة، حيث استخدم الله الأحلام في العهدين القديم والجديد ليكشف حقيقته للأنبياء وغيرهم. في حين اعتبرت الثقافات القديمة الأحلام وسيلة للتواصل الإلهي والنبوءة، لم تعزِ الأحلام في إسرائيل القديمة أهمية موهومة بالوحي. ومع ذلك، تشير الكتاب المقدس إلى أن الأحلام يمكن أن تكون وسيلة لله لنقل الوحي الخاص. هناك العديد من المقاطع في كتب العهد القديم توضح الإمكانية الوحيّة للأحلام. على سبيل المثال، تحذر الله أبيمالك في حلم من خطورة أخذ زوجة إبراهيم (تك 20: 3)، ويتلقى يوسف أحلامًا تتنبأ بسلطته المستقبلية (تك 37: 5-11). في العهد الجديد، يتلقى يوسف هدايا في أحلامه، بما في ذلك تحذيرًا من جنود هيرودس (مت 2: 12-13). في وقت لاحق في العهد القديم، تصبح الأحلام مرادفة للنبوءة، ويقال إن انسكاب روح الله سيؤدي إلى الأحلام والنبوءة (جويل 2: 28). تربط أعمال الرسل 2 هذه النبوءة بمظهر الروح القدس في يوم الخمسينية (أع 2: 17).",
       "short_description": "Dreams are one of the mediums of special revelation, used by God to communicate his truth in the Old and New Testament. While ancient cultures attributed prophetic significance to dreams, ancient Israel recognized that not all dreams were revelatory. However, the Bible acknowledges the potential of dreams for special revelation.",
       "short_description_ar": "الأحلام هي واحدة من وسائل الوحي الخاصة التي يستخدمها الله لنقل حقيقته في العهدين القديم والجديد. في حين اعتبرت الثقافات القديمة الأحلام ذات أهمية نبوية، اعترفت إسرائيل القديمة بأن ليست جميع الأحلام وحيًا. ومع ذلك، يُقر الكتاب المقدس بإمكانية الأحلام في الوحي الخاص.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "4IK1uqfrIzd",
+      "other_categories": [
+        "M2TBMajWxLg",
+        "qnVLnRPTibN",
+        "FXEmZ6IEFne",
+        "6xWiBfG1XbR"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Gen.20.3",
-        "Gen.37.5-Gen.37.11",
+        "Gen.37.5-11",
         "Deut.13.1",
         "Joel.2.28",
         "Dan.7.1",
-        "Matt.1.20-Matt.1.21",
+        "Matt.1.20-21",
         "Acts.2.17"
       ],
-      "additional_verses": ["Num.12.6", "Matt.2.12-Matt.2.13"],
-      "other_subjects": ["vIwMzTdPLbk", "4IK1uqfrIzd", "Rule of Faith"],
+      "additional_verses": ["Num.12.6", "Matt.2.12-13"],
+      "other_subjects": ["vIwMzTdPLbk", "4IK1uqfrIzd", "wP5tNqH4cYO"],
       "recommended_resources": [
         "Dreams and Dream Narratives in the Biblical World (Husser)",
         "The Interpretation of Dreams in the Ancient Near East (Oppenheim)"
@@ -2750,7 +2765,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "qnVLnRPTibN",
     "fields": {
       "title": "Special Revelation through Prophecy",
       "title_ar": "الوحي الخاص من خلال النبوة",
@@ -2760,27 +2775,32 @@
       "description_ar": "النبوة هي هبة إلهية تمكن الإنسان من الكلام بكلمات إلهية مؤلفة. في جميع أنحاء الكتاب المقدس، نرى أمثلة للأفراد الذين عيَّنهم الله نبيين للتكلم بكلماته الذاتية. إن موسى هو النموذج المثلى للنبوة، حيث قاد إسرائيل خارج مصر وتكلم بكلمات الله. يتخلل العهد القديم أنبياءً مثل صموئيل وإيليا وأشعياء وإرميا وآخرين، الذين تلقوا الوحي الإلهي ونقلوه إلى شعب الله. يعد يسوع هو النبي الأعظم، المسيح، وكلمة الله. بعد قيامة يسوع، كانت هناك نبوات في الكنيسة الأولى، على الرغم من أن مستوى سلطتهم قد يثار بين العلماء. تحدث الرسل، الذين عيَّنهم يسوع مباشرة، بسلطة إلهية. نقاشت الكنيسة الأولى حول النبوة والألسنة، وتم اعتبار النبوة أعلى قدرًا. في الوقت الحاضر، تشجع بعض الكنائس المسيحية على النبوة والألسنة، بينما يعتقد آخرون أنها انقرضت بعد عصر الرسل. تحمل كلمات الأنبياء والرسل سلطة حتى قبل أن تُكتب. يشمل النبوة الدعوة إلى التوبة والتنبؤ بالأحداث المستقبلية. غالبًا ما تكون تفاصيل النبوءة الكتابية غير مؤكدة، ولكن الكتاب المقدس يؤكد عودة يسوع المستقبلية للقيام بالقضاء.",
       "short_description": "Prophecy is a divine gift enabling humans to speak authoritative words on behalf of God. Throughout Scripture, prophets were appointed by God to convey His message. Jesus is the ultimate prophet, and after His resurrection, prophets existed in the early church. Prophecy involves forthtelling and foretelling, calling for repentance and predicting future events. The details of biblical prophecy are often uncertain, but the return of Jesus for judgment is a certain hope.",
       "short_description_ar": "النبوة هبة إلهية تمكن البشر من الكلام بكلمات مؤثرة نيابةً عن الله. طوال الكتاب المقدس، تم تعيين الأنبياء من قبل الله لنقل رسالته. يسوع هو النبي الأعظم، وبعد قيامته، كانت هناك نبوات في الكنيسة الأولى. تتضمن النبوة الدعوة إلى التوبة وتنبؤ الأحداث المستقبلية. غالبًا ما تكون تفاصيل النبوءة الكتابية غير مؤكدة، ولكن عودة يسوع للقضاء هي أمل مؤكد.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "4IK1uqfrIzd",
+      "other_categories": [
+        "M2TBMajWxLg",
+        "YItkRLeI5Yi",
+        "FXEmZ6IEFne",
+        "6xWiBfG1XbR"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Exod.20.19",
-        "Deut.18.18-Deut.18.19",
-        "Jer.1.4-Jer.1.12",
-        "Acts.11.27-Acts.11.28",
-        "Acts.21.9-Acts.21.14",
+        "Deut.18.18-19",
+        "Jer.1.4-12",
+        "Acts.11.27-28",
+        "Acts.21.9-14",
         "Rom.12.6",
         "1Cor.12.10",
-        "1Cor.12.28-1Cor.12.29",
-        "1Cor.11.4-1Cor.11.5",
-        "1Cor.14.1-1Cor.14.40",
+        "1Cor.12.28-29",
+        "1Cor.11.4-5",
+        "1Cor.14.1-40",
         "2Pet.2.1"
       ],
       "additional_verses": [
         "2Pet.1.21",
-        "Heb.1.1-Heb.1.4",
-        "Deut.18.18-Deut.18.22",
-        "Acts.2.17-Acts.2.18"
+        "Heb.1.1-4",
+        "Deut.18.18-22",
+        "Acts.2.17-18"
       ],
       "recommended_resources": [
         "The Doctrine of the Word of God (Frame), 87–100.",
@@ -2789,23 +2809,22 @@
         "The Prophet and His Message (Williams).",
         "My Servants the Prophets (Young)."
       ],
-      "see_also": ["Prophecy"],
       "related_topics": [
         "4IK1uqfrIzd",
         "GqUTTqbZIAJ",
-        "The Bible’s Inspiration",
-        "The Bible’s Authority",
-        "The Canon",
-        "The Bible’s Sufficiency",
-        "Biblical Interpretation",
-        "Special Revelation through Visions",
-        "Special Revelation through Dreams",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "IeDfZ62zHVN",
+        "Fzs9PEaKItO",
+        "U78BP0XfI1s",
+        "6xWiBfG1XbR",
+        "YItkRLeI5Yi",
         "Jesus’ Prophetic Office"
       ]
     }
   },
   {
-    "_id": null,
+    "_id": "FXEmZ6IEFne",
     "fields": {
       "title": "Special Revelation through Theophanies",
       "title_ar": "الوحي الخاص من خلال الظهور الإلهي",
@@ -2815,38 +2834,43 @@
       "description_ar": "الوحي الخاص من خلال الظهور الإلهي يشير إلى اللقاءات المرئية مع الإله التي يكشف فيها الله نفسه بطريقة فريدة. لا يوجد مصطلح ’الظهور الإلهي’ في الكتاب المقدس ولكنه يستخدم لوصف هذه الحالات من الوحي الخاص. تحدث الظهورات الإلهية في العهد القديم وتقدم لمحات من مجد الله الذي سيراه المؤمنون بشكل كامل في الأبد. كل ظهور إلهي يتوقف عن إظهار مجد الله بشكل كامل، حيث لا يستطيع البشر رؤية وجه الله والبقاء على قيد الحياة. في كثير من الأحيان، تنطوي الظهورات الإلهية على ظهورات مقنعة لله، مثلما رآه موسى في صورة الله أو لقاءات مع ’ملاك الرب’. هذه اللقاءات تلهم العبادة والخوف معًا، مما يبرز تعاليم وقدسية الله. يُعتبر يسوع المسيح الظهور الإلهي النهائي، حيث أصبح الله مرئيًا بشكل دائم وجمع الله والإنسان معًا من خلال التجسد. تعلم الظهورات الإلهية لنا عن البقاء في حضرة الله وتشير إلى الهدف النهائي للتواصل معه.",
       "short_description": "Special Revelation through Theophanies refers to visible encounters with the divine in which God reveals himself in a unique way. These encounters provide glimpses of God’s glory and teach us about being in the presence of God.",
       "short_description_ar": "الوحي الخاص من خلال الظهور الإلهي يشير إلى اللقاءات المرئية مع الإله التي يكشف فيها الله نفسه بطريقة فريدة. هذه اللقاءات تقدم لمحات من مجد الله وتعلمنا عن البقاء في حضرة الله.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "4IK1uqfrIzd",
+      "other_categories": [
+        "M2TBMajWxLg",
+        "YItkRLeI5Yi",
+        "qnVLnRPTibN",
+        "6xWiBfG1XbR"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Gen.3.8",
         "Gen.16.10",
         "Gen.18",
         "Gen.22.12",
-        "Gen.32.24-Gen.32.30",
-        "Exod.3.2-Exod.3.6",
+        "Gen.32.24-30",
+        "Exod.3.2-6",
         "Exod.13.21",
-        "Exod.20.18-Exod.20.19",
+        "Exod.20.18-19",
         "Exod.33.20",
         "Num.12.8",
-        "Josh.5.13-Josh.5.15",
-        "Judg.13.20-Judg.13.22",
+        "Josh.5.13-15",
+        "Judg.13.20-22",
         "2Sam.24.16",
-        "Zech.1.11-Zech.1.13",
+        "Zech.1.11-13",
         "John.1.18",
-        "Acts.7.55-Acts.7.56",
+        "Acts.7.55-56",
         "Acts.9.35",
         "1John.1.1",
-        "Rev.1.12-Rev.1.16",
+        "Rev.1.12-16",
         "Rev.22.4"
       ],
-      "additional_verses": ["Exod.19.17-Exod.19.19", "Gen.16.7-Gen.16.14"],
+      "additional_verses": ["Exod.19.17-19", "Gen.16.7-14"],
       "other_subjects": [
         "Jesus’ Incarnation",
         "hjCfs9MvFaw",
         "YBjQ1XxWq8A",
         "pdwJXdtqVLf",
-        "Providence and Miracles"
+        "wkRvDr4zJxJ"
       ],
       "recommended_resources": [
         "Theophany: A Biblical Theology of God’s Appearing (Poythress)",
@@ -2857,7 +2881,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "6xWiBfG1XbR",
     "fields": {
       "title": "Special Revelation through Visions",
       "title_ar": "الوحي الخاص من خلال الرؤى",
@@ -2867,29 +2891,34 @@
       "description_ar": "الرؤى هي تجارب وحويّة تظهر من خلالها إرادة الله وخططه و/أو وجهة نظره للأفراد. في العهدين القديم والجديد، استخدم الله الرؤى لنقل توجيهه وتحذيره وعزاءه وتشجيعه وأحكامه. يمكن أن تحدث الرؤى أثناء اليقظة أو أثناء النوم، وغالبًا ما تكون مواجهات مع الله، أو تظليل للوحي الإلهي، أو تصويرًا رمزيًا للمستقبل. تختلف الرؤى الكتابية عن الصوفية القديمة، حيث لا تكمن أهميتها في الحالة الوجدانية بذاتها، بل في الرسالة المصاحبة التي يجب على الرائي أن يحملها بتكليف من الرب. مع قدوم الروح القدس، توسعت إمكانية الرؤى لتشمل جميع المؤمنين. قسم أوغسطين الرؤى إلى أنواع جسدية وخيالية وعقلية، حيث يكون لكل نوع أغراض مختلفة. من الضروري أن تتوافق الرؤى المعاصرة مع قاعدة الإيمان ولا تتناقض مع الكتاب المقدس.",
       "short_description": "Visions are revelatory experiences through which God communicates His will, plans, and perspective. They have been used in the Old and New Testaments to guide, warn, comfort, encourage, and pronounce judgment. Biblical visions differ from ancient mysticism and emphasize the accompanying message entrusted to the visionary. With the Holy Spirit, visions are no longer limited to special individuals but are accessible to all believers.",
       "short_description_ar": "الرؤى هي تجارب وحويّة يتواصل من خلالها الله بإرادته وخططه ووجهة نظره. استُخدمت في العهدين القديم والجديد للتوجيه والتحذير والعزاء والتشجيع وإعلان الأحكام. تختلف الرؤى الكتابية عن الصوفية القديمة وتركز على الرسالة المصاحبة التي يُكلّف بها الرائي. مع الروح القدس، لم تعد الرؤى محصورة على أشخاص مميزين بل تصبح متاحة لجميع المؤمنين.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "4IK1uqfrIzd",
+      "other_categories": [
+        "M2TBMajWxLg",
+        "YItkRLeI5Yi",
+        "qnVLnRPTibN",
+        "FXEmZ6IEFne"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Gen.15.1-Gen.15.11",
-        "Num.12.6-Num.12.8",
-        "1Kgs.22.17-1Kgs.22.23",
-        "Isa.6.1-Isa.6.4",
-        "Jer.1.11-Jer.1.14",
+        "Gen.15.1-11",
+        "Num.12.6-8",
+        "1Kgs.22.17-23",
+        "Isa.6.1-4",
+        "Jer.1.11-14",
         "Dan.7",
-        "Luke.1.21-Luke.1.22",
+        "Luke.1.21-22",
         "Acts.7.55",
-        "2Cor.12.1-2Cor.12.4",
-        "Rev.1.9-Rev.1.19"
+        "2Cor.12.1-4",
+        "Rev.1.9-19"
       ],
       "additional_verses": ["Ezek.1.1", "Acts.2.17"],
       "other_subjects": [
-        "Special Revelation through Dreams",
-        "Special Revelation through Prophecy",
-        "Special Revelation through Theophanies",
-        "Angels",
-        "Spiritual Gifts in the Church",
-        "The Baptism of the Holy Spirit"
+        "YItkRLeI5Yi",
+        "qnVLnRPTibN",
+        "FXEmZ6IEFne",
+        "6YUxD3pJYiJ",
+        "lu-QDzr6JYS",
+        "P2LADzr6z6J"
       ],
       "recommended_resources": [
         "The Christian Faith (Horton), 117–122",
@@ -2913,9 +2942,20 @@
       "description_ar": "الكتاب المقدس هو كلمة الله المكتوبة، وهو الدستور الأعلى لشعب العهد الإلهي. إنها الوحي الخاص بالله، المعبر عنه بأشكال متعددة، بما في ذلك النصوص المكتوبة. في العهد القديم، أظهر الله نفسه من خلال الأجداد ومنح الوصايا العشر على ألواح حجرية. تمت إضافة كلمات الأنبياء الملهمين إلى الوثيقة المقدسة. في العهد الجديد، أقر يسوع والرسل الكتاب المقدس ككلمة الله ذات السلطة النهائية. اليوم، تقبل جميع فروع الكنيسة المسيحية العهد القديم والعهد الجديد كالكتاب المقدس المقدس، كلمة الله المكتوبة. ككلمة الله، يحمل الكتاب المقدس سلطة عليا في جميع مجالات الحياة البشرية. تشمل اللاهوت المسيحي عدة جوانب من علم الكتاب المقدس، بما في ذلك الإلهام، والسلطة، والصدق، والكنسي، والوضوح، والكفاية، والضرورة، والترجمة، والتفسير، وقاعدة الإيمان.",
       "short_description": "The Bible is the written word of God and the supreme authority for all areas of human life. It contains God’s special revelation and serves as the ultimate criterion of truth.",
       "short_description_ar": "الكتاب المقدس هو كلمة الله المكتوبة والسلطة العليا في جميع مجالات الحياة البشرية. إنه يحتوي على الوحي الخاص بالله ويعتبر المعيار النهائي للحقيقة.",
-      "main_category": null,
-      "other_categories": null,
-      "sub_categories": null,
+      "main_category": "vIwMzTdPLbk",
+      "other_categories": ["4IK1uqfrIzd"],
+      "sub_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "key_verses": [
         "Gen.12.7",
         "Gen.13.18",
@@ -2924,39 +2964,39 @@
         "Exod.24.12",
         "Exod.31.18",
         "Exod.34.1",
-        "Exod.34.27-Exod.34.28",
-        "Deut.32.46-Deut.32.47",
-        "Josh.1.7-Josh.1.8",
-        "Matt.5.17-Matt.5.19",
-        "John.5.45-John.5.47",
-        "John.10.34-John.10.36",
+        "Exod.34.27-28",
+        "Deut.32.46-47",
+        "Josh.1.7-8",
+        "Matt.5.17-19",
+        "John.5.45-47",
+        "John.10.34-36",
         "Acts.24.14",
         "Rom.15.4",
-        "James.4.11-James.4.12",
-        "2Tim.2.15-2Tim.2.17",
-        "2Pet.1.16-2Pet.1.21",
-        "1Cor.14.37-1Cor.14.38",
+        "James.4.11-12",
+        "2Tim.2.15-17",
+        "2Pet.1.16-21",
+        "1Cor.14.37-38",
         "Col.4.16",
-        "2Thess.3.14-2Thess.3.15"
+        "2Thess.3.14-15"
       ],
       "additional_verses": ["2Tim.3.16"],
       "other_subjects": [
         "vIwMzTdPLbk",
-        "Special Revelation through Prophecy",
+        "qnVLnRPTibN",
         "l0mIDzrJYiJ",
-        "The Bible’s Inspiration",
-        "The Bible’s Authority",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
         "NpSl2E9kfh1",
-        "The Canon",
-        "The Bible’s Sufficiency",
-        "The Church’s Work of Evangelism and Discipleship",
-        "Preaching in the Life of the Church"
+        "IeDfZ62zHVN",
+        "Fzs9PEaKItO",
+        "Cm6QDzr6z6J",
+        "CPCQDz6JY7S"
       ],
       "recommended_resources": null
     }
   },
   {
-    "_id": null,
+    "_id": "ZNLK4Eo7mS1",
     "fields": {
       "title": "The Bible’s Inspiration",
       "title_ar": "إلهام الكتاب المقدس",
@@ -2966,45 +3006,55 @@
       "description_ar": "إلهام هو عمل إلهي يخلق هوية بين كلمة إنسانية وكلمة إلهية. يوجد مصطلح ’ملهم’ في 2 تيموثاوس 3:16، حيث يعني ’يتنفس من الله.’ تشير هذه الآية إلى أن النبوءات والكتب المعتبرة ’ملهمة’ هي كلام الله نفسه، مما يجعلها كلمة الله. على الرغم من أن الكتاب المقدس لا يستخدم في كثير من الأحيان مصطلحات ’ملهم’ أو ’إلهام’، إلا أنه يشير بلغة أخرى إلى الكلمات التي أعطاها الله للمتكلمين والكتاب بوصفها تعبيرات إلهية. في اللغة الحديثة، يشير ’ملهم’ غالبًا إلى لغة مرتفعة أو تعبيرات موفقة، ولكن الاقتصار على معنى الإلهام الكتابي يضعف سلطة الكتاب المقدس وحقيقته. قبول الكتاب المقدس كنص ملهم ينطوي على صدقه وسلطته النهائية في جميع جوانب الحياة.",
       "short_description": "Inspiration creates an identity between human and divine words, where ’inspired’ means ’breathed out by God.’ The Bible refers to many words given by God, functioning as divine utterances. Understanding the Bible as an inspired text implies its truthfulness and ultimate authority.",
       "short_description_ar": "الإلهام يخلق هوية بين كلمة إنسانية وكلمة إلهية، حيث يعني ’ملهم’ ’يتنفس من الله.’ يشير الكتاب المقدس إلى العديد من الكلمات التي أعطاها الله كتعبيرات إلهية. فهم الكتاب المقدس كنص ملهم ينطوي على صدقه وسلطته النهائية.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "2Tim.3.15-2Tim.3.17",
-        "2Pet.1.19-2Pet.1.21",
-        "Deut.18.18-Deut.18.19",
+        "2Tim.3.15-17",
+        "2Pet.1.19-21",
+        "Deut.18.18-19",
         "Jer.1.4-Jer.1.12",
-        "John.5.45-John.5.47",
+        "John.5.45-47",
         "Matt.24.35",
         "Mark.8.38",
         "Luke.1.20",
-        "John.1.1-John.1.14",
+        "John.1.1-14",
         "John.5.24",
-        "John.6.63-John.6.68",
-        "Matt.10.19-Matt.10.20",
+        "John.6.63-68",
+        "Matt.10.19-20",
         "John.14.26",
-        "John.15.26-John.15.27",
+        "John.15.26-27",
         "John.16.13",
         "Col.4.16",
-        "2Thess.3.14-2Thess.3.15",
-        "1Cor.14.37-1Cor.14.38",
-        "1Cor.2.12-1Cor.2.13"
+        "2Thess.3.14-15",
+        "1Cor.14.37-38",
+        "1Cor.2.12-13"
       ],
       "additional_verses": [
         "Exod.32.16",
         "Matt.5.18",
-        "John.10.34-John.10.36",
+        "John.10.34-36",
         "Acts.1.16",
         "Acts.4.25",
         "Rom.5.14",
         "Gal.3.16",
-        "2Pet.1.19-2Pet.1.21"
+        "2Pet.1.19-21"
       ],
       "other_subjects": [
         "vIwMzTdPLbk",
         "GqUTTqbZIAJ",
-        "Special Revelation through Prophecy",
-        "The Bible’s Authority",
+        "qnVLnRPTibN",
+        "BuoO1kLPNoy",
         "NpSl2E9kfh1",
         "G2OufWJeVvL"
       ],
@@ -3017,7 +3067,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "BuoO1kLPNoy",
     "fields": {
       "title": "The Bible’s Authority",
       "title_ar": "سلطة الكتاب المقدس",
@@ -3027,38 +3077,48 @@
       "description_ar": "الكلمات المؤثرة هي الكلمات التي تفرض التزامات على حياة القرّاء والسامعين لها. سلطة الكتاب المقدس تعني أنه يحكم جميع جوانب الحياة البشرية. الله هو السلطة العليا في الكون، ويتكلم من خلال الكتاب المقدس، وبالتالي يجب على البشر أن يطيعوا جميع جوانبه. لا يتم قياس الكتاب المقدس بمعايير بشرية ولكنه هو المعيار النهائي للحقيقة والبر. تمتد سلطة الكتاب المقدس إلى جميع جوانب الحياة البشرية، بما في ذلك الدين، والعبادة، والعمل، والبحث الفكري، والعلوم، والفلسفة، والقانون، والسياسة، والفنون، والثقافة، والتجارة، والترفيه. بينما يركز الكتاب المقدس بشكل أساسي على الفداء، فإنه يشمل أيضًا استعادة جميع الخليقة والمصالحة بين كل شيء والله. تمتد سلطة الكتاب المقدس على جميع جوانب الحياة البشرية.",
       "short_description": "The Bible’s authority governs all areas of human life, imposing obligations on its readers and hearers. It is the ultimate criterion of truth and righteousness, extending to religion, worship, work, intellectual pursuits, and all aspects of life. The Bible’s authority encompasses redemption and the restoration of all creation.",
       "short_description_ar": "سلطة الكتاب المقدس تحكم جميع جوانب الحياة البشرية، وتفرض التزامات على قرّائه وسامعيه. إنها المعيار النهائي للحقيقة والبر، وتمتد إلى الدين والعبادة والعمل والاهتمامات الفكرية وجميع جوانب الحياة. إن سلطة الكتاب المقدس تشمل الفداء واستعادة جميع الخليقة.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
-        "Deut.4.1-Deut.4.8",
-        "Deut.6.1-Deut.6.9",
-        "Deut.6.24-Deut.6.25",
+        "Deut.4.1-8",
+        "Deut.6.1-9",
+        "Deut.6.24-25",
         "Deut.7.11",
         "Deut.8.11",
         "Josh.23.6",
-        "Ps.19.7-Ps.19.11",
-        "2Tim.3.15-2Tim.3.17",
+        "Ps.19.7-11",
+        "2Tim.3.15-17",
         "1Cor.10.31",
-        "Gen.3.17-Gen.3.19",
-        "Rom.8.18-Rom.8.22",
-        "Col.1.19-Col.1.20",
-        "Rev.21.1-Rev.21.7",
-        "2Pet.1.20-2Pet.1.21"
+        "Gen.3.17-19",
+        "Rom.8.18-22",
+        "Col.1.19-20",
+        "Rev.21.1-7",
+        "2Pet.1.20-21"
       ],
       "additional_verses": [
-        "Matt.5.17-Matt.5.19",
+        "Matt.5.17-19",
         "Luke.16.17",
         "Luke.24.44",
         "1Thess.2.13"
       ],
       "other_subjects": [
-        "The Bible’s Inspiration",
+        "ZNLK4Eo7mS1",
         "NpSl2E9kfh1",
         "sWiCzvq0zY1",
-        "Humanity’s Fall into Sin",
-        "The Canon",
-        "The Church’s Institutional Life"
+        "oCfADrjzJxJ",
+        "IeDfZ62zHVN",
+        "kCuQDz6JY7S"
       ],
       "recommended_resources": [
         "Salvation Belongs to the Lord (Frame), esp. 58–71",
@@ -3079,8 +3139,18 @@
       "description_ar": "نظرًا لأن الكتاب المقدس هو كلمة الله المطلقة الصحة، فإن كل تعاليمه صحيحة. الحقيقة هي سمة من سمات الله في الكتاب المقدس، والكتاب المقدس يمثل وجهة نظر الله. يُستخدم مصطلح ’بلا أخطاء’ في وصف الكتاب المقدس، وهذا يعني أنه لا يحتوي على أخطاء، بينما يؤكد مصطلح ’معصوم’ أنه لا يمكن أن يحتوي على أخطاء بأي حال من الأحوال. وعلى الرغم من ادعاء البعض بوجود أخطاء في الكتاب المقدس، إلا أن المسيحيين يؤمنون بصحة الكتاب المقدس استنادًا إلى شهادة إلهية. يتطلب الإيمان بالكتاب المقدس الإيمان، تمامًا كما يتطلب الإيمان بإنجيل المسيح الإيمان. يثق المسيحيون بالله كمعيار للأدلة ويؤمنون بأن الله يعرف الإجابات حتى وإن لم يكن لديهم إجابات قاطعة لمشكلات الكتاب المقدس.",
       "short_description": "The Bible’s truthfulness is rooted in the fact that it is the word of an absolutely truthful God. It contains no errors and represents God’s point of view. Christians trust God as the criterion of evidence and believe in the Bible’s truthfulness based on divine testimony.",
       "short_description_ar": "صحة الكتاب المقدس تستند إلى حقيقة أنه كلمة إله صادق تمامًا. إنه لا يحتوي على أخطاء ويمثل وجهة نظر الله. يثق المسيحيون بالله كمعيار للأدلة ويؤمنون بصحة الكتاب المقدس استنادًا إلى شهادة إلهية.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Deut.18.22",
@@ -3104,8 +3174,8 @@
       ],
       "other_subjects": [
         "GqUTTqbZIAJ",
-        "The Bible’s Inspiration",
-        "The Bible’s Authority",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
         "aG5SbJKFGpG"
       ],
       "recommended_resources": [
@@ -3117,7 +3187,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "IeDfZ62zHVN",
     "fields": {
       "title": "The Canon",
       "title_ar": "الكنسيّة",
@@ -3127,8 +3197,18 @@
       "description_ar": "الكنسيّة تشير إلى مجموعة الكتب المعتمدة رسميا التي أعطاها الله لحكم شعبه. تشمل الكنسيّة كل من العهد القديم والعهد الجديد. تعمل الكنسيّة كأعلى قانون، مثل الدستور المكتوب، يحكم جميع الأنشطة داخل مجتمع العهد الإلهي. في العهد القديم، تم تخزين الكنسيّة في خيمة الاجتماع وبعد ذلك في معبد إسرائيل. في العهد الجديد، اعترف يسوع والرسل بوثيقة العهد القديم كمجموعة مؤلفة من الكتب المعتبرة ’الكتاب المقدس’. بالإضافة إلى ذلك، أمر يسوع رسله بكتابة وثائق إضافية تصف كلامه وأفعاله وتتعامل مع قضايا الكنيسة بعد قيامته وصعوده. بينما كان هناك فترة من عدة قرون تم خلالها اعتراف الكنيسة بالكتب الكنسيّة في العهد الجديد، فإن معظم الكتب التي نقبلها اليوم تم اعترافها ككتب مقدسة من قبل إيريناوس في القرن الثاني. تشمل عملية الاعتراف عوامل مثل تأليف الرسل، وارتباط المؤلف بالرسل، وحل الخلافات المتعلقة بالمحتوى. في النهاية، كان اعتراف الكنسيّة موجهًا بالروح القدس.",
       "short_description": "The canon refers to the divinely authorized collection of books given by God to govern his people. It includes both the Old Testament and the New Testament and serves as the highest law governing the activity within God’s covenant community.",
       "short_description_ar": "الكنسيّة تشير إلى مجموعة الكتب المعتمدة رسميا التي أعطاها الله لحكم شعبه. تشمل الكنسيّة كل من العهد القديم والعهد الجديد وتعمل كأعلى قانون يحكم النشاط داخل مجتمع العهد الإلهي.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Deut.31.24-Deut.31.29",
@@ -3150,11 +3230,11 @@
         "Rev.22.18-Rev.22.20"
       ],
       "other_subjects": [
-        "The Bible’s Inspiration",
-        "The Bible’s Authority",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
         "l0mIDzrJYiJ",
-        "The Bible’s Necessity",
-        "The Bible’s Sufficiency"
+        "tUfF5T39rWv",
+        "Fzs9PEaKItO"
       ],
       "recommended_resources": [
         "The Doctrine of the Word of God. (Frame), 133-139",
@@ -3176,8 +3256,18 @@
       "description_ar": "عقيدة وضوح الكتاب المقدس تؤكد أن الكتاب المقدس واضح بما فيه الكفاية لكي لا يكون للأشخاص أي عذر للتمرد على واجباتهم الحالية. على الرغم من وجود صعوبات وسوء فهم، إلا أن وحي الله ينجح دائمًا في تحقيق هدفه. وضوح الكتاب المقدس يكرم الله في وحيه ويؤكد وجوده مع القرّاء أثناء سعيهم لفهم النص. ومع ذلك، فإن الوضوح لا يعني أن الجميع سيفهمون جوانب الكتاب المقدس بشكل فوري. يوجه الله كلماته إلى جماهير معينة، ولأولئك الذين هم مدعوون لتعليم هذه المقاطع في الكنيسة موارد كافية لفهمها وأداء واجبهم الحالي. قد أبرز الإصلاحيون البروتستانت مبدأ وضوح الكتاب المقدس لإظهار أن المؤمنين ليسوا مقيدين بالملوك الروحيين في دراسة الكتاب المقدس، بل هم مؤهلون لقراءة الكتاب بأنفسهم.",
       "short_description": "The doctrine of the Bible’s clarity asserts that Scripture is sufficiently clear to leave people without excuse for disobedience to their present duties, although not everyone will immediately understand all aspects of it. The clarity of Scripture honors God, affirms His presence, and directs His words to specific audiences. The principle of biblical clarity highlights that believers are qualified to read the Bible for themselves.",
       "short_description_ar": "عقيدة وضوح الكتاب المقدس تؤكد أن الكتاب المقدس واضح بما فيه الكفاية لكي لا يكون للأشخاص أي عذر للتمرد على واجباتهم الحالية، على الرغم من أن الجميع لن يفهموا فورًا جوانب الكتاب المقدس بشكل كامل. وضوح الكتاب المقدس يكرم الله ويؤكد وجوده ويوجه كلماته إلى جماهير معينة. مبدأ وضوح الكتاب المقدس يبرز أن المؤمنين مؤهلون لقراءة الكتاب المقدس بأنفسهم.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
         "2Tim.3.14-2Tim.3.17",
@@ -3201,9 +3291,9 @@
         "2Pet.1.16-2Pet.1.21"
       ],
       "other_subjects": [
-        "The Bible’s Inspiration",
-        "The Bible’s Authority",
-        "The Bible’s Sufficiency",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "Fzs9PEaKItO",
         "The Holy Spirit and Salvation"
       ],
       "recommended_resources": [
@@ -3215,7 +3305,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "Fzs9PEaKItO",
     "fields": {
       "title": "The Bible’s Sufficiency",
       "title_ar": "كفاية الكتاب المقدس",
@@ -3225,8 +3315,18 @@
       "description_ar": "كفاية الكتاب المقدس تؤكد أن الكتاب المقدس يحتوي على جميع الكلمات الإلهية اللازمة لاتخاذ القرارات البشرية. وفقًا للمذهب الوستمنستري للإيمان، يتم تحديد مجمل مشورة الله بالنسبة لمجده الذاتي وخلاص الإنسان والإيمان والحياة في الكتاب المقدس بوضوح أو يمكن استنتاجها منه من خلال نتائج جيدة وضرورية. تتعارض هذه الرؤية مع آراء المعارضين مثل المعمدانيين الذين دعوا في بعض الأحيان إلى ’أوحياء جديدة من الروح’، والكاثوليك الرومان الذين اتهمهم البروتستانت بتمجيد ’تقاليد البشر’. في حين قد يسعى البعض لتقييد كفاية الكتاب المقدس لمسائل الخلاص أو العبادة، يؤكد المذهب أن كفاية الكتاب المقدس تمتد إلى كل قرار بشري حيث تهدف جميع القرارات في النهاية إلى تمجيد الله. يحذر الكتاب المقدس نفسه من الاعتماد على الحكمة البشرية بدلاً من حكمة الله. يتعارض مفهوم كفاية الكتاب المقدس مع التوجه الحالي للكنيسة لإعطاء مزيدًا ومزيدًا من الوزن للتقاليد التاريخية للكنيسة في اللاهوت والعبادة. إن مهمة الكنيسة اليوم، كما هي دومًا، هي التمسك بكلمة الله بشدة، معارضةً الأوضاع الفكرية البشرية، حتى عندما تكون كلمة الله معارضة للتقاليد داخل الكنيسة ذاتها.",
       "short_description": "The sufficiency of Scripture asserts that the Bible contains all the divine words necessary for human decisions. It stands against the temptation to prioritize church historical traditions in theology and worship, emphasizing the need to adhere closely to God’s word.",
       "short_description_ar": "كفاية الكتاب المقدس تؤكد أن الكتاب المقدس يحتوي على جميع الكلمات الإلهية اللازمة لاتخاذ القرارات البشرية. يتعارض مع التوجه لإعطاء مزيدًا ومزيدًا من الوزن للتقاليد التاريخية للكنيسة في اللاهوت والعبادة، مشددًا على الحاجة للالتزام بكلمة الله بشدة.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Isa.29.13-Isa.29.14",
@@ -3239,9 +3339,9 @@
       "other_subjects": [
         "GqUTTqbZIAJ",
         "M2TBMajWxLg",
-        "The Bible’s Authority",
-        "The Bible’s Inspiration",
-        "The Canon",
+        "BuoO1kLPNoy",
+        "ZNLK4Eo7mS1",
+        "IeDfZ62zHVN",
         "The Holy Spirit and Salvation"
       ],
       "recommended_resources": [
@@ -3252,7 +3352,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "tUfF5T39rWv",
     "fields": {
       "title": "The Bible’s Necessity",
       "title_ar": "ضرورة الكتاب المقدس",
@@ -3262,8 +3362,18 @@
       "description_ar": "الكلمة المكتوبة لله في الكتاب المقدس هي جزء لا يمكن الاستغناء عنه في علاقة المؤمن مع المسيح. في العهد القديم، كانت العهود غالبًا مصحوبة بمعاهدات مكتوبة تكون القانون الأعلى في العلاقة. بالمثل، كانت عهد الله مع إسرائيل يتضمن الوصايا العشر التي كتبها الله نفسه وتحكم العلاقة بينهما. كانت الكلمة المكتوبة ضرورية للطاعة والمحبة لله. في العهد الجديد، المسيح هو الكلمة بنفسه، والطاعة لوصاياه مرتبطة بالمحبة له. الكلمة المقدسة تحمل أيضًا كلمة الإنجيل ورسالة الله للخلاص. بالرغم من أن الخلاص ممكن دون قراءة الكتاب المقدس مباشرةً، فإن الإعلان الشفهي والشهادة مشتقة من الكتاب المقدس وتوفر وصولًا موثوقًا إلى الإنجيل. الكتاب المقدس ضروري في هذا الشأن للخلاص. يحتوي على حكمة الله، بما في ذلك وعد الخلاص من خلال الإيمان. من الناحية التاريخية، ترتبط إحياءات الكنيسة بإعادة اكتشاف الكتاب المقدس ككلمة الله الحية والفاعلة. الكتاب المقدس لا يمكن الاستغناء عنه لفهم والطاعة لكلمة المسيح المكتوبة.",
       "short_description": "God’s written word in Scripture is an indispensable element of the believer’s covenant relation to Christ.",
       "short_description_ar": "الكلمة المكتوبة لله في الكتاب المقدس هي جزء لا يمكن الاستغناء عنه في علاقة المؤمن مع المسيح.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Deut.4.13",
@@ -3281,8 +3391,8 @@
       "other_subjects": [
         "GqUTTqbZIAJ",
         "l0mIDzrJYiJ",
-        "The Bible’s Inspiration",
-        "The Bible’s Sufficiency",
+        "ZNLK4Eo7mS1",
+        "Fzs9PEaKItO",
         "pdwJXdtqVLf",
         "ytHX4MFT0jR"
       ],
@@ -3305,8 +3415,18 @@
       "description_ar": "تتضمن ترجمة الكتاب المقدس إعادة صياغة معنى الكلمات من لغة إلى أخرى. كتب الكتاب المقدس أصلاً باللغة العبرية والآرامية واليونانية، ولكن رسالته كانت تهدف لجميع الأمم. ترجمة الكتاب المقدس إلى لغات مختلفة هي جزء هام من الوصية العظيمة، التي توجه المؤمنين بتعليم الإنجيل لكل أمة. على عكس الإسلام الذي غالباً ما يعتبر الترجمة تشويهاً لمعنى كتابه المقدس، يفترض الكتاب المقدس أن رسالته يمكن ترجمتها بدقة. في بعض الحالات، يحدث ترجمة خارقة، مثل في يوم العنصرة وعطية الألسنة. ترجمة النص يعني التعبير عن معناه بلغة مختلفة، بهدف الاحتفاظ بمدى تطبيقاته وأغراضه. على الرغم من أن الترجمات نادراً ما تكون مثالية ويمكن أن يضيع بعض المعاني في العملية، إلا أن تكرار الكتاب المقدس وعمل الروح القدس يساعدان في توضيح الرسالة. ترجمة الكتاب المقدس جانب أساسي في تحقيق الوصية العظيمة ولها إمكانية تنمية الناس في جميع أنحاء العالم.",
       "short_description": "Bible translation involves restating the meaning of words from one language to another. It is a crucial part of fulfilling the Great Commission and has the potential to edify people across the globe.",
       "short_description_ar": "تتضمن ترجمة الكتاب المقدس إعادة صياغة معنى الكلمات من لغة إلى أخرى. إنها جزء أساسي في تحقيق الوصية العظيمة ولها إمكانية تنمية الناس في جميع أنحاء العالم.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Gen.11.1-Gen.11.9",
@@ -3318,13 +3438,13 @@
       ],
       "additional_verses": ["Deut.31.11", "John.5.39", "Acts.17.11"],
       "other_subjects": [
-        "Preaching in the Life of the Church",
+        "CPCQDz6JY7S",
         "GqUTTqbZIAJ",
-        "The Bible’s Inspiration",
-        "The Bible’s Authority",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
         "NpSl2E9kfh1",
         "RQ5Z3qPLmtH",
-        "Biblical Interpretation"
+        "U78BP0XfI1s"
       ],
       "recommended_resources": [
         "The Doctrine of the Word of God (Frame), 253–257",
@@ -3337,7 +3457,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "U78BP0XfI1s",
     "fields": {
       "title": "Biblical Interpretation",
       "title_ar": "تفسير الكتاب المقدس",
@@ -3347,8 +3467,18 @@
       "description_ar": "تتضمن تفسير الكتاب المقدس مساعدة القراء والمستمعين للكتاب المقدس على فهم النص الكتابي وتطبيقه. بينما يعتبر بعض الفلاسفة التفسير نظرية معرفية شاملة، فإن سياق عقيدة الكتاب المقدس يركز على فهم وتطبيق المقاطع الكتابية. التفسير ليس طبقة موحدة من المعنى تحت النص بل استجابة لصعوبات القراء في فهم الكلمات. قد تتضمن التفاسير الترجمة والإعراب ودروس النحو والخلفية التاريخية والعلاقات المنطقية واللاهوت المنهجي والتطبيقات العملية. من المهم أن نلاحظ أن جميع المعاني ليست شخصية بل موجودة بشكل موضوعي في النص. اقتربت التقاليد المختلفة من تفسير الكتاب المقدس بطرق مختلفة، بدءًا من البحث عن معانٍ متعددة إلى التركيز على التفسير الحرفي. القاعدة هي أن يكون التفسير صادقًا للنص الأصلي والسياق، مع مراعاة نيات المؤلفين الإلهيين والبشريين. تسلط عبارة ’الكتاب يفسر نفسه’ الضوء على الاعتماد على الكتاب المقدس لتفسير الكتاب المقدس.",
       "short_description": "Biblical interpretation involves understanding and applying the biblical text. It responds to readers’ difficulties and seeks to convey the intended meaning of the words. Interpretations encompass various approaches, including translation, grammar lessons, historical context, and practical applications. All meaning is objectively present in the text, and interpretation should be true to the original while considering the intentions of the authors.",
       "short_description_ar": "تتضمن تفسير الكتاب المقدس فهم النص الكتابي وتطبيقه. يستجيب لصعوبات القراء ويسعى لنقل المعنى المقصود من الكلمات. تشمل التفاسير نهجًا متعددة، بما في ذلك الترجمة ودروس النحو والسياق التاريخي والتطبيقات العملية. جميع المعاني موجودة بشكل موضوعي في النص، ويجب أن يكون التفسير صادقًا للأصل ومع مراعاة نيات الكتاب.",
-      "main_category": null,
-      "other_categories": null,
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "wP5tNqH4cYO"
+      ],
       "sub_categories": null,
       "key_verses": [
         "Luke 24:27",
@@ -3381,14 +3511,14 @@
       ],
       "other_subjects": [
         "GqUTTqbZIAJ",
-        "The Bible’s Inspiration",
-        "Preaching in the Life of the Church",
-        "The Bible’s Authority",
+        "ZNLK4Eo7mS1",
+        "CPCQDz6JY7S",
+        "BuoO1kLPNoy",
         "NpSl2E9kfh1",
-        "The Church’s Work of Evangelism and Discipleship",
+        "Cm6QDzr6z6J",
         "RQ5Z3qPLmtH",
         "Bible Translation",
-        "The Doctrine of the Church"
+        "2DuQDz6JY7S"
       ],
       "recommended_resources": [
         "The Doctrine of the Word of God (Frame)",
@@ -3398,7 +3528,55 @@
         "Dictionary for Theological Interpretation of the Bible (Kevin Vanhoozer)",
         "Is There a Meaning in This Text? (Kevin Vanhoozer)"
       ],
-      "see_also": ["Biblical Interpretation", "Hermeneutics"]
+      "see_also": ["U78BP0XfI1s", "Hermeneutics"]
+    }
+  },
+  {
+    "_id": "wP5tNqH4cYO",
+    "fields": {
+      "title": "Rule of Faith",
+      "title_ar": "قاعدة الإيمان",
+      "alternative_title": "Canon of Truth",
+      "alternative_title_ar": "شريعة الحق",
+      "description": "The rule of faith is a summary of Christian beliefs based on Scripture. It outlines the apostolic proclamation about God's nature and the person and work of Jesus Christ. It includes core teachings such as creation, Jesus' birth, life, death, resurrection, and ascension. Derived from Scripture and apostolic teachings, the rule of faith expresses the essential message of God's redemptive work throughout history. It serves as an interpretive framework for Scripture, guiding the reading and understanding of God's Word. The rule of faith was used by early church writers as a benchmark to measure teachings and combat heresies.",
+      "description_ar": "قاعدة الإيمان هي ملخص للمعتقدات المسيحية المستندة إلى الكتاب المقدس. توضح الإعلان الرسولي عن طبيعة الله وشخص وعمل يسوع المسيح. تتضمن تعاليم أساسية مثل الخلق وولادة يسوع وحياته وموته وقيامته وصعوده. تم استقاء قاعدة الإيمان من الكتاب المقدس وتعاليم الرسل، وتعبر عن الرسالة الأساسية لعمل الخلاص الإلهي على مر التاريخ. تعمل كإطار تفسيري للكتاب المقدس، موجهة قراءة وفهم كلمة الله. استخدمت قاعدة الإيمان من قبل كتاب الكنيسة الأوائل كمعيار لقياس التعاليم ومحاربة البدع.",
+      "short_description": "The rule of faith is a summary of Christian beliefs based on Scripture. It outlines the apostolic proclamation about God's nature and the person and work of Jesus Christ. It serves as an interpretive framework for Scripture, guiding the reading and understanding of God's Word.",
+      "short_description_ar": "قاعدة الإيمان هي ملخص للمعتقدات المسيحية المستندة إلى الكتاب المقدس. توضح الإعلان الرسولي عن طبيعة الله وشخص وعمل يسوع المسيح. تعمل كإطار تفسيري للكتاب المقدس، موجهة قراءة وفهم كلمة الله.",
+      "main_category": "GqUTTqbZIAJ",
+      "other_categories": [
+        "IeDfZ62zHVN",
+        "ZNLK4Eo7mS1",
+        "BuoO1kLPNoy",
+        "NpSl2E9kfh1",
+        "RQ5Z3qPLmtH",
+        "Fzs9PEaKItO",
+        "tUfF5T39rWv",
+        "zJY7xFXTEzr",
+        "U78BP0XfI1s"
+      ],
+      "sub_categories": null,
+      "key_verses": [
+        "Rom.1.1-Rom.1.4",
+        "1Cor.15.1-1Cor.15.11",
+        "Gal.2.14",
+        "Gal.6.16",
+        "1Thess.1.9-1Thess.1.10"
+      ],
+      "additional_verses": ["Luke.24.27", "Rom.12.6", "2Tim.1.13"],
+      "other_subjects": [
+        "Biblical Interpretation",
+        "The Church’s Institutional Life",
+        "The Doctrine of the Triune God",
+        "The Bible",
+        "The Holy Spirit and Salvation"
+      ],
+      "recommended_resources": [
+        "“The Regula Fidei and the Narrative Character of Early Christian Faith,” (Blowers) in Pro Ecclesia 6 (1997), 199–228.",
+        "The Rule of Faith (Ferguson).",
+        "Early Christian Doctrines (Kelly), 29–51.",
+        "Christianity at the Crossroads: How the Second Century Shaped the Future of the Church (Kruger), 136–145.",
+        "“Reason and the Rule of Faith in the Second Century AD,” (Osborn) in The Making of Orthodoxy (Williams, ed.), 40–61."
+      ]
     }
   },
   {
@@ -3544,7 +3722,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Angels",
+        "6YUxD3pJYiJ",
         "Satan",
         "Demons",
         "kFECzrjJYSx",
@@ -3562,7 +3740,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "6YUxD3pJYiJ",
     "fields": {
       "title": "Angels",
       "title_ar": "الملائكة",
@@ -3633,7 +3811,7 @@
       ],
       "other_subjects": [
         "Demons",
-        "Providence and Miracles",
+        "wkRvDr4zJxJ",
         "gkRRpyiuTzP",
         "sWiCzvq0zY1",
         "Satan"
@@ -3679,11 +3857,11 @@
       ],
       "additional_verses": ["Rev.12.10", "Gen.3.1", "John.8.44", "1John.3.8"],
       "other_subjects": [
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "EiYADzjJYiJ",
         "gkRRpyiuTzP",
         "sWiCzvq0zY1",
-        "Angels"
+        "6YUxD3pJYiJ"
       ],
       "recommended_resources": [
         "Systematic Theology (Berkhof), 148–150",
@@ -3725,7 +3903,7 @@
         "1Sam.16.14-1Sam.16.16"
       ],
       "additional_verses": null,
-      "other_subjects": ["Angels", "gkRRpyiuTzP", "sWiCzvq0zY1", "Satan"],
+      "other_subjects": ["6YUxD3pJYiJ", "gkRRpyiuTzP", "sWiCzvq0zY1", "Satan"],
       "recommended_resources": [
         "Systematic Theology (Berkhof), 148–150",
         "Concise Theology (Packer), 67–68",
@@ -3829,7 +4007,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "wkRvDr4zJxJ",
     "fields": {
       "title": "Providence and Miracles",
       "title_ar": "العناية الإلهية والمعجزات",
@@ -3861,7 +4039,7 @@
         "kWv4Drjz6it",
         "QbMQDz6JYi1",
         "yPnQDzjz6JY",
-        "Spiritual Gifts in the Church",
+        "lu-QDzr6JYS",
         "4IK1uqfrIzd"
       ],
       "recommended_resources": [
@@ -4087,7 +4265,7 @@
         "VlmIDzrJYiJ",
         "Sin and Death",
         "Humanity’s Dominion over the Earth",
-        "Humanity’s Fall into Sin"
+        "oCfADrjzJxJ"
       ],
       "recommended_resources": [
         "The Christ of the Covenants (Robertson), 67–92",
@@ -4183,7 +4361,7 @@
         "Xh0AvDrJYS1",
         "VlmIDzrJYiJ",
         "The Mosaic Covenant",
-        "Providence and Miracles",
+        "wkRvDr4zJxJ",
         "0lTQvDrJYS1",
         "God’s Preservation of Creation",
         "c3HzyGpSDxH"
@@ -4269,7 +4447,7 @@
         "The Davidic Covenant",
         "The New Covenant",
         "gcRwI7HGgeH",
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "The Holy Spirit and Salvation"
       ],
       "recommended_resources": null
@@ -4645,9 +4823,9 @@
         "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "yPnQDzjz6JY",
-        "The Church’s Work of Evangelism and Discipleship",
+        "Cm6QDzr6z6J",
         "Actual Sin",
-        "Preaching in the Life of the Church"
+        "CPCQDz6JY7S"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. IV, 448–460",
@@ -4689,9 +4867,9 @@
         "The Mosaic Covenant",
         "Theological Law",
         "yPnQDzjz6JY",
-        "The Church’s Work of Evangelism and Discipleship",
-        "The Bible’s Authority",
-        "Biblical Interpretation"
+        "Cm6QDzr6z6J",
+        "BuoO1kLPNoy",
+        "U78BP0XfI1s"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. IV, 448–460",
@@ -4744,12 +4922,12 @@
       "additional_verses": null,
       "other_subjects": [
         "The Abrahamic Covenant",
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "XpYKDrjJYSx",
         "Jesus As Mediator",
         "The Kingdom of God",
         "The New Covenant",
-        "Special Revelation through Prophecy",
+        "qnVLnRPTibN",
         "NpSl2E9kfh1",
         "The Church and Society",
         "o0KdKpgImq0"
@@ -4782,7 +4960,7 @@
       "other_subjects": [
         "brT7DzrJYS1",
         "Human Nature",
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "D5w0Dxpl9it"
       ],
       "recommended_resources": [
@@ -5088,7 +5266,7 @@
       "other_subjects": [
         "sWiCzvq0zY1",
         "brT7DzrJYS1",
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "Jesus’ Resurrection",
         "The Final State of the Righteous",
         "Jesus’ Humanity"
@@ -5388,7 +5566,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "oCfADrjzJxJ",
     "fields": {
       "title": "Humanity’s Fall into Sin",
       "title_ar": "سقوط الإنسان في الخطية",
@@ -5810,7 +5988,7 @@
         "1John.1.8-1John.1.10"
       ],
       "other_subjects": [
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "Original Sin",
         "Actual Sin",
         "Punishment for Sin",
@@ -5853,7 +6031,7 @@
       ],
       "additional_verses": ["Rom.5.15-Rom.5.16"],
       "other_subjects": [
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "Original Sin",
         "Actual Sin",
         "Punishment for Sin",
@@ -5900,7 +6078,7 @@
       ],
       "additional_verses": ["Isa.43.10"],
       "other_subjects": [
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "Original Sin",
         "Actual Sin",
         "Sin and Death",
@@ -5998,7 +6176,7 @@
         "The Unity of Jesus’ Person",
         "Jesus As Mediator",
         "Jesus’ Accomplishment of Salvation",
-        "The Doctrine of the Church"
+        "2DuQDz6JY7S"
       ],
       "recommended_resources": [
         "On the Incarnation (Athanasius)",
@@ -6360,7 +6538,7 @@
         "1John.4.8-1John.4.10"
       ],
       "other_subjects": [
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "The Final Judgment",
         "BSg7O5pqblW",
         "The Holy Spirit and Salvation",
@@ -6449,7 +6627,7 @@
         "Jesus As Mediator",
         "Jesus’ Priestly Office",
         "Jesus’ Kingly Office",
-        "Special Revelation through Prophecy"
+        "qnVLnRPTibN"
       ],
       "recommended_resources": [
         "“Christ’s Threefold Office,” Reformed Dogmatics (Bavinck), Vol. III",
@@ -6628,7 +6806,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "The Final Judgment",
         "Jesus As Mediator",
         "u7zQDz6z6Jr",
@@ -6758,7 +6936,7 @@
         "Jesus’ Humiliation",
         "Jesus’ Obedience",
         "Jesus’ Suffering",
-        "Humanity’s Fall into Sin"
+        "oCfADrjzJxJ"
       ],
       "recommended_resources": [
         "Will There Be Free Will in Heaven? Freedom, Impeccability, and Beatitude (Gaine)",
@@ -6832,7 +7010,7 @@
         "Jesus’ Humiliation",
         "GtXQDrz6z6J",
         "kb7QDzjJY7S",
-        "Providence and Miracles"
+        "wkRvDr4zJxJ"
       ],
       "recommended_resources": [
         "The Virgin Birth in the Theology of the Ancient Church (Campenhausen)",
@@ -6989,7 +7167,7 @@
         "Jesus’ Obedience",
         "Jesus’ Resurrection",
         "Jesus’ Session at God’s Right Hand",
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "Jesus’ Priestly Office"
       ],
       "recommended_resources": [
@@ -7031,7 +7209,7 @@
         "BSg7O5pqblW",
         "xS3bNdC5qLU",
         "wIRi6v3uv7U",
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "Jesus’ Humiliation",
         "Jesus’ Resurrection"
       ],
@@ -7387,7 +7565,7 @@
         "Calling",
         "SMMQDz6JYS1",
         "Conversion",
-        "The Baptism of the Holy Spirit",
+        "P2LADzr6z6J",
         "MZGjKlNwvxr",
         "Union with Christ",
         "i1TQDzr6JYS",
@@ -7563,7 +7741,7 @@
       "other_subjects": [
         "The Holy Spirit and Salvation",
         "G2OufWJeVvL",
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "Jesus’ Accomplishment of Salvation"
       ],
       "recommended_resources": [
@@ -7607,7 +7785,7 @@
         "Effectual Calling",
         "gcRwI7HGgeH",
         "o0KdKpgImq0",
-        "The Church’s Work of Evangelism and Discipleship",
+        "Cm6QDzr6z6J",
         "QbMQDz6JYi1",
         "Pls9fJRO33G",
         "SMMQDz6JYS1",
@@ -7648,7 +7826,7 @@
       "other_subjects": [
         "Calling",
         "Effectual Calling",
-        "The Church’s Work of Evangelism and Discipleship",
+        "Cm6QDzr6z6J",
         "The Holy Spirit and Salvation"
       ],
       "recommended_resources": [
@@ -7694,7 +7872,7 @@
         "iM3QDz6JYSr",
         "kb7QDzjJY7S",
         "o0KdKpgImq0",
-        "The Church’s Work of Evangelism and Discipleship",
+        "Cm6QDzr6z6J",
         "Pls9fJRO33G",
         "SMMQDz6JYS1",
         "The Holy Spirit and Salvation",
@@ -7885,7 +8063,7 @@
       "additional_verses": null,
       "other_subjects": [
         "Conversion",
-        "Humanity’s Fall into Sin",
+        "oCfADrjzJxJ",
         "Saving Faith",
         "i1TQDzr6JYS",
         "yPnQDzjz6JY",
@@ -8137,7 +8315,7 @@
       "additional_verses": null,
       "other_subjects": [
         "i1TQDzr6JYS",
-        "Spiritual Gifts in the Church",
+        "lu-QDzr6JYS",
         "Sanctification and Good Works",
         "xS3bNdC5qLU"
       ],
@@ -8181,9 +8359,9 @@
       "additional_verses": null,
       "other_subjects": [
         "yPnQDzjz6JY",
-        "The Church’s Institutional Life",
+        "kCuQDz6JY7S",
         "Prayer in the Life of the Church",
-        "Preaching in the Life of the Church",
+        "CPCQDz6JY7S",
         "p-6QDz6JY7S",
         "Human Nature",
         "The Three Uses of the Law"
@@ -8295,7 +8473,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "P2LADzr6z6J",
     "fields": {
       "title": "The Baptism of the Holy Spirit",
       "title_ar": "معمودية الروح القدس",
@@ -8320,7 +8498,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Spirit’s Indwelling",
-        "Spiritual Gifts in the Church",
+        "lu-QDzr6JYS",
         "SMMQDz6JYS1"
       ],
       "recommended_resources": [
@@ -8360,8 +8538,8 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Spiritual Gifts in the Church",
-        "The Baptism of the Holy Spirit",
+        "lu-QDzr6JYS",
+        "P2LADzr6z6J",
         "Union with Christ",
         "SMMQDz6JYS1"
       ],
@@ -8376,7 +8554,7 @@
   },
 
   {
-    "_id": null,
+    "_id": "2DuQDz6JY7S",
     "fields": {
       "title": "The Doctrine of the Church",
       "title_ar": "عقيدة الكنيسة",
@@ -8391,11 +8569,7 @@
       "sub_categories": null,
       "key_verses": ["Matt.28.18-Matt.28.20", "John.20.21", "Titus.2.14"],
       "additional_verses": null,
-      "other_subjects": [
-        "AnuQDz6JYSr",
-        "The Church’s Institutional Life",
-        "The Church’s Mission"
-      ],
+      "other_subjects": ["AnuQDz6JYSr", "kCuQDz6JY7S", "The Church’s Mission"],
       "recommended_resources": [
         "Images of the Church in the New Testament (Minear)",
         "Church: A Guide for the Perplexed (Jenson and Wilhite)",
@@ -8431,7 +8605,7 @@
         "John.21.24"
       ],
       "additional_verses": null,
-      "other_subjects": ["The Church’s Institutional Life", "l0mIDzrJYiJ"],
+      "other_subjects": ["kCuQDz6JY7S", "l0mIDzrJYiJ"],
       "recommended_resources": [
         "The Church (Berkouwer)",
         "The Church (Bray)",
@@ -8466,8 +8640,8 @@
       "additional_verses": null,
       "other_subjects": [
         "G2OufWJeVvL",
-        "The Doctrine of the Church",
-        "The Church’s Institutional Life",
+        "2DuQDz6JY7S",
+        "kCuQDz6JY7S",
         "Church Discipline",
         "p-6QDz6JY7S"
       ],
@@ -8547,7 +8721,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "bn6QDr6JYSr",
         "The Church As Apostolic"
       ],
@@ -8632,7 +8806,7 @@
         "Rev.21.9-Rev.21.17"
       ],
       "additional_verses": null,
-      "other_subjects": ["AnuQDz6JYSr", "The Doctrine of the Church"],
+      "other_subjects": ["AnuQDz6JYSr", "2DuQDz6JY7S"],
       "recommended_resources": [
         "Sojourners and Strangers: The Doctrine of the Church (Allison)",
         "The Church (Clowney)",
@@ -8641,7 +8815,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "kCuQDz6JY7S",
     "fields": {
       "title": "The Church’s Institutional Life",
       "title_ar": "حياة المؤسسة الكنسية",
@@ -8671,12 +8845,12 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "l0mIDzrJYiJ",
-        "The Church’s Work of Evangelism and Discipleship",
-        "The Bible’s Authority",
-        "Biblical Interpretation",
-        "Rule of Faith",
+        "Cm6QDzr6z6J",
+        "BuoO1kLPNoy",
+        "U78BP0XfI1s",
+        "wP5tNqH4cYO",
         "M2TBMajWxLg"
       ],
       "recommended_resources": [
@@ -8720,7 +8894,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "lu-QDzr6JYS",
     "fields": {
       "title": "Spiritual Gifts in the Church",
       "title_ar": "الهدايا الروحية في الكنيسة",
@@ -8823,7 +8997,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "The Number of Sacraments",
         "The Nature of Sacraments"
       ],
@@ -8868,7 +9042,7 @@
         "AnuQDz6JYSr",
         "The Church As Universal",
         "The Church’s Mission",
-        "The Church’s Institutional Life",
+        "kCuQDz6JY7S",
         "p-6QDz6JY7S",
         "Fellowship in the Life of the Church"
       ],
@@ -8927,9 +9101,9 @@
         "Saving Faith",
         "Repentance",
         "Union with Christ",
-        "The Baptism of the Holy Spirit",
-        "The Church’s Work of Evangelism and Discipleship",
-        "Humanity’s Fall into Sin",
+        "P2LADzr6z6J",
+        "Cm6QDzr6z6J",
+        "oCfADrjzJxJ",
         "SMMQDz6JYS1"
       ],
       "recommended_resources": [
@@ -8964,7 +9138,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "p-6QDz6JY7S",
         "The Nature of Sacraments",
         "The Question of Additional Sacraments"
@@ -8995,7 +9169,7 @@
       "key_verses": ["Acts.8.14-Acts.8.17", "Eph.5.32", "Jas.5.14-Jas.5.16"],
       "additional_verses": null,
       "other_subjects": [
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "p-6QDz6JY7S",
         "The Number of Sacraments",
         "The Nature of Sacraments"
@@ -9069,7 +9243,7 @@
       "additional_verses": null,
       "other_subjects": [
         "yPnQDzjz6JY",
-        "Spiritual Gifts in the Church",
+        "lu-QDzr6JYS",
         "The Question of Additional Sacraments",
         "The Nature of Sacraments"
       ],
@@ -9182,7 +9356,7 @@
         "Jesus As Mediator",
         "Jesus’ Priestly Office",
         "kWv4Drjz6it",
-        "Providence and Miracles",
+        "wkRvDr4zJxJ",
         "God’s Preservation of Creation",
         "GtXQDrz6z6J",
         "kb7QDzjJY7S",
@@ -9223,7 +9397,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "p-6QDz6JY7S",
         "The Number of Sacraments",
         "The Question of Additional Sacraments"
@@ -9237,7 +9411,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "CPCQDz6JY7S",
     "fields": {
       "title": "Preaching in the Life of the Church",
       "title_ar": "الوعظ في حياة الكنيسة",
@@ -9264,7 +9438,7 @@
         "6xDrz6Yr7Di",
         "The Holy Spirit and Salvation",
         "yPnQDzjz6JY",
-        "Spiritual Gifts in the Church"
+        "lu-QDzr6JYS"
       ],
       "recommended_resources": [
         "Christ-Centered Preaching (Chappell)",
@@ -9304,8 +9478,8 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Church’s Institutional Life",
-        "The Doctrine of the Church",
+        "kCuQDz6JY7S",
+        "2DuQDz6JY7S",
         "ytHX4MFT0jR",
         "yPnQDzjz6JY",
         "The Means of Sanctification"
@@ -9389,7 +9563,7 @@
         "p-6QDz6JY7S",
         "The Lord’s Supper",
         "Baptism",
-        "Preaching in the Life of the Church",
+        "CPCQDz6JY7S",
         "Prayer in the Life of the Church",
         "Giving in the Life of the Church"
       ],
@@ -9516,7 +9690,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "Cm6QDzr6z6J",
     "fields": {
       "title": "The Church’s Work of Evangelism and Discipleship",
       "title_ar": "عمل الكنيسة في الإنجيل والتلمذة",
@@ -9539,8 +9713,8 @@
       ],
       "additional_verses": ["Rom.10.14-Rom.10.15"],
       "other_subjects": [
-        "Preaching in the Life of the Church",
-        "Spiritual Gifts in the Church",
+        "CPCQDz6JY7S",
+        "lu-QDzr6JYS",
         "The Holy Spirit and Salvation",
         "Saving Faith",
         "Repentance"
@@ -9558,7 +9732,7 @@
   {
     "_id": null,
     "fields": {
-      "title": "The Church’s Work of Evangelism and Discipleship",
+      "title": "Cm6QDzr6z6J",
       "title_ar": "عمل الكنيسة في الإنجيل والتلمذة",
       "alternative_title": "The Church’s Mission: Proclaiming the Gospel and Making Disciples",
       "alternative_title_ar": "مهمة الكنيسة: نشر الإنجيل وتلميذ الناس",
@@ -9579,8 +9753,8 @@
       ],
       "additional_verses": ["Rom.10.14-Rom.10.15"],
       "other_subjects": [
-        "Preaching in the Life of the Church",
-        "Spiritual Gifts in the Church",
+        "CPCQDz6JY7S",
+        "lu-QDzr6JYS",
         "The Holy Spirit and Salvation",
         "Saving Faith",
         "Repentance"
@@ -10043,7 +10217,7 @@
         "The Extent of the Atonement",
         "Original Sin",
         "Actual Sin",
-        "The Church’s Work of Evangelism and Discipleship",
+        "Cm6QDzr6z6J",
         "gyMSz6J98Kb",
         "Pls9fJRO33G",
         "The Holy Spirit and Salvation"
@@ -10172,7 +10346,7 @@
         "The Millennium",
         "The New Heavens and Earth",
         "The Final State of the Righteous",
-        "The Doctrine of the Church",
+        "2DuQDz6JY7S",
         "Heaven"
       ],
       "recommended_resources": [
@@ -10224,7 +10398,7 @@
         "The Rapture",
         "The Millennium",
         "Jesus’ Second Coming",
-        "The Doctrine of the Church"
+        "2DuQDz6JY7S"
       ],
       "recommended_resources": [
         "“What Saints will be in the Tribulation?” in vol. 11 of The Selected Writings of J. N. Darby (Darby)",
