@@ -2865,7 +2865,7 @@
       ],
       "additional_verses": ["Exod.19.17-19", "Gen.16.7-14"],
       "other_subjects": [
-        "Jesus’ Incarnation",
+        "x4zQDrjJY7S",
         "hjCfs9MvFaw",
         "YBjQ1XxWq8A",
         "pdwJXdtqVLf",
@@ -3977,19 +3977,19 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.6.26-Matt.6.33",
-        "Gen.8.21-Gen.8.22",
-        "Ps.19.1-Ps.19.6",
-        "Rom.8.28-Rom.8.39",
+        "Matt.6.26-33",
+        "Gen.8.21-22",
+        "Ps.19.1-6",
+        "Rom.8.28-39",
         "Acts.14.17",
-        "Acts.17.22-Acts.17.30",
-        "Rom.1.18-Rom.1.23",
+        "Acts.17.22-30",
+        "Rom.1.18-23",
         "Gen.50.20"
       ],
       "additional_verses": [
-        "Ps.33.10-Ps.33.11",
+        "Ps.33.10-11",
         "Ps.104.14",
-        "Ps.145.15-Ps.145.16",
+        "Ps.145.15-16",
         "Prov.16.33",
         "Matt.10.29",
         "Eph.1.11",
@@ -4026,14 +4026,14 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Mark 6:17",
-        "John 4:48",
-        "John 20:20-John 20:31",
-        "Acts 2:22",
-        "Acts 5:12",
-        "Acts 14:3",
-        "2 Corinthians 12:12",
-        "Hebrews 2:4"
+        "Mark.6.17",
+        "John.4.48",
+        "John.20.20-31",
+        "Acts.2.22",
+        "Acts.5.12",
+        "Acts.14.3",
+        "2Cor.12.12",
+        "Heb.2.4"
       ],
       "additional_verses": ["Hebrews 2:3", "John 5:20"],
       "other_subjects": [
@@ -4068,12 +4068,7 @@
       "main_category": null,
       "other_categories": null,
       "sub_categories": null,
-      "key_verses": [
-        "Prov.16.9",
-        "Prov.16.33",
-        "Rom.8.28",
-        "Col.1.15-Col.1.20"
-      ],
+      "key_verses": ["Prov.16.9", "Prov.16.33", "Rom.8.28", "Col.1.15-20"],
       "additional_verses": ["Gen.45.5", "Prov.21.1", "Gen.50.20"],
       "other_subjects": [
         "GmC7JjW8uZV",
@@ -4092,7 +4087,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "UlUPvD3pJ0e",
     "fields": {
       "title": "God’s Preservation of Creation",
       "title_ar": "حفظ الله للخليقة",
@@ -4184,9 +4179,9 @@
       "other_subjects": [
         "gkRRpyiuTzP",
         "kWv4Drjz6it",
-        "The Kingdom of God",
+        "xY4jKlN5vxs",
         "TqkP89RvPq1",
-        "Jesus’ Kingly Office"
+        "0cbQDzjJYiJ"
       ],
       "recommended_resources": [
         "“Sovereignty of God” (Macleod) in New Dictionary of Theology (Ferguson, Wright, and Packer, eds.)",
@@ -4231,7 +4226,7 @@
         "Pls9fJRO33G",
         "oCfADrjzJxJ",
         "vIwMzTdPLbk",
-        "Human Relationality"
+        "i1bQDr6JYSJ"
       ],
       "recommended_resources": [
         "Covenant: The History of a Biblical Idea (Hillers)",
@@ -4268,7 +4263,7 @@
         "Xh0AvDrJYS1",
         "6LLQvDrJYSJ",
         "VlmIDzrJYiJ",
-        "Sin and Death",
+        "8PzQDrzJYSJ",
         "w5TQDrjz6YS",
         "oCfADrjzJxJ"
       ],
@@ -4322,10 +4317,10 @@
         "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "6LLQvDrJYSJ",
-        "Personal Sin",
+        "3b4QDzjJYiJ",
         "Structural Human Sin",
         "Theological Law",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "7TzADzrJYSJ"
       ],
       "recommended_resources": [
@@ -4368,7 +4363,7 @@
         "The Mosaic Covenant",
         "wkRvDr4zJxJ",
         "0lTQvDrJYS1",
-        "God’s Preservation of Creation",
+        "UlUPvD3pJ0e",
         "c3HzyGpSDxH"
       ],
       "recommended_resources": [
@@ -4436,9 +4431,9 @@
         "Gen.3.15",
         "John.6.37",
         "Heb.7.22",
-        "Rom.5.12-Rom.5.21",
-        "1Cor.15.21-1Cor.15.22",
-        "1Cor.15.47-1Cor.15.49",
+        "Rom.5.12-21",
+        "1Cor.15.21-22",
+        "1Cor.15.47-49",
         "Gal.3.16",
         "Heb.10.10",
         "John.17.4",
@@ -4450,7 +4445,7 @@
         "GmC7JjW8uZV",
         "The Mosaic Covenant",
         "The Davidic Covenant",
-        "The New Covenant",
+        "y8gKDr6JYiJ",
         "gcRwI7HGgeH",
         "oCfADrjzJxJ",
         "oCfADrjzJxJ"
@@ -4459,7 +4454,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "lDUPDrjJYS1",
     "fields": {
       "title": "The Noahic Covenant",
       "title_ar": "عهد نوح",
@@ -4551,7 +4546,7 @@
         "YrXAvDr6YS1",
         "Calling",
         "l0mIDzrJYiJ",
-        "Saving Faith",
+        "GInQDzr6z6J",
         "oCfADrjzJxJ"
       ],
       "recommended_resources": [
@@ -4621,14 +4616,14 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "2Sam.7.8-2Sam.7.29",
+        "2Sam.7.8-29",
         "Gen.49.10",
         "Matt.1.17",
         "Ps.2",
-        "Acts.13.33-Acts.13.34",
-        "Heb.1.3-Heb.1.5",
+        "Acts.13.33-34",
+        "Heb.1.3-5",
         "Ps.110",
-        "Acts.2.33-Acts.2.36",
+        "Acts.2.33-36",
         "Heb.1.13",
         "Ps.89",
         "Ps.72",
@@ -4637,15 +4632,15 @@
         "Rev.11.15",
         "Ezek.37.24",
         "Zech.9.10",
-        "Ps.132.11-Ps.132.12",
-        "1Kgs.2.1-1Kgs.2.4"
+        "Ps.132.11-12",
+        "1Kgs.2.1-4"
       ],
       "additional_verses": null,
       "other_subjects": [
         "YrXAvDr6YS1",
         "XpYKDrjJYSx",
         "EzTADzjz6JY",
-        "Jesus’ Kingly Office"
+        "0cbQDzjJYiJ"
       ],
       "recommended_resources": [
         "Progressive Dispensationalism (Blaising and Bock)",
@@ -4656,7 +4651,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "y8gKDr6JYiJ",
     "fields": {
       "title": "The New Covenant",
       "title_ar": "العهد الجديد",
@@ -4709,7 +4704,7 @@
         "The Mosaic Covenant",
         "SMMQDz6JYS1",
         "O2XADzr6JYS",
-        "Union with Christ",
+        "QItQDz6JY7S",
         "EzTADzjz6JY"
       ],
       "related_topics_ar": [
@@ -4783,10 +4778,10 @@
         "VlmIDzrJYiJ",
         "The Mosaic Covenant",
         "Theological Law",
-        "The Church and Society",
+        "Ce6QDzjJY7S",
         "yPnQDzjz6JY",
         "Cy6QDzjJY7S",
-        "Actual Sin"
+        "htIQDzrJYiJ"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck),Vol. IV, 448–460",
@@ -4829,7 +4824,7 @@
         "The Mosaic Covenant",
         "yPnQDzjz6JY",
         "Cm6QDzr6z6J",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "CPCQDz6JY7S"
       ],
       "recommended_resources": [
@@ -4930,11 +4925,11 @@
         "2DuQDz6JY7S",
         "XpYKDrjJYSx",
         "EzTADzjz6JY",
-        "The Kingdom of God",
-        "The New Covenant",
+        "xY4jKlN5vxs",
+        "y8gKDr6JYiJ",
         "qnVLnRPTibN",
         "NpSl2E9kfh1",
-        "The Church and Society",
+        "Ce6QDzjJY7S",
         "o0KdKpgImq0"
       ],
       "recommended_resources": [
@@ -5005,7 +5000,7 @@
       "other_subjects": [
         "sWiCzvq0zY1",
         "bJXDzrjz6iJ",
-        "Jesus’ Incarnation",
+        "x4zQDrjJY7S",
         "oCfADrjzJxJ",
         "JZGjKlN5vxs",
         "NtcDTbO9eKm"
@@ -5084,9 +5079,9 @@
       "additional_verses": null,
       "other_subjects": [
         "brT7DzrJYS1",
-        "The Noahic Covenant",
+        "lDUPDrjJYS1",
         "sWiCzvq0zY1",
-        "The Effects of the Fall on Humanity",
+        "jMAQDrjJYiJ",
         "xS3bNdC5qLU",
         "H18PzbwhYO1",
         "yPnQDzjz6JY"
@@ -5102,7 +5097,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "tIXQDrzJYS1",
     "fields": {
       "title": "Human Personality",
       "title_ar": "الشخصية البشرية",
@@ -5125,7 +5120,7 @@
       "other_subjects": [
         "brT7DzrJYS1",
         "K1vOKRbDLHH",
-        "God’s Preservation of Creation",
+        "UlUPvD3pJ0e",
         "wfzQDrzJYS1"
       ],
       "recommended_resources": [
@@ -5138,7 +5133,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "i1bQDr6JYSJ",
     "fields": {
       "title": "Human Relationality",
       "title_ar": "العلاقة الإنسانية",
@@ -5154,7 +5149,7 @@
       "key_verses": ["Gen.1.26-Gen.1.27", "Gen.2.18", "Col.1.15", "1Cor.15.22"],
       "additional_verses": null,
       "other_subjects": [
-        "Fellowship in the Life of the Church",
+        "CPCQDzjJY7S",
         "sWiCzvq0zY1",
         "6xDrz6Yr7Di",
         "AbIADr6JYSJ",
@@ -5194,7 +5189,7 @@
         "Structural Human Sin",
         "sWiCzvq0zY1",
         "6xDrz6Yr7Di",
-        "The Kingdom of God",
+        "xY4jKlN5vxs",
         "LMQGcXgg9PB"
       ],
       "recommended_resources": [
@@ -5208,7 +5203,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "v4bADzjJYiJ",
     "fields": {
       "title": "Human Sexuality",
       "title_ar": "الجنسانية البشرية",
@@ -5272,8 +5267,8 @@
         "sWiCzvq0zY1",
         "brT7DzrJYS1",
         "oCfADrjzJxJ",
-        "Jesus’ Resurrection",
-        "The Final State of the Righteous",
+        "O5XADrjJYiJ",
+        "KZGjKlN5vxs",
         "i0b7DrjJY7r"
       ],
       "recommended_resources": [
@@ -5322,8 +5317,8 @@
         "wfzQDrzJYS1",
         "8ZGjKlNwvxs",
         "MZGjKlNwvxr",
-        "The Final State of the Righteous",
-        "Jesus’ Incarnation",
+        "KZGjKlN5vxs",
+        "x4zQDrjJY7S",
         "brT7DzrJYS1",
         "YBjQ1XxWq8A"
       ],
@@ -5358,7 +5353,7 @@
       "additional_verses": null,
       "other_subjects": [
         "The Human Constitution",
-        "Immortality of the Soul",
+        "mjzQDr6zJYS",
         "wfzQDrzJYS1",
         "sWiCzvq0zY1",
         "brT7DzrJYS1",
@@ -5375,7 +5370,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "mjzQDr6zJYS",
     "fields": {
       "title": "Immortality of the Soul",
       "title_ar": "خلود الروح",
@@ -5463,11 +5458,11 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Rom.1.18-Rom.1.21",
+        "Rom.1.18-21",
         "Acts.17.2",
         "Acts.17.17",
-        "1Cor.1.22-1Cor.1.25",
-        "Dan.4.34-Dan.4.36",
+        "1Cor.1.22-25",
+        "Dan.4.34-36",
         "Matt.22.37",
         "2Cor.10.5",
         "Rom.12.2",
@@ -5477,8 +5472,8 @@
       "other_subjects": [
         "wfzQDrzJYS1",
         "brT7DzrJYS1",
-        "Human Personality",
-        "Saving Faith"
+        "tIXQDrzJYS1",
+        "GInQDzr6z6J"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. I, 223–233",
@@ -5506,8 +5501,8 @@
         "Isa.53.4",
         "Matt.15.32",
         "Mark.3.5",
-        "John.11.33-John.11.38",
-        "Gal.5.22-Gal.5.24",
+        "John.11.33-38",
+        "Gal.5.22-24",
         "Phil.4.4",
         "Phil.4.6",
         "Jas.1.20"
@@ -5552,13 +5547,13 @@
       "additional_verses": ["Rom.7.15-Rom.7.25"],
       "other_subjects": [
         "brT7DzrJYS1",
-        "Human Personality",
+        "tIXQDrzJYS1",
         "D0AQDrjz6YS",
         "SMMQDz6JYS1",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "AbIADr6JYSJ",
         "EiYADzjJYiJ",
-        "The Effects of the Fall on Humanity",
+        "jMAQDrjJYiJ",
         "0lTQvDrJYS1"
       ],
       "recommended_resources": [
@@ -5638,11 +5633,11 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Effects of the Fall on Humanity",
+        "jMAQDrjJYiJ",
         "AbIADr6JYSJ",
         "EiYADzjJYiJ",
         "TITADzr6JYS",
-        "Human Sexuality"
+        "v4bADzjJYiJ"
       ],
       "recommended_resources": [
         "Darwin, Creation and the Fall: Theological Challenges (Berry and Noble, eds.)",
@@ -5677,7 +5672,7 @@
       "other_subjects": [
         "i0p7Dzr6nA0",
         "NTu8v1UeVwd",
-        "Jesus’ Suffering",
+        "G4TQDr6JY7r",
         "hlYJDzrJYSJ"
       ],
       "recommended_resources": [
@@ -5711,10 +5706,10 @@
       "additional_verses": null,
       "other_subjects": [
         "The Character of the Fall of Adam",
-        "The Effects of the Fall on Humanity",
+        "jMAQDrjJYiJ",
         "VYr7DrzJYS1",
         "wfzQDrzJYS1",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "Humanity’s Original Integrity"
       ],
       "recommended_resources": [
@@ -5751,7 +5746,7 @@
       "other_subjects": [
         "The Historical Adam",
         "AbIADr6JYSJ",
-        "Sin and Death",
+        "8PzQDrzJYSJ",
         "i1TQDzr6JYS",
         "hlYJDzrJYSJ"
       ],
@@ -5764,7 +5759,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "jMAQDrjJYiJ",
     "fields": {
       "title": "The Effects of the Fall on Humanity",
       "title_ar": "تأثير السقوط على الإنسانية",
@@ -5794,7 +5789,7 @@
         "wfzQDrzJYS1",
         "SMMQDz6JYS1",
         "yPnQDzjz6JY",
-        "Sin and Death",
+        "8PzQDrzJYSJ",
         "brT7DzrJYS1"
       ],
       "recommended_resources": [
@@ -5830,7 +5825,7 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Effects of the Fall on Humanity",
+        "jMAQDrjJYiJ",
         "iM3QDz6JYSr",
         "w5TQDrjz6YS",
         "5ZGjKlNwvxy",
@@ -5844,7 +5839,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "htIQDzrJYiJ",
     "fields": {
       "title": "Actual Sin",
       "title_ar": "الخطيئة الفعلية",
@@ -5892,12 +5887,12 @@
         "Xh0AvDrJYS1",
         "jzAQDr6JYSJ",
         "AbIADr6JYSJ",
-        "Penance",
-        "Repentance",
+        "yO6QDzr6JYi",
+        "FgjQDzr6JYi",
         "NZGjKlNwvxr",
-        "Union with Christ",
+        "QItQDz6JY7S",
         "6BzADrjz6YS",
-        "Jesus’ Obedience"
+        "6brQDzjzJY7"
       ],
       "recommended_resources": [
         "Systematic Theology (Jenson), Vol. II, 133–52",
@@ -5911,7 +5906,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "OoYADzr6zJY",
     "fields": {
       "title": "Structural Human Sin",
       "title_ar": "خطية الإنسان التركيبية",
@@ -5941,12 +5936,12 @@
       ],
       "other_subjects": [
         "5ZGjKlNwvxy",
-        "The Church and Society",
+        "Ce6QDzjJY7S",
         "Cy6QDzjJY7S",
-        "The Kingdom of God",
+        "xY4jKlN5vxs",
         "hlYJDzrJYSJ",
         "i0p7Dzr6nA0",
-        "Human Relationality"
+        "i1bQDr6JYSJ"
       ],
       "recommended_resources": [
         "Systematic Theology (Jenson), Vol. II",
@@ -5960,7 +5955,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "3b4QDzjJYiJ",
     "fields": {
       "title": "Personal Sin",
       "title_ar": "الخطيئة الشخصية",
@@ -5995,11 +5990,11 @@
       "other_subjects": [
         "oCfADrjzJxJ",
         "AbIADr6JYSJ",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "jzAQDr6JYSJ",
-        "Structural Human Sin",
+        "OoYADzr6zJY""OoYADzr6zJY""OoYADzr6zJY",
         "Xh0AvDrJYS1",
-        "Repentance"
+        "FgjQDzr6JYi"
       ],
       "recommended_resources": [
         "The Fall and Sin: What We Have Become as Sinners (Shuster)",
@@ -6038,7 +6033,7 @@
       "other_subjects": [
         "oCfADrjzJxJ",
         "AbIADr6JYSJ",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "jzAQDr6JYSJ",
         "Xh0AvDrJYS1",
         "i1TQDzr6JYS"
@@ -6085,9 +6080,9 @@
       "other_subjects": [
         "oCfADrjzJxJ",
         "AbIADr6JYSJ",
-        "Actual Sin",
-        "Sin and Death",
-        "The Extent of the Atonement",
+        "htIQDzrJYiJ",
+        "8PzQDrzJYSJ",
+        "4czQDzjz6Yr",
         "u7zQDz6z6Jr",
         "Xh0AvDrJYS1",
         "vxJOiVSS11b"
@@ -6102,7 +6097,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "8PzQDrzJYSJ",
     "fields": {
       "title": "Sin and Death",
       "title_ar": "الخطيئة والموت",
@@ -6137,14 +6132,14 @@
       "additional_verses": null,
       "other_subjects": [
         "AbIADr6JYSJ",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "bJXDzrjz6iJ",
-        "Jesus’ Resurrection",
-        "Jesus’ Descent into Hell",
+        "O5XADrjJYiJ",
+        "Y8bQDz6JY7S",
         "The Human Constitution",
         "YrXAvDr6YS1",
         "JZGjKlN5vxs",
-        "Life after Death"
+        "7ZGjKlN5vxx"
       ],
       "recommended_resources": [
         "The Shape of Death (Pelikan)",
@@ -6180,7 +6175,7 @@
         "zjDrz6JrT7D",
         "6zrADzrJY7r",
         "EzTADzjz6JY",
-        "Jesus’ Accomplishment of Salvation",
+        "mCQADz6zJYS",
         "2DuQDz6JY7S"
       ],
       "recommended_resources": [
@@ -6548,7 +6543,7 @@
         "BSg7O5pqblW",
         "oCfADrjzJxJ",
         "jz7DrzJYr7Y",
-        "The New Covenant"
+        "y8gKDr6JYiJ"
       ],
       "recommended_resources": [
         "The Mediator (Brunner)",
@@ -6584,12 +6579,12 @@
       "additional_verses": null,
       "other_subjects": [
         "hbTADzjz6Jr",
-        "Jesus’ Priestly Office",
-        "Jesus’ Kingly Office",
-        "Jesus As Judge",
-        "Jesus’ Incarnation",
-        "Jesus’ Kenosis",
-        "Jesus’ Obedience"
+        "VCTQDzr6JY7",
+        "0cbQDzjJYiJ",
+        "ubMQDz6JY7r",
+        "x4zQDrjJY7S",
+        "2SbADr6z6JY",
+        "6brQDzjzJY7"
       ],
       "recommended_resources": [
         "From First Adam to Last: A Study in Pauline Theology (Barrett)",
@@ -6630,8 +6625,8 @@
       "additional_verses": null,
       "other_subjects": [
         "EzTADzjz6JY",
-        "Jesus’ Priestly Office",
-        "Jesus’ Kingly Office",
+        "VCTQDzr6JY7",
+        "0cbQDzjJYiJ",
         "qnVLnRPTibN"
       ],
       "recommended_resources": [
@@ -6650,7 +6645,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "VCTQDzr6JY7",
     "fields": {
       "title": "Jesus’ Priestly Office",
       "title_ar": "منصب يسوع الكهنوتي",
@@ -6666,17 +6661,17 @@
       "key_verses": [
         "1Sam.2.35",
         "Ps.110.4",
-        "Zech.3.1-Zech.3.10",
-        "Zech.6.9-Zech.6.15",
+        "Zech.3.1-10",
+        "Zech.6.9-15",
         "John.17",
         "Heb.1.3",
-        "Heb.2.5-Heb.2.18",
-        "Heb.4.14-Heb.4.16",
-        "Heb.5.1-Heb.5.10",
-        "Heb.7.1-Heb.7.28"
+        "Heb.2.5-18",
+        "Heb.4.14-16",
+        "Heb.5.1-10",
+        "Heb.7.1-28"
       ],
       "additional_verses": null,
-      "other_subjects": ["EzTADzjz6JY", "hbTADzjz6Jr", "Jesus’ Kingly Office"],
+      "other_subjects": ["EzTADzjz6JY", "hbTADzjz6Jr", "0cbQDzjJYiJ"],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. III, 364–368 (\"Christ’s Threefold Office\")",
         "Calvin’s Doctrine of the Work of Christ (Jansen), 20–38",
@@ -6693,7 +6688,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "0cbQDzjJYiJ",
     "fields": {
       "title": "Jesus’ Kingly Office",
       "title_ar": "منصب يسوع الملكي",
@@ -6707,19 +6702,19 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Gen.49.8-Gen.49.11",
-        "Deut.17.15-Deut.17.20",
-        "2Sam.7.9-2Sam.7.14",
+        "Gen.49.8-11",
+        "Deut.17.15-20",
+        "2Sam.7.9-14",
         "Ps.2.6",
         "Ps.45.6",
-        "Ps.110.1-Ps.110.2",
-        "Isa.9.6-Isa.9.7",
-        "Isa.11.1-Isa.11.10",
+        "Ps.110.1-2",
+        "Isa.9.6-7",
+        "Isa.11.1-10",
         "Dan.2.44",
-        "Matt.1.1-Matt.1.17",
-        "Matt.27.28-Matt.27.29",
-        "Luke.1.32-Luke.1.33",
-        "John.18.36-John.18.37",
+        "Matt.1.1-17",
+        "Matt.27.28-29",
+        "Luke.1.32-33",
+        "John.18.36-37",
         "Heb.1.8",
         "Rev.19.16"
       ],
@@ -6727,7 +6722,7 @@
       "other_subjects": [
         "EzTADzjz6JY",
         "hbTADzjz6Jr",
-        "Jesus’ Priestly Office",
+        "VCTQDzr6JY7",
         "lEfAvDrJYSJ"
       ],
       "recommended_resources": [
@@ -6744,7 +6739,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "ubMQDz6JY7r",
     "fields": {
       "title": "Jesus As Judge",
       "title_ar": "يسوع كقاضٍ",
@@ -6772,15 +6767,15 @@
         "BSg7O5pqblW",
         "vxJOiVSS11b",
         "i1TQDzr6JYS",
-        "Jesus’ Second Coming",
+        "EZGjKlNwvxr",
         "JZGjKlN5vxs",
-        "The Final State of the Righteous",
+        "KZGjKlN5vxs",
         "NZGjKlNwvxr"
       ]
     }
   },
   {
-    "_id": null,
+    "_id": "mCQADz6zJYS",
     "fields": {
       "title": "Jesus’ Accomplishment of Salvation",
       "title_ar": "إنجاز يسوع للخلاص",
@@ -6811,8 +6806,8 @@
         "JZGjKlN5vxs",
         "EzTADzjz6JY",
         "u7zQDz6z6Jr",
-        "The Extent of the Atonement",
-        "Jesus’ Resurrection"
+        "4czQDzjz6Yr",
+        "O5XADrjJYiJ"
       ],
       "recommended_resources": [
         "The Nature of the Atonement: Four Views (Beilby and Eddy, eds.)",
@@ -6823,7 +6818,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "eS7QDzjJY7r",
     "fields": {
       "title": "Jesus’ Humiliation",
       "title_ar": "إهانة يسوع",
@@ -6837,21 +6832,21 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Phil.2.5-Phil.2.11",
-        "Isa.52.13-Isa.53.12",
-        "Luke.23.32-Luke.23.46",
-        "John.10.14-John.10.18"
+        "Phil.2.5-11",
+        "Isa.52.13-12",
+        "Luke.23.32-46",
+        "John.10.14-18"
       ],
       "additional_verses": ["Phil.2.8"],
       "other_subjects": [
         "u2XADzjz6Jr",
         "Ocr7Drz6JYS",
         "i0b7DrjJY7r",
-        "Jesus’ Incarnation",
-        "Jesus’ Obedience",
-        "Jesus’ Suffering",
+        "x4zQDrjJY7S",
+        "6brQDzjzJY7",
+        "G4TQDr6JY7r",
         "Jesus’ Death",
-        "Jesus’ Kenosis",
+        "2SbADr6z6JY",
         "u7zQDz6z6Jr"
       ],
       "recommended_resources": [
@@ -6864,7 +6859,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "x4zQDrjJY7S",
     "fields": {
       "title": "Jesus’ Incarnation",
       "title_ar": "تجسد يسوع",
@@ -6888,8 +6883,8 @@
       "additional_verses": null,
       "other_subjects": [
         "i0b7DrjJY7r",
-        "Jesus’ Suffering",
-        "Jesus’ Resurrection",
+        "G4TQDr6JY7r",
+        "O5XADrjJYiJ",
         "Jesus’ Session at God’s Right Hand",
         "6zrADzrJY7r",
         "hDzPeuzgd6Y",
@@ -6929,14 +6924,14 @@
         "EzTADzjz6JY",
         "TITADzr6JYS",
         "hbTADzjz6Jr",
-        "Jesus’ Priestly Office",
-        "Jesus’ Kingly Office",
-        "Jesus As Judge",
+        "VCTQDzr6JY7",
+        "0cbQDzjJYiJ",
+        "ubMQDz6JY7r",
         "6zrADzrJY7r",
         "zjDrz6JrT7D",
-        "Jesus’ Humiliation",
-        "Jesus’ Obedience",
-        "Jesus’ Suffering",
+        "eS7QDzjJY7r",
+        "6brQDzjzJY7",
+        "G4TQDr6JY7r",
         "oCfADrjzJxJ"
       ],
       "recommended_resources": [
@@ -6949,7 +6944,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "2SbADr6z6JY",
     "fields": {
       "title": "Jesus’ Kenosis",
       "title_ar": "تجريد يسوع",
@@ -6973,8 +6968,8 @@
       "additional_verses": ["Phil.2.5-Phil.2.11"],
       "other_subjects": [
         "hDzPeuzgd6Y",
-        "Jesus’ Humiliation",
-        "Jesus’ Suffering",
+        "eS7QDzjJY7r",
+        "G4TQDr6JY7r",
         "Ocr7Drz6JYS"
       ],
       "recommended_resources": [
@@ -7007,8 +7002,8 @@
       "other_subjects": [
         "jz7DrzJYr7Y",
         "EzTADzjz6JY",
-        "Jesus’ Accomplishment of Salvation",
-        "Jesus’ Humiliation",
+        "mCQADz6zJYS",
+        "eS7QDzjJY7r",
         "GtXQDrz6z6J",
         "kb7QDzjJY7S",
         "wkRvDr4zJxJ"
@@ -7037,15 +7032,15 @@
       "key_verses": [
         "Gen.3.15",
         "Isa.7.14",
-        "Matt.1.18-Matt.1.25",
-        "Luke.1.26-Luke.1.56",
-        "Luke.2.34-Luke.2.35",
-        "John.2.3-John.2.5",
-        "John.19.26-John.19.27",
+        "Matt.1.18-25",
+        "Luke.1.26-56",
+        "Luke.2.34-35",
+        "John.2.3-5",
+        "John.19.26-27",
         "Acts.1.14"
       ],
       "additional_verses": ["Gal.4.4", "John.1.14"],
-      "other_subjects": ["Jesus’ Incarnation", "6xDrz6Yr7Di"],
+      "other_subjects": ["x4zQDrjJY7S", "6xDrz6Yr7Di"],
       "recommended_resources": [
         "Manual of Catholic Theology (Scheeben), Vol. II, 208–226",
         "Mariology (Scheeben)",
@@ -7056,7 +7051,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "6brQDzjzJY7",
     "fields": {
       "title": "Jesus’ Obedience",
       "title_ar": "طاعة يسوع",
@@ -7079,9 +7074,9 @@
       "additional_verses": null,
       "other_subjects": [
         "i0b7DrjJY7r",
-        "Jesus’ Incarnation",
-        "Jesus’ Suffering",
-        "Jesus’ Resurrection",
+        "x4zQDrjJY7S",
+        "G4TQDr6JY7r",
+        "O5XADrjJYiJ",
         "Jesus’ Session at God’s Right Hand",
         "6zrADzrJY7r",
         "Xh0AvDrJYS1",
@@ -7118,13 +7113,13 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Jesus’ Obedience",
-        "Jesus’ Suffering",
-        "Jesus’ Descent into Hell",
+        "6brQDzjzJY7",
+        "G4TQDr6JY7r",
+        "Y8bQDz6JY7S",
         "u7zQDz6z6Jr",
         "EzTADzjz6JY",
-        "The Lord’s Supper",
-        "Baptism"
+        "rO6QDzjJYi1",
+        "sO6QDzr6z6J"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. III, Ch. 7",
@@ -7138,7 +7133,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "G4TQDr6JY7r",
     "fields": {
       "title": "Jesus’ Suffering",
       "title_ar": "معاناة يسوع",
@@ -7152,7 +7147,7 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Isa.53.4-Isa.53.5",
+        "Isa.53.4-5",
         "Matt.20.28",
         "Rom.3.25",
         "Rom.4.25",
@@ -7164,12 +7159,12 @@
       "additional_verses": null,
       "other_subjects": [
         "i0b7DrjJY7r",
-        "Jesus’ Incarnation",
-        "Jesus’ Obedience",
-        "Jesus’ Resurrection",
+        "x4zQDrjJY7S",
+        "6brQDzjzJY7",
+        "O5XADrjJYiJ",
         "Jesus’ Session at God’s Right Hand",
         "oCfADrjzJxJ",
-        "Jesus’ Priestly Office"
+        "VCTQDzr6JY7"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. III, 323–417",
@@ -7206,13 +7201,13 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Extent of the Atonement",
+        "4czQDzjz6Yr",
         "BSg7O5pqblW",
         "xS3bNdC5qLU",
         "wIRi6v3uv7U",
         "oCfADrjzJxJ",
-        "Jesus’ Humiliation",
-        "Jesus’ Resurrection"
+        "eS7QDzjJY7r",
+        "O5XADrjJYiJ"
       ],
       "recommended_resources": [
         "Pierced for Our Transgressions (Jeffery)",
@@ -7229,7 +7224,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "4czQDzjz6Yr",
     "fields": {
       "title": "The Extent of the Atonement",
       "title_ar": "مدى التكفير",
@@ -7252,12 +7247,12 @@
       "additional_verses": null,
       "other_subjects": [
         "u7zQDz6z6Jr",
-        "Hell",
-        "Purgatory",
+        "9ZGjKlNwvxs",
+        "CZGjKlNwvxs",
         "JZGjKlN5vxs",
         "l0mIDzrJYiJ",
         "o0KdKpgImq0",
-        "Union with Christ",
+        "QItQDz6JY7S",
         "AbIADr6JYSJ",
         "Pls9fJRO33G",
         "vIQ51S07Y4K"
@@ -7278,7 +7273,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "Y8bQDz6JY7S",
     "fields": {
       "title": "Jesus’ Descent into Hell",
       "title_ar": "هبوط يسوع إلى الجحيم",
@@ -7302,10 +7297,10 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Jesus’ Humiliation",
-        "Jesus’ Resurrection",
+        "eS7QDzjJY7r",
+        "O5XADrjJYiJ",
         "Jesus’ Death",
-        "Hell",
+        "9ZGjKlNwvxs",
         "hlYJDzrJYSJ"
       ],
       "recommended_resources": [
@@ -7344,11 +7339,11 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Jesus’ Accomplishment of Salvation",
-        "Jesus’ Humiliation",
-        "The Doctrine of the Last Things",
-        "The Kingdom of God",
-        "Jesus’ Second Coming",
+        "mCQADz6zJYS",
+        "eS7QDzjJY7r",
+        "tYZjKlN5vxs",
+        "xY4jKlN5vxs",
+        "EZGjKlNwvxr",
         "JZGjKlN5vxs",
         "soFjB2mgGWl"
       ],
@@ -7361,7 +7356,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "O5XADrjJYiJ",
     "fields": {
       "title": "Jesus’ Resurrection",
       "title_ar": "قيامة يسوع",
@@ -7375,24 +7370,24 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.12.38-Matt.12.40",
-        "Luke.24.25-Luke.24.27",
-        "Acts.2.22-Acts.2.23",
+        "Matt.12.38-40",
+        "Luke.24.25-27",
+        "Acts.2.22-23",
         "Rom.6.4",
-        "Rom.10.9-Rom.10.10",
+        "Rom.10.9-10",
         "Rom.14.9",
-        "1Cor.15.3-1Cor.15.32",
-        "Heb.7.23-Heb.7.25",
+        "1Cor.15.3-32",
+        "Heb.7.23-25",
         "1Pet.1.3"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Sin and Death",
-        "Jesus’ Humiliation",
-        "Jesus’ Suffering",
+        "8PzQDrzJYSJ",
+        "eS7QDzjJY7r",
+        "G4TQDr6JY7r",
         "MZGjKlNwvxr",
-        "Jesus’ Kingly Office",
-        "The Final State of the Righteous"
+        "0cbQDzjJYiJ",
+        "KZGjKlN5vxs"
       ],
       "recommended_resources": [
         "The Virginal Conception and Bodily Resurrection of Jesus (Brown)",
@@ -7445,7 +7440,7 @@
         "Heb.9.24"
       ],
       "other_subjects": [
-        "Jesus’ Resurrection",
+        "O5XADrjJYiJ",
         "Jesus’ Session at God’s Right Hand",
         "TITADzr6JYS",
         "EzTADzjz6JY",
@@ -7453,9 +7448,9 @@
         "i0b7DrjJY7r",
         "Ocr7Drz6JYS",
         "lEfAvDrJYSJ",
-        "The Kingdom of God",
+        "xY4jKlN5vxs",
         "6xDrz6Yr7Di",
-        "Jesus’ Kingly Office",
+        "0cbQDzjJYiJ",
         "mqJWDr4GYSJ"
       ],
       "recommended_resources": [
@@ -7492,10 +7487,10 @@
       "additional_verses": null,
       "other_subjects": [
         "i0b7DrjJY7r",
-        "Jesus’ Incarnation",
-        "Jesus’ Resurrection",
-        "Jesus As Judge",
-        "The Kingdom of God"
+        "x4zQDrjJY7S",
+        "O5XADrjJYiJ",
+        "ubMQDz6JY7r",
+        "xY4jKlN5vxs"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. III",
@@ -7506,7 +7501,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "ySTQDzjJY7r",
     "fields": {
       "title": "Jesus’ Intercession",
       "title_ar": "شفاعة يسوع",
@@ -7520,10 +7515,10 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Luke.22.30-Luke.22.32",
+        "Luke.22.30-32",
         "John.17",
         "Rom.8.34",
-        "Heb.7-Heb.10"
+        "Heb.7-10"
       ],
       "additional_verses": null,
       "other_subjects": [
@@ -7531,7 +7526,7 @@
         "u2XADzjz6Jr",
         "jz7DrzJYr7Y",
         "EzTADzjz6JY",
-        "Jesus’ Priestly Office"
+        "VCTQDzr6JY7"
       ],
       "recommended_resources": [
         "“Melchizedek and Modernity” (Farrow) in The Epistle to the Hebrews and Christian Theology (Bauckham, et al., eds.)",
@@ -7568,7 +7563,7 @@
         "Conversion",
         "P2LADzr6z6J",
         "MZGjKlNwvxr",
-        "Union with Christ",
+        "QItQDz6JY7S",
         "i1TQDzr6JYS",
         "Adoption",
         "yPnQDzjz6JY",
@@ -7612,11 +7607,11 @@
       "other_subjects": [
         "kb7QDzjJY7S",
         "G2OufWJeVvL",
-        "The Noahic Covenant",
-        "God’s Preservation of Creation",
+        "lDUPDrjJYS1",
+        "UlUPvD3pJ0e",
         "sWiCzvq0zY1",
         "gyMSz6J98Kb",
-        "The Effects of the Fall on Humanity",
+        "jMAQDrjJYiJ",
         "The Effects of the Fall on Creation",
         "NTu8v1UeVwd",
         "kWv4Drjz6it"
@@ -7743,7 +7738,7 @@
         "oCfADrjzJxJ",
         "G2OufWJeVvL",
         "2DuQDz6JY7S",
-        "Jesus’ Accomplishment of Salvation"
+        "mCQADz6zJYS"
       ],
       "recommended_resources": [
         "Faith and Sanctification (Berkouwer)",
@@ -7916,7 +7911,12 @@
         "2Cor.5.17"
       ],
       "additional_verses": null,
-      "other_subjects": ["Baptism", "Conversion", "O2XADzr6JYS", "vLTQDzr6JYS"],
+      "other_subjects": [
+        "sO6QDzr6z6J",
+        "Conversion",
+        "O2XADzr6JYS",
+        "vLTQDzr6JYS"
+      ],
       "recommended_resources": [
         "Born Again: A Biblical and Theological Study of Regeneration (Toon)",
         "New Creation in Paul’s Letters and Thought (Hubbard)",
@@ -7957,14 +7957,14 @@
       "additional_verses": null,
       "other_subjects": [
         "Adoption",
-        "Jesus’ Accomplishment of Salvation",
+        "mCQADz6zJYS",
         "Calling",
-        "Saving Faith",
+        "GInQDzr6z6J",
         "i1TQDzr6JYS",
         "SMMQDz6JYS1",
-        "Repentance",
+        "FgjQDzr6JYi",
         "O2XADzr6JYS",
-        "Union with Christ",
+        "QItQDz6JY7S",
         "Effectual Calling"
       ],
       "recommended_resources": [
@@ -7983,7 +7983,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "GInQDzr6z6J",
     "fields": {
       "title": "Saving Faith",
       "title_ar": "الإيمان المخلص",
@@ -8013,7 +8013,7 @@
         "Conversion",
         "Sanctification and Good Works",
         "i1TQDzr6JYS",
-        "Repentance",
+        "FgjQDzr6JYi",
         "yPnQDzjz6JY"
       ],
       "recommended_resources": [
@@ -8028,7 +8028,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "FgjQDzr6JYi",
     "fields": {
       "title": "Repentance",
       "title_ar": "التوبة",
@@ -8060,15 +8060,15 @@
       "other_subjects": [
         "Conversion",
         "oCfADrjzJxJ",
-        "Saving Faith",
+        "GInQDzr6z6J",
         "i1TQDzr6JYS",
         "yPnQDzjz6JY",
         "bn6QDr6JYSr",
-        "Church Discipline",
-        "Penance",
-        "Actual Sin",
+        "mO6QDzjz6JY",
+        "yO6QDzr6JYi",
+        "htIQDzrJYiJ",
         "AbIADr6JYSJ",
-        "Baptism"
+        "sO6QDzr6z6J"
       ],
       "recommended_resources": [
         "Institutes of the Christian Religion (Calvin), III.iii.",
@@ -8083,7 +8083,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "QItQDz6JY7S",
     "fields": {
       "title": "Union with Christ",
       "title_ar": "الاتحاد مع المسيح",
@@ -8142,10 +8142,10 @@
       "additional_verses": null,
       "other_subjects": [
         "Jesus’ Death",
-        "Saving Faith",
+        "GInQDzr6z6J",
         "Xh0AvDrJYS1",
         "BSg7O5pqblW",
-        "Union with Christ",
+        "QItQDz6JY7S",
         "yPnQDzjz6JY"
       ],
       "recommended_resources": [
@@ -8180,10 +8180,10 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Saving Faith",
-        "Jesus’ Obedience",
+        "GInQDzr6z6J",
+        "6brQDzjzJY7",
         "yPnQDzjz6JY",
-        "Jesus’ Suffering"
+        "G4TQDr6JY7r"
       ],
       "recommended_resources": [
         "The Theology of Paul the Apostle (Dunn)",
@@ -8266,8 +8266,8 @@
       ],
       "other_subjects": [
         "O2XADzr6JYS",
-        "Union with Christ",
-        "Jesus’ Accomplishment of Salvation",
+        "QItQDz6JY7S",
+        "mCQADz6zJYS",
         "sRr56tl2ZJl"
       ],
       "recommended_resources": [
@@ -8325,7 +8325,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "JBMQDzr6z6J",
     "fields": {
       "title": "The Means of Sanctification",
       "title_ar": "وسائل التقديس",
@@ -8402,10 +8402,10 @@
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Saving Faith",
+        "GInQDzr6z6J",
         "yPnQDzjz6JY",
-        "Penance",
-        "Actual Sin",
+        "yO6QDzr6JYi",
+        "htIQDzrJYiJ",
         "i1TQDzr6JYS",
         "tqYADzrJYSJ"
       ],
@@ -8532,7 +8532,7 @@
       "other_subjects": [
         "lu-QDzr6JYS",
         "P2LADzr6z6J",
-        "Union with Christ",
+        "QItQDz6JY7S",
         "SMMQDz6JYS1"
       ],
       "recommended_resources": [
@@ -8561,7 +8561,7 @@
       "sub_categories": null,
       "key_verses": ["Matt.28.18-Matt.28.20", "John.20.21", "Titus.2.14"],
       "additional_verses": null,
-      "other_subjects": ["AnuQDz6JYSr", "kCuQDz6JY7S", "The Church’s Mission"],
+      "other_subjects": ["AnuQDz6JYSr", "kCuQDz6JY7S", "CUCQDz6JY7S"],
       "recommended_resources": [
         "Images of the Church in the New Testament (Minear)",
         "Church: A Guide for the Perplexed (Jenson and Wilhite)",
@@ -8634,7 +8634,7 @@
         "G2OufWJeVvL",
         "2DuQDz6JY7S",
         "kCuQDz6JY7S",
-        "Church Discipline",
+        "mO6QDzjz6JY",
         "p-6QDz6JY7S"
       ],
       "recommended_resources": [
@@ -8676,8 +8676,8 @@
       "other_subjects": [
         "xS3bNdC5qLU",
         "yPnQDzjz6JY",
-        "Church Discipline",
-        "The Church’s Mission",
+        "mO6QDzjz6JY",
+        "CUCQDz6JY7S",
         "p-6QDz6JY7S"
       ],
       "recommended_resources": [
@@ -8691,7 +8691,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "ci2QDzr6JYS",
     "fields": {
       "title": "The Church As Universal",
       "title_ar": "الكنيسة العالمية",
@@ -8706,8 +8706,8 @@
       "sub_categories": null,
       "key_verses": [
         "Matt.18.20",
-        "1Cor.12.12-1Cor.12.31",
-        "Eph.2.19-Eph.2.22",
+        "1Cor.12.12-31",
+        "Eph.2.19-22",
         "Col.2.19",
         "1Tim.3.15"
       ],
@@ -8715,7 +8715,7 @@
       "other_subjects": [
         "2DuQDz6JY7S",
         "bn6QDr6JYSr",
-        "The Church As Apostolic"
+        "c8uQDzr6z6J"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. IV, 279–284",
@@ -8726,7 +8726,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "c8uQDzr6z6J",
     "fields": {
       "title": "The Church As Apostolic",
       "title_ar": "الكنيسة بصفتها الرسولية",
@@ -8740,15 +8740,15 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.10.1-Matt.10.42",
-        "Mark.3.13-Mark.3.19",
+        "Matt.10.1-42",
+        "Mark.3.13-19",
         "Luke.6.13",
-        "Matt.16.13-Matt.16.19",
-        "Matt.28.19-Matt.28.20",
-        "John.16.12-John.16.15",
-        "Acts.2.42-Acts.2.43",
-        "Eph.2.19-Eph.2.22",
-        "Gal.1.6-Gal.1.9"
+        "Matt.16.13-19",
+        "Matt.28.19-20",
+        "John.16.12-15",
+        "Acts.2.42-43",
+        "Eph.2.19-22",
+        "Gal.1.6-9"
       ],
       "additional_verses": null,
       "other_subjects": ["AnuQDz6JYSr", "rALwkVxM32p", "GqUTTqbZIAJ"],
@@ -8762,7 +8762,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "dq-QDrz6z6J",
     "fields": {
       "title": "Biblical Metaphors for the Church",
       "title_ar": "الاستعارات الكتابية للكنيسة",
@@ -8777,25 +8777,25 @@
       "sub_categories": null,
       "key_verses": [
         "Acts.15.14",
-        "1Pet.2.9-1Pet.2.10",
-        "Rom.12.4-Rom.12.5",
-        "1Cor.12.12-1Cor.12.13",
-        "1Cor.12.25-1Cor.12.27",
-        "Eph.1.22-Eph.1.23",
+        "1Pet.2.9-10",
+        "Rom.12.4-5",
+        "1Cor.12.12-13",
+        "1Cor.12.25-27",
+        "Eph.1.22-23",
         "Matt.16.18",
-        "1Cor.3.9-1Cor.3.17",
+        "1Cor.3.9-17",
         "1Cor.6.19",
-        "Eph.2.19-Eph.2.22",
-        "1Pet.2.4-1Pet.2.8",
+        "Eph.2.19-22",
+        "1Pet.2.4-8",
         "Rev.1.6",
         "1Pet.2.25",
         "1Pet.5.4",
         "2Cor.11.2",
-        "Eph.5.22-Eph.5.32",
-        "Jas.4.4-Jas.4.5",
+        "Eph.5.22-32",
+        "Jas.4.4-5",
         "Rev.19.7",
-        "Rev.21.9-Rev.21.10",
-        "Rev.21.9-Rev.21.17"
+        "Rev.21.9-10",
+        "Rev.21.9-17"
       ],
       "additional_verses": null,
       "other_subjects": ["AnuQDz6JYSr", "2DuQDz6JY7S"],
@@ -8821,19 +8821,19 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Acts.2.42-Acts.2.47",
-        "Acts.6.1-Acts.6.6",
-        "Acts.15.1-Acts.15.33",
-        "1Cor.1.10-1Cor.1.17",
-        "1Cor.11.1-1Cor.11.34",
-        "1Cor.14.26-1Cor.14.40",
-        "Eph.5.1-Eph.5.20",
-        "1Tim.2.8-1Tim.3.13",
-        "Titus.1.5-Titus.1.9",
-        "2John.1.1-2John.1.13",
-        "3John.1.1-3John.1.12",
-        "Rev.2.1-Rev.3.22",
-        "James.2.1-James.2.7"
+        "Acts.2.42-47",
+        "Acts.6.1-6",
+        "Acts.15.1-33",
+        "1Cor.1.10-17",
+        "1Cor.11.1-34",
+        "1Cor.14.26-40",
+        "Eph.5.1-20",
+        "1Tim.2.8-13",
+        "Titus.1.5-9",
+        "2John.1.1-13",
+        "3John.1.1-12",
+        "Rev.2.1-22",
+        "James.2.1-7"
       ],
       "additional_verses": null,
       "other_subjects": [
@@ -8853,7 +8853,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "lC6QDzjJY7S",
     "fields": {
       "title": "Church Polity",
       "title_ar": "نظام الحكم في الكنيسة",
@@ -8867,15 +8867,15 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Acts.6.1-Acts.6.6",
-        "Acts.15.1-Acts.15.35",
+        "Acts.6.1-6",
+        "Acts.15.1-35",
         "Phil.1.1",
-        "1Tim.3.1-1Tim.3.13",
-        "Titus.1.5-Titus.1.9",
-        "1Pet.5.1-1Pet.5.5"
+        "1Tim.3.1-13",
+        "Titus.1.5-9",
+        "1Pet.5.1-5"
       ],
       "additional_verses": null,
-      "other_subjects": ["gkRRpyiuTzP", "6xDrz6Yr7Di", "The Kingdom of God"],
+      "other_subjects": ["gkRRpyiuTzP", "6xDrz6Yr7Di", "xY4jKlN5vxs"],
       "recommended_resources": [
         "Sojourners and Strangers (Allison)",
         "Perspectives on Church Government (Brand and Norman)",
@@ -8900,20 +8900,20 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Joel.2.28-Joel.2.29",
+        "Joel.2.28-29",
         "Acts.2",
         "1Cor.7.7",
-        "1Cor.12.8-1Cor.12.11",
+        "1Cor.12.8-11",
         "1Cor.12.28",
-        "Eph.4.8-Eph.4.16",
-        "Rom.12.6-Rom.12.8",
-        "1Pet.4.10-1Pet.4.11"
+        "Eph.4.8-16",
+        "Rom.12.6-8",
+        "1Pet.4.10-11"
       ],
       "additional_verses": null,
       "other_subjects": [
         "O2XADzr6JYS",
         "yPnQDzjz6JY",
-        "Church Polity",
+        "lC6QDzjJY7S",
         "G2OufWJeVvL"
       ],
       "recommended_resources": [
@@ -8926,7 +8926,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "mO6QDzjz6JY",
     "fields": {
       "title": "Church Discipline",
       "title_ar": "تأديب الكنيسة",
@@ -8940,20 +8940,20 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.18.15-Matt.18.20",
-        "Rom.16.17-Rom.16.18",
-        "1Cor.5.1-1Cor.5.13",
-        "Gal.6.1-Gal.6.2",
-        "2Thess.3.6-2Thess.3.15"
+        "Matt.18.15-20",
+        "Rom.16.17-18",
+        "1Cor.5.1-13",
+        "Gal.6.1-2",
+        "2Thess.3.6-15"
       ],
       "additional_verses": null,
       "other_subjects": [
         "gkRRpyiuTzP",
         "6xDrz6Yr7Di",
         "oCfADrjzJxJ",
-        "Structural Human Sin",
-        "Personal Sin",
-        "Actual Sin"
+        "OoYADzr6zJY",
+        "3b4QDzjJYiJ",
+        "htIQDzrJYiJ"
       ],
       "recommended_resources": [
         "Sojourners and Strangers (Allison)",
@@ -8979,20 +8979,16 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Gen.17.10-Gen.17.14",
-        "Matt.26.26-Matt.26.28",
+        "Gen.17.10-14",
+        "Matt.26.26-28",
         "Acts.2.38",
-        "Rom.6.3-Rom.6.7",
-        "1Cor.11.23-1Cor.11.26",
-        "Col.2.11-Col.2.12",
+        "Rom.6.3-7",
+        "1Cor.11.23-26",
+        "Col.2.11-12",
         "1Pet.3.21"
       ],
       "additional_verses": null,
-      "other_subjects": [
-        "2DuQDz6JY7S",
-        "The Number of Sacraments",
-        "The Nature of Sacraments"
-      ],
+      "other_subjects": ["2DuQDz6JY7S", "tO6QDzjJY7S", "AO6QDzr6JYS"],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. IV, 461–495",
         "Systematic Theology (Berkhof), 616–622",
@@ -9003,7 +8999,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "rO6QDzjJYi1",
     "fields": {
       "title": "The Lord’s Supper",
       "title_ar": "العشاء الرباني",
@@ -9017,26 +9013,26 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Mark.14.12-Mark.14.26",
-        "Matt.26.17-Matt.26.30",
-        "Luke.17.7-Luke.17.23",
-        "John.6.22-John.6.59",
-        "1Cor.10-1Cor.11"
+        "Mark.14.12-26",
+        "Matt.26.17-30",
+        "Luke.17.7-23",
+        "John.6.22-59",
+        "1Cor.10-11"
       ],
       "additional_verses": null,
       "other_subjects": [
         "EzTADzjz6JY",
-        "Jesus’ Priestly Office",
-        "Jesus’ Kingly Office",
+        "VCTQDzr6JY7",
+        "0cbQDzjJYiJ",
         "u2XADzjz6Jr",
         "Jesus’ Ascension",
-        "Jesus’ Intercession",
+        "ySTQDzjJY7r",
         "AnuQDz6JYSr",
-        "The Church As Universal",
-        "The Church’s Mission",
+        "ci2QDzr6JYS",
+        "CUCQDz6JY7S",
         "kCuQDz6JY7S",
         "p-6QDz6JY7S",
-        "Fellowship in the Life of the Church"
+        "CPCQDzjJY7S"
       ],
       "recommended_resources": [
         "The Beauty of the Eucharist: Voices from the Church Fathers (Billy)",
@@ -9048,7 +9044,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "sO6QDzr6z6J",
     "fields": {
       "title": "Baptism",
       "title_ar": "المعمودية",
@@ -9062,20 +9058,20 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.28.18-Matt.28.20",
-        "John.3.1-John.3.21",
-        "Rom.6.1-Rom.6.14",
-        "Col.2.6-Col.2.15",
-        "Titus.3.3-Titus.3.7",
-        "1Pet.3.18-1Pet.3.22"
+        "Matt.28.18-20",
+        "John.3.1-21",
+        "Rom.6.1-14",
+        "Col.2.6-15",
+        "Titus.3.3-7",
+        "1Pet.3.18-22"
       ],
       "additional_verses": [
-        "Ezek.36.25-Ezek.36.26",
-        "Mark.10.38-Mark.10.39",
-        "Acts.8.12-Acts.8.13",
-        "Acts.8.36-Acts.8.38",
+        "Ezek.36.25-26",
+        "Mark.10.38-39",
+        "Acts.8.12-13",
+        "Acts.8.36-38",
         "Acts.9.18",
-        "Acts.10.47-Acts.10.48",
+        "Acts.10.47-48",
         "Acts.16.15",
         "Acts.16.33",
         "Acts.18.8",
@@ -9090,9 +9086,9 @@
       "other_subjects": [
         "Conversion",
         "O2XADzr6JYS",
-        "Saving Faith",
-        "Repentance",
-        "Union with Christ",
+        "GInQDzr6z6J",
+        "FgjQDzr6JYi",
+        "QItQDz6JY7S",
         "P2LADzr6z6J",
         "Cm6QDzr6z6J",
         "oCfADrjzJxJ",
@@ -9107,7 +9103,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "tO6QDzjJY7S",
     "fields": {
       "title": "The Number of Sacraments",
       "title_ar": "عدد الطقوس الدينية",
@@ -9121,19 +9117,19 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.26.26-Matt.26.28",
+        "Matt.26.26-28",
         "Matt.28.19",
-        "Rom.6.3-Rom.6.7",
-        "1Cor.11.23-1Cor.11.26",
-        "Col.2.11-Col.2.12",
+        "Rom.6.3-7",
+        "1Cor.11.23-26",
+        "Col.2.11-12",
         "1Pet.3.21"
       ],
       "additional_verses": null,
       "other_subjects": [
         "2DuQDz6JY7S",
         "p-6QDz6JY7S",
-        "The Nature of Sacraments",
-        "The Question of Additional Sacraments"
+        "AO6QDzr6JYS",
+        "uO6QDzjJY7S"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. IV, 490–495",
@@ -9145,7 +9141,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "uO6QDzjJY7S",
     "fields": {
       "title": "The Question of Additional Sacraments",
       "title_ar": "مسألة الطقوس الدينية الإضافية",
@@ -9158,13 +9154,13 @@
       "main_category": null,
       "other_categories": null,
       "sub_categories": null,
-      "key_verses": ["Acts.8.14-Acts.8.17", "Eph.5.32", "Jas.5.14-Jas.5.16"],
+      "key_verses": ["Acts.8.14-17", "Eph.5.32", "Jas.5.14-16"],
       "additional_verses": null,
       "other_subjects": [
         "2DuQDz6JY7S",
         "p-6QDz6JY7S",
-        "The Number of Sacraments",
-        "The Nature of Sacraments"
+        "tO6QDzjJY7S",
+        "AO6QDzr6JYS"
       ],
       "recommended_resources": [
         "Catechism of Catholic Church, section no. 1210–1211, 1285–1666",
@@ -9190,21 +9186,21 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.19.1-Matt.19.21",
-        "Eph.5.22-Eph.5.33",
-        "Mal.2.10-Mal.2.16",
-        "Gen.2.18-Gen.2.25",
-        "1Pet.3.1-1Pet.3.22",
-        "Col.3.18-Col.3.21"
+        "Matt.19.1-21",
+        "Eph.5.22-33",
+        "Mal.2.10-16",
+        "Gen.2.18-25",
+        "1Pet.3.1-22",
+        "Col.3.18-21"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Church and Society",
+        "Ce6QDzjJY7S",
         "kFECzrjJYSx",
         "YrXAvDr6YS1",
         "brT7DzrJYS1",
         "bJXDzrjz6iJ",
-        "Human Sexuality",
+        "v4bADzjJYiJ",
         "l0mIDzrJYiJ"
       ],
       "recommended_resources": [
@@ -9218,7 +9214,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "wO6QDzr6JYi",
     "fields": {
       "title": "Confirmation",
       "title_ar": "التثبيت",
@@ -9236,8 +9232,8 @@
       "other_subjects": [
         "yPnQDzjz6JY",
         "lu-QDzr6JYS",
-        "The Question of Additional Sacraments",
-        "The Nature of Sacraments"
+        "uO6QDzjJY7S",
+        "AO6QDzr6JYS"
       ],
       "recommended_resources": [
         "Confirmation: Sacrament of Grace (Behrens)",
@@ -9247,7 +9243,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "xO6QDzr6JYi",
     "fields": {
       "title": "Ordination",
       "title_ar": "التنسيق",
@@ -9261,24 +9257,24 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Acts.20.28-Acts.20.29",
-        "1Tim.3.1-1Tim.3.10",
-        "Titus.1.5-Titus.1.9",
+        "Acts.20.28-29",
+        "1Tim.3.1-10",
+        "Titus.1.5-9",
         "1Tim.4.14",
-        "1Tim.5.17-1Tim.5.22"
+        "1Tim.5.17-22"
       ],
       "additional_verses": null,
       "other_subjects": [
         "EzTADzjz6JY",
-        "Jesus’ Kingly Office",
+        "0cbQDzjJYiJ",
         "hbTADzjz6Jr",
-        "Jesus’ Priestly Office",
+        "VCTQDzr6JY7",
         "7TzADzrJYSJ",
         "tqYADzrJYSJ",
-        "The Lord’s Supper",
-        "Baptism",
-        "The Number of Sacraments",
-        "Church Polity"
+        "rO6QDzjJYi1",
+        "sO6QDzr6z6J",
+        "tO6QDzjJY7S",
+        "lC6QDzjJY7S"
       ],
       "recommended_resources": [
         "Saint Paul’s Epistle to the Philippians (Lightfoot)",
@@ -9289,7 +9285,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "yO6QDzr6JYi",
     "fields": {
       "title": "Penance",
       "title_ar": "التكفير",
@@ -9303,22 +9299,22 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Ps.32.3-Ps.32.4",
+        "Ps.32.3-4",
         "Ps.51",
-        "Matt.18.15-Matt.18.20",
-        "1John.1-1John.2",
-        "Jas.5.13-Jas.5.15"
+        "Matt.18.15-20",
+        "1John.1-2",
+        "Jas.5.13-15"
       ],
       "additional_verses": null,
       "other_subjects": [
         "p-6QDz6JY7S",
-        "Baptism",
+        "sO6QDzr6z6J",
         "NtcDTbO9eKm",
         "vxJOiVSS11b",
         "wIRi6v3uv7U",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "QbMQDz6JYi1",
-        "Repentance"
+        "FgjQDzr6JYi"
       ],
       "recommended_resources": [
         "Handling Sin: Confession in the Middle Ages (Biller and Minnis, eds.)",
@@ -9329,7 +9325,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "zO6QDzr6JYi",
     "fields": {
       "title": "Extreme Unction",
       "title_ar": "المسحة الأخيرة",
@@ -9342,19 +9338,19 @@
       "main_category": null,
       "other_categories": null,
       "sub_categories": null,
-      "key_verses": ["Mark.6.13", "James.5.13-James.5.15"],
+      "key_verses": ["Mark.6.13", "James.5.13-15"],
       "additional_verses": null,
       "other_subjects": [
         "EzTADzjz6JY",
-        "Jesus’ Priestly Office",
+        "VCTQDzr6JY7",
         "kWv4Drjz6it",
         "wkRvDr4zJxJ",
-        "God’s Preservation of Creation",
+        "UlUPvD3pJ0e",
         "GtXQDrz6z6J",
         "kb7QDzjJY7S",
         "Conversion",
-        "Repentance",
-        "Sin and Death"
+        "FgjQDzr6JYi",
+        "8PzQDrzJYSJ"
       ],
       "recommended_resources": [
         "Demonstrations (Aphrahat). Translated by Kuriakose Valavanolickal. 2 vols.",
@@ -9367,7 +9363,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "AO6QDzr6JYS",
     "fields": {
       "title": "The Nature of Sacraments",
       "title_ar": "طبيعة الطقوس الدينية",
@@ -9381,18 +9377,18 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.26.26-Matt.26.28",
-        "John.6.32-John.6.58",
+        "Matt.26.26-28",
+        "John.6.32-58",
         "Acts.2.38",
-        "Rom.6.3-Rom.6.7",
-        "1Cor.10.16-1Cor.10.17"
+        "Rom.6.3-7",
+        "1Cor.10.16-17"
       ],
       "additional_verses": null,
       "other_subjects": [
         "2DuQDz6JY7S",
         "p-6QDz6JY7S",
-        "The Number of Sacraments",
-        "The Question of Additional Sacraments"
+        "tO6QDzjJY7S",
+        "uO6QDzjJY7S"
       ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. IV. 461–490",
@@ -9417,10 +9413,10 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Rom.10.9-Rom.10.17",
+        "Rom.10.9-17",
         "Col.1.28",
-        "1Tim.3.1-1Tim.3.7",
-        "2Tim.3.16-2Tim.4.2",
+        "1Tim.3.1-7",
+        "2Tim.3.16-2",
         "1Pet.4.11"
       ],
       "additional_verses": null,
@@ -9456,17 +9452,17 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.6.5-Matt.6.15",
-        "Matt.7.7-Matt.7.11",
-        "Luke.11.1-Luke.11.13",
-        "Rom.8.26-Rom.8.27",
-        "Phil.4.6-Phil.4.7",
-        "1Thess.5.17-1Thess.5.18",
-        "1Tim.2.1-1Tim.2.4",
-        "Heb.4.15-Heb.4.16",
-        "Jas.1.5-Jas.1.8",
-        "Jas.5.13-Jas.5.18",
-        "1John.3.19-1John.3.22"
+        "Matt.6.5-15",
+        "Matt.7.7-11",
+        "Luke.11.1-13",
+        "Rom.8.26-27",
+        "Phil.4.6-7",
+        "1Thess.5.17-18",
+        "1Tim.2.1-4",
+        "Heb.4.15-16",
+        "Jas.1.5-8",
+        "Jas.5.13-18",
+        "1John.3.19-22"
       ],
       "additional_verses": null,
       "other_subjects": [
@@ -9474,7 +9470,7 @@
         "2DuQDz6JY7S",
         "ytHX4MFT0jR",
         "yPnQDzjz6JY",
-        "The Means of Sanctification"
+        "JBMQDzr6z6J"
       ],
       "recommended_resources": [
         "The Valley of Vision: A Collection of Puritan Prayers and Devotions (Bennett, ed.)",
@@ -9489,7 +9485,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "CPCQDzjJY7S",
     "fields": {
       "title": "Fellowship in the Life of the Church",
       "title_ar": "الزمالة في حياة الكنيسة",
@@ -9503,11 +9499,11 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Acts.2.42-Acts.2.47",
-        "2Cor.6.14-2Cor.6.17",
+        "Acts.2.42-47",
+        "2Cor.6.14-17",
         "2Cor.13.14",
-        "Phil.1.3-Phil.1.8",
-        "1John.1.3-1John.1.7"
+        "Phil.1.3-8",
+        "1John.1.3-7"
       ],
       "additional_verses": null,
       "other_subjects": [
@@ -9515,7 +9511,7 @@
         "6xDrz6Yr7Di",
         "oCfADrjzJxJ",
         "l0mIDzrJYiJ",
-        "Human Relationality"
+        "i1bQDr6JYSJ"
       ],
       "recommended_resources": [
         "Paul’s Idea of Community (Banks)",
@@ -9526,7 +9522,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "CP6QDr6JYSr",
     "fields": {
       "title": "Worship in the Life of the Church",
       "title_ar": "العبادة في حياة الكنيسة",
@@ -9541,23 +9537,23 @@
       "sub_categories": null,
       "key_verses": [
         "Gen.2.15",
-        "Exod.20.3-Exod.20.8",
-        "Ps.29.1-Ps.29.2",
-        "Matt.26.26-Matt.26.29",
+        "Exod.20.3-8",
+        "Ps.29.1-2",
+        "Matt.26.26-29",
         "Matt.28.19",
-        "1Cor.11.23-1Cor.11.26",
-        "2Cor.9.6-2Cor.9.7",
+        "1Cor.11.23-26",
+        "2Cor.9.6-7",
         "Eph.5.19",
-        "2Tim.4.1-2Tim.4.2"
+        "2Tim.4.1-2"
       ],
       "additional_verses": null,
       "other_subjects": [
         "p-6QDz6JY7S",
-        "The Lord’s Supper",
-        "Baptism",
+        "rO6QDzjJYi1",
+        "sO6QDzr6z6J",
         "CPCQDz6JY7S",
         "CMCQDzr6JYS",
-        "Giving in the Life of the Church"
+        "CQCQDr6z6JY"
       ],
       "recommended_resources": [
         "First Apology (Justin Martyr)",
@@ -9570,7 +9566,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "CQCQDr6z6JY",
     "fields": {
       "title": "Giving in the Life of the Church",
       "title_ar": "العطاء في حياة الكنيسة",
@@ -9584,18 +9580,14 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.6.25-Matt.6.33",
-        "Rom.15.22-Rom.15.33",
-        "2Cor.8-2Cor.9",
-        "Phil.4.10-Phil.4.20",
-        "1Tim.6.6-1Tim.6.19"
+        "Matt.6.25-33",
+        "Rom.15.22-33",
+        "2Cor.8-9",
+        "Phil.4.10-20",
+        "1Tim.6.6-19"
       ],
       "additional_verses": null,
-      "other_subjects": [
-        "gkRRpyiuTzP",
-        "Jesus’ Accomplishment of Salvation",
-        "yPnQDzjz6JY"
-      ],
+      "other_subjects": ["gkRRpyiuTzP", "mCQADz6zJYS", "yPnQDzjz6JY"],
       "recommended_resources": [
         "The Treasure Principle (Alcorn)",
         "Neither Poverty Nor Riches (Blomberg)",
@@ -9605,7 +9597,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "CUCQDz6JY7S",
     "fields": {
       "title": "The Church’s Mission",
       "title_ar": "مهمة الكنيسة",
@@ -9619,19 +9611,19 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.28.19-Matt.28.20",
-        "Acts.1.1-Acts.1.8",
-        "Matt.16.18-Matt.16.19",
-        "John.4.21-John.4.25",
-        "Rom.10.14-Rom.10.17",
-        "Gal.2.1-Gal.2.10"
+        "Matt.28.19-20",
+        "Acts.1.1-8",
+        "Matt.16.18-19",
+        "John.4.21-25",
+        "Rom.10.14-17",
+        "Gal.2.1-10"
       ],
       "additional_verses": null,
-      "other_subjects": ["oCfADrjzJxJ", "l0mIDzrJYiJ", "The Kingdom of God"]
+      "other_subjects": ["oCfADrjzJxJ", "l0mIDzrJYiJ", "xY4jKlN5vxs"]
     }
   },
   {
-    "_id": null,
+    "_id": "Ce6QDzjJY7S",
     "fields": {
       "title": "The Church and Society",
       "title_ar": "الكنيسة والمجتمع",
@@ -9648,15 +9640,15 @@
         "Gen.1.28",
         "Jer.29.7",
         "Rev.21",
-        "Matt.5.13-Matt.5.16",
-        "1Pet.2.11-1Pet.2.12",
+        "Matt.5.13-16",
+        "1Pet.2.11-12",
         "Col.1.18"
       ],
       "additional_verses": [
         "Jer.29.7",
         "Rev.21",
-        "Matt.5.13-Matt.5.16",
-        "1Pet.2.11-1Pet.2.12",
+        "Matt.5.13-16",
+        "1Pet.2.11-12",
         "Col.1.18"
       ],
       "other_subjects": [
@@ -9664,7 +9656,7 @@
         "gkRRpyiuTzP",
         "G2OufWJeVvL",
         "6xDrz6Yr7Di",
-        "The Kingdom of God"
+        "xY4jKlN5vxs"
       ],
       "recommended_resources": [
         "The Church in the World (Webber)",
@@ -9692,20 +9684,20 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.28.18-Matt.28.20",
-        "Mark.16.15-Mark.16.16",
+        "Matt.28.18-20",
+        "Mark.16.15-16",
         "John.20.21",
         "Acts.1.8",
-        "Col.1.28-Col.1.29",
+        "Col.1.28-29",
         "2Tim.2.2"
       ],
-      "additional_verses": ["Rom.10.14-Rom.10.15"],
+      "additional_verses": ["Rom.10.14-15"],
       "other_subjects": [
         "CPCQDz6JY7S",
         "lu-QDzr6JYS",
         "oCfADrjzJxJ",
-        "Saving Faith",
-        "Repentance"
+        "GInQDzr6z6J",
+        "FgjQDzr6JYi"
       ],
       "recommended_resources": [
         "Mission in the Early Church: Themes and Reflections (Smither)",
@@ -9718,9 +9710,9 @@
     }
   },
   {
-    "_id": null,
+    "_id": "Cm6QDzr6z6J",
     "fields": {
-      "title": "Cm6QDzr6z6J",
+      "title": "The Church’s Work of Evangelism and Discipleship",
       "title_ar": "عمل الكنيسة في الإنجيل والتلمذة",
       "alternative_title": "The Church’s Mission: Proclaiming the Gospel and Making Disciples",
       "alternative_title_ar": "مهمة الكنيسة: نشر الإنجيل وتلميذ الناس",
@@ -9732,20 +9724,20 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.28.18-Matt.28.20",
-        "Mark.16.15-Mark.16.16",
+        "Matt.28.18-20",
+        "Mark.16.15-16",
         "John.20.21",
         "Acts.1.8",
-        "Col.1.28-Col.1.29",
+        "Col.1.28-29",
         "2Tim.2.2"
       ],
-      "additional_verses": ["Rom.10.14-Rom.10.15"],
+      "additional_verses": ["Rom.10.14-15"],
       "other_subjects": [
         "CPCQDz6JY7S",
         "lu-QDzr6JYS",
         "oCfADrjzJxJ",
-        "Saving Faith",
-        "Repentance"
+        "GInQDzr6z6J",
+        "FgjQDzr6JYi"
       ],
       "recommended_resources": [
         "Mission in the Early Church: Themes and Reflections (Smither)",
@@ -9774,12 +9766,12 @@
       "key_verses": [
         "Lev.25",
         "Mic.6.8",
-        "Matt.25.31-Matt.25.40",
-        "Luke.4.14-Luke.4.30",
-        "Luke.19.8-Luke.19.10",
+        "Matt.25.31-40",
+        "Luke.4.14-30",
+        "Luke.19.8-10",
         "John.20.21",
         "James.1.27",
-        "James.2.14-James.2.17"
+        "James.2.14-17"
       ],
       "additional_verses": null,
       "other_subjects": [
@@ -9788,7 +9780,7 @@
         "sWiCzvq0zY1",
         "gkRRpyiuTzP",
         "6xDrz6Yr7Di",
-        "The Kingdom of God"
+        "xY4jKlN5vxs"
       ],
       "recommended_resources": [
         "“Social Justice” (Reuschling) in Dictionary of Christian Spirituality",
@@ -9800,7 +9792,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "tYZjKlN5vxs",
     "fields": {
       "title": "The Doctrine of the Last Things",
       "title_ar": "عقيدة الأمور الأخيرة",
@@ -9814,16 +9806,16 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Titus.2.11-Titus.2.14",
+        "Titus.2.11-14",
         "Rev.22.13",
-        "1Cor.15.50-1Cor.15.55",
-        "1Thess.4.13-1Thess.4.18"
+        "1Cor.15.50-55",
+        "1Thess.4.13-18"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Kingdom of God",
-        "Life after Death",
-        "Jesus’ Second Coming",
+        "xY4jKlN5vxs",
+        "7ZGjKlN5vxx",
+        "EZGjKlNwvxr",
         "JZGjKlN5vxs"
       ],
       "recommended_resources": [
@@ -9834,7 +9826,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "xY4jKlN5vxs",
     "fields": {
       "title": "The Kingdom of God",
       "title_ar": "ملكوت الله",
@@ -9848,28 +9840,28 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.2.2-Matt.2.6",
+        "Matt.2.2-6",
         "Matt.6.10",
-        "Matt.13.24-Matt.13.52",
+        "Matt.13.24-52",
         "Matt.16.19",
-        "Matt.18.1-Matt.18.4",
-        "Matt.20.1-Matt.20.16",
-        "Matt.25.1-Matt.25.13",
-        "Luke.12.29-Luke.12.34",
-        "Luke.14.15-Luke.14.24",
-        "Luke.17.20-Luke.17.37",
-        "Isa.9.6-Isa.9.7",
-        "Jer.23.5-Jer.23.6"
+        "Matt.18.1-4",
+        "Matt.20.1-16",
+        "Matt.25.1-13",
+        "Luke.12.29-34",
+        "Luke.14.15-24",
+        "Luke.17.20-37",
+        "Isa.9.6-7",
+        "Jer.23.5-6"
       ],
       "additional_verses": [
-        "Matt.3.1-Matt.3.2",
+        "Matt.3.1-2",
         "Matt.4.23",
-        "Mark.1.14-Mark.1.15",
+        "Mark.1.14-15",
         "Luke.11.20",
         "Luke.16.16",
         "Luke.22.16",
         "Luke.22.18",
-        "Luke.22.29-Luke.22.30",
+        "Luke.22.29-30",
         "Acts.20.25",
         "Acts.28.23",
         "Acts.28.31",
@@ -9879,11 +9871,11 @@
       "other_subjects": [
         "l0mIDzrJYiJ",
         "oCfADrjzJxJ",
-        "Jesus’ Suffering",
+        "G4TQDr6JY7r",
         "u7zQDz6z6Jr",
         "JZGjKlN5vxs",
-        "Jesus’ Kingly Office",
-        "The Church’s Mission"
+        "0cbQDzjJYiJ",
+        "CUCQDz6JY7S"
       ],
       "recommended_resources": [
         "The Theology of the Book of Revelation (Bauckham)",
@@ -9896,7 +9888,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "0ZGjKlNwvxr",
     "fields": {
       "title": "The Already and the Not Yet",
       "title_ar": "الموجود بالفعل والما زال ليس بعد",
@@ -9910,25 +9902,25 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Mark.1.14-Mark.1.15",
-        "Matt.12.22-Matt.12.29",
-        "Luke.10.17-Luke.10.20",
-        "Matt.6.9-Matt.6.10",
+        "Mark.1.14-15",
+        "Matt.12.22-29",
+        "Luke.10.17-20",
+        "Matt.6.9-10",
         "Matt.24.14",
-        "Matt.25.31-Matt.25.33",
-        "Luke.8.4-Luke.8.8",
-        "Mark.4.26-Mark.4.32",
-        "Matt.13.24-Matt.13.30",
-        "Matt.13.47-Matt.13.50",
-        "John.3.3-John.3.8",
+        "Matt.25.31-33",
+        "Luke.8.4-8",
+        "Mark.4.26-32",
+        "Matt.13.24-30",
+        "Matt.13.47-50",
+        "John.3.3-8",
         "John.3.19",
         "John.5.24"
       ],
       "additional_verses": [
-        "Luke.17.20-Luke.17.21",
-        "Luke.19.11-Luke.19.27",
+        "Luke.17.20-21",
+        "Luke.19.11-27",
         "John.18.36",
-        "Heb.2.8-Heb.2.9",
+        "Heb.2.8-9",
         "Eph.2.6",
         "Matt.3.2",
         "Matt.4.17",
@@ -9940,18 +9932,18 @@
         "Luke.16.16",
         "Luke.22.16",
         "Luke.22.18",
-        "Luke.22.29-Luke.22.30",
+        "Luke.22.29-30",
         "Rom.8.23",
         "Rom.8.30",
         "2Cor.5.17",
         "1John.3.2"
       ],
       "other_subjects": [
-        "The Kingdom of God",
-        "The Millennium",
+        "xY4jKlN5vxs",
+        "2ZGjKlNwvxx",
         "5ZGjKlNwvxy",
-        "The Church’s Mission",
-        "Jesus’ Kingly Office"
+        "CUCQDz6JY7S",
+        "0cbQDzjJYiJ"
       ],
       "recommended_resources": [
         "The Mystery of the Kingdom of God (Schweitzer)",
@@ -9963,7 +9955,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "2ZGjKlNwvxx",
     "fields": {
       "title": "The Millennium",
       "title_ar": "الألفيّة",
@@ -9977,23 +9969,19 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Rev.20.1-Rev.20.10",
-        "Isa.2.1-Isa.2.5",
-        "Isa.11.1-Isa.11.10",
-        "Isa.65.17-Isa.65.25",
-        "Dan.2.34-Dan.2.35",
-        "Dan.2.44-Dan.2.45",
-        "Dan.7.13-Dan.7.14",
+        "Rev.20.1-10",
+        "Isa.2.1-5",
+        "Isa.11.1-10",
+        "Isa.65.17-25",
+        "Dan.2.34-35",
+        "Dan.2.44-45",
+        "Dan.7.13-14",
         "Dan.7.27",
-        "1Cor.15.22-1Cor.15.25",
-        "Rev.2.26-Rev.2.29"
+        "1Cor.15.22-25",
+        "Rev.2.26-29"
       ],
-      "additional_verses": ["Rev.21.1-Rev.21.5"],
-      "other_subjects": [
-        "The Kingdom of God",
-        "The Already and the Not Yet",
-        "5ZGjKlNwvxy"
-      ],
+      "additional_verses": ["Rev.21.1-5"],
+      "other_subjects": ["xY4jKlN5vxs", "0ZGjKlNwvxr", "5ZGjKlNwvxy"],
       "recommended_resources": [
         "A Basic Guide to Eschatology (Erickson)",
         "The Millennial Maze (Grenz)",
@@ -10018,15 +10006,20 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Isa.11.6-Isa.11.8",
+        "Isa.11.6-8",
         "Isa.65.20",
         "Isa.66.22",
-        "2Pet.2.12-2Pet.2.13",
+        "2Pet.2.12-13",
         "Rev.21.1",
         "Rev.21.4"
       ],
       "additional_verses": null,
-      "other_subjects": ["8ZGjKlNwvxs", "Hell", "Purgatory", "JZGjKlN5vxs"],
+      "other_subjects": [
+        "8ZGjKlNwvxs",
+        "9ZGjKlNwvxs",
+        "CZGjKlNwvxs",
+        "JZGjKlN5vxs"
+      ],
       "recommended_resources": [
         "Reformed Dogmatics (Bavinck), Vol. IV, 715–730",
         "Systematic Theology (Berkhof), 736–738",
@@ -10037,7 +10030,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "7ZGjKlN5vxx",
     "fields": {
       "title": "Life after Death",
       "title_ar": "الحياة بعد الموت",
@@ -10051,22 +10044,22 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "1Cor.15.35-1Cor.15.58",
-        "Phil.1.21-Phil.1.23",
-        "Rev.7.1-Rev.7.17",
-        "Heb.11.39-Heb.11.40",
-        "Rom.6.5-Rom.6.14"
+        "1Cor.15.35-58",
+        "Phil.1.21-23",
+        "Rev.7.1-17",
+        "Heb.11.39-40",
+        "Rom.6.5-14"
       ],
       "additional_verses": null,
       "other_subjects": [
         "8ZGjKlNwvxs",
         "oCfADrjzJxJ",
-        "The Kingdom of God",
+        "xY4jKlN5vxs",
         "JZGjKlN5vxs",
-        "Jesus’ Resurrection",
-        "The Final State of the Righteous",
-        "Sin and Death",
-        "Immortality of the Soul"
+        "O5XADrjJYiJ",
+        "KZGjKlN5vxs",
+        "8PzQDrzJYSJ",
+        "mjzQDr6zJYS"
       ],
       "recommended_resources": [
         "And the Life Everlasting (Baillie)",
@@ -10100,12 +10093,12 @@
         "Phil.3.20",
         "Heb.4.1",
         "2Tim.2.12",
-        "Rev.21.1-Rev.21.3"
+        "Rev.21.1-3"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Kingdom of God",
-        "Hell",
+        "xY4jKlN5vxs",
+        "9ZGjKlNwvxs",
         "5ZGjKlNwvxy",
         "MZGjKlNwvxr"
       ],
@@ -10130,7 +10123,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "9ZGjKlNwvxs",
     "fields": {
       "title": "Hell",
       "title_ar": "الجحيم",
@@ -10150,17 +10143,17 @@
         "Matt.25.46",
         "Mark.9.43",
         "Jude.1.7",
-        "Rev.20.7-Rev.20.15"
+        "Rev.20.7-15"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Duration of the Punishment of the Wicked",
+        "PZGjKlNwvxr",
         "8ZGjKlNwvxs",
-        "The Nature of the Punishment of the Wicked",
-        "Purgatory",
+        "OZGjKlNwvxr",
+        "CZGjKlNwvxs",
         "JZGjKlN5vxs",
         "5ZGjKlNwvxy",
-        "Jesus’ Descent into Hell",
+        "Y8bQDz6JY7S",
         "mqJWDr4GYSJ",
         "hlYJDzrJYSJ",
         "i0p7Dzr6nA0"
@@ -10175,7 +10168,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "AZGjKlN5vxs",
     "fields": {
       "title": "The Fate of the Unevangelized",
       "title_ar": "مصير غير المبشرين",
@@ -10189,22 +10182,22 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Luke.13.23-Luke.13.30",
+        "Luke.13.23-30",
         "John.14.6",
         "Acts.4.12",
-        "Rom.1.18-Rom.1.32",
-        "Rom.2.12-Rom.2.16",
+        "Rom.1.18-32",
+        "Rom.2.12-16",
         "Heb.11.6"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Life after Death",
+        "7ZGjKlN5vxx",
         "JZGjKlN5vxs",
         "8ZGjKlNwvxs",
-        "Hell",
-        "The Extent of the Atonement",
+        "9ZGjKlNwvxs",
+        "4czQDzjz6Yr",
         "AbIADr6JYSJ",
-        "Actual Sin",
+        "htIQDzrJYiJ",
         "Cm6QDzr6z6J",
         "gyMSz6J98Kb",
         "Pls9fJRO33G",
@@ -10222,7 +10215,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "CZGjKlNwvxs",
     "fields": {
       "title": "Purgatory",
       "title_ar": "العذاب التطهيري",
@@ -10236,17 +10229,17 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Luke.16.19-Luke.16.26",
-        "1Cor.3.11-1Cor.3.15",
+        "Luke.16.19-26",
+        "1Cor.3.11-15",
         "Heb.9.27",
-        "2Macc.12.41-2Macc.12.45"
+        "2Macc.12.41-45"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Duration of the Punishment of the Wicked",
+        "PZGjKlNwvxr",
         "8ZGjKlNwvxs",
         "JZGjKlN5vxs",
-        "Sin and Death",
+        "8PzQDrzJYSJ",
         "jzAQDr6JYSJ",
         "yPnQDzjz6JY"
       ],
@@ -10260,7 +10253,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "EZGjKlNwvxr",
     "fields": {
       "title": "Jesus’ Second Coming",
       "title_ar": "عودة يسوع الثانية",
@@ -10274,36 +10267,36 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.24.36-Matt.25.13",
-        "Mark.13.32-Mark.13.37",
-        "Luke.17.20-Luke.17.37",
+        "Matt.24.36-13",
+        "Mark.13.32-37",
+        "Luke.17.20-37",
         "Acts.1.11",
-        "1Thess.4.13-1Thess.4.18",
-        "1Cor.15.20-1Cor.15.28",
-        "1Cor.15.50-1Cor.15.58",
-        "Matt.24.30-Matt.24.31"
+        "1Thess.4.13-18",
+        "1Cor.15.20-28",
+        "1Cor.15.50-58",
+        "Matt.24.30-31"
       ],
       "additional_verses": [
         "Dan.7.13",
         "Matt.24.44",
         "Mark.8.38",
-        "John.5.28-John.5.29",
+        "John.5.28-29",
         "Col.3.4",
-        "1Thess.5.1-1Thess.5.4",
+        "1Thess.5.1-4",
         "2Thess.1.10",
         "2Tim.4.8",
-        "Heb.9.27-Heb.9.28",
-        "2Pet.3.10-2Pet.3.13",
+        "Heb.9.27-28",
+        "2Pet.3.10-13",
         "Rev.1.7",
         "Rev.22.20"
       ],
       "other_subjects": [
-        "Life after Death",
+        "7ZGjKlN5vxx",
         "JZGjKlN5vxs",
-        "The Kingdom of God",
+        "xY4jKlN5vxs",
         "jz7DrzJYr7Y",
         "u2XADzjz6Jr",
-        "Jesus’ Kingly Office"
+        "0cbQDzjJYiJ"
       ],
       "recommended_resources": [
         "The Return of Christ (Berkouwer)",
@@ -10314,7 +10307,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "FZGjKlNwvxr",
     "fields": {
       "title": "The Rapture",
       "title_ar": "الخروج المفاجئ",
@@ -10330,10 +10323,10 @@
       "key_verses": ["Matt.24", "1Thess.4.17", "Rev.19-Rev.20"],
       "additional_verses": null,
       "other_subjects": [
-        "The Tribulation",
-        "The Millennium",
+        "HZGjKlNwvxr",
+        "2ZGjKlNwvxx",
         "5ZGjKlNwvxy",
-        "The Final State of the Righteous",
+        "KZGjKlN5vxs",
         "2DuQDz6JY7S",
         "8ZGjKlNwvxs"
       ],
@@ -10347,7 +10340,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "HZGjKlNwvxr",
     "fields": {
       "title": "The Tribulation",
       "title_ar": "المحنة",
@@ -10361,31 +10354,31 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Isa.26.20-Isa.26.21",
-        "Isa.28.14-Isa.28.22",
-        "Jer.30.4-Jer.30.7",
-        "Dan.9.24-Dan.9.27",
-        "Dan.11.36-Dan.11.45",
+        "Isa.26.20-21",
+        "Isa.28.14-22",
+        "Jer.30.4-7",
+        "Dan.9.24-27",
+        "Dan.11.36-45",
         "Dan.12.1",
         "Dan.12.11",
-        "Amos.5.18-Amos.5.20",
-        "Zeph.1.14-Zeph.1.18",
+        "Amos.5.18-20",
+        "Zeph.1.14-18",
         "Matt.24.21",
         "1Thess.3.13",
-        "1Thess.5.1-1Thess.5.3",
-        "2Thess.2.3-2Thess.2.12",
+        "1Thess.5.1-3",
+        "2Thess.2.3-12",
         "Rev.3.10",
-        "Rev.6.1-Rev.6.17",
+        "Rev.6.1-17",
         "Rev.7.14",
-        "Rev.8.1-Rev.9.21",
+        "Rev.8.1-21",
         "Rev.12",
-        "Rev.16.1-Rev.16.21"
+        "Rev.16.1-21"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Rapture",
-        "The Millennium",
-        "Jesus’ Second Coming",
+        "FZGjKlNwvxr",
+        "2ZGjKlNwvxx",
+        "EZGjKlNwvxr",
         "2DuQDz6JY7S"
       ],
       "recommended_resources": [
@@ -10451,7 +10444,7 @@
         "o0KdKpgImq0",
         "vxJOiVSS11b",
         "8ZGjKlNwvxs",
-        "Hell"
+        "9ZGjKlNwvxs"
       ],
       "recommended_resources": [
         "The Last Things (Bloesch)",
@@ -10463,7 +10456,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "KZGjKlN5vxs",
     "fields": {
       "title": "The Final State of the Righteous",
       "title_ar": "الحالة النهائية للأبرار",
@@ -10479,21 +10472,21 @@
       "key_verses": [
         "Dan.12.2",
         "Isa.26.19",
-        "John.5.25-John.5.29",
+        "John.5.25-29",
         "1Cor.15",
-        "Acts.24.15-Acts.24.16",
-        "1Thess.4.13-1Thess.4.18",
+        "Acts.24.15-16",
+        "1Thess.4.13-18",
         "2Cor.5.10",
         "Matt.16.27",
         "Rom.14.10"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Jesus’ Second Coming",
-        "Jesus’ Resurrection",
-        "The Millennium",
+        "EZGjKlNwvxr",
+        "O5XADrjJYiJ",
+        "2ZGjKlNwvxx",
         "JZGjKlN5vxs",
-        "Sin and Death"
+        "8PzQDrzJYSJ"
       ],
       "recommended_resources": [
         "Systematic Theology (Berkhof)",
@@ -10506,7 +10499,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "LZGjKlNwvxr",
     "fields": {
       "title": "The Beatific Vision",
       "title_ar": "الرؤية السعيدة",
@@ -10520,19 +10513,19 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Job.19.25-Job.19.27",
+        "Job.19.25-27",
         "Ps.16.11",
         "Matt.5.8",
         "1John.3.2",
-        "1Cor.13.11-1Cor.13.12",
+        "1Cor.13.11-12",
         "2Cor.3.18",
-        "Rev.21.3-Rev.21.4"
+        "Rev.21.3-4"
       ],
       "additional_verses": ["Rev.22.4", "1Tim.6.16", "Heb.12.14"],
       "other_subjects": [
         "8ZGjKlNwvxs",
         "ytHX4MFT0jR",
-        "The Kingdom of God",
+        "xY4jKlN5vxs",
         "xS3bNdC5qLU",
         "YBjQ1XxWq8A"
       ],
@@ -10564,18 +10557,18 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "1Cor.15.42-1Cor.15.58",
-        "Phil.3.20-Phil.3.21",
+        "1Cor.15.42-58",
+        "Phil.3.20-21",
         "Rom.6.9",
-        "Rev.21.1-Rev.21.4",
-        "Matt.17.2-Matt.17.3"
+        "Rev.21.1-4",
+        "Matt.17.2-3"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "Jesus’ Second Coming",
+        "EZGjKlNwvxr",
         "Z5r7Drz6YS1",
         "8ZGjKlNwvxs",
-        "Jesus’ Resurrection"
+        "O5XADrjJYiJ"
       ],
       "recommended_resources": [
         "Systematic Theology (Garrett), Vol. II, 759–760",
@@ -10600,18 +10593,14 @@
       "other_categories": null,
       "sub_categories": null,
       "key_verses": [
-        "Matt.11.20-Matt.11.24",
-        "Luke.12.42-Luke.12.48",
-        "Rom.2.5-Rom.2.16",
-        "2Thess.1.5-2Thess.1.10",
-        "Rev.20.10-Rev.20.15"
+        "Matt.11.20-24",
+        "Luke.12.42-48",
+        "Rom.2.5-16",
+        "2Thess.1.5-10",
+        "Rev.20.10-15"
       ],
       "additional_verses": null,
-      "other_subjects": [
-        "Hell",
-        "JZGjKlN5vxs",
-        "The Doctrine of the Last Things"
-      ],
+      "other_subjects": ["9ZGjKlNwvxs", "JZGjKlN5vxs", "tYZjKlN5vxs"],
       "recommended_resources": [
         "Sinners in the Hands of an Angry God (Edwards)",
         "Jonathan Edwards and Hell (Morgan)",
@@ -10624,7 +10613,7 @@
     }
   },
   {
-    "_id": null,
+    "_id": "OZGjKlNwvxr",
     "fields": {
       "title": "The Nature of the Punishment of the Wicked",
       "title_ar": "طبيعة عقاب الأشرار",
@@ -10642,14 +10631,14 @@
         "Dan.12.2",
         "Matt.13.50",
         "Matt.25.46",
-        "Rev.20.7-Rev.20.15"
+        "Rev.20.7-15"
       ],
       "additional_verses": null,
       "other_subjects": [
-        "The Duration of the Punishment of the Wicked",
-        "Hell",
+        "PZGjKlNwvxr",
+        "9ZGjKlNwvxs",
         "8ZGjKlNwvxs",
-        "Purgatory",
+        "CZGjKlNwvxs",
         "JZGjKlN5vxs",
         "jzAQDr6JYSJ"
       ],
@@ -10659,6 +10648,43 @@
         "Systematic Theology (Hodge), Vol. III, 878–880",
         "The Christian Faith (Horton), 974–984",
         "Christian Dogmatics (Pieper), Vol. III, 544–549"
+      ]
+    }
+  },
+  {
+    "_id": "PZGjKlNwvxr",
+    "fields": {
+      "title": "The Duration of the Punishment of the Wicked",
+      "title_ar": "مدة عقاب الأشرار",
+      "alternative_title": "The Eternity of Damnation",
+      "alternative_title_ar": "أبدية العقاب",
+      "description": "The duration of the punishment of the wicked refers to the period of time that the damned will suffer after the last judgment. There has been a general consensus in the history of the Christian church regarding the eternity of damnation. However, alternative views have been proposed, including the idea that hell is not eternal but a state of separation from God that can eventually lead to reconciliation, or the belief in annihilationism, where the damned are annihilated at the last judgment. Various passages in the Bible address the subject, and different theological resources provide insights into this topic.",
+      "description_ar": "مدة عقاب الأشرار تشير إلى الفترة الزمنية التي ستعاني فيها الأرواح الملعونة بعد الحكم الأخير. هناك توافقًا عامًا في تاريخ الكنيسة المسيحية بشأن أبدية العقاب. ومع ذلك، تمت اقتراح وجهات نظر بديلة، بما في ذلك فكرة أن الجحيم ليس أبديًا ولكنه حالة من الفصل عن الله يمكن أن تؤدي في نهاية المطاف إلى المصالحة، أو الاعتقاد بالانقراضية، حيث يتم إبادة الملعونين في الحكم الأخير. تتناول آيات مختلفة في الكتاب المقدس هذا الموضوع، وتقدم المصادر اللاهوتية المختلفة رؤى حول هذا الموضوع.",
+      "short_description": "The duration of the punishment of the wicked refers to the period of time that the damned will suffer after the last judgment. Various theological views exist regarding the eternity of damnation, including the idea of eventual reconciliation or annihilationism. The Bible and theological resources provide insights into this topic.",
+      "short_description_ar": "مدة عقاب الأشرار تشير إلى الفترة الزمنية التي ستعاني فيها الأرواح الملعونة بعد الحكم الأخير. توجد آراء لاهوتية مختلفة بشأن أبدية العقاب، بما في ذلك فكرة التصالح في نهاية المطاف أو الانقراضية. الكتاب المقدس والمصادر اللاهوتية تقدم رؤى حول هذا الموضوع.",
+      "main_category": null,
+      "other_categories": null,
+      "sub_categories": null,
+      "key_verses": [
+        "Isa.66.24",
+        "Dan.12.2",
+        "Matt.13.50",
+        "Matt.25.46",
+        "Rev.20.7-15"
+      ],
+      "additional_verses": null,
+      "other_subjects": [
+        "CZGjKlNwvxs",
+        "JZGjKlN5vxs",
+        "8ZGjKlNwvxs",
+        "9ZGjKlNwvxs"
+      ],
+      "recommended_resources": [
+        "Reformed Dogmatics (Bavinck), Vol. IV, 628–632",
+        "Systematic Theology (Berkhof), 735–736",
+        "Systematic Theology (Hodge), Vol. III, 878–880",
+        "Christian Dogmatics (Pieper), Vol. III, 544–549",
+        "The Great Divorce (Lewis), x"
       ]
     }
   }
