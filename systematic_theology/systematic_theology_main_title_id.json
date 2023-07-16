@@ -7,7 +7,7 @@
         {
           "_id": "KUnIJzadbtA",
           "title": "God’s Existence",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "V8Wb98mZLO6", "title": "Proofs of God’s Existence" },
             { "_id": "pdwJXdtqVLf", "title": "God’s Incomprehensibility" },
             { "_id": "ytHX4MFT0jR", "title": "God’s Knowability" }
@@ -16,7 +16,7 @@
         {
           "_id": "FvOuQv6Yhw2",
           "title": "The Divine Names",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "R27QeD1r7Is", "title": "God’s Personal Name" },
             { "_id": "mg2m9vP0qlB", "title": "God’s Titles" },
             { "_id": "XDL4bBQ9yly", "title": "God’s Metaphorical Names" }
@@ -25,11 +25,11 @@
         {
           "_id": "qu7hCQFRRmL",
           "title": "God’s Attributes",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "T6CVa5ZZYAv",
               "title": "Attributes Describing God in Himself",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "jeAZwIqjRQF", "title": "God’s Self-Existence" },
                 { "_id": "PlZL7WtRLTx", "title": "God’s Unity" },
                 { "_id": "YBjQ1XxWq8A", "title": "God’s Spirituality" },
@@ -46,7 +46,7 @@
             {
               "_id": "NtcDTbO9eKm",
               "title": "Attributes Describing God in His Activity toward Creatures",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "NTu8v1UeVwd", "title": "God’s Goodness" },
                 { "_id": "H2yHdQMRjBQ", "title": "God’s Love" },
                 { "_id": "wIRi6v3uv7U", "title": "God’s Mercy" },
@@ -63,12 +63,12 @@
         {
           "_id": "LMQGcXgg9PB",
           "title": "The Trinity",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "dbSRMzOlI0g", "title": "The Unity of the Trinity" },
             {
               "_id": "K1vOKRbDLHH",
               "title": "Plurality",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "sRr56tl2ZJl", "title": "God the Father" },
                 { "_id": "hDzPeuzgd6Y", "title": "God the Son" },
                 { "_id": "G2OufWJeVvL", "title": "God the Holy Spirit" }
@@ -77,7 +77,7 @@
             {
               "_id": "vQc88x5jgWy",
               "title": "The Trinity and Scripture",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 {
                   "_id": "MOP9o0wd5QX",
                   "title": "The Trinity in the Old Testament"
@@ -97,12 +97,12 @@
         {
           "_id": "GmC7JjW8uZV",
           "title": "The Divine Decrees",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "DyHxRYkbPRx", "title": "God’s Foreknowledge" },
             {
               "_id": "Pls9fJRO33G",
               "title": "Predestination",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "o0KdKpgImq0", "title": "Election" },
                 { "_id": "vIQ51S07Y4K", "title": "Reprobation" }
               ]
@@ -120,7 +120,7 @@
         {
           "_id": "gyMSz6J98Kb",
           "title": "General Revelation",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "c3HzyGpSDxH", "title": "General Revelation in Creation" },
             {
               "_id": "H18PzbwhYO1",
@@ -131,11 +131,11 @@
         {
           "_id": "vIwMzTdPLbk",
           "title": "Special Revelation",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "4IK1uqfrIzd",
               "title": "Non-Written Special Revelation",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 {
                   "_id": "M2TBMajWxLg",
                   "title": "Special Revelation and Tradition"
@@ -161,7 +161,7 @@
             {
               "_id": "GqUTTqbZIAJ",
               "title": "The Bible",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "IeDfZ62zHVN", "title": "The Canon" },
                 { "_id": "ZNLK4Eo7mS1", "title": "The Bible’s Inspiration" },
                 { "_id": "BuoO1kLPNoy", "title": "The Bible’s Authority" },
@@ -187,12 +187,12 @@
         {
           "_id": "sWiCzvq0zY1",
           "title": "Creation",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "vEKYDzj0Jng", "title": "Creation ex nihilo" },
             {
               "_id": "mqJWDr4GYSJ",
               "title": "The Spiritual World",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "6YUxD3pJYiJ", "title": "Angels" },
                 { "_id": "hlYJDzrJYSJ", "title": "Satan" },
                 { "_id": "i0p7Dzr6nA0", "title": "Demons" }
@@ -204,7 +204,7 @@
         {
           "_id": "kWv4Drjz6it",
           "title": "Providence",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "wkRvDr4zJxJ", "title": "Providence and Miracles" },
             { "_id": "0lTQvDrJYS1", "title": "Providence and Concursus" },
             { "_id": "UlUPvD3pJ0e", "title": "God’s Preservation of Creation" },
@@ -214,15 +214,15 @@
         {
           "_id": "l0mIDzrJYiJ",
           "title": "Covenants",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "YrXAvDr6YS1",
               "title": "The Covenant of Creation",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 {
                   "_id": "Xh0AvDrJYS1",
                   "title": "God’s Law",
-                  "sub_sub_sub_sub_cat": [
+                  "sub_cat": [
                     { "_id": "6LLQvDrJYSJ", "title": "Natural Law" },
                     { "_id": "VlmIDzrJYiJ", "title": "The Moral Law" }
                   ]
@@ -232,7 +232,7 @@
             {
               "_id": "XpYKDrjJYSx",
               "title": "The Covenants of Grace",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "pymQvDrJYS1", "title": "The Covenants of Grace" },
                 { "_id": "lDUPDrjJYS1", "title": "The Noahic Covenant" },
                 { "_id": "sAvQDrzJYS1", "title": "The Abrahamic Covenant" },
@@ -241,7 +241,7 @@
                 {
                   "_id": "y8gKDr6JYiJ",
                   "title": "The New Covenant",
-                  "sub_sub_sub_sub_cat": [
+                  "sub_cat": [
                     {
                       "_id": "7TzADzrJYSJ",
                       "title": "The Three Uses of the Law"
@@ -273,7 +273,7 @@
         {
           "_id": "brT7DzrJYS1",
           "title": "The Image of God",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "w5TQDrjz6YS",
               "title": "Humanity’s Dominion over the Earth"
@@ -283,7 +283,7 @@
             {
               "_id": "i1bQDr6JYSJ",
               "title": "Human Relationality",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "QXz7DzrJYS1", "title": "Race" },
                 { "_id": "v4bADzjJYiJ", "title": "Human Sexuality" }
               ]
@@ -293,11 +293,11 @@
         {
           "_id": "bJXDzrjz6iJ",
           "title": "Human Nature",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "Yf7QDzjJYiJ",
               "title": "The Human Constitution",
-              "sub_sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "u48QDzjz6iJ", "title": "The Origin of the Soul" },
                 { "_id": "mjzQDr6zJYS", "title": "Immortality of the Soul" }
               ]
@@ -305,7 +305,7 @@
             {
               "_id": "wfzQDrzJYS1",
               "title": "Human Capacities",
-              "sub_sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "D0AQDrjz6YS", "title": "Human Reason" },
                 { "_id": "anTQDzrJYS1", "title": "Human Emotions" },
                 { "_id": "VYr7DrzJYS1", "title": "Human Will" }
@@ -316,13 +316,13 @@
         {
           "_id": "oCfADrjzJxJ",
           "title": "Humanity’s Fall into Sin",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "J3rADzrJYS1", "title": "The Historical Adam" },
             { "_id": "EiYADzjJYiJ", "title": "The Problem of Evil" },
             {
               "_id": "AbIADr6JYSJ",
               "title": "Original Sin",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 {
                   "_id": "vOvADzrJYS1",
                   "title": "The Character of the Fall of Adam"
@@ -340,7 +340,7 @@
             {
               "_id": "htIQDzrJYiJ",
               "title": "Actual Sin",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "3b4QDzjJYiJ", "title": "Personal Sin" },
                 { "_id": "OoYADzr6zJY", "title": "Structural Human Sin" }
               ]
@@ -349,7 +349,7 @@
             {
               "_id": "jzAQDr6JYSJ",
               "title": "Punishment for Sin",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "8PzQDrzJYSJ", "title": "Sin and Death" }
               ]
             }
@@ -366,11 +366,11 @@
         {
           "_id": "jz7DrzJYr7Y",
           "title": "The Person of Jesus",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "zjDrz6JrT7D",
               "title": "Jesus’ Names",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "YZDrzJY7rTD", "title": "Jesus’ Personal Names" },
                 { "_id": "Tz7DzrJYr7D", "title": "Jesus’ Titles" },
                 { "_id": "TrTQDzrJYSJ", "title": "Jesus’ Metaphorical Names" }
@@ -379,7 +379,7 @@
             {
               "_id": "6zrADzrJY7r",
               "title": "The Unity of Jesus’ Person",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "Ocr7Drz6JYS", "title": "Jesus’ Divinity" },
                 { "_id": "i0b7DrjJY7r", "title": "Jesus’ Humanity" }
               ]
@@ -389,7 +389,7 @@
         {
           "_id": "EzTADzjz6JY",
           "title": "Jesus As Mediator",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "TITADzr6JYS", "title": "Jesus As Second Adam" },
             { "_id": "hbTADzjz6Jr", "title": "Jesus’ Prophetic Office" },
             { "_id": "VCTQDzr6JY7", "title": "Jesus’ Priestly Office" },
@@ -400,15 +400,15 @@
         {
           "_id": "mCQADz6zJYS",
           "title": "Jesus’ Accomplishment of Salvation",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "eS7QDzjJY7r",
               "title": "Jesus’ Humiliation",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 {
                   "_id": "x4zQDrjJY7S",
                   "title": "Jesus’ Incarnation",
-                  "sub_sub_sub_sub_cat": [
+                  "sub_cat": [
                     { "_id": "6BzADrjz6YS", "title": "Jesus’ Impeccability" },
                     { "_id": "2SbADr6z6JY", "title": "Jesus’ Kenosis" },
                     { "_id": "WSXQDzjzJY7", "title": "Jesus’ Virgin Birth" },
@@ -419,7 +419,7 @@
                 {
                   "_id": "2qXQDrjz6JY",
                   "title": "Jesus’ Death",
-                  "sub_sub_sub_sub_cat": [
+                  "sub_cat": [
                     {
                       "_id": "G4TQDr6JY7r",
                       "title": "Jesus’ Suffering",
@@ -442,7 +442,7 @@
             {
               "_id": "u2XADzjz6Jr",
               "title": "Jesus’ Exaltation",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "O5XADrjJYiJ", "title": "Jesus’ Resurrection" },
                 { "_id": "i1zADrjz6JY", "title": "Jesus’ Ascension" },
                 {
@@ -465,7 +465,7 @@
         {
           "_id": "GtXQDrz6z6J",
           "title": "The Mission of the Spirit",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "iM3QDz6JYSr", "title": "The Spirit and Common Grace" },
             { "_id": "kb7QDzjJY7S", "title": "The Spirit and Special Grace" }
           ]
@@ -473,11 +473,11 @@
         {
           "_id": "QbMQDz6JYi1",
           "title": "The Spirit’s Application of Salvation",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "V9MQDzjJYS1",
               "title": "Calling",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "E8nQDzjz6Yi", "title": "General Calling" },
                 { "_id": "vLTQDzr6JYS", "title": "Effectual Calling" }
               ]
@@ -486,7 +486,7 @@
             {
               "_id": "WUjQDz6JYiS",
               "title": "Conversion",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "GInQDzr6z6J", "title": "Saving Faith" },
                 { "_id": "FgjQDzr6JYi", "title": "Repentance" }
               ]
@@ -495,7 +495,7 @@
             {
               "_id": "i1TQDzr6JYS",
               "title": "Justification",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 {
                   "_id": "w5nADz6z6JY",
                   "title": "The Nature of Justification"
@@ -507,7 +507,7 @@
             {
               "_id": "yPnQDzjz6JY",
               "title": "Sanctification",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 {
                   "_id": "JBMQDzr6z6J",
                   "title": "The Means of Sanctification"
@@ -522,7 +522,7 @@
             {
               "_id": "P2LADzr6z6J",
               "title": "The Baptism of the Holy Spirit",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "O2XADzr6JYS", "title": "The Spirit’s Indwelling" }
               ]
             }
@@ -539,7 +539,7 @@
         {
           "_id": "AnuQDz6JYSr",
           "title": "The Attributes of the Church",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "bh2QDzr6JYS", "title": "The Church’s Unity" },
             { "_id": "bn6QDr6JYSr", "title": "The Church’s Holiness" },
             { "_id": "ci2QDzr6JYS", "title": "The Church As Universal" },
@@ -553,21 +553,21 @@
         {
           "_id": "kCuQDz6JY7S",
           "title": "The Church’s Institutional Life",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "lC6QDzjJY7S", "title": "Church Polity" },
             { "_id": "lu-QDzr6JYS", "title": "Spiritual Gifts in the Church" },
             { "_id": "mO6QDzjz6JY", "title": "Church Discipline" },
             {
               "_id": "p-6QDz6JY7S",
               "title": "The Church’s Sacraments",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "rO6QDzjJYi1", "title": "The Lord’s Supper" },
                 { "_id": "sO6QDzr6z6J", "title": "Baptism" },
                 { "_id": "tO6QDzjJY7S", "title": "The Number of Sacraments" },
                 {
                   "_id": "uO6QDzjJY7S",
                   "title": "The Question of Additional Sacraments",
-                  "sub_sub_sub_sub_cat": [
+                  "sub_cat": [
                     { "_id": "vO6QDzr6JYi", "title": "Marriage" },
                     { "_id": "wO6QDzr6JYi", "title": "Confirmation" },
                     { "_id": "xO6QDzr6JYi", "title": "Ordination" },
@@ -603,7 +603,7 @@
         {
           "_id": "CUCQDz6JY7S",
           "title": "The Church’s Mission",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "Ce6QDzjJY7S", "title": "The Church and Society" },
             {
               "_id": "Cm6QDzr6z6J",
@@ -626,7 +626,7 @@
         {
           "_id": "xY4jKlN5vxs",
           "title": "The Kingdom of God",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "0ZGjKlNwvxr", "title": "The Already and the Not Yet" },
             { "_id": "2ZGjKlNwvxx", "title": "The Millennium" },
             { "_id": "5ZGjKlNwvxy", "title": "The New Heavens and Earth" }
@@ -635,7 +635,7 @@
         {
           "_id": "7ZGjKlN5vxx",
           "title": "Life after Death",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "8ZGjKlNwvxs", "title": "Heaven" },
             { "_id": "9ZGjKlNwvxs", "title": "Hell" },
             { "_id": "AZGjKlN5vxs", "title": "The Fate of the Unevangelized" },
@@ -645,7 +645,7 @@
         {
           "_id": "EZGjKlNwvxr",
           "title": "Jesus’ Second Coming",
-          "sub_sub_cat": [
+          "sub_cat": [
             { "_id": "FZGjKlNwvxr", "title": "The Rapture" },
             { "_id": "HZGjKlNwvxr", "title": "The Tribulation" }
           ]
@@ -653,11 +653,11 @@
         {
           "_id": "JZGjKlN5vxs",
           "title": "The Final Judgment",
-          "sub_sub_cat": [
+          "sub_cat": [
             {
               "_id": "KZGjKlN5vxs",
               "title": "The Final State of the Righteous",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 { "_id": "LZGjKlNwvxr", "title": "The Beatific Vision" },
                 { "_id": "MZGjKlNwvxr", "title": "The Glorified Body" }
               ]
@@ -665,7 +665,7 @@
             {
               "_id": "NZGjKlNwvxr",
               "title": "The Judgment of the Wicked",
-              "sub_sub_sub_cat": [
+              "sub_cat": [
                 {
                   "_id": "OZGjKlNwvxr",
                   "title": "The Nature of the Punishment of the Wicked"
